@@ -8,7 +8,9 @@ Nenhuma resposta é coletada ou armazenada: o jogo roda inteiramente no navegado
 
 1. Triagem → 2. Hipóteses iniciais (3, sem pontuação) → 3. Anamnese → 4. Exame físico → 5. Exames laboratoriais → 6. Exames de imagem → 7. Diagnóstico (liberado só após as etapas 3–6) → 8. Conduta → Resultado.
 
-Os achados aparecem ao serem solicitados; a classificação de cada escolha só é revelada na tela final.
+Os achados aparecem ao serem solicitados; a classificação de cada escolha só é revelada na tela final. Nas etapas de exames, o botão "Nenhum exame necessário nesta etapa" permite avançar sem solicitar exames (0 ponto).
+
+Casos disponíveis: 21 (um por capítulo clínico das Seções 2 a 6; Violência sexual excluído por decisão do autor). Os títulos dos casos indicam apenas a queixa, para não revelar o diagnóstico.
 
 ## Pontuação
 
@@ -31,7 +33,7 @@ Os achados aparecem ao serem solicitados; a classificação de cada escolha só 
 |---|---|---|
 | 1 | Graduação | Menos distratores; condutas sem posologia |
 | 2 | Residente R1–R2 | Mais distratores; posologia obrigatória |
-| 3 | R3 / fellow | Cenário distinto (casos clínicos do livro), cronômetro, evolução clínica quando aplicável |
+| 3 | R3 / fellow | Cenário distinto (casos clínicos do livro), cronômetro, evolução clínica quando aplicável (aborto infectado, câncer de colo, DIP, mola, infecção puerperal) |
 
 ## Estrutura
 

@@ -1,0 +1,755 @@
+{
+ "id": "c21",
+ "title": {
+  "pt": "Dor lombar em cólica",
+  "en": "Colicky flank pain"
+ },
+ "chapter": {
+  "pt": "Litíase urinária",
+  "en": "Urolithiasis"
+ },
+ "pages": "p. 386–392",
+ "base": {
+  "triage": {
+   "pt": "Mulher de 35 anos procura a emergência por dor lombar direita súbita, muito intensa, irradiada para a fossa ilíaca direita, iniciada há 8 horas.",
+   "en": "35-year-old woman presents with sudden, very severe right flank pain radiating to the right iliac fossa, starting 8 hours ago."
+  },
+  "vitals": {
+   "PA": "138/86 mmHg",
+   "FC": "104 bpm",
+   "FR": "18 mrpm",
+   "Tax": "36,7 °C",
+   "SpO2": "98%"
+  },
+  "correctDiagnosis": "litiase",
+  "diagnosisExplanation": {
+   "pt": "Sem sinais de alerta (rim único, febre, anúria). Escore STONE modificado = 8 (feminino 0; início ≥ 6 h 0; hematúria 6; sem litíase prévia 0; PCR < 5 mg/L 2): risco moderado (58,5% a 61,4%), portanto TC de dose normal para diferenciais. A TC mostrou cálculo de 4 mm no ureter distal; dor controlada (EVA 2): alta com analgesia e orientação de filtrar a urina (Caso 1, p. 391).",
+   "en": "No red flags (solitary kidney, fever, anuria). Modified STONE score = 8 (female 0; onset ≥ 6 h 0; hematuria 6; no prior stone 0; CRP < 5 mg/L 2): moderate risk (58.5%–61.4%), so standard-dose CT for differentials. CT showed a 4-mm distal ureteral stone; pain controlled (VAS 2): discharge with analgesia and advice to strain urine (Case 1, p. 391)."
+  },
+  "learning": {
+   "pt": "Os primeiros 15 minutos são para analgesia e triagem; não aguarde imagem para tratar a dor. Hidratação com SF 0,9% 1.000 mL (p. 386).\nSTONE ≥ 10 (prevalência 98% a 99,3%) e IMC < 30: TC de baixa dose; < 10: TC normal para diferenciais (p. 388–390). Conduta pela imagem: pelve renal → conservador; ≤ 5 mm → alta com analgesia; 5 a 10 mm → terapia expulsiva; > 10 mm ou dor refratária → internação e urologia (p. 389).\nDor > 4 após analgesia otimizada exige urologia, independentemente do tamanho (p. 386).",
+   "en": "The first 15 minutes are for analgesia and triage; do not wait for imaging to treat pain. Hydrate with 0.9% saline 1,000 mL (p. 386).\nSTONE ≥ 10 (prevalence 98%–99.3%) and BMI < 30: low-dose CT; < 10: standard CT for differentials (p. 388–390). Management by imaging: renal pelvis → conservative; ≤ 5 mm → discharge with analgesia; 5–10 mm → medical expulsive therapy; > 10 mm or refractory pain → admission and urology (p. 389).\nPain > 4 after optimized analgesia requires urology regardless of size (p. 386)."
+  }
+ },
+ "levels": {
+  "2": {
+   "triage": {
+    "pt": "Mulher de 29 anos com dor lombar esquerda súbita em cólica, irradiada para a virilha, iniciada há 3 horas, com náuseas.",
+    "en": "29-year-old woman with sudden colicky left flank pain radiating to the groin, starting 3 hours ago, with nausea."
+   },
+   "vitals": {
+    "PA": "132/82 mmHg",
+    "FC": "100 bpm",
+    "FR": "18 mrpm",
+    "Tax": "36,6 °C",
+    "SpO2": "98%"
+   },
+   "correctDiagnosis": "litiase",
+   "diagnosisExplanation": {
+    "pt": "Sem sinais de alerta. Escore STONE modificado = 13 (feminino 0; início < 6 h 3; hematúria 6; litíase prévia 2; PCR < 5 mg/L 2): alto risco (98% a 99,3%). Com IMC < 30, TC de baixa dose: cálculo de 7 mm no ureter distal esquerdo, sem hidronefrose relevante. Dor controlada: alta com terapia expulsiva médica (tansulosina 0,4 mg/dia por 4 semanas; expulsão 86%) (p. 388–391).",
+    "en": "No red flags. Modified STONE score = 13 (female 0; onset < 6 h 3; hematuria 6; prior stone 2; CRP < 5 mg/L 2): high risk (98%–99.3%). With BMI < 30, low-dose CT: 7-mm left distal ureteral stone without significant hydronephrosis. Pain controlled: discharge with medical expulsive therapy (tamsulosin 0.4 mg/day for 4 weeks; expulsion 86%) (p. 388–391)."
+   },
+   "learning": {
+    "pt": "Cálculo de 5 a 10 mm: alta com terapia expulsiva médica. Tansulosina 0,4 mg/dia por 4 semanas (expulsão 86%; IC95%: 84,2 a 87,6) ou doxazosina 4 mg/dia por 15 dias (75,8%) (p. 389–391).\nCom escore alto em paciente jovem, a ultrassonografia de vias urinárias pode localizar o cálculo e avaliar hidronefrose (p. 388–389).",
+    "en": "Stone 5–10 mm: discharge with medical expulsive therapy. Tamsulosin 0.4 mg/day for 4 weeks (expulsion 86%; 95% CI 84.2–87.6) or doxazosin 4 mg/day for 15 days (75.8%) (p. 389–391).\nWith a high score in a young patient, renal ultrasound can locate the stone and assess hydronephrosis (p. 388–389)."
+   }
+  },
+  "3": {
+   "triage": {
+    "pt": "Mulher de 34 anos com dor lombar intensa e febre. Refere que não urina há 8 horas.",
+    "en": "34-year-old woman with severe flank pain and fever. She reports no urine output for 8 hours."
+   },
+   "vitals": {
+    "PA": "108/68 mmHg",
+    "FC": "112 bpm",
+    "FR": "22 mrpm",
+    "Tax": "38,2 °C",
+    "SpO2": "98%"
+   },
+   "correctDiagnosis": "obstr_inf",
+   "diagnosisExplanation": {
+    "pt": "Rim único, febre e anúria (> 6 h): sinais de alerta que se sobrepõem a qualquer escore (STONE 12). Conduta: TC de baixa dose e acionar a urologia imediatamente para desobstrução de emergência, a fim de salvar a unidade renal remanescente (p. 388; Caso 2, p. 391).",
+    "en": "Solitary kidney, fever and anuria (> 6 h): red flags that override any score (STONE 12). Management: low-dose CT and immediate urology consultation for emergency decompression to save the remaining kidney (p. 388; Case 2, p. 391)."
+   },
+   "learning": {
+    "pt": "Identifique obrigatoriamente rim único, febre ou anúria (> 6 h sem diurese); havendo algum, TC de baixa dose e urologia imediata (p. 386, 388).\nAcionar a urologia também na pielonefrite com cálculo ureteral, abscesso renal, perda de função renal ou hidronefrose moderada a grave (p. 389).",
+    "en": "Always check for a solitary kidney, fever or anuria (> 6 h without urine); if any is present, low-dose CT and immediate urology (p. 386, 388).\nAlso call urology for pyelonephritis with a ureteral stone, renal abscess, loss of renal function or moderate to severe hydronephrosis (p. 389)."
+   },
+   "timerMinutes": 10
+  }
+ },
+ "diagnoses": [
+  {
+   "id": "litiase",
+   "label": {
+    "pt": "Litíase ureteral não complicada",
+    "en": "Uncomplicated ureteral stone"
+   }
+  },
+  {
+   "id": "obstr_inf",
+   "label": {
+    "pt": "Litíase obstrutiva com infecção em rim único",
+    "en": "Obstructing stone with infection in a solitary kidney"
+   }
+  },
+  {
+   "id": "pielo",
+   "label": {
+    "pt": "Pielonefrite aguda",
+    "en": "Acute pyelonephritis"
+   }
+  },
+  {
+   "id": "apend",
+   "label": {
+    "pt": "Apendicite aguda",
+    "en": "Acute appendicitis"
+   }
+  },
+  {
+   "id": "torcao",
+   "label": {
+    "pt": "Torção de anexo",
+    "en": "Adnexal torsion"
+   }
+  },
+  {
+   "id": "cisto",
+   "label": {
+    "pt": "Cisto ovariano",
+    "en": "Ovarian cyst"
+   }
+  },
+  {
+   "id": "ge",
+   "label": {
+    "pt": "Gravidez ectópica",
+    "en": "Ectopic pregnancy"
+   }
+  },
+  {
+   "id": "diverticulite",
+   "label": {
+    "pt": "Diverticulite",
+    "en": "Diverticulitis"
+   }
+  }
+ ],
+ "stages": {
+  "anamnese": [
+   {
+    "id": "a_alerta",
+    "class": "essencial",
+    "ref": "p. 386, 388",
+    "label": {
+     "pt": "Rim único, febre e diurese nas últimas horas",
+     "en": "Solitary kidney, fever and urine output in recent hours"
+    },
+    "result": {
+     "pt": "Dois rins; nega febre; urinando.",
+     "en": "Two kidneys; denies fever; voiding."
+    },
+    "why": {
+     "pt": "Sinais de alerta exigem TC de baixa dose e urologia imediata.",
+     "en": "Red flags require low-dose CT and immediate urology."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Rim único (nefrectomia na infância); febre desde ontem; sem diurese há 8 horas.",
+       "en": "Solitary kidney (childhood nephrectomy); fever since yesterday; no urine for 8 hours."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_inicio",
+    "class": "essencial",
+    "ref": "p. 388",
+    "label": {
+     "pt": "Início da dor (há menos ou mais de 6 horas)",
+     "en": "Pain onset (less or more than 6 hours ago)"
+    },
+    "result": {
+     "pt": "Início súbito há 8 horas.",
+     "en": "Sudden onset 8 hours ago."
+    },
+    "why": {
+     "pt": "Início < 6 h soma 3 pontos no STONE.",
+     "en": "Onset < 6 h adds 3 STONE points."
+    },
+    "byLevel": {
+     "2": {
+      "result": {
+       "pt": "Início súbito há 3 horas.",
+       "en": "Sudden onset 3 hours ago."
+      }
+     },
+     "3": {
+      "result": {
+       "pt": "Dor há 2 dias.",
+       "en": "Pain for 2 days."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_previa",
+    "class": "essencial",
+    "ref": "p. 388",
+    "label": {
+     "pt": "História prévia de litíase",
+     "en": "Prior stone history"
+    },
+    "result": {
+     "pt": "Nega.",
+     "en": "Denies."
+    },
+    "why": {
+     "pt": "Litíase prévia soma 2 pontos.",
+     "en": "Prior stone adds 2 points."
+    },
+    "byLevel": {
+     "2": {
+      "result": {
+       "pt": "Um cálculo eliminado há 3 anos.",
+       "en": "Passed a stone 3 years ago."
+      }
+     },
+     "3": {
+      "result": {
+       "pt": "Litíase de repetição.",
+       "en": "Recurrent stones."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_urol",
+    "class": "pertinente",
+    "ref": "p. 386",
+    "label": {
+     "pt": "Cirurgia urológica recente, neoplasia ou cateter duplo J",
+     "en": "Recent urologic surgery, malignancy or double-J stent"
+    },
+    "result": {
+     "pt": "Nega.",
+     "en": "Denies."
+    },
+    "why": {
+     "pt": "Critério de triagem do capítulo.",
+     "en": "Chapter triage criterion."
+    }
+   },
+   {
+    "id": "a_gest",
+    "class": "pertinente",
+    "ref": "p. 390",
+    "label": {
+     "pt": "Atraso menstrual",
+     "en": "Late period"
+    },
+    "result": {
+     "pt": "Menstruação há 10 dias.",
+     "en": "Period 10 days ago."
+    },
+    "why": {
+     "pt": "Diferenciais ginecológicos e escolha da imagem com radiação.",
+     "en": "Gynecologic differentials and choice of imaging with radiation."
+    }
+   },
+   {
+    "id": "a_eva",
+    "class": "essencial",
+    "ref": "p. 386",
+    "label": {
+     "pt": "Intensidade da dor (EVA) antes e após a analgesia",
+     "en": "Pain intensity (VAS) before and after analgesia"
+    },
+    "result": {
+     "pt": "EVA 9; após tenoxicam, EVA 2.",
+     "en": "VAS 9; after tenoxicam, VAS 2."
+    },
+    "why": {
+     "pt": "Dor > 4 após analgesia otimizada indica urologia.",
+     "en": "Pain > 4 after optimized analgesia indicates urology."
+    },
+    "byLevel": {
+     "2": {
+      "result": {
+       "pt": "EVA 10; após analgesia, EVA 3.",
+       "en": "VAS 10; after analgesia, VAS 3."
+      }
+     },
+     "3": {
+      "result": {
+       "pt": "EVA 8, sem alívio completo.",
+       "en": "VAS 8, not fully relieved."
+      }
+     }
+    }
+   }
+  ],
+  "exame": [
+   {
+    "id": "e_ppl",
+    "class": "essencial",
+    "ref": "p. 386",
+    "label": {
+     "pt": "Punho-percussão lombar e exame abdominal",
+     "en": "CVA percussion and abdominal exam"
+    },
+    "result": {
+     "pt": "Punho-percussão positiva à direita; abdome sem irritação peritoneal.",
+     "en": "Right CVA tenderness; abdomen without peritoneal signs."
+    },
+    "why": {
+     "pt": "Exclui abdome agudo e orienta o lado.",
+     "en": "Excludes acute abdomen and lateralizes."
+    },
+    "byLevel": {
+     "2": {
+      "result": {
+       "pt": "Punho-percussão positiva à esquerda.",
+       "en": "Left CVA tenderness."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_gine",
+    "class": "pertinente",
+    "ref": "p. 390",
+    "label": {
+     "pt": "Exame ginecológico",
+     "en": "Gynecologic exam"
+    },
+    "result": {
+     "pt": "Sem dor anexial ou à mobilização do colo.",
+     "en": "No adnexal or cervical motion tenderness."
+    },
+    "why": {
+     "pt": "Diferenciais ginecológicos (DIP, cisto ovariano).",
+     "en": "Gynecologic differentials (PID, ovarian cyst)."
+    }
+   },
+   {
+    "id": "e_imc",
+    "class": "pertinente",
+    "ref": "p. 388",
+    "label": {
+     "pt": "Peso e IMC",
+     "en": "Weight and BMI"
+    },
+    "result": {
+     "pt": "IMC 26 kg/m².",
+     "en": "BMI 26 kg/m²."
+    },
+    "why": {
+     "pt": "IMC < 30 permite TC de baixa dose quando indicada.",
+     "en": "BMI < 30 allows low-dose CT when indicated."
+    }
+   }
+  ],
+  "lab": [
+   {
+    "id": "l_equ",
+    "class": "essencial",
+    "ref": "p. 388–389",
+    "label": {
+     "pt": "Exame qualitativo de urina (microscopia) e urocultura",
+     "en": "Urinalysis (microscopy) and urine culture"
+    },
+    "result": {
+     "pt": "Hematúria; sem leucocitúria; nitrito negativo.",
+     "en": "Hematuria; no pyuria; nitrite negative."
+    },
+    "why": {
+     "pt": "Hematúria soma 6 pontos no STONE.",
+     "en": "Hematuria adds 6 STONE points."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Amostra não obtida (anúria).",
+       "en": "No sample (anuria)."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_pcr",
+    "class": "essencial",
+    "ref": "p. 388–389",
+    "label": {
+     "pt": "Proteína C-reativa",
+     "en": "C-reactive protein"
+    },
+    "result": {
+     "pt": "3 mg/L.",
+     "en": "3 mg/L."
+    },
+    "why": {
+     "pt": "PCR < 5 mg/L soma 2 pontos.",
+     "en": "CRP < 5 mg/L adds 2 points."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "148 mg/L.",
+       "en": "148 mg/L."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_hemo",
+    "class": "essencial",
+    "ref": "p. 389",
+    "label": {
+     "pt": "Hemograma",
+     "en": "Complete blood count"
+    },
+    "result": {
+     "pt": "Leucócitos 9.800/mm³.",
+     "en": "WBC 9,800/mm³."
+    },
+    "why": {
+     "pt": "Exame do fluxograma.",
+     "en": "Flowchart test."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Leucócitos 18.900/mm³ com desvio à esquerda.",
+       "en": "WBC 18,900/mm³ with left shift."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_creat",
+    "class": "essencial",
+    "ref": "p. 389",
+    "label": {
+     "pt": "Creatinina, sódio e potássio",
+     "en": "Creatinine, sodium and potassium"
+    },
+    "result": {
+     "pt": "Creatinina 0,8 mg/dL; eletrólitos normais.",
+     "en": "Creatinine 0.8 mg/dL; normal electrolytes."
+    },
+    "why": {
+     "pt": "Avalia função renal.",
+     "en": "Assesses renal function."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Creatinina 3,1 mg/dL; K⁺ 5,6 mEq/L.",
+       "en": "Creatinine 3.1 mg/dL; K⁺ 5.6 mEq/L."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_hcg",
+    "class": "pertinente",
+    "ref": "p. 376",
+    "label": {
+     "pt": "β-hCG",
+     "en": "β-hCG"
+    },
+    "result": {
+     "pt": "Negativo.",
+     "en": "Negative."
+    },
+    "why": {
+     "pt": "Filtro ginecológico na mulher com dor abdominal (capítulo de apendicite).",
+     "en": "Gynecologic filter in women with abdominal pain (appendicitis chapter)."
+    }
+   }
+  ],
+  "imagem": [
+   {
+    "id": "i_tcnormal",
+    "class": "essencial",
+    "ref": "p. 388",
+    "label": {
+     "pt": "Tomografia de abdome de dose normal",
+     "en": "Standard-dose abdominal CT"
+    },
+    "result": {
+     "pt": "Cálculo de 4 mm no ureter distal direito; sem hidronefrose relevante.",
+     "en": "4-mm right distal ureteral stone; no significant hydronephrosis."
+    },
+    "why": {
+     "pt": "STONE < 10: TC normal para diagnósticos diferenciais.",
+     "en": "STONE < 10: standard CT for differentials."
+    },
+    "byLevel": {
+     "2": {
+      "class": "desnecessaria",
+      "why": {
+       "pt": "STONE ≥ 10 com IMC < 30: TC de baixa dose basta.",
+       "en": "STONE ≥ 10 with BMI < 30: low-dose CT suffices."
+      }
+     },
+     "3": {
+      "class": "desnecessaria",
+      "why": {
+       "pt": "Com sinais de alerta, a indicação é TC de baixa dose.",
+       "en": "With red flags, the indication is low-dose CT."
+      }
+     }
+    }
+   },
+   {
+    "id": "i_tcbaixa",
+    "class": "desnecessaria",
+    "ref": "p. 388",
+    "label": {
+     "pt": "Tomografia de baixa dose",
+     "en": "Low-dose CT"
+    },
+    "result": {
+     "pt": "Cálculo de 4 mm no ureter distal direito.",
+     "en": "4-mm right distal ureteral stone."
+    },
+    "why": {
+     "pt": "Reservada para STONE ≥ 10 com IMC < 30 ou sinais de alerta.",
+     "en": "Reserved for STONE ≥ 10 with BMI < 30 or red flags."
+    },
+    "byLevel": {
+     "2": {
+      "class": "essencial",
+      "result": {
+       "pt": "Cálculo de 7 mm no ureter distal esquerdo; sem hidronefrose relevante.",
+       "en": "7-mm left distal ureteral stone; no significant hydronephrosis."
+      }
+     },
+     "3": {
+      "class": "essencial",
+      "result": {
+       "pt": "Cálculo de 9 mm na junção ureteropélvica do rim único, com hidronefrose grave e densificação perirrenal.",
+       "en": "9-mm stone at the ureteropelvic junction of the solitary kidney, with severe hydronephrosis and perinephric stranding."
+      }
+     }
+    }
+   },
+   {
+    "id": "i_us",
+    "class": "desnecessaria",
+    "ref": "p. 388–389",
+    "label": {
+     "pt": "Ultrassonografia de vias urinárias",
+     "en": "Renal ultrasound"
+    },
+    "result": {
+     "pt": "Dilatação pielocalicial leve à direita.",
+     "en": "Mild right pelvicalyceal dilation."
+    },
+    "why": {
+     "pt": "Opção em jovens com escore elevado.",
+     "en": "Option in young patients with a high score."
+    },
+    "byLevel": {
+     "2": {
+      "class": "pertinente",
+      "result": {
+       "pt": "Dilatação leve à esquerda; cálculo distal não visualizado.",
+       "en": "Mild left dilation; distal stone not seen."
+      }
+     },
+     "3": {
+      "class": "pertinente",
+      "result": {
+       "pt": "Hidronefrose grave no rim único.",
+       "en": "Severe hydronephrosis in the solitary kidney."
+      }
+     }
+    }
+   },
+   {
+    "id": "i_rx",
+    "class": "desnecessaria",
+    "ref": "p. 388",
+    "label": {
+     "pt": "Radiografia simples de abdome",
+     "en": "Plain abdominal X-ray"
+    },
+    "result": {
+     "pt": "Sem calcificações visíveis.",
+     "en": "No visible calcifications."
+    },
+    "why": {
+     "pt": "Não integra o fluxograma.",
+     "en": "Not part of the flowchart."
+    }
+   }
+  ],
+  "conduta": [
+   {
+    "id": "c_analg",
+    "class": "essencial",
+    "ref": "p. 386",
+    "label": {
+     "pt": "Analgesia potente imediata (AINE, como tenoxicam), sem aguardar imagem",
+     "en": "Immediate potent analgesia (NSAID such as tenoxicam) without waiting for imaging"
+    },
+    "why": {
+     "pt": "Os primeiros 15 minutos são para analgesia.",
+     "en": "The first 15 minutes are for analgesia."
+    },
+    "group": "medicamento"
+   },
+   {
+    "id": "c_hidrat",
+    "class": "essencial",
+    "ref": "p. 386",
+    "label": {
+     "pt": "Hidratação com SF 0,9% 1.000 mL",
+     "en": "Hydration with 0.9% saline 1,000 mL"
+    },
+    "why": {
+     "pt": "Item do Dashboard.",
+     "en": "Dashboard item."
+    },
+    "group": "medicamento"
+   },
+   {
+    "id": "c_tansu",
+    "class": "desnecessaria",
+    "ref": "p. 389–391",
+    "label": {
+     "pt": "Tansulosina 0,4 mg/dia por 4 semanas",
+     "en": "Tamsulosin 0.4 mg/day for 4 weeks"
+    },
+    "why": {
+     "pt": "Cálculo ≤ 5 mm: alta com analgesia; MET é para 5 a 10 mm.",
+     "en": "Stone ≤ 5 mm: discharge with analgesia; MET is for 5–10 mm."
+    },
+    "group": "medicamento",
+    "byLevel": {
+     "2": {
+      "class": "essencial",
+      "why": {
+       "pt": "Cálculo de 5 a 10 mm: terapia expulsiva (expulsão 86%).",
+       "en": "Stone 5–10 mm: expulsive therapy (expulsion 86%)."
+      }
+     },
+     "3": {
+      "class": "contraindicada",
+      "why": {
+       "pt": "Sinais de alerta exigem desobstrução, não terapia expulsiva.",
+       "en": "Red flags require decompression, not expulsive therapy."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_filtro",
+    "class": "essencial",
+    "ref": "p. 391",
+    "label": {
+     "pt": "Orientar filtrar a urina e retorno se piora da dor, febre ou anúria",
+     "en": "Advise straining urine and return for worse pain, fever or anuria"
+    },
+    "why": {
+     "pt": "Cálculos ≤ 5 mm com dor controlada: 90% de eliminação espontânea.",
+     "en": "Stones ≤ 5 mm with controlled pain: 90% pass spontaneously."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "orientacao"
+   },
+   {
+    "id": "c_urol",
+    "class": "desnecessaria",
+    "ref": "p. 386, 389",
+    "label": {
+     "pt": "Interconsulta com a urologia",
+     "en": "Urology consultation"
+    },
+    "why": {
+     "pt": "Indicada com dor > 4 após analgesia, cálculo > 10 mm, complicações ou sinais de alerta.",
+     "en": "Indicated for pain > 4 after analgesia, stone > 10 mm, complications or red flags."
+    },
+    "group": "orientacao",
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "label": {
+       "pt": "Acionar a urologia imediatamente para desobstrução de emergência",
+       "en": "Call urology immediately for emergency decompression"
+      },
+      "why": {
+       "pt": "Rim único com febre e anúria: emergência cirúrgica (Caso 2).",
+       "en": "Solitary kidney with fever and anuria: surgical emergency (Case 2)."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_alta",
+    "class": "essencial",
+    "ref": "p. 389, 391",
+    "label": {
+     "pt": "Alta com analgesia ambulatorial",
+     "en": "Discharge with outpatient analgesia"
+    },
+    "why": {
+     "pt": "Cálculo ≤ 5 mm com dor controlada (Caso 1).",
+     "en": "Stone ≤ 5 mm with controlled pain (Case 1)."
+    },
+    "group": "destino",
+    "byLevel": {
+     "2": {
+      "label": {
+       "pt": "Alta com terapia expulsiva e analgesia",
+       "en": "Discharge with expulsive therapy and analgesia"
+      },
+      "why": {
+       "pt": "Cálculo de 5 a 10 mm com dor controlada.",
+       "en": "Stone 5–10 mm with controlled pain."
+      }
+     },
+     "3": {
+      "class": "contraindicada",
+      "why": {
+       "pt": "Sinais de alerta se sobrepõem a qualquer escore.",
+       "en": "Red flags override any score."
+      },
+      "grave": true,
+      "outcome": {
+       "pt": "Perda da unidade renal remanescente (Caso 2, p. 391).",
+       "en": "Loss of the remaining kidney (Case 2, p. 391)."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_intern",
+    "class": "desnecessaria",
+    "ref": "p. 389",
+    "label": {
+     "pt": "Internação hospitalar",
+     "en": "Hospital admission"
+    },
+    "why": {
+     "pt": "Indicada para cálculo > 10 mm ou dor refratária.",
+     "en": "Indicated for stone > 10 mm or refractory pain."
+    },
+    "group": "destino",
+    "byLevel": {
+     "3": {
+      "class": "essencial"
+     }
+    }
+   }
+  ]
+ }
+}

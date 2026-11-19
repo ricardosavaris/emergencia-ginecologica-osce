@@ -213,24 +213,24 @@
   {
    "id": "c20",
    "number": 20,
-   "file": null,
+   "file": "20-suspeita-apendicite.json",
    "title": {
     "pt": "Dor em fossa ilíaca direita",
     "en": "Right lower quadrant pain"
    },
    "block": 6,
-   "available": false
+   "available": true
   },
   {
    "id": "c21",
    "number": 21,
-   "file": null,
+   "file": "21-litiase-urinaria.json",
    "title": {
     "pt": "Dor lombar em cólica",
     "en": "Colicky flank pain"
    },
    "block": 6,
-   "available": false
+   "available": true
   }
  ]
 }

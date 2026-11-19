@@ -1,0 +1,655 @@
+{
+ "id": "c20",
+ "title": {
+  "pt": "Dor em fossa ilíaca direita",
+  "en": "Right lower quadrant pain"
+ },
+ "chapter": {
+  "pt": "Suspeita de apendicite em mulher",
+  "en": "Suspected appendicitis in women"
+ },
+ "pages": "p. 374–385",
+ "base": {
+  "triage": {
+   "pt": "Mulher de 22 anos, magra, procura a emergência por dor abdominal há 1 dia, com anorexia e náuseas.",
+   "en": "22-year-old slim woman presents with abdominal pain for 1 day, with anorexia and nausea."
+  },
+  "vitals": {
+   "PA": "118/74 mmHg",
+   "FC": "94 bpm",
+   "FR": "16 mrpm",
+   "Tax": "37,6 °C",
+   "SpO2": "98%"
+  },
+  "correctDiagnosis": "apend",
+  "diagnosisExplanation": {
+   "pt": "β-hCG negativo; migração da dor para a fossa ilíaca direita sem Blumberg (1 sinal: 37,4%); leucócitos 13.500/mm³ e PCR 12 mg/L (ambos positivos, LR+ 4,04): 70,7%. Ultrassonografia negativa não exclui (≈ 57,5%); TC positiva eleva a 95,3%, acima do limiar cirúrgico de 90%: apendicite aguda, confirmada na cirurgia (Caso 1, p. 379–380).",
+   "en": "Negative β-hCG; pain migrating to the right iliac fossa without rebound (1 sign: 37.4%); WBC 13,500/mm³ and CRP 12 mg/L (both positive, LR+ 4.04): 70.7%. A negative ultrasound does not exclude (≈ 57.5%); a positive CT raises it to 95.3%, above the 90% surgical threshold: acute appendicitis, confirmed at surgery (Case 1, p. 379–380)."
+  },
+  "learning": {
+   "pt": "Considere apendicite em toda mulher com dor em fossa ilíaca direita; o primeiro filtro é ginecológico, com β-hCG (p. 374, 376). Migração da dor (LR+ 2,0) e Blumberg (LR+ 1,99) são o 1º nível bayesiano; leucocitose > 10.000 e PCR > 10 mg/L, o 2º (p. 376–379).\nEscolha a imagem pelo perfil: jovem e magra → ultrassonografia; idosa ou IMC 30–50 → TC; IMC > 50 → laparoscopia (p. 374, 377). TC de baixa dose: LR+ 15,7, LR− 0,06 (p. 379).\nLimiares sugeridos: < 1% exclui; > 90% (ou 80% a 85%) indica cirurgia; entre eles, investigar (p. 377). Abdome em tábua exige conduta mais invasiva, independentemente do fluxograma (Pérola 1, p. 380).",
+   "en": "Consider appendicitis in every woman with right iliac fossa pain; the first filter is gynecologic, with β-hCG (p. 374, 376). Pain migration (LR+ 2.0) and rebound (LR+ 1.99) form the first Bayesian level; WBC > 10,000 and CRP > 10 mg/L the second (p. 376–379).\nChoose imaging by profile: young and slim → ultrasound; older or BMI 30–50 → CT; BMI > 50 → laparoscopy (p. 374, 377). Low-dose CT: LR+ 15.7, LR− 0.06 (p. 379).\nSuggested thresholds: < 1% excludes; > 90% (or 80%–85%) indicates surgery; in between, investigate further (p. 377). A board-like abdomen warrants more invasive management regardless of the flowchart (Pearl 1, p. 380)."
+  }
+ },
+ "levels": {
+  "3": {
+   "triage": {
+    "pt": "Adolescente de 14 anos com dor abdominal difusa há 6 dias, náuseas, vômitos e um episódio de diarreia. Nega febre.",
+    "en": "14-year-old with diffuse abdominal pain for 6 days, nausea, vomiting and one episode of diarrhea. Denies fever."
+   },
+   "vitals": {
+    "PA": "112/70 mmHg",
+    "FC": "90 bpm",
+    "FR": "16 mrpm",
+    "Tax": "37,2 °C",
+    "SpO2": "98%"
+   },
+   "correctDiagnosis": "apend",
+   "diagnosisExplanation": {
+    "pt": "Sem migração e sem Blumberg, com leucócitos 8.000/mm³ e PCR 2 mg/L: probabilidade ≈ 1%. A dor anexial direita pronunciada mimetizava DIP, mas o NAAT foi negativo e não havia corrimento. A TC mostrou apêndice espessado com densificação da gordura (probabilidade ≈ 12%); a laparoscopia encontrou apendicite estendendo-se ao anexo direito, confirmada pela patologia (Caso 2, p. 380).",
+    "en": "No migration and no rebound, with WBC 8,000/mm³ and CRP 2 mg/L: probability ≈ 1%. Marked right adnexal tenderness mimicked PID, but NAAT was negative and there was no discharge. CT showed a thickened appendix with fat stranding (probability ≈ 12%); laparoscopy found appendicitis extending to the right adnexa, confirmed by pathology (Case 2, p. 380)."
+   },
+   "learning": {
+    "pt": "Em adolescentes, a apendicite pode mimetizar condições ginecológicas (Caso 2, p. 380). A TC positiva, num contexto de baixa probabilidade, superou a força do ultrassom (~3%) (p. 380).\nOs médicos têm limiares diferentes, muitas vezes sem perceber; o número é auxiliar, não o senhor da razão: a paciente terá um desfecho binário (Pérolas 2–3, p. 380–381).",
+    "en": "In adolescents, appendicitis can mimic gynecologic conditions (Case 2, p. 380). A positive CT in a low-probability setting outweighed ultrasound (~3%) (p. 380).\nPhysicians have different thresholds, often unknowingly; the number is an aid, not the master: the patient will have a binary outcome (Pearls 2–3, p. 380–381)."
+   },
+   "timerMinutes": 12
+  }
+ },
+ "diagnoses": [
+  {
+   "id": "apend",
+   "label": {
+    "pt": "Apendicite aguda",
+    "en": "Acute appendicitis"
+   }
+  },
+  {
+   "id": "dip",
+   "label": {
+    "pt": "Doença inflamatória pélvica",
+    "en": "Pelvic inflammatory disease"
+   }
+  },
+  {
+   "id": "torcao",
+   "label": {
+    "pt": "Torção de anexo",
+    "en": "Adnexal torsion"
+   }
+  },
+  {
+   "id": "cisto",
+   "label": {
+    "pt": "Cisto hemorrágico roto",
+    "en": "Ruptured hemorrhagic cyst"
+   }
+  },
+  {
+   "id": "ge",
+   "label": {
+    "pt": "Gravidez ectópica",
+    "en": "Ectopic pregnancy"
+   }
+  },
+  {
+   "id": "pielo",
+   "label": {
+    "pt": "Pielonefrite",
+    "en": "Pyelonephritis"
+   }
+  },
+  {
+   "id": "litiase",
+   "label": {
+    "pt": "Litíase urinária",
+    "en": "Urolithiasis"
+   }
+  },
+  {
+   "id": "gastro",
+   "label": {
+    "pt": "Gastroenterite",
+    "en": "Gastroenteritis"
+   }
+  }
+ ],
+ "stages": {
+  "anamnese": [
+   {
+    "id": "a_migr",
+    "class": "essencial",
+    "ref": "p. 376, 379",
+    "label": {
+     "pt": "Início e migração da dor",
+     "en": "Onset and migration of pain"
+    },
+    "result": {
+     "pt": "Começou periumbilical e migrou para a fossa ilíaca direita.",
+     "en": "Began periumbilical and migrated to the right iliac fossa."
+    },
+    "why": {
+     "pt": "Migração da dor: LR+ 2,0 (IC95%: 1,6 a 2,6).",
+     "en": "Pain migration: LR+ 2.0 (95% CI 1.6–2.6)."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Dor difusa desde o início, sem migração.",
+       "en": "Diffuse pain from the onset, no migration."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_gest",
+    "class": "essencial",
+    "ref": "p. 376, 378",
+    "label": {
+     "pt": "Atraso menstrual e método contraceptivo",
+     "en": "Late period and contraception"
+    },
+    "result": {
+     "pt": "Menstruação há 2 semanas; anticoncepcional oral.",
+     "en": "Period 2 weeks ago; oral contraceptive."
+    },
+    "why": {
+     "pt": "Filtro ginecológico: gravidez ectópica e cisto hemorrágico (mais provável sem bloqueio ovulatório).",
+     "en": "Gynecologic filter: ectopic pregnancy and hemorrhagic cyst (more likely without ovulation suppression)."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Menarca há 2 anos; menstruação há 10 dias; sem contracepção.",
+       "en": "Menarche 2 years ago; period 10 days ago; no contraception."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_dip",
+    "class": "essencial",
+    "ref": "p. 378",
+    "label": {
+     "pt": "Corrimento, atividade sexual e febre",
+     "en": "Discharge, sexual activity and fever"
+    },
+    "result": {
+     "pt": "Nega corrimento; parceiro único com preservativo.",
+     "en": "Denies discharge; one partner with condoms."
+    },
+    "why": {
+     "pt": "DIP ganha força com dor bilateral, mobilização dolorosa do colo, corrimento, febre e contexto sexual.",
+     "en": "PID is favored by bilateral pain, cervical motion tenderness, discharge, fever and sexual context."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Nega corrimento e atividade sexual.",
+       "en": "Denies discharge and sexual activity."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_tempo",
+    "class": "pertinente",
+    "ref": "p. 376",
+    "label": {
+     "pt": "Duração da dor",
+     "en": "Duration of pain"
+    },
+    "result": {
+     "pt": "Há 24 horas.",
+     "en": "24 hours."
+    },
+    "why": {
+     "pt": "Dor há menos de 10 dias: pré-teste basal de 23%.",
+     "en": "Pain < 10 days: baseline pretest probability 23%."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Há 6 dias.",
+       "en": "6 days."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_gi",
+    "class": "pertinente",
+    "ref": "p. 376, 380",
+    "label": {
+     "pt": "Náuseas, anorexia e diarreia",
+     "en": "Nausea, anorexia and diarrhea"
+    },
+    "result": {
+     "pt": "Anorexia e náuseas; nega diarreia.",
+     "en": "Anorexia and nausea; denies diarrhea."
+    },
+    "why": {
+     "pt": "Sintomas associados.",
+     "en": "Associated symptoms."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Náuseas, vômitos e um episódio de diarreia.",
+       "en": "Nausea, vomiting and one episode of diarrhea."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_urin",
+    "class": "pertinente",
+    "ref": "p. 378",
+    "label": {
+     "pt": "Sintomas urinários",
+     "en": "Urinary symptoms"
+    },
+    "result": {
+     "pt": "Nega.",
+     "en": "Denies."
+    },
+    "why": {
+     "pt": "Diferencial com pielonefrite e litíase.",
+     "en": "Differential with pyelonephritis and stones."
+    }
+   }
+  ],
+  "exame": [
+   {
+    "id": "e_blumberg",
+    "class": "essencial",
+    "ref": "p. 376, 379",
+    "label": {
+     "pt": "Descompressão brusca (Blumberg), defesa e rigidez",
+     "en": "Rebound (Blumberg), guarding and rigidity"
+    },
+    "result": {
+     "pt": "Blumberg ausente; sem defesa.",
+     "en": "No rebound; no guarding."
+    },
+    "why": {
+     "pt": "Blumberg LR+ 1,99; defesa LR+ 2,48; abdome em tábua LR+ 2,96.",
+     "en": "Rebound LR+ 1.99; guarding LR+ 2.48; board-like abdomen LR+ 2.96."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Dor no ponto de McBurney, sem Blumberg e sem defesa; desconforto suprapúbico e em fossa ilíaca esquerda.",
+       "en": "McBurney point tenderness, no rebound or guarding; suprapubic and left iliac fossa discomfort."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_toque",
+    "class": "essencial",
+    "ref": "p. 376, 378",
+    "label": {
+     "pt": "Exame ginecológico (especular e toque com mobilização do colo e anexos)",
+     "en": "Gynecologic exam (speculum and bimanual with cervical motion and adnexa)"
+    },
+    "result": {
+     "pt": "Sem corrimento; sem dor à mobilização do colo ou anexial.",
+     "en": "No discharge; no cervical motion or adnexal tenderness."
+    },
+    "why": {
+     "pt": "Primeiro filtro do fluxograma.",
+     "en": "First flowchart filter."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Sem corrimento; dor muito pronunciada no anexo direito.",
+       "en": "No discharge; very marked right adnexal tenderness."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_imc",
+    "class": "essencial",
+    "ref": "p. 374, 377",
+    "label": {
+     "pt": "Peso e IMC",
+     "en": "Weight and BMI"
+    },
+    "result": {
+     "pt": "IMC 20 kg/m².",
+     "en": "BMI 20 kg/m²."
+    },
+    "why": {
+     "pt": "O perfil define a imagem inicial: jovem e magra → ultrassonografia.",
+     "en": "Profile defines initial imaging: young and slim → ultrasound."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "IMC 19 kg/m².",
+       "en": "BMI 19 kg/m²."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_ppl",
+    "class": "pertinente",
+    "ref": "p. 378",
+    "label": {
+     "pt": "Punho-percussão lombar",
+     "en": "CVA percussion"
+    },
+    "result": {
+     "pt": "Negativa.",
+     "en": "Negative."
+    },
+    "why": {
+     "pt": "Diferencial com pielonefrite e litíase.",
+     "en": "Differential with pyelonephritis and stones."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   }
+  ],
+  "lab": [
+   {
+    "id": "l_hcg",
+    "class": "essencial",
+    "ref": "p. 376",
+    "label": {
+     "pt": "β-hCG urinário",
+     "en": "Urine β-hCG"
+    },
+    "result": {
+     "pt": "Negativo.",
+     "en": "Negative."
+    },
+    "why": {
+     "pt": "Filtro obrigatório; se positivo, prioridade para ectópica.",
+     "en": "Mandatory filter; if positive, prioritize ectopic pregnancy."
+    }
+   },
+   {
+    "id": "l_leuco",
+    "class": "essencial",
+    "ref": "p. 374, 377, 379",
+    "label": {
+     "pt": "Leucograma e proteína C-reativa",
+     "en": "WBC and C-reactive protein"
+    },
+    "result": {
+     "pt": "Leucócitos 13.500/mm³; PCR 12 mg/L.",
+     "en": "WBC 13,500/mm³; CRP 12 mg/L."
+    },
+    "why": {
+     "pt": "Ambos positivos: LR+ 4,04; ambos negativos: LR− 0,15.",
+     "en": "Both positive: LR+ 4.04; both negative: LR− 0.15."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Leucócitos 8.000/mm³; PCR 2 mg/L.",
+       "en": "WBC 8,000/mm³; CRP 2 mg/L."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_equ",
+    "class": "pertinente",
+    "ref": "p. 378",
+    "label": {
+     "pt": "Exame de urina",
+     "en": "Urinalysis"
+    },
+    "result": {
+     "pt": "Sem alterações.",
+     "en": "Normal."
+    },
+    "why": {
+     "pt": "Diferencial urinário.",
+     "en": "Urinary differential."
+    }
+   },
+   {
+    "id": "l_naat",
+    "class": "desnecessaria",
+    "ref": "p. 380",
+    "label": {
+     "pt": "NAAT para clamídia e gonococo",
+     "en": "NAAT for chlamydia and gonorrhea"
+    },
+    "result": {
+     "pt": "Negativo.",
+     "en": "Negative."
+    },
+    "why": {
+     "pt": "Sem contexto clínico de DIP, não altera a conduta.",
+     "en": "Without a PID context, it does not change management."
+    },
+    "byLevel": {
+     "3": {
+      "class": "pertinente",
+      "why": {
+       "pt": "Com dor anexial pronunciada, ajuda a afastar DIP (Caso 2).",
+       "en": "With marked adnexal tenderness, helps exclude PID (Case 2)."
+      }
+     }
+    }
+   }
+  ],
+  "imagem": [
+   {
+    "id": "i_usabd",
+    "class": "essencial",
+    "ref": "p. 374, 377, 379",
+    "label": {
+     "pt": "Ultrassonografia abdominal",
+     "en": "Abdominal ultrasound"
+    },
+    "result": {
+     "pt": "Apêndice não identificado espessado; sem líquido livre.",
+     "en": "No thickened appendix identified; no free fluid."
+    },
+    "why": {
+     "pt": "Primeira opção em jovem e magra (LR+ 2,76; LR− 0,56); negativa não exclui.",
+     "en": "First choice in young slim patients (LR+ 2.76; LR− 0.56); a negative result does not exclude."
+    },
+    "byLevel": {
+     "3": {
+      "class": "pertinente",
+      "result": {
+       "pt": "Exame inconclusivo; apêndice não visualizado.",
+       "en": "Inconclusive; appendix not visualized."
+      }
+     }
+    }
+   },
+   {
+    "id": "i_tc",
+    "class": "essencial",
+    "ref": "p. 378–380",
+    "label": {
+     "pt": "Tomografia de abdome (baixa dose)",
+     "en": "Abdominal CT (low dose)"
+    },
+    "result": {
+     "pt": "Apêndice espessado com densificação da gordura periapendicular.",
+     "en": "Thickened appendix with periappendiceal fat stranding."
+    },
+    "why": {
+     "pt": "TC baixa dose: LR+ 15,7; LR− 0,06.",
+     "en": "Low-dose CT: LR+ 15.7; LR− 0.06."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Apêndice espessado com densificação da gordura periapendicular, sem abscesso tubo-ovariano.",
+       "en": "Thickened appendix with periappendiceal fat stranding, no tubo-ovarian abscess."
+      }
+     }
+    }
+   },
+   {
+    "id": "i_ustv",
+    "class": "pertinente",
+    "ref": "p. 377",
+    "label": {
+     "pt": "Ultrassonografia transvaginal",
+     "en": "Transvaginal ultrasound"
+    },
+    "result": {
+     "pt": "Útero e anexos normais.",
+     "en": "Normal uterus and adnexa."
+    },
+    "why": {
+     "pt": "Avalia útero e anexos sem radiação.",
+     "en": "Assesses uterus and adnexa without radiation."
+    },
+    "levels": [
+     1,
+     2
+    ]
+   },
+   {
+    "id": "i_rm",
+    "class": "desnecessaria",
+    "ref": "p. 377",
+    "label": {
+     "pt": "Ressonância magnética de abdome",
+     "en": "Abdominal MRI"
+    },
+    "result": {
+     "pt": "Agendada.",
+     "en": "Scheduled."
+    },
+    "why": {
+     "pt": "Não integra o fluxograma de imagem.",
+     "en": "Not part of the imaging flowchart."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   }
+  ],
+  "conduta": [
+   {
+    "id": "c_cir",
+    "class": "essencial",
+    "ref": "p. 377",
+    "label": {
+     "pt": "Avaliação da cirurgia geral",
+     "en": "General surgery consultation"
+    },
+    "why": {
+     "pt": "Probabilidade > 90%: encaminhar para cirurgia.",
+     "en": "Probability > 90%: refer for surgery."
+    },
+    "group": "orientacao"
+   },
+   {
+    "id": "c_apend",
+    "class": "essencial",
+    "ref": "p. 377, 380",
+    "label": {
+     "pt": "Apendicectomia por laparoscopia",
+     "en": "Laparoscopic appendectomy"
+    },
+    "why": {
+     "pt": "Diagnóstico confirmado.",
+     "en": "Confirmed diagnosis."
+    },
+    "group": "procedimento"
+   },
+   {
+    "id": "c_jejum",
+    "class": "pertinente",
+    "ref": "p. 377",
+    "label": {
+     "pt": "Jejum, hidratação e analgesia pré-operatória",
+     "en": "NPO, hydration and preoperative analgesia"
+    },
+    "why": {
+     "pt": "Preparo cirúrgico.",
+     "en": "Surgical preparation."
+    },
+    "group": "medicamento"
+   },
+   {
+    "id": "c_dip",
+    "class": "desnecessaria",
+    "ref": "p. 378, 380",
+    "label": {
+     "pt": "Gentamicina + clindamicina para DIP",
+     "en": "Gentamicin + clindamycin for PID"
+    },
+    "why": {
+     "pt": "Sem contexto de DIP; o quadro é de apendicite.",
+     "en": "No PID context; this is appendicitis."
+    },
+    "group": "medicamento",
+    "byLevel": {
+     "3": {
+      "why": {
+       "pt": "No Caso 2, o esquema para DIP foi iniciado, mas a TC e a laparoscopia mostraram apendicite.",
+       "en": "In Case 2, PID treatment was started, but CT and laparoscopy showed appendicitis."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_lapdiag",
+    "class": "desnecessaria",
+    "ref": "p. 374, 377",
+    "label": {
+     "pt": "Laparoscopia diagnóstica sem imagem",
+     "en": "Diagnostic laparoscopy without imaging"
+    },
+    "why": {
+     "pt": "Primeira opção apenas com IMC > 50.",
+     "en": "First choice only with BMI > 50."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "procedimento"
+   },
+   {
+    "id": "c_obs",
+    "class": "desnecessaria",
+    "ref": "p. 377",
+    "label": {
+     "pt": "Observação com reavaliação em 12 h",
+     "en": "Observation with reassessment in 12 h"
+    },
+    "why": {
+     "pt": "Com probabilidade > 90%, a conduta é cirúrgica.",
+     "en": "With probability > 90%, management is surgical."
+    },
+    "group": "destino"
+   },
+   {
+    "id": "c_alta",
+    "class": "contraindicada",
+    "ref": "p. 377",
+    "label": {
+     "pt": "Alta com analgesia",
+     "en": "Discharge with analgesia"
+    },
+    "why": {
+     "pt": "A probabilidade não está < 1%; alta exclui apenas abaixo desse limiar.",
+     "en": "Probability is not < 1%; discharge only below that threshold."
+    },
+    "group": "destino"
+   }
+  ]
+ }
+}
