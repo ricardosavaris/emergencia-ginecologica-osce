@@ -92,46 +92,46 @@
   {
    "id": "c09",
    "number": 9,
-   "file": null,
+   "file": "09-abscesso-bartholin.json",
    "title": {
     "pt": "Dor e abaulamento vulvar",
     "en": "Vulvar pain and swelling"
    },
    "block": 3,
-   "available": false
+   "available": true
   },
   {
    "id": "c10",
    "number": 10,
-   "file": null,
+   "file": "10-infeccao-sitio-cirurgico.json",
    "title": {
-    "pt": "Dor e secreção na ferida operatória",
-    "en": "Wound pain and drainage"
+    "pt": "Dor e secreção após cirurgia",
+    "en": "Pain and drainage after surgery"
    },
    "block": 3,
-   "available": false
+   "available": true
   },
   {
    "id": "c11",
    "number": 11,
-   "file": null,
+   "file": "11-infeccao-urinaria.json",
    "title": {
-    "pt": "Disúria e febre",
-    "en": "Dysuria and fever"
+    "pt": "Febre e dor lombar na gestação",
+    "en": "Fever and flank pain in pregnancy"
    },
    "block": 3,
-   "available": false
+   "available": true
   },
   {
    "id": "c12",
    "number": 12,
-   "file": null,
+   "file": "12-infeccao-puerperal.json",
    "title": {
     "pt": "Febre no puerpério",
     "en": "Postpartum fever"
    },
    "block": 3,
-   "available": false
+   "available": true
   },
   {
    "id": "c13",

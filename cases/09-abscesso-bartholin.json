@@ -1,0 +1,781 @@
+{
+ "id": "c09",
+ "title": {
+  "pt": "Dor e abaulamento vulvar",
+  "en": "Vulvar pain and swelling"
+ },
+ "chapter": {
+  "pt": "Abscesso de Bartholin",
+  "en": "Bartholin abscess"
+ },
+ "pages": "p. 183–193",
+ "base": {
+  "triage": {
+   "pt": "Mulher de 29 anos procura a emergência por dor vulvar intensa há 1 semana, com piora rápida nas últimas 24 horas. Não consegue sentar-se.",
+   "en": "29-year-old woman presents with severe vulvar pain for 1 week, rapidly worsening over the last 24 hours. She cannot sit."
+  },
+  "vitals": {
+   "PA": "122/78 mmHg",
+   "FC": "96 bpm",
+   "FR": "16 mrpm",
+   "Tax": "38,0 °C",
+   "SpO2": "98%"
+  },
+  "correctDiagnosis": "abscesso",
+  "diagnosisExplanation": {
+   "pt": "Tumefação unilateral de 5 cm às 5 h do vestíbulo, eritematosa, quente, muito dolorosa e com ponto de flutuação: abscesso da glândula de Bartholin (diagnóstico clínico, p. 186). A drenagem é o tratamento primário; com febre (sinal sistêmico), associa-se sulfametoxazol-trimetoprima 800/160 mg VO 12/12 h por 7 dias para cobrir E. coli (Caso 1, p. 188–189).",
+   "en": "A 5-cm unilateral swelling at 5 o'clock of the vestibule, red, warm, very tender and fluctuant: Bartholin gland abscess (clinical diagnosis, p. 186). Drainage is the primary treatment; with fever (systemic sign), trimethoprim-sulfamethoxazole 800/160 mg PO every 12 h for 7 days is added to cover E. coli (Case 1, p. 188–189)."
+  },
+  "learning": {
+   "pt": "O abscesso precisa estar formado para drenar: sem flutuação, use AINE e banhos de assento e reavalie em 3 dias (Caso 1, p. 188–189).\nAntimicrobianos ficam para sinais sistêmicos (febre, leucocitose, celulite), imunossupressão, gestação ou risco de IST (p. 187). Considere testagem para IST: 13% são positivos para gonococo e 26% para clamídia (p. 187).\nNa drenagem, use anestesia progressiva, lâmina 11 com incisão em \"visto\" e oriente a própria paciente a expressar o pus e manter o orifício aberto; dreno de Penrose não funciona nessa região (Pérolas 1–3, p. 190–191). Massa endurecida, indolor, em posição atípica ou na pós-menopausa exige investigar carcinoma (Caso 2, p. 189).",
+   "en": "The abscess must be formed to drain: without fluctuance, use an NSAID and sitz baths and reassess in 3 days (Case 1, p. 188–189).\nAntibiotics are reserved for systemic signs (fever, leukocytosis, cellulitis), immunosuppression, pregnancy or STI risk (p. 187). Consider STI testing: 13% are positive for gonorrhea and 26% for chlamydia (p. 187).\nFor drainage, use progressive anesthesia, a No. 11 blade with a \"check-mark\" incision and have the patient express the pus and keep the opening patent; Penrose drains do not work in this area (Pearls 1–3, p. 190–191). A hard, painless mass in an atypical position or after menopause requires investigating carcinoma (Case 2, p. 189)."
+  }
+ },
+ "levels": {
+  "3": {
+   "triage": {
+    "pt": "Mulher de 21 anos com leucemia linfoblástica aguda, internada no isolamento após transplante de medula óssea. A equipe da hematologia solicita avaliação de um nódulo vulvar doloroso de 4 cm.",
+    "en": "21-year-old woman with acute lymphoblastic leukemia, in isolation after bone marrow transplant. Hematology requests evaluation of a painful 4-cm vulvar nodule."
+   },
+   "vitals": {
+    "PA": "108/68 mmHg",
+    "FC": "104 bpm",
+    "FR": "18 mrpm",
+    "Tax": "37,9 °C",
+    "SpO2": "98%"
+   },
+   "correctDiagnosis": "abscesso",
+   "diagnosisExplanation": {
+    "pt": "Tumefação vulvar às 8 h, sem flutuação, em paciente com 310 leucócitos/mm³ e plaquetas de 10.000/mm³: abscesso de Bartholin em imunossuprimida. Tratamento com antibioticoterapia empírica de amplo espectro (piperacilina-tazobactam), evitando drenagem imediata pelo alto risco de sangramento (Caso 3, p. 190).",
+    "en": "Vulvar swelling at 8 o'clock without fluctuance in a patient with WBC 310/mm³ and platelets 10,000/mm³: Bartholin abscess in an immunocompromised patient. Treat with empirical broad-spectrum antibiotics (piperacillin-tazobactam), avoiding immediate drainage because of the high bleeding risk (Case 3, p. 190)."
+   },
+   "learning": {
+    "pt": "A drenagem cirúrgica deve ser evitada com coagulopatia ou trombocitopenia grave (p. 187). Na leucopenia grave com plaquetas < 10.000/mm³, o tratamento é antibioticoterapia empírica de amplo espectro; a drenagem só após estabilização hematológica, com plaquetas > 50.000/mm³, se houver indicação absoluta (Caso 3, p. 190).\nPiperacilina-tazobactam 4,5 g IV 8/8 h (ou 3,375 g 6/6 h) por 7 dias cobre gram-negativos, gram-positivos e anaeróbios (Tabela 2, p. 188).",
+    "en": "Surgical drainage should be avoided with coagulopathy or severe thrombocytopenia (p. 187). With severe leukopenia and platelets < 10,000/mm³, treatment is empirical broad-spectrum antibiotics; drainage only after hematologic stabilization, with platelets > 50,000/mm³, if absolutely indicated (Case 3, p. 190).\nPiperacillin-tazobactam 4.5 g IV every 8 h (or 3.375 g every 6 h) for 7 days covers gram-negatives, gram-positives and anaerobes (Table 2, p. 188)."
+   },
+   "timerMinutes": 10
+  }
+ },
+ "diagnoses": [
+  {
+   "id": "abscesso",
+   "label": {
+    "pt": "Abscesso da glândula de Bartholin",
+    "en": "Bartholin gland abscess"
+   }
+  },
+  {
+   "id": "cisto",
+   "label": {
+    "pt": "Cisto de Bartholin não infectado",
+    "en": "Uninfected Bartholin cyst"
+   }
+  },
+  {
+   "id": "inflam",
+   "label": {
+    "pt": "Bartholinite sem coleção formada",
+    "en": "Bartholin gland inflammation without a formed collection"
+   }
+  },
+  {
+   "id": "carcinoma",
+   "label": {
+    "pt": "Carcinoma vulvar ou da glândula de Bartholin",
+    "en": "Vulvar or Bartholin gland carcinoma"
+   }
+  },
+  {
+   "id": "inclusao",
+   "label": {
+    "pt": "Cisto de inclusão epidérmica",
+    "en": "Epidermal inclusion cyst"
+   }
+  },
+  {
+   "id": "hidraden",
+   "label": {
+    "pt": "Hidradenoma",
+    "en": "Hidradenoma"
+   }
+  },
+  {
+   "id": "hsv",
+   "label": {
+    "pt": "Úlcera genital herpética",
+    "en": "Herpetic genital ulcer"
+   }
+  }
+ ],
+ "stages": {
+  "anamnese": [
+   {
+    "id": "a_evol",
+    "class": "essencial",
+    "ref": "p. 186, 189",
+    "label": {
+     "pt": "Tempo de evolução e intensidade da dor",
+     "en": "Duration and pain severity"
+    },
+    "result": {
+     "pt": "Nódulo que aparecia e desaparecia; dor progressiva há 1 semana, piora rápida em 24 h.",
+     "en": "A nodule that came and went; progressive pain for 1 week, rapid worsening in 24 h."
+    },
+    "why": {
+     "pt": "Início súbito com dor intensa caracteriza o abscesso; evolução lenta e pouca dor sugerem outra lesão (Caso 2).",
+     "en": "Sudden onset with severe pain characterizes an abscess; slow growth with little pain suggests another lesion (Case 2)."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Dor há 2 dias, progressiva.",
+       "en": "Pain for 2 days, progressive."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_febre",
+    "class": "essencial",
+    "ref": "p. 186–187",
+    "label": {
+     "pt": "Febre e sintomas sistêmicos",
+     "en": "Fever and systemic symptoms"
+    },
+    "result": {
+     "pt": "Febre de 38 °C ontem.",
+     "en": "38 °C fever yesterday."
+    },
+    "why": {
+     "pt": "Febre, leucocitose e celulite indicam antimicrobiano.",
+     "en": "Fever, leukocytosis and cellulitis indicate antibiotics."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Febre de 37,9 °C hoje.",
+       "en": "37.9 °C fever today."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_imuno",
+    "class": "essencial",
+    "ref": "p. 187, 190",
+    "label": {
+     "pt": "Imunossupressão, gestação, coagulopatia ou uso de anticoagulantes",
+     "en": "Immunosuppression, pregnancy, coagulopathy or anticoagulant use"
+    },
+    "result": {
+     "pt": "Nega.",
+     "en": "Denies."
+    },
+    "why": {
+     "pt": "Imunossupressão e gestação indicam antimicrobiano; coagulopatia ou plaquetopenia grave contraindicam a drenagem.",
+     "en": "Immunosuppression and pregnancy indicate antibiotics; coagulopathy or severe thrombocytopenia contraindicate drainage."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Pós-transplante de medula óssea; em quimioterapia; plaquetopenia conhecida.",
+       "en": "After bone marrow transplant; on chemotherapy; known thrombocytopenia."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_sexual",
+    "class": "pertinente",
+    "ref": "p. 185, 187",
+    "label": {
+     "pt": "Atividade sexual e uso de preservativo",
+     "en": "Sexual activity and condom use"
+    },
+    "result": {
+     "pt": "Novo parceiro no último mês; preservativo esporádico.",
+     "en": "New partner in the last month; occasional condom use."
+    },
+    "why": {
+     "pt": "Infecção gonocócica é fator de risco (OR 5,40); considerar testagem para IST.",
+     "en": "Gonorrhea is a risk factor (OR 5.40); consider STI testing."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Sem atividade sexual desde a internação.",
+       "en": "No sexual activity since admission."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_previo",
+    "class": "pertinente",
+    "ref": "p. 186",
+    "label": {
+     "pt": "Episódios prévios de abscesso",
+     "en": "Prior abscess episodes"
+    },
+    "result": {
+     "pt": "Nega.",
+     "en": "Denies."
+    },
+    "why": {
+     "pt": "História prévia aumenta o risco (OR 2,4).",
+     "en": "Prior history increases risk (OR 2.4)."
+    },
+    "levels": [
+     1,
+     2
+    ]
+   },
+   {
+    "id": "a_dum",
+    "class": "desnecessaria",
+    "ref": "p. 186",
+    "label": {
+     "pt": "Data da última menstruação",
+     "en": "Last menstrual period"
+    },
+    "result": {
+     "pt": "Há 2 semanas.",
+     "en": "2 weeks ago."
+    },
+    "why": {
+     "pt": "Não altera o diagnóstico clínico nem a conduta da drenagem.",
+     "en": "Does not change the clinical diagnosis or drainage."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   }
+  ],
+  "exame": [
+   {
+    "id": "e_vulva",
+    "class": "essencial",
+    "ref": "p. 186",
+    "label": {
+     "pt": "Inspeção e palpação vulvar (localização, tamanho, sinais inflamatórios, flutuação)",
+     "en": "Vulvar inspection and palpation (location, size, inflammation, fluctuance)"
+    },
+    "result": {
+     "pt": "Massa de 5 cm às 5 h do vestíbulo, eritematosa, endurecida, quente e muito dolorosa, com ponto de flutuação.",
+     "en": "5-cm mass at 5 o'clock of the vestibule, red, indurated, warm and very tender, with a point of fluctuance."
+    },
+    "why": {
+     "pt": "O diagnóstico é clínico: aumento unilateral às 4–5 h ou 7–8 h, com sinais inflamatórios.",
+     "en": "Diagnosis is clinical: unilateral swelling at 4–5 or 7–8 o'clock with inflammatory signs."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Tumefação de 4 cm às 8 h, eritematosa e dolorosa, sem área de flutuação; petéquias perineais.",
+       "en": "4-cm swelling at 8 o'clock, red and tender, no fluctuance; perineal petechiae."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_unidig",
+    "class": "pertinente",
+    "ref": "p. 189",
+    "label": {
+     "pt": "Toque unidigital da lesão e da parede vaginal",
+     "en": "Single-finger palpation of the lesion and vaginal wall"
+    },
+    "result": {
+     "pt": "Sem infiltração da parede vaginal.",
+     "en": "No vaginal wall infiltration."
+    },
+    "why": {
+     "pt": "Infiltração endurecida para o interior da vagina sugere carcinoma (Caso 2).",
+     "en": "Hard infiltration into the vagina suggests carcinoma (Case 2)."
+    }
+   },
+   {
+    "id": "e_linfo",
+    "class": "pertinente",
+    "ref": "p. 188",
+    "label": {
+     "pt": "Linfonodos inguinais",
+     "en": "Inguinal lymph nodes"
+    },
+    "result": {
+     "pt": "Sem linfadenopatia.",
+     "en": "No lymphadenopathy."
+    },
+    "why": {
+     "pt": "Parte do exame inicial (Caso 1).",
+     "en": "Part of the initial exam (Case 1)."
+    }
+   },
+   {
+    "id": "e_espec",
+    "class": "desnecessaria",
+    "ref": "p. 186",
+    "label": {
+     "pt": "Exame especular completo",
+     "en": "Full speculum exam"
+    },
+    "result": {
+     "pt": "Colo sem alterações.",
+     "en": "Normal cervix."
+    },
+    "why": {
+     "pt": "O diagnóstico do abscesso é feito por inspeção e palpação; o especular causa dor e não altera a conduta.",
+     "en": "Abscess diagnosis is by inspection and palpation; a speculum exam causes pain and does not change management."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   }
+  ],
+  "lab": [
+   {
+    "id": "l_hemo",
+    "class": "pertinente",
+    "ref": "p. 186, 190",
+    "label": {
+     "pt": "Hemograma",
+     "en": "Complete blood count"
+    },
+    "result": {
+     "pt": "Leucócitos 13.400/mm³; plaquetas 260.000/mm³.",
+     "en": "WBC 13,400/mm³; platelets 260,000/mm³."
+    },
+    "why": {
+     "pt": "Leucocitose e neutrofilia associam-se a culturas positivas.",
+     "en": "Leukocytosis and neutrophilia are associated with positive cultures."
+    },
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "result": {
+       "pt": "Leucócitos 310/mm³; plaquetas 10.000/mm³.",
+       "en": "WBC 310/mm³; platelets 10,000/mm³."
+      },
+      "why": {
+       "pt": "Define o risco de sangramento e a contraindicação da drenagem.",
+       "en": "Defines bleeding risk and the contraindication to drainage."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_cult",
+    "class": "pertinente",
+    "ref": "p. 186",
+    "label": {
+     "pt": "Cultura do pus",
+     "en": "Pus culture"
+    },
+    "result": {
+     "pt": "E. coli sensível a sulfametoxazol-trimetoprima.",
+     "en": "E. coli susceptible to trimethoprim-sulfamethoxazole."
+    },
+    "why": {
+     "pt": "Recomendada em casos recorrentes ou complicados para guiar o antibiótico.",
+     "en": "Recommended in recurrent or complicated cases to guide antibiotics."
+    },
+    "levels": [
+     1,
+     2
+    ]
+   },
+   {
+    "id": "l_ist",
+    "class": "pertinente",
+    "ref": "p. 187",
+    "label": {
+     "pt": "NAAT para gonococo e clamídia",
+     "en": "NAAT for gonorrhea and chlamydia"
+    },
+    "result": {
+     "pt": "Coletado; resultado em 7 dias.",
+     "en": "Collected; result in 7 days."
+    },
+    "why": {
+     "pt": "Considerar a testagem: 13% positivos para gonococo e 26% para clamídia.",
+     "en": "Consider testing: 13% positive for gonorrhea and 26% for chlamydia."
+    },
+    "levels": [
+     1,
+     2
+    ]
+   },
+   {
+    "id": "l_coag",
+    "class": "pertinente",
+    "ref": "p. 187",
+    "label": {
+     "pt": "Coagulograma",
+     "en": "Coagulation panel"
+    },
+    "result": {
+     "pt": "INR 1,3; TTPA 36 s.",
+     "en": "INR 1.3; aPTT 36 s."
+    },
+    "why": {
+     "pt": "Coagulopatia contraindica a drenagem.",
+     "en": "Coagulopathy contraindicates drainage."
+    },
+    "levels": [
+     3
+    ]
+   },
+   {
+    "id": "l_biop",
+    "class": "desnecessaria",
+    "ref": "p. 189",
+    "label": {
+     "pt": "Biópsia da lesão",
+     "en": "Biopsy of the lesion"
+    },
+    "result": {
+     "pt": "Agendada.",
+     "en": "Scheduled."
+    },
+    "why": {
+     "pt": "Indicada se houver suspeita de carcinoma (massa sólida, indolor, pós-menopausa); não é o caso.",
+     "en": "Indicated if carcinoma is suspected (solid, painless mass, postmenopausal); not the case here."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   }
+  ],
+  "imagem": [
+   {
+    "id": "i_us",
+    "class": "desnecessaria",
+    "ref": "p. 186",
+    "label": {
+     "pt": "Ultrassonografia de partes moles da vulva",
+     "en": "Vulvar soft-tissue ultrasound"
+    },
+    "result": {
+     "pt": "Coleção de 4,8 cm.",
+     "en": "4.8-cm collection."
+    },
+    "why": {
+     "pt": "O diagnóstico é clínico; exames complementares não são necessários de rotina.",
+     "en": "Diagnosis is clinical; tests are not routinely needed."
+    }
+   },
+   {
+    "id": "i_tc",
+    "class": "desnecessaria",
+    "ref": "p. 186",
+    "label": {
+     "pt": "Tomografia da pelve",
+     "en": "Pelvic CT"
+    },
+    "result": {
+     "pt": "Coleção vulvar sem extensão profunda.",
+     "en": "Vulvar collection without deep extension."
+    },
+    "why": {
+     "pt": "Não indicada no abscesso de Bartholin.",
+     "en": "Not indicated for Bartholin abscess."
+    }
+   }
+  ],
+  "conduta": [
+   {
+    "id": "c_dren",
+    "class": "essencial",
+    "ref": "p. 187, 190–191",
+    "label": {
+     "pt": "Drenagem no consultório com anestesia progressiva (lidocaína gel e botão de lidocaína) e lâmina 11",
+     "en": "In-office drainage with progressive anesthesia (lidocaine gel and lidocaine wheal) and No. 11 blade"
+    },
+    "why": {
+     "pt": "A drenagem é o tratamento primário (Pérolas 1–3).",
+     "en": "Drainage is the primary treatment (Pearls 1–3)."
+    },
+    "group": "procedimento",
+    "byLevel": {
+     "3": {
+      "class": "contraindicada",
+      "why": {
+       "pt": "Plaquetas de 10.000/mm³ e leucopenia grave: drenagem evitada pelo alto risco de sangramento.",
+       "en": "Platelets 10,000/mm³ and severe leukopenia: drainage avoided because of high bleeding risk."
+      },
+      "grave": true,
+      "outcome": {
+       "pt": "Drenagem com plaquetas de 10.000/mm³, com alto risco de sangramento (Caso 3, p. 190).",
+       "en": "Drainage with platelets of 10,000/mm³, at high risk of bleeding (Case 3, p. 190)."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_penrose",
+    "class": "desnecessaria",
+    "ref": "p. 191",
+    "label": {
+     "pt": "Deixar dreno de Penrose ou suturar as bordas",
+     "en": "Leave a Penrose drain or suture the edges"
+    },
+    "why": {
+     "pt": "Penrose ou dreno não funcionam nessa área; o objetivo é não deixar o pertuito fechar.",
+     "en": "Penrose drains do not work in this area; the goal is to keep the opening patent."
+    },
+    "group": "procedimento"
+   },
+   {
+    "id": "c_marsup",
+    "class": "desnecessaria",
+    "ref": "p. 187",
+    "label": {
+     "pt": "Marsupialização no bloco cirúrgico",
+     "en": "Marsupialization in the operating room"
+    },
+    "why": {
+     "pt": "Geralmente requer ambiente cirúrgico e anestesia; a drenagem no consultório resolve o abscesso agudo.",
+     "en": "Usually requires an OR and anesthesia; in-office drainage resolves the acute abscess."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "procedimento"
+   },
+   {
+    "id": "c_excisao",
+    "class": "desnecessaria",
+    "ref": "p. 191",
+    "label": {
+     "pt": "Excisão da glândula de Bartholin",
+     "en": "Bartholin gland excision"
+    },
+    "why": {
+     "pt": "Técnica para recorrências, não para o abscesso agudo.",
+     "en": "Technique for recurrences, not the acute abscess."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "procedimento"
+   },
+   {
+    "id": "c_plaq",
+    "class": "pertinente",
+    "ref": "p. 190",
+    "label": {
+     "pt": "Transfundir plaquetas para > 50.000/mm³ se houver indicação absoluta de drenagem",
+     "en": "Transfuse platelets to > 50,000/mm³ if drainage becomes absolutely indicated"
+    },
+    "why": {
+     "pt": "Drenagem só após estabilização hematológica.",
+     "en": "Drainage only after hematologic stabilization."
+    },
+    "levels": [
+     3
+    ],
+    "group": "procedimento"
+   },
+   {
+    "id": "c_smx_l1",
+    "class": "essencial",
+    "ref": "p. 188–189",
+    "label": {
+     "pt": "Antibiótico oral com cobertura para E. coli (sulfametoxazol-trimetoprima)",
+     "en": "Oral antibiotic covering E. coli (trimethoprim-sulfamethoxazole)"
+    },
+    "why": {
+     "pt": "Indicado pela febre.",
+     "en": "Indicated because of fever."
+    },
+    "levels": [
+     1
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_smx",
+    "class": "essencial",
+    "ref": "p. 188–189",
+    "label": {
+     "pt": "Sulfametoxazol-trimetoprima 800/160 mg VO 12/12 h por 7 dias",
+     "en": "Trimethoprim-sulfamethoxazole 800/160 mg PO every 12 h for 7 days"
+    },
+    "why": {
+     "pt": "Sinal sistêmico (febre): cobre E. coli, principal agente (Caso 1).",
+     "en": "Systemic sign (fever): covers E. coli, the main organism (Case 1)."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "medicamento",
+    "byLevel": {
+     "3": {
+      "class": "desnecessaria",
+      "why": {
+       "pt": "Na imunossuprimida com neutropenia, o esquema é piperacilina-tazobactam IV.",
+       "en": "In the neutropenic immunocompromised patient, the regimen is IV piperacillin-tazobactam."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_amoxclav",
+    "class": "pertinente",
+    "ref": "p. 188",
+    "label": {
+     "pt": "Amoxicilina-clavulanato 875/125 mg VO 12/12 h por 7 dias",
+     "en": "Amoxicillin-clavulanate 875/125 mg PO every 12 h for 7 days"
+    },
+    "why": {
+     "pt": "Opção oral para casos não graves.",
+     "en": "Oral option for non-severe cases."
+    },
+    "levels": [
+     2
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_pipe",
+    "class": "desnecessaria",
+    "ref": "p. 188",
+    "label": {
+     "pt": "Piperacilina-tazobactam 4,5 g IV 8/8 h por 7 dias",
+     "en": "Piperacillin-tazobactam 4.5 g IV every 8 h for 7 days"
+    },
+    "why": {
+     "pt": "Indicada em casos graves ou imunossuprimidos.",
+     "en": "Indicated for severe or immunocompromised cases."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "medicamento",
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "why": {
+       "pt": "Primeira linha na imunossuprimida com neutropenia (Caso 3).",
+       "en": "First line in the neutropenic immunocompromised patient (Case 3)."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_aine",
+    "class": "pertinente",
+    "ref": "p. 188",
+    "label": {
+     "pt": "Ibuprofeno 600 mg VO 6/6 h",
+     "en": "Ibuprofen 600 mg PO every 6 h"
+    },
+    "why": {
+     "pt": "Analgesia (Caso 1).",
+     "en": "Analgesia (Case 1)."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_autodren",
+    "class": "essencial",
+    "ref": "p. 191",
+    "label": {
+     "pt": "Orientar a paciente a expressar o pus e abrir as bordas do orifício algumas vezes ao dia",
+     "en": "Teach the patient to express pus and open the edges several times a day"
+    },
+    "why": {
+     "pt": "Impede o fechamento do pertuito (Pérola 3).",
+     "en": "Prevents closure of the opening (Pearl 3)."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "orientacao"
+   },
+   {
+    "id": "c_banho",
+    "class": "pertinente",
+    "ref": "p. 189",
+    "label": {
+     "pt": "Banhos de assento 15 minutos, 2 a 3 vezes ao dia",
+     "en": "Sitz baths 15 minutes, 2–3 times a day"
+    },
+    "why": {
+     "pt": "Medida de suporte (Caso 1).",
+     "en": "Supportive measure (Case 1)."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "orientacao"
+   },
+   {
+    "id": "c_alta",
+    "class": "essencial",
+    "ref": "p. 188–189",
+    "label": {
+     "pt": "Alta após drenagem, com retorno se piora",
+     "en": "Discharge after drainage with return precautions"
+    },
+    "why": {
+     "pt": "Drenagem ambulatorial no consultório.",
+     "en": "Outpatient in-office drainage."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "destino"
+   },
+   {
+    "id": "c_mantem",
+    "class": "essencial",
+    "ref": "p. 190",
+    "label": {
+     "pt": "Manter internação em isolamento com a hematologia",
+     "en": "Keep in isolation under hematology care"
+    },
+    "why": {
+     "pt": "Paciente pós-transplante, imunossuprimida.",
+     "en": "Post-transplant immunocompromised patient."
+    },
+    "levels": [
+     3
+    ],
+    "group": "destino"
+   },
+   {
+    "id": "c_intern",
+    "class": "desnecessaria",
+    "ref": "p. 187",
+    "label": {
+     "pt": "Internação para drenagem em bloco cirúrgico",
+     "en": "Admission for drainage in the OR"
+    },
+    "why": {
+     "pt": "O abscesso pode ser drenado no consultório.",
+     "en": "The abscess can be drained in the office."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "destino"
+   }
+  ]
+ }
+}

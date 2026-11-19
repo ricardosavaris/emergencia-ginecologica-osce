@@ -214,7 +214,7 @@
     c.innerHTML = S.chart.map((e) => `
       <div class="entry ${e.kind}">
         <div class="entry-q">${esc(e.labelKey ? t(e.labelKey) : tx(e.label))}</div>
-        <div class="entry-a">${esc(e.dxIds ? e.dxIds.map(dxl).join(" · ") : tx(e.text))}</div>
+        <div class="entry-a">${esc(e.dxIds ? e.dxIds.map(dxl).join(" · ") : e.textKey ? t(e.textKey) : tx(e.text))}</div>
       </div>`).join("");
     c.scrollTop = c.scrollHeight;
   }
@@ -279,7 +279,7 @@
       <p class="muted">${t("stageIntro." + stage)}</p>
       ${body}
       <p class="hint" id="hint"></p>
-      <div class="actions"><button class="primary" id="go">${stage === "conduta" ? t("finish") : t("conclude")}</button></div>`;
+      <div class="actions"><button class="primary" id="go">${stage === "conduta" ? t("finish") : t("conclude")}</button>${(stage === "lab" || stage === "imagem") && !sel.length ? `<button id="none">${t("noneNeeded")}</button>` : ""}</div>`;
 
     st.querySelectorAll(".item:not([disabled])").forEach((b) => (b.onclick = () => {
       const id = b.dataset.id;
@@ -298,6 +298,8 @@
       checkDeterioration();
       if (S.stage === stage) renderItemsKeepScroll(st, stage);
     }));
+    const none = st.querySelector("#none");
+    if (none) none.onclick = () => { S.chart.push({ kind: stage, labelKey: "stages." + stage, textKey: "noneRequested" }); nextStage(); };
     st.querySelector("#go").onclick = () => {
       if (!S.selected[stage].length) { st.querySelector("#hint").textContent = t("needOne"); return; }
       if (stage === "conduta") return finishCase();

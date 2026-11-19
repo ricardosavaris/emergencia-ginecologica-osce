@@ -1,0 +1,861 @@
+{
+ "id": "c10",
+ "title": {
+  "pt": "Dor e secreção após cirurgia",
+  "en": "Pain and drainage after surgery"
+ },
+ "chapter": {
+  "pt": "Infecção de sítio cirúrgico",
+  "en": "Surgical site infection"
+ },
+ "pages": "p. 194–206",
+ "base": {
+  "triage": {
+   "pt": "Puérpera de 31 anos, no 6º dia de pós-operatório de cesárea, procura a emergência por dor e saída de secreção pela ferida operatória.",
+   "en": "31-year-old woman on postoperative day 6 after cesarean delivery presents with pain and drainage from the incision."
+  },
+  "vitals": {
+   "PA": "118/72 mmHg",
+   "FC": "88 bpm",
+   "FR": "16 mrpm",
+   "Tax": "37,4 °C",
+   "SpO2": "98%"
+  },
+  "correctDiagnosis": "superficial",
+  "diagnosisExplanation": {
+   "pt": "Drenagem purulenta da incisão envolvendo pele e subcutâneo, aponeurose íntegra, eritema de 2 cm, sem sinais sistêmicos: ISC incisional superficial (critérios CDC, p. 197). Tratamento: abertura da incisão e drenagem, curativo aberto com gazes embebidas em soro fisiológico; antibiótico desnecessário (eritema < 5 cm, temperatura < 38,5 °C, FC < 100 bpm, leucócitos < 12.000/µL; p. 199–201; Pérolas 5–6, p. 204).",
+   "en": "Purulent drainage from the incision involving skin and subcutaneous tissue, intact fascia, 2-cm erythema, no systemic signs: superficial incisional SSI (CDC criteria, p. 197). Treatment: open and drain the incision, open dressing with saline-soaked gauze; antibiotics unnecessary (erythema < 5 cm, temperature < 38.5 °C, HR < 100 bpm, WBC < 12,000/µL; p. 199–201; Pearls 5–6, p. 204)."
+  },
+  "learning": {
+   "pt": "A drenagem cirúrgica é o pilar do tratamento; a suspeita de ISC não justifica antibiótico isolado, salvo celulite isolada (p. 199; Pérola 5, p. 204). Antibióticos podem ser úteis com temperatura > 38,5 °C, FC > 110 bpm, eritema > 5 cm da margem ou leucócitos > 12.000/µL (p. 199–200).\nApós abrir, verifique a integridade da aponeurose com o dedo e mantenha a ferida aberta; não abra pertuito pequeno de 5 mm (Pérolas 3–4, p. 203–204). Líquido citrino e fluido é seroma; pus é espesso (Pérola 2, p. 203).\nDor desproporcional, anestesia local ou crepitação sugerem fasciíte necrosante: desbridamento cirúrgico de emergência (Pérola 7, p. 204).",
+   "en": "Surgical drainage is the cornerstone; suspected SSI does not justify antibiotics alone except for isolated cellulitis (p. 199; Pearl 5, p. 204). Antibiotics may help with temperature > 38.5 °C, HR > 110 bpm, erythema > 5 cm from the margin or WBC > 12,000/µL (p. 199–200).\nAfter opening, check fascial integrity with a finger and keep the wound open; do not make a small 5-mm opening (Pearls 3–4, p. 203–204). Clear, straw-colored fluid is a seroma; pus is thick (Pearl 2, p. 203).\nDisproportionate pain, local anesthesia or crepitus suggest necrotizing fasciitis: emergency surgical debridement (Pearl 7, p. 204)."
+  }
+ },
+ "levels": {
+  "3": {
+   "triage": {
+    "pt": "Mulher de 45 anos, no 7º dia de pós-operatório de histerectomia laparoscópica por leiomiomatose, refere dor pélvica de início súbito há 24 horas, calafrios e secreção vaginal com odor fétido.",
+    "en": "45-year-old woman on postoperative day 7 after laparoscopic hysterectomy for fibroids reports sudden pelvic pain for 24 hours, chills and foul-smelling vaginal discharge."
+   },
+   "vitals": {
+    "PA": "116/70 mmHg",
+    "FC": "106 bpm",
+    "FR": "18 mrpm",
+    "Tax": "38,8 °C",
+    "SpO2": "98%"
+   },
+   "correctDiagnosis": "orgao",
+   "diagnosisExplanation": {
+    "pt": "Febre, dor pélvica, secreção fétida, abaulamento doloroso da cúpula com drenagem purulenta e coleção de 6 cm: ISC de órgão/espaço (abscesso de cúpula vaginal). A dor e o abaulamento doloroso na cúpula são evidência anatômica suficiente (VPP 100%; Caso 2, p. 202–203). Readmissão, cultura por aspiração e ceftriaxona 1 g/dia + metronidazol 500 mg IV 8/8 h, com transição oral para amoxicilina-clavulanato.",
+    "en": "Fever, pelvic pain, foul discharge, a tender bulging vaginal cuff with purulent drainage and a 6-cm collection: organ/space SSI (vaginal cuff abscess). Pain and a tender cuff bulge are sufficient anatomic evidence (PPV 100%; Case 2, p. 202–203). Readmission, culture by aspiration and ceftriaxone 1 g/day + metronidazole 500 mg IV every 8 h, with oral step-down to amoxicillin-clavulanate."
+   },
+   "learning": {
+    "pt": "A infecção de cúpula exige cobertura para gram-negativos e anaeróbios; manter IV por 24 a 48 h após a melhora e completar 10 a 14 dias por via oral (p. 201).\nA drenagem (vaginal, guiada por imagem ou cirúrgica) é reservada para falha terapêutica, coleções ≥ 7 cm, leucócitos > 16.000/µL ou sepse (p. 201). Colete o material por aspiração, evitando swabs (Caso 2, p. 202–203).\nHemoculturas detectam bacteremia secundária, não a infecção local; não entram no diagnóstico primário (p. 198).",
+    "en": "Cuff infection requires coverage of gram-negatives and anaerobes; continue IV for 24–48 h after improvement and complete 10–14 days orally (p. 201).\nDrainage (vaginal, image-guided or surgical) is reserved for treatment failure, collections ≥ 7 cm, WBC > 16,000/µL or sepsis (p. 201). Collect material by aspiration, avoiding swabs (Case 2, p. 202–203).\nBlood cultures detect secondary bacteremia, not the local infection; they are not part of the primary diagnosis (p. 198)."
+   },
+   "timerMinutes": 12
+  }
+ },
+ "diagnoses": [
+  {
+   "id": "superficial",
+   "label": {
+    "pt": "ISC incisional superficial",
+    "en": "Superficial incisional SSI"
+   }
+  },
+  {
+   "id": "profunda",
+   "label": {
+    "pt": "ISC incisional profunda",
+    "en": "Deep incisional SSI"
+   }
+  },
+  {
+   "id": "orgao",
+   "label": {
+    "pt": "ISC de órgão/espaço",
+    "en": "Organ/space SSI"
+   }
+  },
+  {
+   "id": "seroma",
+   "label": {
+    "pt": "Seroma de ferida operatória",
+    "en": "Wound seroma"
+   }
+  },
+  {
+   "id": "celulite",
+   "label": {
+    "pt": "Celulite da ferida sem coleção",
+    "en": "Wound cellulitis without collection"
+   }
+  },
+  {
+   "id": "fasciite",
+   "label": {
+    "pt": "Fasciíte necrosante",
+    "en": "Necrotizing fasciitis"
+   }
+  },
+  {
+   "id": "endometrite",
+   "label": {
+    "pt": "Endometrite puerperal",
+    "en": "Postpartum endometritis"
+   }
+  },
+  {
+   "id": "deisc",
+   "label": {
+    "pt": "Deiscência de aponeurose",
+    "en": "Fascial dehiscence"
+   }
+  }
+ ],
+ "stages": {
+  "anamnese": [
+   {
+    "id": "a_cirurgia",
+    "class": "essencial",
+    "ref": "p. 194, 197",
+    "label": {
+     "pt": "Tipo e data da cirurgia",
+     "en": "Type and date of surgery"
+    },
+    "result": {
+     "pt": "Cesárea de emergência há 6 dias, por sofrimento fetal.",
+     "en": "Emergency cesarean 6 days ago for fetal distress."
+    },
+    "why": {
+     "pt": "O período de vigilância (30 a 90 dias) e a classificação dependem do procedimento.",
+     "en": "The surveillance window (30–90 days) and classification depend on the procedure."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Histerectomia laparoscópica total há 7 dias.",
+       "en": "Total laparoscopic hysterectomy 7 days ago."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_secrecao",
+    "class": "essencial",
+    "ref": "p. 203",
+    "label": {
+     "pt": "Aspecto da secreção",
+     "en": "Character of the drainage"
+    },
+    "result": {
+     "pt": "Secreção amarelada, espessa, desde ontem.",
+     "en": "Thick yellow drainage since yesterday."
+    },
+    "why": {
+     "pt": "Líquido citrino e fluido é seroma; exsudato espesso amarelado é pus (Pérola 2).",
+     "en": "Clear straw-colored fluid is seroma; thick yellow exudate is pus (Pearl 2)."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Secreção vaginal purulenta com odor fétido.",
+       "en": "Purulent, foul-smelling vaginal discharge."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_febre",
+    "class": "essencial",
+    "ref": "p. 199–200",
+    "label": {
+     "pt": "Febre e calafrios",
+     "en": "Fever and chills"
+    },
+    "result": {
+     "pt": "Nega febre aferida.",
+     "en": "Denies measured fever."
+    },
+    "why": {
+     "pt": "Temperatura > 38,5 °C é um dos critérios para antibiótico.",
+     "en": "Temperature > 38.5 °C is one of the criteria for antibiotics."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Calafrios desde ontem.",
+       "en": "Chills since yesterday."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_dor",
+    "class": "essencial",
+    "ref": "p. 202, 204",
+    "label": {
+     "pt": "Intensidade e caráter da dor",
+     "en": "Pain severity and character"
+    },
+    "result": {
+     "pt": "Dor local moderada, proporcional ao achado.",
+     "en": "Moderate local pain, proportional to findings."
+    },
+    "why": {
+     "pt": "Dor desproporcional é alerta para fasciíte necrosante ou coleção profunda.",
+     "en": "Disproportionate pain is a red flag for necrotizing fasciitis or a deep collection."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Dor pélvica intensa, de início súbito há 24 h.",
+       "en": "Severe pelvic pain, sudden onset 24 h ago."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_risco",
+    "class": "pertinente",
+    "ref": "p. 196–197",
+    "label": {
+     "pt": "Fatores de risco (IMC, tabagismo, tempo cirúrgico, sangramento)",
+     "en": "Risk factors (BMI, smoking, operative time, blood loss)"
+    },
+    "result": {
+     "pt": "IMC 32 kg/m²; tabagista.",
+     "en": "BMI 32 kg/m²; smoker."
+    },
+    "why": {
+     "pt": "Cesárea de emergência (OR 4,27) e IMC ≥ 24 kg/m² (OR 2,66) aumentam o risco.",
+     "en": "Emergency cesarean (OR 4.27) and BMI ≥ 24 kg/m² (OR 2.66) increase risk."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "IMC 27 kg/m²; tempo cirúrgico de 150 minutos.",
+       "en": "BMI 27 kg/m²; operative time 150 minutes."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_alergia",
+    "class": "pertinente",
+    "ref": "p. 200",
+    "label": {
+     "pt": "Alergias medicamentosas",
+     "en": "Drug allergies"
+    },
+    "result": {
+     "pt": "Nega.",
+     "en": "Denies."
+    },
+    "why": {
+     "pt": "Necessário antes de prescrever antimicrobianos.",
+     "en": "Required before prescribing antimicrobials."
+    }
+   },
+   {
+    "id": "a_dum",
+    "class": "desnecessaria",
+    "ref": "p. 197",
+    "label": {
+     "pt": "Data da última menstruação",
+     "en": "Last menstrual period"
+    },
+    "result": {
+     "pt": "Não se aplica.",
+     "en": "Not applicable."
+    },
+    "why": {
+     "pt": "Não integra os critérios de ISC.",
+     "en": "Not part of SSI criteria."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   }
+  ],
+  "exame": [
+   {
+    "id": "e_ferida",
+    "class": "essencial",
+    "ref": "p. 197, 204",
+    "label": {
+     "pt": "Inspeção da incisão com medida do eritema por régua a partir da borda",
+     "en": "Incision inspection measuring erythema with a ruler from the edge"
+    },
+    "result": {
+     "pt": "Eritema de 2 cm a partir da borda; saída de pus à expressão do ângulo direito.",
+     "en": "2-cm erythema from the edge; pus expressed from the right corner."
+    },
+    "why": {
+     "pt": "Regra dos 5 cm: eritema < 5 cm com paciente bem dispensa antibiótico (Pérola 6).",
+     "en": "5-cm rule: erythema < 5 cm in a well patient does not require antibiotics (Pearl 6)."
+    },
+    "byLevel": {
+     "3": {
+      "class": "pertinente",
+      "result": {
+       "pt": "Incisões dos portais sem sinais flogísticos.",
+       "en": "Port incisions without inflammatory signs."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_fasciite",
+    "class": "essencial",
+    "ref": "p. 200, 204",
+    "label": {
+     "pt": "Sinais de fasciíte necrosante (dor desproporcional, anestesia local, crepitação, odor pútrido)",
+     "en": "Signs of necrotizing fasciitis (disproportionate pain, local anesthesia, crepitus, putrid odor)"
+    },
+    "result": {
+     "pt": "Ausentes.",
+     "en": "Absent."
+    },
+    "why": {
+     "pt": "O pior erro é subestimar uma infecção grave (Pérola 7).",
+     "en": "The worst error is underestimating a severe infection (Pearl 7)."
+    }
+   },
+   {
+    "id": "e_abd",
+    "class": "pertinente",
+    "ref": "p. 197",
+    "label": {
+     "pt": "Exame abdominal",
+     "en": "Abdominal exam"
+    },
+    "result": {
+     "pt": "Sem sinais de irritação peritoneal.",
+     "en": "No peritoneal signs."
+    },
+    "why": {
+     "pt": "Afasta infecção de órgão/espaço.",
+     "en": "Helps exclude organ/space infection."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Dor em hipogástrio, sem irritação peritoneal difusa.",
+       "en": "Suprapubic tenderness without diffuse peritoneal signs."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_toque",
+    "class": "pertinente",
+    "ref": "p. 198, 202",
+    "label": {
+     "pt": "Toque vaginal",
+     "en": "Bimanual exam"
+    },
+    "result": {
+     "pt": "Útero involuindo, indolor; lóquios sem odor.",
+     "en": "Involuting, non-tender uterus; lochia without odor."
+    },
+    "why": {
+     "pt": "Avalia endometrite (critério específico de órgão/espaço na cesariana).",
+     "en": "Assesses endometritis (organ/space criterion after cesarean)."
+    },
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "result": {
+       "pt": "Abaulamento na cúpula vaginal, muito doloroso.",
+       "en": "Bulging, very tender vaginal cuff."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_espec",
+    "class": "desnecessaria",
+    "ref": "p. 198",
+    "label": {
+     "pt": "Exame especular",
+     "en": "Speculum exam"
+    },
+    "result": {
+     "pt": "Lóquios serossanguinolentos.",
+     "en": "Serosanguineous lochia."
+    },
+    "why": {
+     "pt": "Não acrescenta ao diagnóstico da ISC incisional.",
+     "en": "Adds nothing to diagnosing incisional SSI."
+    },
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "result": {
+       "pt": "Drenagem purulenta ativa pela cúpula vaginal.",
+       "en": "Active purulent drainage from the vaginal cuff."
+      },
+      "why": {
+       "pt": "Drenagem purulenta da cúpula é critério de infecção de cúpula vaginal.",
+       "en": "Purulent cuff drainage is a criterion for vaginal cuff infection."
+      }
+     }
+    }
+   }
+  ],
+  "lab": [
+   {
+    "id": "l_hemo",
+    "class": "pertinente",
+    "ref": "p. 200",
+    "label": {
+     "pt": "Hemograma",
+     "en": "Complete blood count"
+    },
+    "result": {
+     "pt": "Leucócitos 10.800/µL.",
+     "en": "WBC 10,800/µL."
+    },
+    "why": {
+     "pt": "Leucócitos > 12.000/µL é critério para antibiótico.",
+     "en": "WBC > 12,000/µL is a criterion for antibiotics."
+    },
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "result": {
+       "pt": "Leucócitos 14.600/µL.",
+       "en": "WBC 14,600/µL."
+      },
+      "why": {
+       "pt": "Leucócitos > 16.000/µL indicariam drenagem; acompanha a resposta.",
+       "en": "WBC > 16,000/µL would indicate drainage; tracks response."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_cult",
+    "class": "pertinente",
+    "ref": "p. 197–199",
+    "label": {
+     "pt": "Cultura do material obtido de forma asséptica",
+     "en": "Culture of aseptically obtained material"
+    },
+    "result": {
+     "pt": "Staphylococcus aureus sensível a oxacilina.",
+     "en": "Methicillin-susceptible Staphylococcus aureus."
+    },
+    "why": {
+     "pt": "Padrão-ouro microbiológico (sensibilidade 91%, especificidade 96%).",
+     "en": "Microbiologic gold standard (sensitivity 91%, specificity 96%)."
+    },
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "label": {
+       "pt": "Gram e cultura aeróbia e anaeróbia do material aspirado (sem swab)",
+       "en": "Gram stain and aerobic/anaerobic culture of aspirated material (no swab)"
+      },
+      "result": {
+       "pt": "Flora mista: E. coli e Bacteroides fragilis.",
+       "en": "Mixed flora: E. coli and Bacteroides fragilis."
+      },
+      "why": {
+       "pt": "A aspiração evita o swab e aumenta a acurácia bacteriológica (Caso 2).",
+       "en": "Aspiration avoids swabs and improves bacteriologic accuracy (Case 2)."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_hemoc",
+    "class": "desnecessaria",
+    "ref": "p. 198–199",
+    "label": {
+     "pt": "Hemoculturas",
+     "en": "Blood cultures"
+    },
+    "result": {
+     "pt": "Negativas.",
+     "en": "Negative."
+    },
+    "why": {
+     "pt": "Detectam bacteremia secundária, não a infecção local; nos primeiros 10 dias, apenas 4% identificam patógenos.",
+     "en": "Detect secondary bacteremia, not local infection; in the first 10 days only 4% identify pathogens."
+    }
+   },
+   {
+    "id": "l_pcr",
+    "class": "desnecessaria",
+    "ref": "p. 198",
+    "label": {
+     "pt": "Proteína C-reativa",
+     "en": "C-reactive protein"
+    },
+    "result": {
+     "pt": "24 mg/L.",
+     "en": "24 mg/L."
+    },
+    "why": {
+     "pt": "Não altera a conduta da ISC superficial.",
+     "en": "Does not change management of superficial SSI."
+    },
+    "byLevel": {
+     "3": {
+      "class": "pertinente",
+      "result": {
+       "pt": "168 mg/L.",
+       "en": "168 mg/L."
+      },
+      "why": {
+       "pt": "PCR elevada integra a suspeita de infecção de cúpula.",
+       "en": "Elevated CRP is part of the suspicion of cuff infection."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_swab",
+    "class": "desnecessaria",
+    "ref": "p. 202–203",
+    "label": {
+     "pt": "Swab superficial da secreção",
+     "en": "Superficial swab of the discharge"
+    },
+    "result": {
+     "pt": "Flora mista.",
+     "en": "Mixed flora."
+    },
+    "why": {
+     "pt": "A coleta por aspiração é preferível ao swab para maior acurácia.",
+     "en": "Aspiration is preferred to swabs for greater accuracy."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   }
+  ],
+  "imagem": [
+   {
+    "id": "i_us",
+    "class": "pertinente",
+    "ref": "p. 198–199, 203",
+    "label": {
+     "pt": "Ultrassonografia de parede abdominal",
+     "en": "Abdominal wall ultrasound"
+    },
+    "result": {
+     "pt": "Coleção subcutânea de 2 cm; aponeurose contínua.",
+     "en": "2-cm subcutaneous collection; continuous fascia."
+    },
+    "why": {
+     "pt": "Identifica coleções; na falta de imagem, a aspiração com agulha grossa é alternativa (Pérola 1).",
+     "en": "Identifies collections; without imaging, aspiration with a large needle is an alternative (Pearl 1)."
+    },
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "label": {
+       "pt": "Ultrassonografia transvaginal",
+       "en": "Transvaginal ultrasound"
+      },
+      "result": {
+       "pt": "Coleção de 6 cm na cúpula vaginal, compatível com abscesso.",
+       "en": "6-cm collection at the vaginal cuff, consistent with abscess."
+      },
+      "why": {
+       "pt": "Identifica abscesso de órgão/espaço e o tamanho (≥ 7 cm indica drenagem).",
+       "en": "Identifies organ/space abscess and its size (≥ 7 cm indicates drainage)."
+      }
+     }
+    }
+   },
+   {
+    "id": "i_tc",
+    "class": "desnecessaria",
+    "ref": "p. 199, 202",
+    "label": {
+     "pt": "Tomografia de abdome e pelve",
+     "en": "Abdominal and pelvic CT"
+    },
+    "result": {
+     "pt": "Coleção subcutânea sem extensão profunda.",
+     "en": "Subcutaneous collection without deep extension."
+    },
+    "why": {
+     "pt": "Indicada se dor desproporcional após a drenagem ou suspeita de órgão/espaço (TC: LR+ 2,53, LR− 0,18).",
+     "en": "Indicated for disproportionate pain after drainage or suspected organ/space infection (CT: LR+ 2.53, LR− 0.18)."
+    },
+    "byLevel": {
+     "3": {
+      "class": "pertinente",
+      "result": {
+       "pt": "Coleção de 6 cm na cúpula vaginal, sem outras coleções.",
+       "en": "6-cm vaginal cuff collection, no other collections."
+      }
+     }
+    }
+   }
+  ],
+  "conduta": [
+   {
+    "id": "c_abrir",
+    "class": "essencial",
+    "ref": "p. 199, 204",
+    "label": {
+     "pt": "Retirar os pontos e abrir amplamente a incisão para drenagem",
+     "en": "Remove sutures and widely open the incision for drainage"
+    },
+    "why": {
+     "pt": "A drenagem cirúrgica é o tratamento primário (Pérola 5).",
+     "en": "Surgical drainage is the primary treatment (Pearl 5)."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "procedimento"
+   },
+   {
+    "id": "c_aponeur",
+    "class": "essencial",
+    "ref": "p. 203",
+    "label": {
+     "pt": "Verificar a integridade da aponeurose com o dedo enluvado",
+     "en": "Check fascial integrity with a gloved finger"
+    },
+    "why": {
+     "pt": "Pérola 3.",
+     "en": "Pearl 3."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "procedimento"
+   },
+   {
+    "id": "c_curativo",
+    "class": "essencial",
+    "ref": "p. 204",
+    "label": {
+     "pt": "Curativo aberto com gazes embebidas em soro fisiológico, com trocas",
+     "en": "Open dressing with saline-soaked gauze and dressing changes"
+    },
+    "why": {
+     "pt": "Cicatrização das partes profundas para fora (Pérola 4).",
+     "en": "Healing from the depth outward (Pearl 4)."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "procedimento"
+   },
+   {
+    "id": "c_pertuito",
+    "class": "contraindicada",
+    "ref": "p. 204",
+    "label": {
+     "pt": "Abrir pequeno pertuito de 5 mm para drenar",
+     "en": "Make a small 5-mm opening to drain"
+    },
+    "why": {
+     "pt": "O pertuito fecha e o pus reacumula (Pérola 4).",
+     "en": "The opening closes and pus reaccumulates (Pearl 4)."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "procedimento"
+   },
+   {
+    "id": "c_cefalex_l1",
+    "class": "desnecessaria",
+    "ref": "p. 200–201",
+    "label": {
+     "pt": "Antibiótico oral",
+     "en": "Oral antibiotic"
+    },
+    "why": {
+     "pt": "Sem sinais sistêmicos e eritema < 5 cm, antibióticos são desnecessários.",
+     "en": "Without systemic signs and erythema < 5 cm, antibiotics are unnecessary."
+    },
+    "levels": [
+     1
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_cefalex",
+    "class": "desnecessaria",
+    "ref": "p. 200–201",
+    "label": {
+     "pt": "Cefalexina 500 mg VO 6/6 h por 7 dias",
+     "en": "Cephalexin 500 mg PO every 6 h for 7 days"
+    },
+    "why": {
+     "pt": "Sem sinais sistêmicos e eritema < 5 cm, antibióticos são desnecessários.",
+     "en": "Without systemic signs and erythema < 5 cm, antibiotics are unnecessary."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "medicamento",
+    "byLevel": {
+     "3": {
+      "why": {
+       "pt": "Infecção de órgão/espaço com sinais sistêmicos exige esquema IV com cobertura para anaeróbios.",
+       "en": "Organ/space infection with systemic signs requires an IV regimen covering anaerobes."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_ivsem",
+    "class": "desnecessaria",
+    "ref": "p. 200",
+    "label": {
+     "pt": "Ceftriaxona 1 g IV/dia + metronidazol 500 mg IV 8/8 h",
+     "en": "Ceftriaxone 1 g IV daily + metronidazole 500 mg IV every 8 h"
+    },
+    "why": {
+     "pt": "Esquema IV para sinais sistêmicos ou infecção profunda; não é o caso.",
+     "en": "IV regimen for systemic signs or deep infection; not the case here."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "medicamento",
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "why": {
+       "pt": "Cobertura de gram-negativos e anaeróbios na infecção de cúpula (Caso 2).",
+       "en": "Covers gram-negatives and anaerobes in cuff infection (Case 2)."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_amoxvo",
+    "class": "essencial",
+    "ref": "p. 201, 203",
+    "label": {
+     "pt": "Após 24 a 48 h afebril: amoxicilina-clavulanato VO até completar 10 a 14 dias",
+     "en": "After 24–48 h afebrile: oral amoxicillin-clavulanate to complete 10–14 days"
+    },
+    "why": {
+     "pt": "Transição oral após a melhora clínica.",
+     "en": "Oral step-down after clinical improvement."
+    },
+    "levels": [
+     3
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_drencir",
+    "class": "desnecessaria",
+    "ref": "p. 201",
+    "label": {
+     "pt": "Drenagem cirúrgica ou guiada por imagem do abscesso",
+     "en": "Surgical or image-guided drainage of the abscess"
+    },
+    "why": {
+     "pt": "Reservada para falha terapêutica, coleção ≥ 7 cm, leucócitos > 16.000/µL ou sepse.",
+     "en": "Reserved for treatment failure, collection ≥ 7 cm, WBC > 16,000/µL or sepsis."
+    },
+    "levels": [
+     3
+    ],
+    "group": "procedimento"
+   },
+   {
+    "id": "c_desbrid",
+    "class": "desnecessaria",
+    "ref": "p. 204",
+    "label": {
+     "pt": "Desbridamento cirúrgico de emergência",
+     "en": "Emergency surgical debridement"
+    },
+    "why": {
+     "pt": "Indicado na suspeita de fasciíte necrosante; ausente aqui.",
+     "en": "Indicated for suspected necrotizing fasciitis; absent here."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "procedimento"
+   },
+   {
+    "id": "c_retorno",
+    "class": "essencial",
+    "ref": "p. 204",
+    "label": {
+     "pt": "Orientar trocas de curativo e retorno se febre, piora da dor ou do eritema",
+     "en": "Counsel on dressing changes and return for fever, worsening pain or erythema"
+    },
+    "why": {
+     "pt": "Seguimento da ferida aberta.",
+     "en": "Open-wound follow-up."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "orientacao"
+   },
+   {
+    "id": "c_alta",
+    "class": "essencial",
+    "ref": "p. 199",
+    "label": {
+     "pt": "Alta com seguimento ambulatorial da ferida",
+     "en": "Discharge with outpatient wound follow-up"
+    },
+    "why": {
+     "pt": "ISC superficial sem sinais sistêmicos.",
+     "en": "Superficial SSI without systemic signs."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "destino"
+   },
+   {
+    "id": "c_readm",
+    "class": "desnecessaria",
+    "ref": "p. 202–203",
+    "label": {
+     "pt": "Readmissão hospitalar",
+     "en": "Hospital readmission"
+    },
+    "why": {
+     "pt": "Sem sinais sistêmicos, o manejo é ambulatorial.",
+     "en": "Without systemic signs, management is outpatient."
+    },
+    "group": "destino",
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "why": {
+       "pt": "Sinais sistêmicos e infecção de órgão/espaço exigem readmissão (Caso 2).",
+       "en": "Systemic signs and organ/space infection require readmission (Case 2)."
+      }
+     }
+    }
+   }
+  ]
+ }
+}

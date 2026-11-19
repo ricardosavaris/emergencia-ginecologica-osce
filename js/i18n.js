@@ -34,7 +34,7 @@ const UI = {
       diagnostico: "Com base nos dados coletados, escolha o diagnóstico principal.",
       conduta: "Prescreva a conduta: medicamentos, procedimentos, orientações e destino. Selecione todos os itens que considerar corretos e finalize."
     },
-    needOne: "Selecione ao menos um item para concluir a etapa.",
+    needOne: "Selecione ao menos um item para concluir a etapa (nos exames, use \"Nenhum exame necessário\" se for o caso).",
     conclude: "Concluir etapa",
     next: "Avançar",
     back: "Voltar ao início",
@@ -74,6 +74,8 @@ const UI = {
     loadError: "Não foi possível carregar o caso.",
     block: "Bloco",
     maxCol: "máx.",
+    noneNeeded: "Nenhum exame necessário nesta etapa",
+    noneRequested: "Nenhum exame solicitado.",
     exit: "Sair do caso",
     exitConfirm: "Sair do caso? O progresso será perdido."
   },
@@ -111,7 +113,7 @@ const UI = {
       diagnostico: "Based on the data collected, choose the primary diagnosis.",
       conduta: "Write the management plan: drugs, procedures, counseling and disposition. Select every item you consider correct and finish."
     },
-    needOne: "Select at least one item to complete this step.",
+    needOne: "Select at least one item to complete this step (for tests, use \"No tests needed\" if appropriate).",
     conclude: "Complete step",
     next: "Next",
     back: "Back to start",
@@ -151,6 +153,8 @@ const UI = {
     loadError: "Could not load the case.",
     block: "Block",
     maxCol: "max.",
+    noneNeeded: "No tests needed at this step",
+    noneRequested: "No tests ordered.",
     exit: "Exit case",
     exitConfirm: "Exit the case? Progress will be lost."
   }

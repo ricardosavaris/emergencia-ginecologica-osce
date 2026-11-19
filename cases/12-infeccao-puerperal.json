@@ -1,0 +1,994 @@
+{
+ "id": "c12",
+ "title": {
+  "pt": "Febre no puerpério",
+  "en": "Postpartum fever"
+ },
+ "chapter": {
+  "pt": "Infecção puerperal",
+  "en": "Puerperal infection"
+ },
+ "pages": "p. 223–247",
+ "base": {
+  "triage": {
+   "pt": "Puérpera de 27 anos, no 5º dia após cesárea, procura a emergência por febre e dor em baixo ventre desde ontem.",
+   "en": "27-year-old woman on day 5 after cesarean delivery presents with fever and lower abdominal pain since yesterday."
+  },
+  "vitals": {
+   "PA": "114/70 mmHg",
+   "FC": "104 bpm",
+   "FR": "20 mrpm",
+   "Tax": "38,6 °C",
+   "SpO2": "98%"
+  },
+  "correctDiagnosis": "endometrite",
+  "diagnosisExplanation": {
+   "pt": "Febre, dor uterina e lóquios purulentos e fétidos (2 ou mais dos 3 critérios do CDC), com útero subinvoluído e sem outro foco pelos 5 Ws: endometrite puerperal pós-cesárea (p. 223, 228). q-SOFA-P negativo (pós-teste 4,7%). Tratamento: clindamicina 2.700 mg + gentamicina 240 mg IV em 250 mL de SF em 1 h, dose única diária (cura 96%; IC95%: 90 a 98%); sem antibiótico após a alta (p. 234–235).",
+   "en": "Fever, uterine tenderness and purulent foul lochia (2 or more of the 3 CDC criteria), with uterine subinvolution and no other source on the 5 Ws: post-cesarean endometritis (p. 223, 228). Negative q-SOFA-P (post-test 4.7%). Treatment: clindamycin 2,700 mg + gentamicin 240 mg IV in 250 mL NS over 1 h, once daily (cure 96%; 95% CI 90–98%); no antibiotics after discharge (p. 234–235)."
+  },
+  "learning": {
+   "pt": "Na puérpera, pense em útero subinvoluído, doloroso e com lóquios aumentados (p. 223). Aplique os 5 Ws: wind, water, wound, walk, women (mamas, útero, episiotomia) (p. 228–229); no Caso 1, a hipótese de endometrite era, na verdade, pielonefrite (p. 238).\nO tratamento depende da via de parto: vaginal, amoxicilina-clavulanato 500/125 mg VO 8/8 h por 7 dias; cesárea, clindamicina + gentamicina IV (p. 234). Qualquer puérpera que procura a emergência após a alta é sinal de alerta (p. 228).",
+   "en": "In the postpartum woman, think of a subinvoluted, tender uterus with increased lochia (p. 223). Apply the 5 Ws: wind, water, wound, walk, women (breasts, uterus, episiotomy) (p. 228–229); in Case 1, presumed endometritis was actually pyelonephritis (p. 238).\nTreatment depends on mode of delivery: vaginal, amoxicillin-clavulanate 500/125 mg PO every 8 h for 7 days; cesarean, IV clindamycin + gentamicin (p. 234). Any postpartum woman returning to the emergency department after discharge is a red flag (p. 228)."
+  }
+ },
+ "levels": {
+  "3": {
+   "triage": {
+    "pt": "Puérpera de 36 anos, G4P4, parto vaginal com laceração perineal de 2º grau suturada, recebeu alta ontem. Retorna 21 horas depois com dor abdominal e perineal intensas. O recém-nascido segue internado.",
+    "en": "36-year-old woman, G4P4, vaginal birth with a repaired second-degree perineal laceration, discharged yesterday. She returns 21 hours later with severe abdominal and perineal pain. The newborn remains hospitalized."
+   },
+   "vitals": {
+    "PA": "126/74 mmHg",
+    "FC": "118 bpm",
+    "FR": "17 mrpm",
+    "Tax": "36,9 °C",
+    "SpO2": "99%"
+   },
+   "correctDiagnosis": "gas",
+   "diagnosisExplanation": {
+    "pt": "Dor intensa (EVA 10), taquicardia, útero 2 cm acima da cicatriz umbilical, colo aberto, endométrio de 40 mm, deiscência perineal purulenta e recém-nascido com sepse por Streptococcus pyogenes: infecção puerperal grave por estreptococo do grupo A (endometrite com suspeita de miometrite e infecção perineal), apesar de q-SOFA-P negativo e ausência de febre (Caso 2, p. 239–240).",
+    "en": "Severe pain (VAS 10), tachycardia, uterus 2 cm above the umbilicus, open cervix, 40-mm endometrium, purulent perineal dehiscence and a newborn with Streptococcus pyogenes sepsis: severe group A streptococcal puerperal infection (endometritis with suspected myometritis and perineal infection), despite a negative q-SOFA-P and no fever (Case 2, p. 239–240)."
+   },
+   "learning": {
+    "pt": "O q-SOFA-P pode não identificar a sepse; dor intensa, subinvolução, material intrauterino e sepse neonatal por GAS exigem conduta rápida: hemoculturas, antimicrobianos e esvaziamento uterino (Caso 2, p. 240). Com GAS, poderia ter sido iniciado ampicilina + clindamicina + gentamicina (p. 240).\nBundle da primeira hora: lactato (repetir em 1 h se > 2 mmol/L), hemoculturas antes do antibiótico, antibiótico de amplo espectro IV, 30 mL/kg de cristaloide se hipotensão ou lactato ≥ 4 mmol/L, noradrenalina se PAM < 65 mmHg após fluidos e oxigênio para saturação de 94% a 98% (p. 233). Sem boa evolução, considerar histerectomia pela hipótese de miometrite (p. 240).",
+    "en": "The q-SOFA-P may miss sepsis; severe pain, subinvolution, intrauterine material and neonatal GAS sepsis require rapid action: blood cultures, antibiotics and uterine evacuation (Case 2, p. 240). With GAS, ampicillin + clindamycin + gentamicin could have been started (p. 240).\nFirst-hour bundle: lactate (repeat in 1 h if > 2 mmol/L), blood cultures before antibiotics, broad-spectrum IV antibiotics, 30 mL/kg crystalloid for hypotension or lactate ≥ 4 mmol/L, norepinephrine if MAP < 65 mmHg after fluids and oxygen to target saturation 94%–98% (p. 233). Without improvement, consider hysterectomy for suspected myometritis (p. 240)."
+   },
+   "timerMinutes": 15,
+   "deterioration": [
+    {
+     "afterSeconds": 420,
+     "afterActions": 16,
+     "flag": "sepse",
+     "vitals": {
+      "PA": "80/47 mmHg",
+      "FC": "132 bpm",
+      "FR": "26 mrpm"
+     },
+     "message": {
+      "pt": "A paciente torna-se hipotensa e sudorética.",
+      "en": "The patient becomes hypotensive and diaphoretic."
+     }
+    }
+   ]
+  }
+ },
+ "diagnoses": [
+  {
+   "id": "endometrite",
+   "label": {
+    "pt": "Endometrite puerperal",
+    "en": "Postpartum endometritis"
+   }
+  },
+  {
+   "id": "gas",
+   "label": {
+    "pt": "Infecção puerperal grave por estreptococo do grupo A",
+    "en": "Severe group A streptococcal puerperal infection"
+   }
+  },
+  {
+   "id": "pielo",
+   "label": {
+    "pt": "Pielonefrite",
+    "en": "Pyelonephritis"
+   }
+  },
+  {
+   "id": "isc",
+   "label": {
+    "pt": "Infecção de sítio cirúrgico",
+    "en": "Surgical site infection"
+   }
+  },
+  {
+   "id": "hematoma",
+   "label": {
+    "pt": "Hematoma subaponeurótico infectado",
+    "en": "Infected subfascial hematoma"
+   }
+  },
+  {
+   "id": "mastite",
+   "label": {
+    "pt": "Mastite puerperal",
+    "en": "Puerperal mastitis"
+   }
+  },
+  {
+   "id": "tromboflebite",
+   "label": {
+    "pt": "Tromboflebite pélvica",
+    "en": "Septic pelvic thrombophlebitis"
+   }
+  },
+  {
+   "id": "pneumonia",
+   "label": {
+    "pt": "Pneumonia",
+    "en": "Pneumonia"
+   }
+  }
+ ],
+ "stages": {
+  "anamnese": [
+   {
+    "id": "a_parto",
+    "class": "essencial",
+    "ref": "p. 234",
+    "label": {
+     "pt": "Via, data e intercorrências do parto",
+     "en": "Mode, date and complications of delivery"
+    },
+    "result": {
+     "pt": "Cesárea há 5 dias por parada de progressão, após 14 h de trabalho de parto.",
+     "en": "Cesarean 5 days ago for arrest of labor after 14 h of labor."
+    },
+    "why": {
+     "pt": "O tratamento da endometrite depende da via de parto; a cesárea é o principal fator de risco (OR 3,4).",
+     "en": "Endometritis treatment depends on mode of delivery; cesarean is the main risk factor (OR 3.4)."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Parto vaginal há 2 dias com laceração de 2º grau suturada.",
+       "en": "Vaginal birth 2 days ago with a repaired second-degree laceration."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_febre",
+    "class": "essencial",
+    "ref": "p. 228",
+    "label": {
+     "pt": "Febre e calafrios",
+     "en": "Fever and chills"
+    },
+    "result": {
+     "pt": "Febre de 38,8 °C ontem e hoje.",
+     "en": "Fever of 38.8 °C yesterday and today."
+    },
+    "why": {
+     "pt": "Critério do CDC.",
+     "en": "CDC criterion."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Nega febre.",
+       "en": "Denies fever."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_loquios",
+    "class": "essencial",
+    "ref": "p. 228, 242",
+    "label": {
+     "pt": "Lóquios: volume e odor",
+     "en": "Lochia: amount and odor"
+    },
+    "result": {
+     "pt": "Lóquios aumentados, com odor fétido.",
+     "en": "Increased, foul-smelling lochia."
+    },
+    "why": {
+     "pt": "Secreção purulenta do útero é critério do CDC.",
+     "en": "Purulent uterine discharge is a CDC criterion."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Lóquios reduzidos; nega odor fétido.",
+       "en": "Reduced lochia; denies foul odor."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_5w",
+    "class": "essencial",
+    "ref": "p. 228–229",
+    "label": {
+     "pt": "Pesquisa dos 5 Ws: tosse/dispneia, sintomas urinários, ferida, dor em pernas, mamas",
+     "en": "5 Ws review: cough/dyspnea, urinary symptoms, wound, leg pain, breasts"
+    },
+    "result": {
+     "pt": "Nega tosse, disúria, dor em pernas ou nas mamas; ferida sem queixas.",
+     "en": "Denies cough, dysuria, leg or breast pain; no wound complaints."
+    },
+    "why": {
+     "pt": "A regra dos 5 Ws direciona a história para diferenciais da endometrite.",
+     "en": "The 5 Ws rule directs history to differentials of endometritis."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Nega disúria e tosse; dor intensa no períneo.",
+       "en": "Denies dysuria and cough; severe perineal pain."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_rn",
+    "class": "pertinente",
+    "ref": "p. 239–240",
+    "label": {
+     "pt": "Condições do recém-nascido",
+     "en": "Newborn's condition"
+    },
+    "result": {
+     "pt": "Recém-nascido em alojamento conjunto, sem intercorrências.",
+     "en": "Newborn rooming-in, well."
+    },
+    "why": {
+     "pt": "As condições do recém-nascido podem dar pistas do agente (Caso 2).",
+     "en": "The newborn's condition may hint at the organism (Case 2)."
+    },
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "result": {
+       "pt": "Internado na UTI neonatal com sepse por Streptococcus pyogenes.",
+       "en": "In the NICU with Streptococcus pyogenes sepsis."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_dor",
+    "class": "pertinente",
+    "ref": "p. 228",
+    "label": {
+     "pt": "Intensidade da dor e resposta à analgesia",
+     "en": "Pain severity and response to analgesia"
+    },
+    "result": {
+     "pt": "Dor 6/10, alivia parcialmente com dipirona.",
+     "en": "Pain 6/10, partly relieved by dipyrone."
+    },
+    "why": {
+     "pt": "Dor que não cede com analgesia simples exige revisão presencial.",
+     "en": "Pain unrelieved by simple analgesia requires in-person review."
+    },
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "result": {
+       "pt": "Dor 10/10, sem alívio com analgésicos.",
+       "en": "Pain 10/10, unrelieved by analgesics."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_alergia",
+    "class": "pertinente",
+    "ref": "p. 234",
+    "label": {
+     "pt": "Alergias medicamentosas",
+     "en": "Drug allergies"
+    },
+    "result": {
+     "pt": "Nega.",
+     "en": "Denies."
+    },
+    "why": {
+     "pt": "Necessário antes do antimicrobiano.",
+     "en": "Required before antibiotics."
+    }
+   }
+  ],
+  "exame": [
+   {
+    "id": "e_qsofa",
+    "class": "essencial",
+    "ref": "p. 229",
+    "label": {
+     "pt": "q-SOFA-P: frequência respiratória, PA sistólica e Glasgow",
+     "en": "q-SOFA-P: respiratory rate, systolic BP and GCS"
+    },
+    "result": {
+     "pt": "FR 20; PAS 114 mmHg; Glasgow 15: q-SOFA-P 0.",
+     "en": "RR 20; SBP 114 mmHg; GCS 15: q-SOFA-P 0."
+    },
+    "why": {
+     "pt": "Positivo (≥ 2): pós-teste 34% e protocolo de sepse; negativo: 4,7% (LR+ 3,04; LR− 0,28).",
+     "en": "Positive (≥ 2): post-test 34% and sepsis protocol; negative: 4.7% (LR+ 3.04; LR− 0.28)."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "FR 17; PAS 126 mmHg; Glasgow 15: q-SOFA-P 0.",
+       "en": "RR 17; SBP 126 mmHg; GCS 15: q-SOFA-P 0."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_utero",
+    "class": "essencial",
+    "ref": "p. 228, 241",
+    "label": {
+     "pt": "Altura uterina e palpação do útero",
+     "en": "Fundal height and uterine palpation"
+    },
+    "result": {
+     "pt": "Útero na cicatriz umbilical, amolecido e doloroso.",
+     "en": "Uterus at the umbilicus, soft and tender."
+    },
+    "why": {
+     "pt": "Subinvolução (< 2 cm/dia nos primeiros 14 dias) apoia o diagnóstico; sem ultrassom, use a técnica da fricção (Pérola 1).",
+     "en": "Subinvolution (< 2 cm/day in the first 14 days) supports the diagnosis; without ultrasound, use the scratch technique (Pearl 1)."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Útero 2 cm acima da cicatriz umbilical, muito doloroso; abdome doloroso à palpação superficial e profunda.",
+       "en": "Uterus 2 cm above the umbilicus, very tender; abdomen tender to light and deep palpation."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_ferida",
+    "class": "essencial",
+    "ref": "p. 228, 241",
+    "label": {
+     "pt": "Ferida operatória ou períneo",
+     "en": "Incision or perineum"
+    },
+    "result": {
+     "pt": "Ferida da cesárea coaptada, sem sinais flogísticos.",
+     "en": "Cesarean incision well approximated, no inflammatory signs."
+    },
+    "why": {
+     "pt": "Wound dos 5 Ws; a aspiração com agulha grossa explora coleções (Pérola 4).",
+     "en": "The wound W; aspiration with a large needle explores collections (Pearl 4)."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Laceração perineal com deiscência, secreção purulenta aderida e dor intensa à palpação.",
+       "en": "Perineal laceration with dehiscence, adherent purulent discharge and severe tenderness."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_espec",
+    "class": "essencial",
+    "ref": "p. 228",
+    "label": {
+     "pt": "Exame especular",
+     "en": "Speculum exam"
+    },
+    "result": {
+     "pt": "Lóquios purulentos e fétidos saindo pelo colo.",
+     "en": "Purulent, foul lochia from the cervix."
+    },
+    "why": {
+     "pt": "Verifica secreção purulenta do útero.",
+     "en": "Checks for purulent uterine discharge."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Lóquios escassos; colo dilatado.",
+       "en": "Scant lochia; dilated cervix."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_toque",
+    "class": "essencial",
+    "ref": "p. 228",
+    "label": {
+     "pt": "Toque vaginal bimanual",
+     "en": "Bimanual exam"
+    },
+    "result": {
+     "pt": "Colo pérvio para 1 cm; útero muito doloroso à mobilização.",
+     "en": "Cervix open 1 cm; uterus very tender on motion."
+    },
+    "why": {
+     "pt": "Avalia dor uterina.",
+     "en": "Assesses uterine tenderness."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Colo aberto 5 cm, doloroso à mobilização.",
+       "en": "Cervix open 5 cm, tender on motion."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_mamas",
+    "class": "pertinente",
+    "ref": "p. 228–229",
+    "label": {
+     "pt": "Exame das mamas",
+     "en": "Breast exam"
+    },
+    "result": {
+     "pt": "Mamas lactantes, sem sinais inflamatórios.",
+     "en": "Lactating breasts, no inflammatory signs."
+    },
+    "why": {
+     "pt": "Women dos 5 Ws: mastite e abscesso.",
+     "en": "The women W: mastitis and abscess."
+    }
+   },
+   {
+    "id": "e_ppl",
+    "class": "pertinente",
+    "ref": "p. 228, 238",
+    "label": {
+     "pt": "Punho-percussão lombar e ausculta pulmonar",
+     "en": "CVA percussion and lung auscultation"
+    },
+    "result": {
+     "pt": "PPL negativa; ausculta normal.",
+     "en": "Negative CVA percussion; normal auscultation."
+    },
+    "why": {
+     "pt": "Water e wind dos 5 Ws (Caso 1).",
+     "en": "The water and wind Ws (Case 1)."
+    }
+   },
+   {
+    "id": "e_pernas",
+    "class": "pertinente",
+    "ref": "p. 228",
+    "label": {
+     "pt": "Panturrilhas e membros inferiores",
+     "en": "Calves and lower limbs"
+    },
+    "result": {
+     "pt": "Sem edema ou dor.",
+     "en": "No edema or pain."
+    },
+    "why": {
+     "pt": "Walk dos 5 Ws: trombose venosa.",
+     "en": "The walk W: venous thrombosis."
+    },
+    "levels": [
+     1,
+     2
+    ]
+   }
+  ],
+  "lab": [
+   {
+    "id": "l_hemo",
+    "class": "pertinente",
+    "ref": "p. 229, 232",
+    "label": {
+     "pt": "Hemograma",
+     "en": "Complete blood count"
+    },
+    "result": {
+     "pt": "Leucócitos 17.200/mm³, neutrófilos 84%; Hb 10,4 g/dL.",
+     "en": "WBC 17,200/mm³, 84% neutrophils; Hb 10.4 g/dL."
+    },
+    "why": {
+     "pt": "Baixa acurácia isolada (LR+ 1,6 a 2,6); avalia repercussão e anemia.",
+     "en": "Low accuracy alone (LR+ 1.6–2.6); assesses impact and anemia."
+    },
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "result": {
+       "pt": "Leucócitos 15.670/mm³ com 11% de bastões e 2% de metamielócitos; Hb 11,3 g/dL; plaquetas 214.000/µL.",
+       "en": "WBC 15,670/mm³ with 11% bands and 2% metamyelocytes; Hb 11.3 g/dL; platelets 214,000/µL."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_hemoc",
+    "class": "pertinente",
+    "ref": "p. 230, 233",
+    "label": {
+     "pt": "Hemoculturas (2 amostras) antes do antibiótico",
+     "en": "Blood cultures (2 sets) before antibiotics"
+    },
+    "result": {
+     "pt": "Em andamento.",
+     "en": "Pending."
+    },
+    "why": {
+     "pt": "Investigação-chave; não devem atrasar a terapia.",
+     "en": "Key investigation; must not delay therapy."
+    },
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "result": {
+       "pt": "Positivas para Streptococcus pyogenes.",
+       "en": "Positive for Streptococcus pyogenes."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_sepse",
+    "class": "desnecessaria",
+    "ref": "p. 230, 232–233",
+    "label": {
+     "pt": "Lactato, creatinina, TGO/TGP, INR e gasometria venosa",
+     "en": "Lactate, creatinine, AST/ALT, INR and venous blood gas"
+    },
+    "result": {
+     "pt": "Lactato 1,4 mmol/L; creatinina 0,7 mg/dL; INR 1,0; pH 7,38.",
+     "en": "Lactate 1.4 mmol/L; creatinine 0.7 mg/dL; INR 1.0; pH 7.38."
+    },
+    "why": {
+     "pt": "Exames de sepse; sem sinais de sepse, não alteram a conduta.",
+     "en": "Sepsis tests; without signs of sepsis they do not change management."
+    },
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "result": {
+       "pt": "Lactato 2,6 mmol/L; creatinina 1,11 mg/dL; INR 1,1; pH 7,32.",
+       "en": "Lactate 2.6 mmol/L; creatinine 1.11 mg/dL; INR 1.1; pH 7.32."
+      },
+      "why": {
+       "pt": "Bundle da primeira hora: medir lactato e avaliar disfunção orgânica.",
+       "en": "First-hour bundle: measure lactate and assess organ dysfunction."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_creat",
+    "class": "pertinente",
+    "ref": "p. 234",
+    "label": {
+     "pt": "Creatinina",
+     "en": "Creatinine"
+    },
+    "result": {
+     "pt": "0,7 mg/dL.",
+     "en": "0.7 mg/dL."
+    },
+    "why": {
+     "pt": "A dose de gentamicina é ajustada pela taxa de filtração glomerular.",
+     "en": "Gentamicin dose is adjusted for GFR."
+    },
+    "levels": [
+     1,
+     2
+    ]
+   },
+   {
+    "id": "l_fita",
+    "class": "pertinente",
+    "ref": "p. 230, 238",
+    "label": {
+     "pt": "Exame de urina (fita)",
+     "en": "Urine dipstick"
+    },
+    "result": {
+     "pt": "Negativo.",
+     "en": "Negative."
+    },
+    "why": {
+     "pt": "Water dos 5 Ws.",
+     "en": "The water W."
+    }
+   },
+   {
+    "id": "l_gram",
+    "class": "pertinente",
+    "ref": "p. 230",
+    "label": {
+     "pt": "Gram da secreção perineal",
+     "en": "Gram stain of perineal discharge"
+    },
+    "result": {
+     "pt": "Cocos gram-positivos em cadeia; raros bacilos gram-negativos.",
+     "en": "Gram-positive cocci in chains; rare gram-negative rods."
+    },
+    "why": {
+     "pt": "Diagnóstico rápido em infecções graves por Streptococcus ou Clostridium.",
+     "en": "Rapid diagnosis in severe Streptococcus or Clostridium infections."
+    },
+    "levels": [
+     3
+    ]
+   },
+   {
+    "id": "l_pcr",
+    "class": "desnecessaria",
+    "ref": "p. 232",
+    "label": {
+     "pt": "Proteína C-reativa",
+     "en": "C-reactive protein"
+    },
+    "result": {
+     "pt": "96 mg/L.",
+     "en": "96 mg/L."
+    },
+    "why": {
+     "pt": "Não altera a conduta.",
+     "en": "Does not change management."
+    },
+    "levels": [
+     2
+    ]
+   }
+  ],
+  "imagem": [
+   {
+    "id": "i_us",
+    "class": "pertinente",
+    "ref": "p. 230, 232",
+    "label": {
+     "pt": "Ultrassonografia pélvica",
+     "en": "Pelvic ultrasound"
+    },
+    "result": {
+     "pt": "Endométrio de 14 mm, sem massa ecogênica intrauterina.",
+     "en": "14-mm endometrium, no intrauterine echogenic mass."
+    },
+    "why": {
+     "pt": "Massa ecogênica: LR+ 5,83; espessura ≥ 10 mm: LR+ 4,99, conforme os dias de puerpério.",
+     "en": "Echogenic mass: LR+ 5.83; thickness ≥ 10 mm: LR+ 4.99, depending on postpartum day."
+    },
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "result": {
+       "pt": "Útero aumentado com endométrio espessado de 40 mm, com conteúdo heterogêneo.",
+       "en": "Enlarged uterus with a 40-mm thickened endometrium and heterogeneous content."
+      }
+     }
+    }
+   },
+   {
+    "id": "i_tc",
+    "class": "desnecessaria",
+    "ref": "p. 231",
+    "label": {
+     "pt": "Tomografia de abdome e pelve",
+     "en": "Abdominal and pelvic CT"
+    },
+    "result": {
+     "pt": "Útero puerperal; sem coleções ou trombose.",
+     "en": "Puerperal uterus; no collections or thrombosis."
+    },
+    "why": {
+     "pt": "Reservada para febre puerperal refratária (trombose de veias pélvicas: LR+ 100).",
+     "en": "Reserved for refractory puerperal fever (pelvic vein thrombosis: LR+ 100)."
+    }
+   }
+  ],
+  "conduta": [
+   {
+    "id": "c_cg_l1",
+    "class": "essencial",
+    "ref": "p. 234",
+    "label": {
+     "pt": "Clindamicina + gentamicina IV",
+     "en": "IV clindamycin + gentamicin"
+    },
+    "why": {
+     "pt": "Padrão após cesárea.",
+     "en": "Standard after cesarean."
+    },
+    "levels": [
+     1
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_cg",
+    "class": "essencial",
+    "ref": "p. 234–235",
+    "label": {
+     "pt": "Clindamicina 2.700 mg + gentamicina 240 mg IV em 250 mL de SF, em 1 hora, dose única diária",
+     "en": "Clindamycin 2,700 mg + gentamicin 240 mg IV in 250 mL NS over 1 hour, once daily"
+    },
+    "why": {
+     "pt": "Cura 96% (IC95%: 90 a 98%).",
+     "en": "Cure 96% (95% CI 90–98%)."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_amoxclav",
+    "class": "desnecessaria",
+    "ref": "p. 234",
+    "label": {
+     "pt": "Amoxicilina-clavulanato 500/125 mg VO 8/8 h por 7 dias",
+     "en": "Amoxicillin-clavulanate 500/125 mg PO every 8 h for 7 days"
+    },
+    "why": {
+     "pt": "Esquema da endometrite após parto vaginal; após cesárea, o padrão é clindamicina + gentamicina.",
+     "en": "Regimen for endometritis after vaginal birth; after cesarean the standard is clindamycin + gentamicin."
+    },
+    "group": "medicamento",
+    "byLevel": {
+     "3": {
+      "why": {
+       "pt": "Infecção grave por GAS exige antibiótico IV de amplo espectro.",
+       "en": "Severe GAS infection requires broad-spectrum IV antibiotics."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_ampi",
+    "class": "desnecessaria",
+    "ref": "p. 233, 240",
+    "label": {
+     "pt": "Acrescentar ampicilina IV",
+     "en": "Add IV ampicillin"
+    },
+    "why": {
+     "pt": "Sem indicação na endometrite não complicada.",
+     "en": "Not indicated in uncomplicated endometritis."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "medicamento",
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "why": {
+       "pt": "Com GAS, ampicilina + clindamicina + gentamicina (Caso 2).",
+       "en": "With GAS, ampicillin + clindamycin + gentamicin (Case 2)."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_ringer",
+    "class": "desnecessaria",
+    "ref": "p. 233",
+    "label": {
+     "pt": "Ringer lactato 30 mL/kg (1 L inicial)",
+     "en": "Lactated Ringer's 30 mL/kg (1 L initially)"
+    },
+    "why": {
+     "pt": "Indicado na hipotensão ou lactato ≥ 4 mmol/L.",
+     "en": "Indicated for hypotension or lactate ≥ 4 mmol/L."
+    },
+    "group": "medicamento",
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "label": {
+       "pt": "Ringer lactato 1 L em 1 hora",
+       "en": "Lactated Ringer's 1 L over 1 hour"
+      },
+      "why": {
+       "pt": "Estabilização inicial (Caso 2).",
+       "en": "Initial stabilization (Case 2)."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_nora",
+    "class": "desnecessaria",
+    "ref": "p. 233",
+    "label": {
+     "pt": "Noradrenalina",
+     "en": "Norepinephrine"
+    },
+    "why": {
+     "pt": "Indicada se PAM < 65 mmHg após fluidos.",
+     "en": "Indicated if MAP < 65 mmHg after fluids."
+    },
+    "levels": [
+     3
+    ],
+    "group": "medicamento",
+    "whenFlag": {
+     "sepse": {
+      "class": "pertinente",
+      "why": {
+       "pt": "Hipotensão: noradrenalina se a PAM permanecer < 65 mmHg após fluidos.",
+       "en": "Hypotension: norepinephrine if MAP remains < 65 mmHg after fluids."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_atbalta",
+    "class": "desnecessaria",
+    "ref": "p. 234",
+    "label": {
+     "pt": "Antibiótico oral após a alta hospitalar",
+     "en": "Oral antibiotics after discharge"
+    },
+    "why": {
+     "pt": "Após a alta, não se deve prescrever antibióticos.",
+     "en": "No antibiotics should be prescribed after discharge."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_cefalex",
+    "class": "desnecessaria",
+    "ref": "p. 234",
+    "label": {
+     "pt": "Cefalexina 500 mg VO 6/6 h por 5 dias",
+     "en": "Cephalexin 500 mg PO every 6 h for 5 days"
+    },
+    "why": {
+     "pt": "Esquema para celulite de episiotomia.",
+     "en": "Regimen for episiotomy cellulitis."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_curet",
+    "class": "desnecessaria",
+    "ref": "p. 232, 240",
+    "label": {
+     "pt": "Curetagem uterina",
+     "en": "Uterine curettage"
+    },
+    "why": {
+     "pt": "Sem massa ecogênica intrauterina, não há restos a esvaziar.",
+     "en": "With no intrauterine echogenic mass, there are no products to evacuate."
+    },
+    "group": "procedimento",
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "label": {
+       "pt": "Esvaziamento uterino (curetagem) após início do antibiótico",
+       "en": "Uterine evacuation (curettage) after starting antibiotics"
+      },
+      "why": {
+       "pt": "Material na cavidade uterina com infecção grave: esvaziar (Caso 2).",
+       "en": "Intrauterine material with severe infection: evacuate (Case 2)."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_desbrid",
+    "class": "essencial",
+    "ref": "p. 234, 239",
+    "label": {
+     "pt": "Desbridamento perineal com cicatrização por segunda intenção",
+     "en": "Perineal debridement with healing by secondary intention"
+    },
+    "why": {
+     "pt": "Abscesso/deiscência perineal: abrir e desbridar.",
+     "en": "Perineal abscess/dehiscence: open and debride."
+    },
+    "levels": [
+     3
+    ],
+    "group": "procedimento"
+   },
+   {
+    "id": "c_histerec",
+    "class": "desnecessaria",
+    "ref": "p. 240",
+    "label": {
+     "pt": "Histerectomia",
+     "en": "Hysterectomy"
+    },
+    "why": {
+     "pt": "Próximo passo apenas se não houver boa evolução (miometrite).",
+     "en": "Next step only without improvement (myometritis)."
+    },
+    "levels": [
+     3
+    ],
+    "group": "procedimento"
+   },
+   {
+    "id": "c_intern",
+    "class": "essencial",
+    "ref": "p. 234",
+    "label": {
+     "pt": "Internação hospitalar",
+     "en": "Hospital admission"
+    },
+    "why": {
+     "pt": "Endometrite pós-cesárea com antibiótico IV.",
+     "en": "Post-cesarean endometritis on IV antibiotics."
+    },
+    "group": "destino"
+   },
+   {
+    "id": "c_uti",
+    "class": "desnecessaria",
+    "ref": "p. 239–240",
+    "label": {
+     "pt": "Transferência para UTI",
+     "en": "ICU transfer"
+    },
+    "why": {
+     "pt": "Sem disfunção orgânica.",
+     "en": "No organ dysfunction."
+    },
+    "levels": [
+     3
+    ],
+    "group": "destino",
+    "whenFlag": {
+     "sepse": {
+      "class": "essencial",
+      "why": {
+       "pt": "Hipotensão por sepse: estabilização e monitorização em UTI (Caso 2).",
+       "en": "Septic hypotension: stabilization and ICU monitoring (Case 2)."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_alta",
+    "class": "contraindicada",
+    "ref": "p. 228, 234",
+    "label": {
+     "pt": "Alta com antibiótico oral",
+     "en": "Discharge on oral antibiotics"
+    },
+    "why": {
+     "pt": "Endometrite pós-cesárea é tratada com antibiótico IV em internação.",
+     "en": "Post-cesarean endometritis is treated with IV antibiotics in hospital."
+    },
+    "group": "destino",
+    "byLevel": {
+     "3": {
+      "grave": true,
+      "outcome": {
+       "pt": "Atraso no tratamento de infecção puerperal por GAS com evolução para choque séptico (Caso 2, p. 239–240).",
+       "en": "Delayed treatment of GAS puerperal infection progressing to septic shock (Case 2, p. 239–240)."
+      }
+     }
+    }
+   }
+  ]
+ }
+}
