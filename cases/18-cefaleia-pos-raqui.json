@@ -1,0 +1,838 @@
+{
+ "id": "c18",
+ "title": {
+  "pt": "Cefaleia no pós-parto",
+  "en": "Postpartum headache"
+ },
+ "chapter": {
+  "pt": "Cefaleia pós-raqui",
+  "en": "Post-dural puncture headache"
+ },
+ "pages": "p. 343–352",
+ "base": {
+  "triage": {
+   "pt": "Puérpera de 31 anos, 30 horas após parto vaginal, refere cefaleia frontal e occipital intensa (EVA 8/10) desde ontem, que a impede de amamentar.",
+   "en": "31-year-old woman 30 hours after vaginal birth reports severe frontal and occipital headache (VAS 8/10) since yesterday, preventing breastfeeding."
+  },
+  "vitals": {
+   "PA": "118/74 mmHg",
+   "FC": "82 bpm",
+   "FR": "16 mrpm",
+   "Tax": "36,6 °C",
+   "SpO2": "98%"
+  },
+  "correctDiagnosis": "cppd",
+  "diagnosisExplanation": {
+   "pt": "Punção dural acidental com agulha 20G na analgesia de parto, cefaleia que piora ao sentar e melhora ao deitar, iniciada em até 5 dias, com zumbido e náuseas, sem sinais de alerta: cefaleia pós-punção dural (critérios ICHD-3, p. 346). Manejo inicial: analgesia multimodal (paracetamol 1 g 6/6 h + AINE), cafeína (300 mg/dia na lactante) e hidratação oral; tampão sanguíneo peridural se refratária em 24 a 48 h (p. 348; Caso 1, p. 349).",
+   "en": "Accidental dural puncture with a 20G needle during labor analgesia, headache worse on sitting and better lying down, starting within 5 days, with tinnitus and nausea, no red flags: post-dural puncture headache (ICHD-3 criteria, p. 346). Initial management: multimodal analgesia (acetaminophen 1 g every 6 h + NSAID), caffeine (300 mg/day in lactating women) and oral hydration; epidural blood patch if refractory at 24–48 h (p. 348; Case 1, p. 349)."
+  },
+  "learning": {
+   "pt": "Diante de cefaleia após cirurgia ou parto, pergunte o tipo de anestesia (p. 343). O sinal clássico é a piora em 15 minutos ao sentar ou levantar e melhora em 15 minutos ao deitar (p. 346).\nA neuroimagem não é rotineira; é indicada em apresentações atípicas ou sinais de alerta (perda do componente postural, déficit focal, diplopia, convulsões, alteração de consciência, início > 5 dias, refratariedade ao tampão, febre ou meningismo) (p. 346–347).\nO repouso no leito não previne a CPPD e, prolongado, aumenta o risco de tromboembolismo (Pérola 1, p. 350). Hidratação IV apenas se a via oral não for mantida (p. 348).",
+   "en": "With headache after surgery or delivery, ask about the type of anesthesia (p. 343). The classic sign is worsening within 15 minutes of sitting or standing and improvement within 15 minutes of lying down (p. 346).\nNeuroimaging is not routine; it is indicated for atypical presentations or red flags (loss of postural component, focal deficit, diplopia, seizures, altered consciousness, onset > 5 days, refractoriness to blood patch, fever or meningism) (p. 346–347).\nBed rest does not prevent PDPH and, if prolonged, increases thromboembolic risk (Pearl 1, p. 350). IV hydration only if oral intake cannot be maintained (p. 348)."
+  }
+ },
+ "levels": {
+  "2": {
+   "triage": {
+    "pt": "Puérpera de 31 anos, no 3º dia após parto vaginal, retorna por cefaleia intensa (EVA 8/10) que piora ao sentar para amamentar. Usa paracetamol, AINE e cafeína há 48 horas, sem melhora.",
+    "en": "31-year-old woman on day 3 after vaginal birth returns with severe headache (VAS 8/10) that worsens when she sits to breastfeed. She has used acetaminophen, an NSAID and caffeine for 48 hours without improvement."
+   },
+   "vitals": {
+    "PA": "120/76 mmHg",
+    "FC": "80 bpm",
+    "FR": "16 mrpm",
+    "Tax": "36,5 °C",
+    "SpO2": "98%"
+   },
+   "correctDiagnosis": "cppd",
+   "diagnosisExplanation": {
+    "pt": "CPPD grave (EVA 8/10), refratária a 48 h de tratamento conservador e prejudicando a amamentação: indicação de tampão sanguíneo peridural com até 20 mL de sangue autólogo, padrão-ouro do tratamento definitivo (Caso 1, p. 349). Com agulha 20G, cerca de 20% das obstétricas precisam de segundo tampão.",
+    "en": "Severe PDPH (VAS 8/10), refractory to 48 h of conservative treatment and impairing breastfeeding: indication for an epidural blood patch with up to 20 mL of autologous blood, the gold standard for definitive treatment (Case 1, p. 349). With a 20G needle, about 20% of obstetric patients need a second patch."
+   },
+   "learning": {
+    "pt": "Quando a dor é intensa e as medidas iniciais falham após 24 a 48 h, recomenda-se intervir para reduzir complicações e permitir que a mãe cuide do recém-nascido (Caso 1, p. 349).\nInjeções superiores a 20 mL ou rápidas aumentam o risco de dor radicular e hematoma; pare se houver pressão nas costas ou cefaleia (Pérola 2, p. 350). Se a paciente recusar o tampão, neostigmina + atropina é opção, com suspensão da amamentação por 24 h após a última dose (p. 349).",
+    "en": "When pain is severe and initial measures fail after 24–48 h, intervention is recommended to reduce complications and allow the mother to care for the newborn (Case 1, p. 349).\nInjections over 20 mL or given rapidly increase the risk of radicular pain and hematoma; stop if back pressure or headache occurs (Pearl 2, p. 350). If the patient declines the patch, neostigmine + atropine is an option, with breastfeeding withheld for 24 h after the last dose (p. 349)."
+   }
+  },
+  "3": {
+   "triage": {
+    "pt": "Puérpera de 28 anos, no 9º dia após cesárea sob raquianestesia, procura a emergência por cefaleia intensa e visão dupla desde hoje. Fez tampão sanguíneo peridural há 4 dias.",
+    "en": "28-year-old woman on day 9 after cesarean under spinal anesthesia presents with severe headache and double vision since today. She had an epidural blood patch 4 days ago."
+   },
+   "vitals": {
+    "PA": "124/78 mmHg",
+    "FC": "78 bpm",
+    "FR": "16 mrpm",
+    "Tax": "36,7 °C",
+    "SpO2": "98%"
+   },
+   "correctDiagnosis": "hsd",
+   "diagnosisExplanation": {
+    "pt": "Cefaleia que deixou de ser postural (contínua em qualquer posição), diplopia, sonolência e persistência após tampão sanguíneo: sinais de alerta que exigem neuroimagem urgente e neurologia (p. 346–347; Pérola 3, p. 350). A ressonância mostrou coleções subdurais bilaterais (hematoma subdural), complicação da hipotensão intracraniana.",
+    "en": "Headache that lost its postural component (constant in any position), diplopia, drowsiness and persistence after a blood patch: red flags requiring urgent neuroimaging and neurology (p. 346–347; Pearl 3, p. 350). MRI showed bilateral subdural collections (subdural hematoma), a complication of intracranial hypotension."
+   },
+   "learning": {
+    "pt": "Alteração no padrão da dor, de postural para contínua, pode indicar hematoma subdural ou trombose venosa cerebral (p. 346). A RM é preferencial (mais sensível para hipotensão intracraniana); a TC exclui hematoma ou hemorragia; angio-RM/angio-TC na suspeita de trombose de seio venoso (p. 347).\nA RM normal não exclui CPPD; sua função é afastar complicações (mnemônico SEEPS) (p. 347).",
+    "en": "A change in pain pattern from postural to constant may indicate subdural hematoma or cerebral venous thrombosis (p. 346). MRI is preferred (more sensitive for intracranial hypotension); CT excludes hematoma or hemorrhage; MR/CT venography for suspected venous sinus thrombosis (p. 347).\nA normal MRI does not exclude PDPH; its role is to exclude complications (SEEPS mnemonic) (p. 347)."
+   },
+   "timerMinutes": 10
+  }
+ },
+ "diagnoses": [
+  {
+   "id": "cppd",
+   "label": {
+    "pt": "Cefaleia pós-punção dural",
+    "en": "Post-dural puncture headache"
+   }
+  },
+  {
+   "id": "enxaqueca",
+   "label": {
+    "pt": "Enxaqueca",
+    "en": "Migraine"
+   }
+  },
+  {
+   "id": "pe",
+   "label": {
+    "pt": "Pré-eclâmpsia pós-parto",
+    "en": "Postpartum preeclampsia"
+   }
+  },
+  {
+   "id": "meningite",
+   "label": {
+    "pt": "Meningite",
+    "en": "Meningitis"
+   }
+  },
+  {
+   "id": "tvc",
+   "label": {
+    "pt": "Trombose venosa cerebral",
+    "en": "Cerebral venous thrombosis"
+   }
+  },
+  {
+   "id": "hsd",
+   "label": {
+    "pt": "Hematoma subdural (complicação da hipotensão intracraniana)",
+    "en": "Subdural hematoma (complication of intracranial hypotension)"
+   }
+  },
+  {
+   "id": "pres",
+   "label": {
+    "pt": "Síndrome de encefalopatia posterior reversível",
+    "en": "Posterior reversible encephalopathy syndrome"
+   }
+  },
+  {
+   "id": "tensional",
+   "label": {
+    "pt": "Cefaleia tensional",
+    "en": "Tension-type headache"
+   }
+  }
+ ],
+ "stages": {
+  "anamnese": [
+   {
+    "id": "a_anest",
+    "class": "essencial",
+    "ref": "p. 343, 349",
+    "label": {
+     "pt": "Tipo de anestesia e intercorrências na punção",
+     "en": "Type of anesthesia and puncture complications"
+    },
+    "result": {
+     "pt": "Analgesia epidural de parto com punção dural acidental, agulha 20G.",
+     "en": "Labor epidural with accidental dural puncture, 20G needle."
+    },
+    "why": {
+     "pt": "Diante de cefaleia pós-operatória, pergunte o tipo de anestesia.",
+     "en": "With postoperative headache, ask about the type of anesthesia."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Raquianestesia para cesárea; tampão sanguíneo peridural há 4 dias por cefaleia postural.",
+       "en": "Spinal anesthesia for cesarean; epidural blood patch 4 days ago for postural headache."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_postural",
+    "class": "essencial",
+    "ref": "p. 346",
+    "label": {
+     "pt": "Relação da dor com a posição",
+     "en": "Relationship of pain to position"
+    },
+    "result": {
+     "pt": "Piora em minutos ao sentar e melhora ao deitar.",
+     "en": "Worse within minutes of sitting, better lying down."
+    },
+    "why": {
+     "pt": "Sinal clássico: piora em 15 min ao sentar/levantar, melhora em 15 min ao deitar.",
+     "en": "Classic sign: worse within 15 min of sitting/standing, better within 15 min lying down."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Era postural; desde hoje é contínua, mesmo deitada.",
+       "en": "It was postural; since today it is constant, even lying down."
+      },
+      "why": {
+       "pt": "Perda do componente postural é sinal de alerta (hematoma subdural, trombose venosa).",
+       "en": "Loss of the postural component is a red flag (subdural hematoma, venous thrombosis)."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_inicio",
+    "class": "essencial",
+    "ref": "p. 346",
+    "label": {
+     "pt": "Início em relação à punção",
+     "en": "Onset relative to the puncture"
+    },
+    "result": {
+     "pt": "24 horas após o parto.",
+     "en": "24 hours after delivery."
+    },
+    "why": {
+     "pt": "Critério ICHD-3: até 5 dias após a punção.",
+     "en": "ICHD-3 criterion: within 5 days of puncture."
+    }
+   },
+   {
+    "id": "a_alerta",
+    "class": "essencial",
+    "ref": "p. 346–347",
+    "label": {
+     "pt": "Sinais de alerta: alterações visuais, convulsões, sonolência, déficit focal, febre",
+     "en": "Red flags: visual changes, seizures, drowsiness, focal deficit, fever"
+    },
+    "result": {
+     "pt": "Nega.",
+     "en": "Denies."
+    },
+    "why": {
+     "pt": "Qualquer sinal de alerta exige neuroimagem urgente e neurologia.",
+     "en": "Any red flag requires urgent neuroimaging and neurology."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Visão dupla desde a manhã e sonolência.",
+       "en": "Double vision since this morning and drowsiness."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_assoc",
+    "class": "pertinente",
+    "ref": "p. 346",
+    "label": {
+     "pt": "Sintomas associados (zumbido, tontura, náuseas, rigidez de nuca)",
+     "en": "Associated symptoms (tinnitus, dizziness, nausea, neck stiffness)"
+    },
+    "result": {
+     "pt": "Zumbido e náuseas.",
+     "en": "Tinnitus and nausea."
+    },
+    "why": {
+     "pt": "Rigidez de nuca (63%), zumbido (10% a 18%), náuseas (22%).",
+     "en": "Neck stiffness (63%), tinnitus (10%–18%), nausea (22%)."
+    }
+   },
+   {
+    "id": "a_hist",
+    "class": "pertinente",
+    "ref": "p. 345–346",
+    "label": {
+     "pt": "História de cefaleia ou CPPD prévia",
+     "en": "History of headache or prior PDPH"
+    },
+    "result": {
+     "pt": "Nega.",
+     "en": "Denies."
+    },
+    "why": {
+     "pt": "CPPD prévia (OR 4,30) e cefaleia prévia (OR 4,23) aumentam o risco.",
+     "en": "Prior PDPH (OR 4.30) and headache history (OR 4.23) increase risk."
+    }
+   },
+   {
+    "id": "a_amam",
+    "class": "pertinente",
+    "ref": "p. 349",
+    "label": {
+     "pt": "Amamentação e limitação funcional",
+     "en": "Breastfeeding and functional limitation"
+    },
+    "result": {
+     "pt": "Não consegue sentar para amamentar.",
+     "en": "Cannot sit to breastfeed."
+    },
+    "why": {
+     "pt": "O impacto nas atividades orienta a indicação de tampão.",
+     "en": "Functional impact guides blood patch indication."
+    },
+    "levels": [
+     1,
+     2
+    ]
+   }
+  ],
+  "exame": [
+   {
+    "id": "e_neuro",
+    "class": "essencial",
+    "ref": "p. 346–347",
+    "label": {
+     "pt": "Exame neurológico (pares cranianos, força, consciência)",
+     "en": "Neurologic exam (cranial nerves, strength, consciousness)"
+    },
+    "result": {
+     "pt": "Sem déficits focais; consciência preservada.",
+     "en": "No focal deficits; normal consciousness."
+    },
+    "why": {
+     "pt": "Déficit focal ou alteração de consciência são sinais de alerta.",
+     "en": "Focal deficit or altered consciousness are red flags."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Paresia do VI par à esquerda (diplopia); sonolenta, mas desperta ao chamado.",
+       "en": "Left sixth nerve palsy (diplopia); drowsy but rousable."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_mening",
+    "class": "pertinente",
+    "ref": "p. 347",
+    "label": {
+     "pt": "Rigidez de nuca intensa e sinais meníngeos com febre",
+     "en": "Marked neck stiffness and meningeal signs with fever"
+    },
+    "result": {
+     "pt": "Rigidez leve, sem febre.",
+     "en": "Mild stiffness, no fever."
+    },
+    "why": {
+     "pt": "Febre com meningismo sugere meningite.",
+     "en": "Fever with meningism suggests meningitis."
+    }
+   },
+   {
+    "id": "e_postura",
+    "class": "pertinente",
+    "ref": "p. 346",
+    "label": {
+     "pt": "Teste posicional (sentar e deitar)",
+     "en": "Positional test (sitting and lying)"
+    },
+    "result": {
+     "pt": "Dor 8/10 sentada; 2/10 deitada após 15 minutos.",
+     "en": "Pain 8/10 sitting; 2/10 after 15 minutes lying down."
+    },
+    "why": {
+     "pt": "Confirma o componente ortostático.",
+     "en": "Confirms the orthostatic component."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Dor 9/10 em qualquer posição.",
+       "en": "Pain 9/10 in any position."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_puncao",
+    "class": "desnecessaria",
+    "ref": "p. 346",
+    "label": {
+     "pt": "Inspeção do local de punção",
+     "en": "Inspection of the puncture site"
+    },
+    "result": {
+     "pt": "Sem sinais inflamatórios.",
+     "en": "No inflammatory signs."
+    },
+    "why": {
+     "pt": "Não altera o diagnóstico.",
+     "en": "Does not change the diagnosis."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   }
+  ],
+  "lab": [
+   {
+    "id": "l_hemo",
+    "class": "desnecessaria",
+    "ref": "p. 346",
+    "label": {
+     "pt": "Hemograma e PCR",
+     "en": "CBC and CRP"
+    },
+    "result": {
+     "pt": "Normais.",
+     "en": "Normal."
+    },
+    "why": {
+     "pt": "O diagnóstico da CPPD é clínico.",
+     "en": "PDPH diagnosis is clinical."
+    }
+   },
+   {
+    "id": "l_pl",
+    "class": "desnecessaria",
+    "ref": "p. 346–347",
+    "label": {
+     "pt": "Punção lombar diagnóstica",
+     "en": "Diagnostic lumbar puncture"
+    },
+    "result": {
+     "pt": "Não realizada.",
+     "en": "Not performed."
+    },
+    "why": {
+     "pt": "Não integra a avaliação da CPPD; nova punção dural agrava o vazamento.",
+     "en": "Not part of PDPH assessment; another dural puncture worsens the leak."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   },
+   {
+    "id": "l_coag",
+    "class": "desnecessaria",
+    "ref": "p. 348",
+    "label": {
+     "pt": "Coagulograma e plaquetas",
+     "en": "Coagulation panel and platelets"
+    },
+    "result": {
+     "pt": "Normais.",
+     "en": "Normal."
+    },
+    "why": {
+     "pt": "Sem indicação na CPPD típica.",
+     "en": "Not indicated in typical PDPH."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "byLevel": {
+     "3": {
+      "class": "pertinente",
+      "why": {
+       "pt": "Útil antes de procedimento neurocirúrgico se indicado.",
+       "en": "Useful before a neurosurgical procedure if indicated."
+      }
+     }
+    }
+   }
+  ],
+  "imagem": [
+   {
+    "id": "i_rm",
+    "class": "desnecessaria",
+    "ref": "p. 346–347",
+    "label": {
+     "pt": "Ressonância magnética de crânio",
+     "en": "Brain MRI"
+    },
+    "result": {
+     "pt": "Sem alterações.",
+     "en": "Normal."
+    },
+    "why": {
+     "pt": "Não é necessária na apresentação típica sem sinais de alerta.",
+     "en": "Not needed in a typical presentation without red flags."
+    },
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "result": {
+       "pt": "Coleções subdurais bilaterais finas, realce paquimeníngeo e rebaixamento do tronco encefálico.",
+       "en": "Thin bilateral subdural collections, pachymeningeal enhancement and brainstem sagging."
+      },
+      "why": {
+       "pt": "Sinais de alerta: RM urgente, preferencial por ser mais sensível.",
+       "en": "Red flags: urgent MRI, preferred for its sensitivity."
+      }
+     }
+    }
+   },
+   {
+    "id": "i_tc",
+    "class": "desnecessaria",
+    "ref": "p. 347",
+    "label": {
+     "pt": "Tomografia de crânio",
+     "en": "Head CT"
+    },
+    "result": {
+     "pt": "Sem alterações.",
+     "en": "Normal."
+    },
+    "why": {
+     "pt": "Usada para excluir hematoma ou hemorragia na presença de sinais de alerta.",
+     "en": "Used to exclude hematoma or hemorrhage when red flags are present."
+    },
+    "byLevel": {
+     "3": {
+      "class": "pertinente",
+      "result": {
+       "pt": "Coleções subdurais bilaterais hipodensas.",
+       "en": "Bilateral hypodense subdural collections."
+      }
+     }
+    }
+   },
+   {
+    "id": "i_angio",
+    "class": "desnecessaria",
+    "ref": "p. 347",
+    "label": {
+     "pt": "Angio-RM venosa",
+     "en": "MR venography"
+    },
+    "result": {
+     "pt": "Seios venosos pérvios.",
+     "en": "Patent venous sinuses."
+    },
+    "why": {
+     "pt": "Indicada na suspeita de trombose de seio venoso.",
+     "en": "Indicated for suspected venous sinus thrombosis."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "byLevel": {
+     "3": {
+      "class": "pertinente"
+     }
+    }
+   }
+  ],
+  "conduta": [
+   {
+    "id": "c_analg",
+    "class": "essencial",
+    "ref": "p. 348",
+    "label": {
+     "pt": "Paracetamol 1 g VO 6/6 h associado a AINE",
+     "en": "Acetaminophen 1 g PO every 6 h plus an NSAID"
+    },
+    "why": {
+     "pt": "Analgesia multimodal de primeira linha.",
+     "en": "First-line multimodal analgesia."
+    },
+    "group": "medicamento",
+    "byLevel": {
+     "2": {
+      "class": "pertinente",
+      "label": {
+       "pt": "Manter analgesia multimodal",
+       "en": "Continue multimodal analgesia"
+      }
+     },
+     "3": {
+      "class": "pertinente",
+      "label": {
+       "pt": "Analgesia enquanto aguarda neuroimagem",
+       "en": "Analgesia while awaiting neuroimaging"
+      }
+     }
+    }
+   },
+   {
+    "id": "c_cafeina",
+    "class": "essencial",
+    "ref": "p. 348",
+    "label": {
+     "pt": "Cafeína 300 mg/dia VO (lactante)",
+     "en": "Caffeine 300 mg/day PO (lactating)"
+    },
+    "why": {
+     "pt": "90% de melhora em 4 h; máximo 900 mg/dia.",
+     "en": "90% improvement within 4 h; maximum 900 mg/day."
+    },
+    "group": "medicamento",
+    "byLevel": {
+     "2": {
+      "class": "desnecessaria",
+      "why": {
+       "pt": "Já usada por 48 h sem melhora.",
+       "en": "Already used for 48 h without improvement."
+      }
+     },
+     "3": {
+      "class": "desnecessaria",
+      "why": {
+       "pt": "Sinais de alerta exigem investigação, não escalonamento do tratamento conservador.",
+       "en": "Red flags require investigation, not escalation of conservative treatment."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_hidrvo",
+    "class": "essencial",
+    "ref": "p. 348",
+    "label": {
+     "pt": "Hidratação oral adequada",
+     "en": "Adequate oral hydration"
+    },
+    "why": {
+     "pt": "Hidratação é parte do manejo inicial.",
+     "en": "Hydration is part of initial management."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "medicamento",
+    "byLevel": {
+     "2": {
+      "class": "pertinente"
+     }
+    }
+   },
+   {
+    "id": "c_hidriv",
+    "class": "desnecessaria",
+    "ref": "p. 348",
+    "label": {
+     "pt": "Hidratação venosa de rotina",
+     "en": "Routine IV hydration"
+    },
+    "why": {
+     "pt": "Apenas quando a via oral não é mantida.",
+     "en": "Only when oral intake cannot be maintained."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_opioide",
+    "class": "desnecessaria",
+    "ref": "p. 348",
+    "label": {
+     "pt": "Opioide como primeira linha",
+     "en": "Opioid as first line"
+    },
+    "why": {
+     "pt": "Apenas em curto prazo quando a analgesia multimodal é insuficiente.",
+     "en": "Only short-term when multimodal analgesia is insufficient."
+    },
+    "group": "medicamento"
+   },
+   {
+    "id": "c_neostig",
+    "class": "desnecessaria",
+    "ref": "p. 348–349",
+    "label": {
+     "pt": "Neostigmina 20 µg/kg + atropina 10 µg/kg IV 8/8 h",
+     "en": "Neostigmine 20 µg/kg + atropine 10 µg/kg IV every 8 h"
+    },
+    "why": {
+     "pt": "Opção se a paciente recusar o tampão; exige suspender a amamentação por 24 h.",
+     "en": "Option if the patient declines the patch; requires withholding breastfeeding for 24 h."
+    },
+    "levels": [
+     2
+    ],
+    "group": "medicamento",
+    "byLevel": {
+     "2": {
+      "class": "pertinente"
+     }
+    }
+   },
+   {
+    "id": "c_ebp",
+    "class": "pertinente",
+    "ref": "p. 348–349",
+    "label": {
+     "pt": "Tampão sanguíneo peridural com até 20 mL de sangue autólogo",
+     "en": "Epidural blood patch with up to 20 mL of autologous blood"
+    },
+    "why": {
+     "pt": "Padrão-ouro para dor moderada-grave ou refratária após 24 a 48 h de medidas iniciais.",
+     "en": "Gold standard for moderate-severe or refractory pain after 24–48 h of initial measures."
+    },
+    "group": "procedimento",
+    "byLevel": {
+     "2": {
+      "class": "essencial",
+      "why": {
+       "pt": "CPPD grave refratária a 48 h de tratamento conservador (Caso 1).",
+       "en": "Severe PDPH refractory to 48 h of conservative treatment (Case 1)."
+      }
+     },
+     "3": {
+      "class": "contraindicada",
+      "label": {
+       "pt": "Novo tampão sanguíneo peridural",
+       "en": "Repeat epidural blood patch"
+      },
+      "why": {
+       "pt": "Refratariedade ao tampão e perda do padrão postural exigem neuroimagem antes de qualquer procedimento.",
+       "en": "Refractoriness to the patch and loss of postural pattern require neuroimaging before any procedure."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_ebp30",
+    "class": "contraindicada",
+    "ref": "p. 350",
+    "label": {
+     "pt": "Tampão sanguíneo com 30 mL injetados rapidamente",
+     "en": "Blood patch with 30 mL injected rapidly"
+    },
+    "why": {
+     "pt": "Volumes > 20 mL ou injeção rápida aumentam dor radicular e hematoma (Pérola 2).",
+     "en": "Volumes > 20 mL or rapid injection increase radicular pain and hematoma (Pearl 2)."
+    },
+    "levels": [
+     2
+    ],
+    "group": "procedimento"
+   },
+   {
+    "id": "c_repouso",
+    "class": "desnecessaria",
+    "ref": "p. 350",
+    "label": {
+     "pt": "Repouso absoluto no leito",
+     "en": "Strict bed rest"
+    },
+    "why": {
+     "pt": "Não previne a CPPD e aumenta o risco de tromboembolismo (Pérola 1).",
+     "en": "Does not prevent PDPH and increases thromboembolic risk (Pearl 1)."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "orientacao"
+   },
+   {
+    "id": "c_retorno",
+    "class": "essencial",
+    "ref": "p. 346–347",
+    "label": {
+     "pt": "Orientar retorno imediato se a dor perder o componente postural ou surgirem sinais de alerta",
+     "en": "Advise immediate return if pain loses its postural component or red flags appear"
+    },
+    "why": {
+     "pt": "Sinais de alerta exigem neuroimagem.",
+     "en": "Red flags require neuroimaging."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "orientacao"
+   },
+   {
+    "id": "c_neuro",
+    "class": "essencial",
+    "ref": "p. 347",
+    "label": {
+     "pt": "Consulta urgente com a neurologia/neurocirurgia",
+     "en": "Urgent neurology/neurosurgery consultation"
+    },
+    "why": {
+     "pt": "Sinais de alerta motivam neuroimagem urgente e neurologista.",
+     "en": "Red flags warrant urgent neuroimaging and a neurologist."
+    },
+    "levels": [
+     3
+    ],
+    "group": "orientacao"
+   },
+   {
+    "id": "c_alta",
+    "class": "essencial",
+    "ref": "p. 348",
+    "label": {
+     "pt": "Alta com tratamento conservador e reavaliação em 24 a 48 h",
+     "en": "Discharge on conservative treatment with reassessment in 24–48 h"
+    },
+    "why": {
+     "pt": "Manejo inicial conservador.",
+     "en": "Initial conservative management."
+    },
+    "levels": [
+     1
+    ],
+    "group": "destino"
+   },
+   {
+    "id": "c_obsebp",
+    "class": "essencial",
+    "ref": "p. 349",
+    "label": {
+     "pt": "Observação após o tampão e alta com orientações",
+     "en": "Observation after the patch and discharge with advice"
+    },
+    "why": {
+     "pt": "Possível necessidade de segundo tampão (cerca de 20%).",
+     "en": "A second patch may be needed (about 20%)."
+    },
+    "levels": [
+     2
+    ],
+    "group": "destino"
+   },
+   {
+    "id": "c_intern",
+    "class": "desnecessaria",
+    "ref": "p. 348",
+    "label": {
+     "pt": "Internação hospitalar",
+     "en": "Hospital admission"
+    },
+    "why": {
+     "pt": "CPPD típica é manejada ambulatorialmente.",
+     "en": "Typical PDPH is managed as an outpatient."
+    },
+    "group": "destino",
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "why": {
+       "pt": "Complicação intracraniana exige internação e avaliação especializada.",
+       "en": "Intracranial complication requires admission and specialist assessment."
+      }
+     }
+    }
+   }
+  ]
+ }
+}

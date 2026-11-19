@@ -180,35 +180,35 @@
   {
    "id": "c17",
    "number": 17,
-   "file": null,
+   "file": "17-dor-mamaria.json",
    "title": {
     "pt": "Dor mamária",
     "en": "Breast pain"
    },
    "block": 5,
-   "available": false
+   "available": true
   },
   {
    "id": "c18",
    "number": 18,
-   "file": null,
+   "file": "18-cefaleia-pos-raqui.json",
    "title": {
-    "pt": "Cefaleia no pós-operatório",
-    "en": "Postoperative headache"
+    "pt": "Cefaleia no pós-parto",
+    "en": "Postpartum headache"
    },
    "block": 5,
-   "available": false
+   "available": true
   },
   {
    "id": "c19",
    "number": 19,
-   "file": null,
+   "file": "19-hipertensao-puerperal.json",
    "title": {
-    "pt": "Pressão elevada no puerpério",
-    "en": "High blood pressure postpartum"
+    "pt": "Cefaleia e mal-estar no puerpério",
+    "en": "Headache and malaise postpartum"
    },
    "block": 5,
-   "available": false
+   "available": true
   },
   {
    "id": "c20",

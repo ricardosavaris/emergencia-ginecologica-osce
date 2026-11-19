@@ -1,0 +1,975 @@
+{
+ "id": "c19",
+ "title": {
+  "pt": "Cefaleia e mal-estar no puerpério",
+  "en": "Headache and malaise postpartum"
+ },
+ "chapter": {
+  "pt": "Hipertensão puerperal",
+  "en": "Postpartum hypertension"
+ },
+ "pages": "p. 353–373",
+ "base": {
+  "triage": {
+   "pt": "Puérpera de 33 anos, no 5º dia após cesárea, procura a emergência por cefaleia intensa que não cede com analgésico e visão turva desde a manhã.",
+   "en": "33-year-old woman on day 5 after cesarean presents with severe headache unrelieved by analgesics and blurred vision since this morning."
+  },
+  "vitals": {
+   "PA": "168/112 mmHg",
+   "FC": "92 bpm",
+   "FR": "18 mrpm",
+   "Tax": "36,6 °C",
+   "SpO2": "98%"
+  },
+  "correctDiagnosis": "pe_grave",
+  "diagnosisExplanation": {
+   "pt": "PA ≥ 160/110 mmHg confirmada em 15 minutos, cefaleia refratária, escotomas, hiper-reflexia e proteinúria: pré-eclâmpsia pós-parto com sinais de gravidade (p. 356–357). Conduta: nifedipino de liberação imediata 10 a 20 mg VO (repetir a cada 20 a 30 min) e sulfato de magnésio 4 a 6 g IV em 20 a 30 min + 1 a 2 g/h por 24 h, com exames de órgãos-alvo (p. 353, 360–364).",
+   "en": "BP ≥ 160/110 mmHg confirmed within 15 minutes, refractory headache, scotomata, hyperreflexia and proteinuria: postpartum preeclampsia with severe features (p. 356–357). Management: immediate-release nifedipine 10–20 mg PO (repeat every 20–30 min) and magnesium sulfate 4–6 g IV over 20–30 min + 1–2 g/h for 24 h, with end-organ tests (p. 353, 360–364)."
+  },
+  "learning": {
+   "pt": "Hipertensão grave no pós-parto sem outra etiologia já leva a considerar pré-eclâmpsia; a eclâmpsia pode ocorrer até 4 semanas após o parto, mesmo sem edema ou proteinúria (p. 356).\nMeça a PA com a paciente sentada, braço na altura do coração: em decúbito lateral a PA é subestimada (Pérola 2, p. 368). Não use nifedipino sublingual nem mastigado (p. 360).\nMonitore o sulfato de magnésio por reflexo patelar presente, FR ≥ 16 mrpm e diurese ≥ 25 a 30 mL/h; na intoxicação, gluconato de cálcio 10% 1 g IV em 3 minutos (p. 363–364). Manutenção: enalapril ou nifedipino retard; metildopa é fortemente desencorajada no pós-parto (p. 360–361). Retorno em até 72 h após hipertensão grave e monitoramento domiciliar da PA por 2 semanas (p. 364).",
+   "en": "Severe postpartum hypertension without another cause should prompt consideration of preeclampsia; eclampsia may occur up to 4 weeks after delivery, even without edema or proteinuria (p. 356).\nMeasure BP with the patient seated, arm at heart level: lateral decubitus underestimates BP (Pearl 2, p. 368). Do not give nifedipine sublingually or chewed (p. 360).\nMonitor magnesium sulfate with a present patellar reflex, RR ≥ 16/min and urine output ≥ 25–30 mL/h; for toxicity, 10% calcium gluconate 1 g IV over 3 minutes (p. 363–364). Maintenance: enalapril or extended-release nifedipine; methyldopa is strongly discouraged postpartum (p. 360–361). Follow-up within 72 h after severe hypertension and home BP monitoring for 2 weeks (p. 364)."
+  }
+ },
+ "levels": {
+  "3": {
+   "triage": {
+    "pt": "Puérpera de 30 anos, 1º dia após parto vaginal, retorna à emergência com mal-estar geral, tontura e pele amarelada desde a madrugada.",
+    "en": "30-year-old woman on day 1 after vaginal birth returns with malaise, dizziness and yellow skin since early morning."
+   },
+   "vitals": {
+    "PA": "110/80 mmHg",
+    "FC": "96 bpm",
+    "FR": "18 mrpm",
+    "Tax": "36,8 °C",
+    "SpO2": "98%"
+   },
+   "correctDiagnosis": "hellp",
+   "diagnosisExplanation": {
+    "pt": "Icterícia e mal-estar no puerpério imediato, PA 110/80 mmHg e sem sintomas neurológicos, com elevação de TGO, plaquetopenia grave e lesão renal aguda: síndrome HELLP atípica, sem hipertensão e sem hemólise franca (Caso 2, p. 367–368). Conduta: sulfato de magnésio por período curto para neuroproteção e monitoramento laboratorial seriado.",
+    "en": "Jaundice and malaise in the immediate postpartum period, BP 110/80 mmHg and no neurologic symptoms, with elevated AST, severe thrombocytopenia and acute kidney injury: atypical HELLP syndrome without hypertension or overt hemolysis (Case 2, p. 367–368). Management: short-course magnesium sulfate for neuroprotection and serial laboratory monitoring."
+   },
+   "learning": {
+    "pt": "A ausência de hipertensão não exclui as síndromes hipertensivas da gravidez; a HELLP pode surgir subitamente no puerpério, frequentemente em até 48 h (Caso 2, p. 368).\nDiante de tontura grave ou icterícia no puerpério imediato, colha TGO, creatinina, DHL, haptoglobina e plaquetas (Caso 2, p. 368). TGO > 70 UI/L já fecha o critério de gravidade hepática (Pérola 4, p. 369). Coagulograma apenas com plaquetopenia; com plaquetas < 100.000/mm³, repetir em 24 a 48 h (p. 358).\nCom creatinina elevada ou oligúria, dose o magnésio sérico a cada 4 h (alvo 4,8 a 9,6 mg/dL) (p. 364).",
+    "en": "Absence of hypertension does not exclude hypertensive disorders of pregnancy; HELLP may appear suddenly postpartum, often within 48 h (Case 2, p. 368).\nWith severe dizziness or jaundice in the immediate postpartum period, obtain AST, creatinine, LDH, haptoglobin and platelets (Case 2, p. 368). AST > 70 IU/L meets the hepatic severity criterion (Pearl 4, p. 369). Coagulation tests only with thrombocytopenia; with platelets < 100,000/mm³, repeat in 24–48 h (p. 358).\nWith elevated creatinine or oliguria, measure serum magnesium every 4 h (target 4.8–9.6 mg/dL) (p. 364)."
+   },
+   "timerMinutes": 12
+  }
+ },
+ "diagnoses": [
+  {
+   "id": "pe_grave",
+   "label": {
+    "pt": "Pré-eclâmpsia pós-parto com sinais de gravidade",
+    "en": "Postpartum preeclampsia with severe features"
+   }
+  },
+  {
+   "id": "has",
+   "label": {
+    "pt": "Hipertensão puerperal sem lesão de órgão-alvo",
+    "en": "Postpartum hypertension without end-organ damage"
+   }
+  },
+  {
+   "id": "eclampsia",
+   "label": {
+    "pt": "Eclâmpsia pós-parto",
+    "en": "Postpartum eclampsia"
+   }
+  },
+  {
+   "id": "hellp",
+   "label": {
+    "pt": "Síndrome HELLP",
+    "en": "HELLP syndrome"
+   }
+  },
+  {
+   "id": "cppd",
+   "label": {
+    "pt": "Cefaleia pós-punção dural",
+    "en": "Post-dural puncture headache"
+   }
+  },
+  {
+   "id": "tvc",
+   "label": {
+    "pt": "Trombose venosa cerebral",
+    "en": "Cerebral venous thrombosis"
+   }
+  },
+  {
+   "id": "hepatite",
+   "label": {
+    "pt": "Hepatite viral aguda",
+    "en": "Acute viral hepatitis"
+   }
+  },
+  {
+   "id": "enxaqueca",
+   "label": {
+    "pt": "Enxaqueca",
+    "en": "Migraine"
+   }
+  }
+ ],
+ "stages": {
+  "anamnese": [
+   {
+    "id": "a_dias",
+    "class": "essencial",
+    "ref": "p. 356",
+    "label": {
+     "pt": "Dias de pós-parto e via de parto",
+     "en": "Days postpartum and mode of delivery"
+    },
+    "result": {
+     "pt": "Cesárea há 5 dias.",
+     "en": "Cesarean 5 days ago."
+    },
+    "why": {
+     "pt": "Hipertensão puerperal geralmente na primeira semana; eclâmpsia até 4 semanas.",
+     "en": "Postpartum hypertension usually in the first week; eclampsia up to 4 weeks."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Parto vaginal ontem.",
+       "en": "Vaginal birth yesterday."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_neuro",
+    "class": "essencial",
+    "ref": "p. 356–357",
+    "label": {
+     "pt": "Cefaleia, alterações visuais e convulsões",
+     "en": "Headache, visual changes and seizures"
+    },
+    "result": {
+     "pt": "Cefaleia occipital intensa sem alívio com dipirona; escotomas.",
+     "en": "Severe occipital headache not relieved by dipyrone; scotomata."
+    },
+    "why": {
+     "pt": "Cefaleia (82%) e alterações visuais (31%) são sinais de alerta.",
+     "en": "Headache (82%) and visual changes (31%) are red flags."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Nega cefaleia, alterações visuais ou convulsões.",
+       "en": "Denies headache, visual changes or seizures."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_epig",
+    "class": "essencial",
+    "ref": "p. 353",
+    "label": {
+     "pt": "Dor epigástrica ou em hipocôndrio direito",
+     "en": "Epigastric or right upper quadrant pain"
+    },
+    "result": {
+     "pt": "Nega.",
+     "en": "Denies."
+    },
+    "why": {
+     "pt": "Epigastralgia é sinal de alerta de gravidade.",
+     "en": "Epigastric pain is a severity red flag."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Desconforto em hipocôndrio direito.",
+       "en": "Right upper quadrant discomfort."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_dispneia",
+    "class": "pertinente",
+    "ref": "p. 357",
+    "label": {
+     "pt": "Dispneia e dor torácica",
+     "en": "Dyspnea and chest pain"
+    },
+    "result": {
+     "pt": "Nega.",
+     "en": "Denies."
+    },
+    "why": {
+     "pt": "Sobrecarga de volume no pós-parto.",
+     "en": "Postpartum volume overload."
+    }
+   },
+   {
+    "id": "a_gest",
+    "class": "pertinente",
+    "ref": "p. 355",
+    "label": {
+     "pt": "Hipertensão ou pré-eclâmpsia na gestação",
+     "en": "Hypertension or preeclampsia in pregnancy"
+    },
+    "result": {
+     "pt": "Pressão limítrofe no fim da gestação, sem tratamento.",
+     "en": "Borderline BP late in pregnancy, untreated."
+    },
+    "why": {
+     "pt": "Distúrbio hipertensivo prévio é o fator de risco mais forte.",
+     "en": "Prior hypertensive disorder is the strongest risk factor."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Gestação sem intercorrências.",
+       "en": "Uneventful pregnancy."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_amam",
+    "class": "pertinente",
+    "ref": "p. 360–361",
+    "label": {
+     "pt": "Amamentação",
+     "en": "Breastfeeding"
+    },
+    "result": {
+     "pt": "Amamentando.",
+     "en": "Breastfeeding."
+    },
+    "why": {
+     "pt": "Orienta a escolha de anti-hipertensivos seguros na lactação.",
+     "en": "Guides choice of antihypertensives safe in lactation."
+    }
+   },
+   {
+    "id": "a_ictericia",
+    "class": "pertinente",
+    "ref": "p. 368",
+    "label": {
+     "pt": "Coloração da pele e da urina",
+     "en": "Skin and urine color"
+    },
+    "result": {
+     "pt": "Sem alterações.",
+     "en": "Normal."
+    },
+    "why": {
+     "pt": "Icterícia no puerpério imediato exige investigar HELLP.",
+     "en": "Jaundice in the immediate postpartum period requires investigating HELLP."
+    },
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "result": {
+       "pt": "Pele e olhos amarelados; urina escura.",
+       "en": "Yellow skin and eyes; dark urine."
+      }
+     }
+    }
+   }
+  ],
+  "exame": [
+   {
+    "id": "e_pa",
+    "class": "essencial",
+    "ref": "p. 356, 368",
+    "label": {
+     "pt": "Aferição da PA sentada, braço na altura do coração, repetida em 15 minutos",
+     "en": "BP measured seated, arm at heart level, repeated at 15 minutes"
+    },
+    "result": {
+     "pt": "170/114 mmHg confirmada em 15 minutos.",
+     "en": "170/114 mmHg confirmed at 15 minutes."
+    },
+    "why": {
+     "pt": "Hipertensão grave deve ser confirmada em minutos; decúbito lateral subestima a PA (Pérola 2).",
+     "en": "Severe hypertension must be confirmed within minutes; lateral decubitus underestimates BP (Pearl 2)."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "110/80 mmHg confirmada.",
+       "en": "110/80 mmHg confirmed."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_reflexo",
+    "class": "essencial",
+    "ref": "p. 357, 363",
+    "label": {
+     "pt": "Reflexos tendinosos profundos",
+     "en": "Deep tendon reflexes"
+    },
+    "result": {
+     "pt": "Hiper-reflexia patelar bilateral.",
+     "en": "Bilateral patellar hyperreflexia."
+    },
+    "why": {
+     "pt": "Hiper-reflexia em 47%; o reflexo patelar também monitora o magnésio.",
+     "en": "Hyperreflexia in 47%; the patellar reflex also monitors magnesium."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Reflexos normais.",
+       "en": "Normal reflexes."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_pulm",
+    "class": "pertinente",
+    "ref": "p. 357",
+    "label": {
+     "pt": "Ausculta pulmonar e edema",
+     "en": "Lung auscultation and edema"
+    },
+    "result": {
+     "pt": "Murmúrio normal; edema de membros inferiores 2+/4+.",
+     "en": "Normal breath sounds; 2+/4+ leg edema."
+    },
+    "why": {
+     "pt": "Avalia sobrecarga e edema pulmonar.",
+     "en": "Assesses overload and pulmonary edema."
+    }
+   },
+   {
+    "id": "e_icter",
+    "class": "pertinente",
+    "ref": "p. 368",
+    "label": {
+     "pt": "Inspeção de pele e escleras",
+     "en": "Skin and scleral inspection"
+    },
+    "result": {
+     "pt": "Anictérica.",
+     "en": "Anicteric."
+    },
+    "why": {
+     "pt": "Icterícia sugere HELLP.",
+     "en": "Jaundice suggests HELLP."
+    },
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "result": {
+       "pt": "Icterícia 2+/4+; petéquias em membros.",
+       "en": "Jaundice 2+/4+; petechiae on the limbs."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_ferida",
+    "class": "desnecessaria",
+    "ref": "p. 356",
+    "label": {
+     "pt": "Ferida operatória",
+     "en": "Surgical incision"
+    },
+    "result": {
+     "pt": "Sem sinais flogísticos.",
+     "en": "No inflammatory signs."
+    },
+    "why": {
+     "pt": "Não altera a conduta da hipertensão.",
+     "en": "Does not change hypertension management."
+    },
+    "levels": [
+     2
+    ]
+   }
+  ],
+  "lab": [
+   {
+    "id": "l_hemo",
+    "class": "essencial",
+    "ref": "p. 353, 358",
+    "label": {
+     "pt": "Hemograma com plaquetas",
+     "en": "CBC with platelets"
+    },
+    "result": {
+     "pt": "Hb 11,2 g/dL; plaquetas 168.000/mm³.",
+     "en": "Hb 11.2 g/dL; platelets 168,000/mm³."
+    },
+    "why": {
+     "pt": "Plaquetas < 100.000/μL indicam lesão de órgão-alvo.",
+     "en": "Platelets < 100,000/μL indicate end-organ damage."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Hb 10,8 g/dL; plaquetas 42.000/mm³.",
+       "en": "Hb 10.8 g/dL; platelets 42,000/mm³."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_creat",
+    "class": "essencial",
+    "ref": "p. 356, 358",
+    "label": {
+     "pt": "Creatinina e eletrólitos",
+     "en": "Creatinine and electrolytes"
+    },
+    "result": {
+     "pt": "Creatinina 0,8 mg/dL.",
+     "en": "Creatinine 0.8 mg/dL."
+    },
+    "why": {
+     "pt": "Creatinina > 1,1 mg/dL indica lesão renal.",
+     "en": "Creatinine > 1.1 mg/dL indicates renal injury."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Creatinina 1,9 mg/dL.",
+       "en": "Creatinine 1.9 mg/dL."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_tgo",
+    "class": "essencial",
+    "ref": "p. 358, 369",
+    "label": {
+     "pt": "TGO (AST)",
+     "en": "AST"
+    },
+    "result": {
+     "pt": "32 UI/L.",
+     "en": "32 IU/L."
+    },
+    "why": {
+     "pt": "Somente TGO é suficiente; ≥ 40 UI/L alterada, > 70 UI/L critério de gravidade (Pérola 4).",
+     "en": "AST alone suffices; ≥ 40 IU/L abnormal, > 70 IU/L severity criterion (Pearl 4)."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "486 UI/L.",
+       "en": "486 IU/L."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_hemol",
+    "class": "pertinente",
+    "ref": "p. 358",
+    "label": {
+     "pt": "DHL, haptoglobina e bilirrubinas",
+     "en": "LDH, haptoglobin and bilirubin"
+    },
+    "result": {
+     "pt": "DHL 410 U/L; haptoglobina normal.",
+     "en": "LDH 410 U/L; normal haptoglobin."
+    },
+    "why": {
+     "pt": "Marcadores de hemólise.",
+     "en": "Hemolysis markers."
+    },
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "result": {
+       "pt": "DHL 520 U/L; haptoglobina no limite inferior; bilirrubina total 4,8 mg/dL (direta 3,1).",
+       "en": "LDH 520 U/L; haptoglobin at lower limit; total bilirubin 4.8 mg/dL (direct 3.1)."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_fita",
+    "class": "essencial",
+    "ref": "p. 353, 358",
+    "label": {
+     "pt": "Fita urinária para proteinúria",
+     "en": "Urine dipstick for proteinuria"
+    },
+    "result": {
+     "pt": "Proteinúria 3+.",
+     "en": "Proteinuria 3+."
+    },
+    "why": {
+     "pt": "Triagem com fita, confirmação quantitativa.",
+     "en": "Dipstick screening with quantitative confirmation."
+    },
+    "byLevel": {
+     "3": {
+      "class": "pertinente",
+      "result": {
+       "pt": "Proteinúria 1+; bilirrubina positiva.",
+       "en": "Proteinuria 1+; bilirubin positive."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_rpc",
+    "class": "pertinente",
+    "ref": "p. 356, 358",
+    "label": {
+     "pt": "Relação proteína/creatinina urinária",
+     "en": "Urine protein/creatinine ratio"
+    },
+    "result": {
+     "pt": "0,9.",
+     "en": "0.9."
+    },
+    "why": {
+     "pt": "≥ 0,3 confirma proteinúria.",
+     "en": "≥ 0.3 confirms proteinuria."
+    }
+   },
+   {
+    "id": "l_coag",
+    "class": "desnecessaria",
+    "ref": "p. 358",
+    "label": {
+     "pt": "Coagulograma",
+     "en": "Coagulation panel"
+    },
+    "result": {
+     "pt": "Normal.",
+     "en": "Normal."
+    },
+    "why": {
+     "pt": "Apenas em casos de plaquetopenia.",
+     "en": "Only with thrombocytopenia."
+    },
+    "byLevel": {
+     "3": {
+      "class": "pertinente",
+      "result": {
+       "pt": "INR 1,2; TTPA 33 s; fibrinogênio 260 mg/dL.",
+       "en": "INR 1.2; aPTT 33 s; fibrinogen 260 mg/dL."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_ureia",
+    "class": "desnecessaria",
+    "ref": "p. 358",
+    "label": {
+     "pt": "Ureia",
+     "en": "Urea"
+    },
+    "result": {
+     "pt": "28 mg/dL.",
+     "en": "28 mg/dL."
+    },
+    "why": {
+     "pt": "Não é rotina, salvo comprometimento renal nítido ou suspeita de SHU.",
+     "en": "Not routine unless clear renal impairment or suspected HUS."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   }
+  ],
+  "imagem": [
+   {
+    "id": "i_neuro",
+    "class": "desnecessaria",
+    "ref": "p. 357, 359",
+    "label": {
+     "pt": "Tomografia ou ressonância de crânio",
+     "en": "Head CT or MRI"
+    },
+    "result": {
+     "pt": "Sem alterações agudas.",
+     "en": "No acute findings."
+    },
+    "why": {
+     "pt": "Indicada se os sintomas neurológicos persistirem, déficit focal, coma prolongado ou convulsões refratárias.",
+     "en": "Indicated for persistent neurologic symptoms, focal deficit, prolonged coma or refractory seizures."
+    }
+   },
+   {
+    "id": "i_rx",
+    "class": "desnecessaria",
+    "ref": "p. 356",
+    "label": {
+     "pt": "Radiografia de tórax",
+     "en": "Chest X-ray"
+    },
+    "result": {
+     "pt": "Sem congestão.",
+     "en": "No congestion."
+    },
+    "why": {
+     "pt": "Indicada na suspeita de edema pulmonar.",
+     "en": "Indicated for suspected pulmonary edema."
+    }
+   },
+   {
+    "id": "i_uspelv",
+    "class": "desnecessaria",
+    "ref": "p. 359",
+    "label": {
+     "pt": "Ultrassonografia pélvica",
+     "en": "Pelvic ultrasound"
+    },
+    "result": {
+     "pt": "Útero puerperal sem restos.",
+     "en": "Puerperal uterus without retained products."
+    },
+    "why": {
+     "pt": "Apenas sob suspeita de restos ou sangramento intracavitário.",
+     "en": "Only for suspected retained products or intracavitary bleeding."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   },
+   {
+    "id": "i_usabd",
+    "class": "desnecessaria",
+    "ref": "p. 368",
+    "label": {
+     "pt": "Ultrassonografia de abdome superior",
+     "en": "Upper abdominal ultrasound"
+    },
+    "result": {
+     "pt": "Fígado sem hematoma; vias biliares normais.",
+     "en": "Liver without hematoma; normal bile ducts."
+    },
+    "why": {
+     "pt": "O diagnóstico da HELLP é laboratorial.",
+     "en": "HELLP diagnosis is laboratory-based."
+    },
+    "levels": [
+     3
+    ],
+    "byLevel": {
+     "3": {
+      "class": "pertinente",
+      "why": {
+       "pt": "Útil para excluir obstrução biliar como causa da icterícia.",
+       "en": "Useful to exclude biliary obstruction as the cause of jaundice."
+      }
+     }
+    }
+   }
+  ],
+  "conduta": [
+   {
+    "id": "c_nife",
+    "class": "essencial",
+    "ref": "p. 353, 360",
+    "label": {
+     "pt": "Nifedipino de liberação imediata 10 a 20 mg VO, repetir a cada 20 a 30 min se necessário",
+     "en": "Immediate-release nifedipine 10–20 mg PO, repeat every 20–30 min if needed"
+    },
+    "why": {
+     "pt": "Tratar imediatamente PA ≥ 160/110 mmHg.",
+     "en": "Treat BP ≥ 160/110 mmHg immediately."
+    },
+    "group": "medicamento",
+    "byLevel": {
+     "3": {
+      "class": "contraindicada",
+      "why": {
+       "pt": "PA 110/80 mmHg: o limiar para anti-hipertensivo é ≥ 140/90 mmHg.",
+       "en": "BP 110/80 mmHg: the threshold for antihypertensives is ≥ 140/90 mmHg."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_nifesl",
+    "class": "contraindicada",
+    "ref": "p. 360",
+    "label": {
+     "pt": "Nifedipino sublingual",
+     "en": "Sublingual nifedipine"
+    },
+    "why": {
+     "pt": "Não usar como sublingual ou mastigado.",
+     "en": "Do not give sublingually or chewed."
+    },
+    "levels": [
+     2
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_hidral",
+    "class": "pertinente",
+    "ref": "p. 360",
+    "label": {
+     "pt": "Hidralazina 5 a 10 mg IV a cada 20 a 40 min (máximo 20 a 30 mg)",
+     "en": "Hydralazine 5–10 mg IV every 20–40 min (maximum 20–30 mg)"
+    },
+    "why": {
+     "pt": "Alternativa na crise; risco de hipotensão abrupta.",
+     "en": "Alternative in crisis; risk of abrupt hypotension."
+    },
+    "levels": [
+     2
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_mgso4_l1",
+    "class": "essencial",
+    "ref": "p. 353, 362",
+    "label": {
+     "pt": "Sulfato de magnésio IV (ataque e manutenção)",
+     "en": "IV magnesium sulfate (loading and maintenance)"
+    },
+    "why": {
+     "pt": "Sintomas premonitórios de gravidade.",
+     "en": "Premonitory severe symptoms."
+    },
+    "levels": [
+     1
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_mgso4",
+    "class": "essencial",
+    "ref": "p. 360, 362–364",
+    "label": {
+     "pt": "Sulfato de magnésio 4 a 6 g IV em 20 a 30 min + 1 a 2 g/h por 24 horas",
+     "en": "Magnesium sulfate 4–6 g IV over 20–30 min + 1–2 g/h for 24 hours"
+    },
+    "why": {
+     "pt": "Neuroproteção e prevenção de eclâmpsia.",
+     "en": "Neuroprotection and eclampsia prevention."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "medicamento",
+    "byLevel": {
+     "3": {
+      "label": {
+       "pt": "Sulfato de magnésio IV por período curto para neuroproteção",
+       "en": "Short-course IV magnesium sulfate for neuroprotection"
+      },
+      "why": {
+       "pt": "HELLP com falência orgânica (Caso 2).",
+       "en": "HELLP with organ failure (Case 2)."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_monit",
+    "class": "essencial",
+    "ref": "p. 363–364",
+    "label": {
+     "pt": "Monitorar reflexo patelar, FR ≥ 16 mrpm, diurese ≥ 25 a 30 mL/h e oximetria; gluconato de cálcio disponível",
+     "en": "Monitor patellar reflex, RR ≥ 16/min, urine output ≥ 25–30 mL/h and oximetry; calcium gluconate available"
+    },
+    "why": {
+     "pt": "Detecção precoce de intoxicação pelo magnésio.",
+     "en": "Early detection of magnesium toxicity."
+    },
+    "group": "procedimento",
+    "byLevel": {
+     "3": {
+      "label": {
+       "pt": "Monitorização clínica e magnésio sérico a cada 4 h (creatinina elevada)",
+       "en": "Clinical monitoring and serum magnesium every 4 h (elevated creatinine)"
+      }
+     }
+    }
+   },
+   {
+    "id": "c_manut",
+    "class": "essencial",
+    "ref": "p. 360",
+    "label": {
+     "pt": "Manutenção com enalapril 5 a 40 mg/dia ou nifedipino retard 20 a 120 mg/dia",
+     "en": "Maintenance with enalapril 5–40 mg/day or extended-release nifedipine 20–120 mg/day"
+    },
+    "why": {
+     "pt": "Primeira linha, seguros na lactação.",
+     "en": "First line, safe in lactation."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_metildopa",
+    "class": "desnecessaria",
+    "ref": "p. 361",
+    "label": {
+     "pt": "Metildopa 750 mg a 2 g/dia",
+     "en": "Methyldopa 750 mg–2 g/day"
+    },
+    "why": {
+     "pt": "Fortemente desencorajada no pós-parto (sedação, associação com depressão pós-parto).",
+     "en": "Strongly discouraged postpartum (sedation, association with postpartum depression)."
+    },
+    "levels": [
+     2
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_furo",
+    "class": "desnecessaria",
+    "ref": "p. 362",
+    "label": {
+     "pt": "Furosemida 20 mg/dia VO",
+     "en": "Furosemide 20 mg/day PO"
+    },
+    "why": {
+     "pt": "Adjuvante apenas em sobrecarga de volume ou edema pulmonar.",
+     "en": "Adjunct only for volume overload or pulmonary edema."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "medicamento",
+    "byLevel": {
+     "3": {
+      "class": "contraindicada",
+      "why": {
+       "pt": "Contraindicada com creatinina > 1,2 mg/dL.",
+       "en": "Contraindicated with creatinine > 1.2 mg/dL."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_aine",
+    "class": "pertinente",
+    "ref": "p. 362",
+    "label": {
+     "pt": "AINE para analgesia",
+     "en": "NSAID for analgesia"
+    },
+    "why": {
+     "pt": "Preferível aos opioides no manejo da dor.",
+     "en": "Preferred over opioids for pain."
+    },
+    "levels": [
+     2
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_labser",
+    "class": "essencial",
+    "ref": "p. 358",
+    "label": {
+     "pt": "Repetir plaquetas, TGO, creatinina e DHL em 24 a 48 h",
+     "en": "Repeat platelets, AST, creatinine and LDH in 24–48 h"
+    },
+    "why": {
+     "pt": "Plaquetas < 100.000/mm³: deterioração grave, repetir.",
+     "en": "Platelets < 100,000/mm³: severe deterioration, repeat."
+    },
+    "levels": [
+     3
+    ],
+    "group": "procedimento"
+   },
+   {
+    "id": "c_seguim",
+    "class": "pertinente",
+    "ref": "p. 364",
+    "label": {
+     "pt": "Monitoramento domiciliar da PA por 2 semanas e retorno em até 72 h",
+     "en": "Home BP monitoring for 2 weeks and follow-up within 72 h"
+    },
+    "why": {
+     "pt": "Após hipertensão grave.",
+     "en": "After severe hypertension."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "orientacao"
+   },
+   {
+    "id": "c_intern",
+    "class": "essencial",
+    "ref": "p. 358, 364",
+    "label": {
+     "pt": "Internação hospitalar",
+     "en": "Hospital admission"
+    },
+    "why": {
+     "pt": "Hipertensão grave com sinais de alerta.",
+     "en": "Severe hypertension with red flags."
+    },
+    "group": "destino",
+    "byLevel": {
+     "3": {
+      "why": {
+       "pt": "HELLP com plaquetopenia grave e lesão renal.",
+       "en": "HELLP with severe thrombocytopenia and renal injury."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_alta",
+    "class": "contraindicada",
+    "ref": "p. 356",
+    "label": {
+     "pt": "Alta com anti-hipertensivo oral",
+     "en": "Discharge on oral antihypertensive"
+    },
+    "why": {
+     "pt": "Sinais de gravidade exigem sulfato de magnésio e internação.",
+     "en": "Severe features require magnesium sulfate and admission."
+    },
+    "group": "destino",
+    "grave": true,
+    "outcome": {
+     "pt": "Risco de eclâmpsia, AVC e edema pulmonar fora do hospital (p. 359).",
+     "en": "Risk of eclampsia, stroke and pulmonary edema outside hospital (p. 359)."
+    },
+    "byLevel": {
+     "3": {
+      "label": {
+       "pt": "Alta por PA normal",
+       "en": "Discharge because BP is normal"
+      },
+      "why": {
+       "pt": "A ausência de hipertensão não exclui HELLP (Caso 2).",
+       "en": "Absence of hypertension does not exclude HELLP (Case 2)."
+      },
+      "grave": true,
+      "outcome": {
+       "pt": "HELLP com falência orgânica não reconhecida (Caso 2, p. 367–368).",
+       "en": "Unrecognized HELLP with organ failure (Case 2, p. 367–368)."
+      }
+     }
+    }
+   }
+  ]
+ }
+}
