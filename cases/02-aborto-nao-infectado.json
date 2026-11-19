@@ -1,0 +1,334 @@
+{
+  "id": "c02",
+  "title": { "pt": "Gestante com sangramento escuro e cólica", "en": "Pregnant patient with dark bleeding and cramping" },
+  "chapter": { "pt": "Aborto não infectado", "en": "Non-septic miscarriage" },
+  "pages": "p. 39–60",
+  "base": {
+    "triage": {
+      "pt": "Mulher de 23 anos, G1P0, com ultrassonografia de 2 semanas atrás mostrando gestação tópica de 6 semanas e 2 dias com BCF presente. Procura a emergência por sangramento vaginal escuro em pequena quantidade há 2 dias e cólica leve.\nTraz testes rápidos de HIV e sífilis não reagentes realizados na UBS há 7 dias e hemograma normal de 5 dias atrás.",
+      "en": "23-year-old woman, G1P0, with an ultrasound 2 weeks ago showing an intrauterine pregnancy at 6 weeks 2 days with cardiac activity. She presents with scant dark vaginal bleeding for 2 days and mild cramping.\nShe brings non-reactive HIV and syphilis rapid tests from the primary care clinic 7 days ago and a normal CBC from 5 days ago."
+    },
+    "vitals": { "PA": "112/70 mmHg", "FC": "78 bpm", "FR": "16 mrpm", "Tax": "36,6 °C", "SpO2": "99%" },
+    "correctDiagnosis": "retido",
+    "diagnosisExplanation": {
+      "pt": "Gestação intrauterina previamente confirmada, colo fechado, sem sinais de infecção e USTV com embrião de CCN ≥ 7 mm sem atividade cardíaca: gestação interrompida (aborto retido), critério com especificidade de 100% (p. 44). Com IG ≤ 12 semanas, o manejo no HCPA é a AMIU após preparo do colo com misoprostol 400 µg via vaginal 3 a 4 horas antes (p. 46).",
+      "en": "Previously confirmed intrauterine pregnancy, closed os, no signs of infection and TVUS with an embryo CRL ≥ 7 mm without cardiac activity: early pregnancy loss (missed miscarriage), a criterion with 100% specificity (p. 44). At ≤ 12 weeks, HCPA management is MVA after cervical priming with misoprostol 400 µg vaginally 3–4 hours before (p. 46)."
+    },
+    "learning": {
+      "pt": "Os exames pré-operatórios do esvaziamento são hemograma, tipagem sanguínea e sorologias para sífilis, HIV, hepatite B e hepatite C (p. 39). Exames de outro serviço ou fora da janela sorológica devem ser repetidos: neste caso, o anti-HIV repetido foi reagente e a infectologia foi acionada (Caso 1, p. 48).\nO misoprostol precisa de tempo para agir; levar a paciente ao bloco antes do prazo aumenta o risco de perfuração uterina (Caso 2, p. 48–49).\nHemoglobina < 8 g/dL ou coagulopatia exigem reserva de sangue; leucócitos ≥ 14.000/mm³ definem aborto infectado no serviço (p. 39–40). Antes do esvaziamento, revise os exames e aplique o QSG-12 (p. 40).",
+      "en": "Pre-evacuation tests are CBC, blood type and serologies for syphilis, HIV, hepatitis B and hepatitis C (p. 39). Tests from another service or within the serologic window must be repeated: here, the repeated HIV test was reactive and infectious diseases was consulted (Case 1, p. 48).\nMisoprostol needs time to act; taking the patient to the OR early increases the risk of uterine perforation (Case 2, p. 48–49).\nHemoglobin < 8 g/dL or coagulopathy require blood cross-match; WBC ≥ 14,000/mm³ defines septic abortion in this service (p. 39–40). Before evacuation, review the tests and apply the GHQ-12 (p. 40)."
+    }
+  },
+  "levels": {
+    "3": {
+      "triage": {
+        "pt": "Gestante de 27 anos, G2P1 (cesárea há 3 anos), com 18 semanas pela ultrassonografia de 12 semanas. Chega às 22 h encaminhada da UBS porque o sonar não detectou batimentos fetais. Refere sangramento vaginal escuro em pequena quantidade há 3 dias e cansaço aos esforços.",
+        "en": "27-year-old pregnant woman, G2P1 (cesarean 3 years ago), 18 weeks by a 12-week ultrasound. She arrives at 10 PM, referred by the primary care clinic because no fetal heart tones were detected with a handheld Doppler. She reports scant dark vaginal bleeding for 3 days and exertional fatigue."
+      },
+      "vitals": { "PA": "108/66 mmHg", "FC": "96 bpm", "FR": "18 mrpm", "Tax": "36,7 °C", "SpO2": "98%" },
+      "timerMinutes": 15,
+      "diagnosisExplanation": {
+        "pt": "Óbito fetal com 18 semanas sem expulsão: aborto retido de segundo trimestre. Acima de 12 semanas, o misoprostol é usado para expulsar o feto antes do esvaziamento: feto morto, 200 a 400 µg via vaginal a cada 4 a 6 horas até a expulsão, com dose máxima de 2.400 µg em 24 h (p. 46). Após a expulsão: anatomopatológico e curetagem (fluxograma, p. 40). Hb < 8 g/dL exige reserva de sangue.",
+        "en": "Fetal death at 18 weeks without expulsion: second-trimester missed miscarriage. Beyond 12 weeks, misoprostol is used to expel the fetus before evacuation: fetal death, 200–400 µg vaginally every 4–6 hours until expulsion, maximum 2,400 µg in 24 h (p. 46). After expulsion: pathology and curettage (flowchart, p. 40). Hb < 8 g/dL requires blood cross-match."
+      },
+      "learning": {
+        "pt": "Acima de 12 semanas, o misoprostol tem a finalidade de expulsar o feto, e não apenas preparar o colo (p. 39). A administração iniciada à noite tende a não respeitar a posologia; é preferível iniciar pela manhã e ser rigoroso nos intervalos (Caso 3, p. 49).\nCesárea prévia não contraindica misoprostol em gestações < 20 semanas; não se deve associar ocitocina ao mesmo tempo (Caso 3, p. 49). A ocitocina é alternativa no segundo trimestre sem resposta ao misoprostol (fluxograma, p. 40).\nCom Hb < 8 g/dL, a reserva de sangue é obrigatória (p. 40); no Caso 2 (p. 48–49), a ausência de reserva agravou a hemorragia.",
+        "en": "Beyond 12 weeks, misoprostol is used to expel the fetus, not only to prime the cervix (p. 39). Doses started at night tend not to follow the schedule; it is better to start in the morning and keep strict intervals (Case 3, p. 49).\nPrior cesarean does not contraindicate misoprostol before 20 weeks; oxytocin must not be given at the same time (Case 3, p. 49). Oxytocin is an alternative in the second trimester when misoprostol fails (flowchart, p. 40).\nWith Hb < 8 g/dL, blood cross-match is mandatory (p. 40); in Case 2 (p. 48–49) the lack of cross-matched blood worsened the hemorrhage."
+      }
+    }
+  },
+  "diagnoses": [
+    { "id": "ameaca", "label": { "pt": "Ameaça de abortamento", "en": "Threatened miscarriage" } },
+    { "id": "retido", "label": { "pt": "Gestação interrompida (aborto retido)", "en": "Early pregnancy loss (missed miscarriage)" } },
+    { "id": "incompleto", "label": { "pt": "Aborto incompleto", "en": "Incomplete miscarriage" } },
+    { "id": "completo", "label": { "pt": "Aborto completo", "en": "Complete miscarriage" } },
+    { "id": "inevitavel", "label": { "pt": "Aborto inevitável (em curso)", "en": "Inevitable miscarriage" } },
+    { "id": "anembrionada", "label": { "pt": "Gestação anembrionada", "en": "Anembryonic pregnancy" } },
+    { "id": "infectado", "label": { "pt": "Aborto infectado", "en": "Septic abortion" } },
+    { "id": "mola", "label": { "pt": "Mola hidatiforme", "en": "Hydatidiform mole" } }
+  ],
+  "stages": {
+    "anamnese": [
+      {
+        "id": "a_sangr", "class": "essencial", "ref": "p. 31",
+        "label": { "pt": "Volume e evolução do sangramento", "en": "Amount and course of bleeding" },
+        "result": { "pt": "Pequena quantidade, escuro, sem coágulos, há 2 dias.", "en": "Scant, dark, no clots, for 2 days." },
+        "byLevel": { "3": { "result": { "pt": "Pequena quantidade, escuro, há 3 dias.", "en": "Scant, dark, for 3 days." } } },
+        "why": { "pt": "O sangramento é um dos 5 elementos que definem o tipo de abortamento.", "en": "Bleeding is one of the 5 elements that define the type of miscarriage." }
+      },
+      {
+        "id": "a_infec", "class": "essencial", "ref": "p. 32",
+        "label": { "pt": "Febre, calafrios ou secreção vaginal com odor fétido", "en": "Fever, chills or foul-smelling discharge" },
+        "result": { "pt": "Nega.", "en": "Denies." },
+        "why": { "pt": "Sinais de infecção mudam o fluxograma para aborto infectado.", "en": "Signs of infection switch the flowchart to septic abortion." }
+      },
+      {
+        "id": "a_manip", "class": "essencial", "ref": "p. 32",
+        "label": { "pt": "Manipulação uterina ou uso de substâncias para interromper a gestação", "en": "Uterine instrumentation or use of substances to end the pregnancy" },
+        "result": { "pt": "Nega.", "en": "Denies." },
+        "why": { "pt": "História de manipulação uterina é sinal de infecção.", "en": "History of uterine instrumentation is a sign of infection." }
+      },
+      {
+        "id": "a_usprev", "class": "essencial", "ref": "p. 40",
+        "label": { "pt": "Confirmação prévia de gestação intrauterina", "en": "Prior confirmation of intrauterine pregnancy" },
+        "result": { "pt": "Ultrassonografia de 2 semanas atrás: saco gestacional tópico, embrião com BCF.", "en": "Ultrasound 2 weeks ago: intrauterine gestational sac, embryo with cardiac activity." },
+        "byLevel": { "3": { "result": { "pt": "Ultrassonografia com 12 semanas: gestação tópica, feto com BCF.", "en": "Ultrasound at 12 weeks: intrauterine pregnancy, fetus with cardiac activity." } } },
+        "why": { "pt": "O primeiro passo do fluxograma do aborto não infectado é confirmar que estava grávida (β-hCG positivo ou ultrassonografia com gestação).", "en": "The first step of the non-septic miscarriage flowchart is to confirm the pregnancy (positive β-hCG or ultrasound showing a pregnancy)." }
+      },
+      {
+        "id": "a_tecido", "class": "pertinente", "ref": "p. 40",
+        "label": { "pt": "Eliminação de material, tecido ou feto", "en": "Passage of tissue or fetus" },
+        "result": { "pt": "Nega.", "en": "Denies." },
+        "why": { "pt": "A eliminação do feto define o ramo do fluxograma (solicitar anatomopatológico e marcar curetagem).", "en": "Fetal expulsion defines the flowchart branch (send pathology and schedule curettage)." }
+      },
+      {
+        "id": "a_examesprev", "class": "pertinente", "levels": [1, 2], "ref": "p. 48",
+        "label": { "pt": "Onde e quando foram feitos os exames que trouxe", "en": "Where and when were the tests she brought performed" },
+        "result": { "pt": "Testes rápidos na UBS há 7 dias; hemograma em laboratório privado há 5 dias.", "en": "Rapid tests at the primary care clinic 7 days ago; CBC at a private laboratory 5 days ago." },
+        "why": { "pt": "Exames devem ser de local confiável e recentes; sorologias podem estar fora da janela imunológica.", "en": "Tests must be recent and from a reliable source; serologies may be within the window period." }
+      },
+      {
+        "id": "a_jejum", "class": "pertinente", "ref": "p. 39–40",
+        "label": { "pt": "Horário da última refeição", "en": "Time of last meal" },
+        "result": { "pt": "Almoçou há 3 horas.", "en": "Lunch 3 hours ago." },
+        "why": { "pt": "A Prescrição 1 do esvaziamento inclui jejum e soro glicofisiológico para evitar catabolismo.", "en": "Pre-evacuation Prescription 1 includes NPO and dextrose-saline to avoid catabolism." }
+      },
+      {
+        "id": "a_emocional", "class": "pertinente", "ref": "p. 50",
+        "label": { "pt": "Como está se sentindo e o que deseja quanto ao tratamento", "en": "How she feels and her treatment preferences" },
+        "result": { "pt": "Chora durante a consulta; está muito ansiosa e prefere resolver hoje.", "en": "Tearful during the visit; very anxious and prefers to resolve it today." },
+        "byLevel": { "3": { "result": { "pt": "Triste, mas compreende a situação; pergunta se a cesárea anterior é um problema.", "en": "Sad but understands the situation; asks whether the prior cesarean is a problem." } } },
+        "why": { "pt": "Na paciente ansiosa, discutir o esvaziamento abrevia o sofrimento; seja pronto para ouvir.", "en": "In an anxious patient, discussing evacuation shortens distress; be ready to listen." }
+      },
+      {
+        "id": "a_dum", "class": "desnecessaria", "levels": [2, 3], "ref": "p. 28",
+        "label": { "pt": "Data da última menstruação para calcular a idade gestacional", "en": "Last menstrual period to calculate gestational age" },
+        "result": { "pt": "Não lembra com precisão.", "en": "Does not remember precisely." },
+        "why": { "pt": "A idade gestacional é definida pela ultrassonografia de 1º trimestre, já disponível.", "en": "Gestational age is set by the first-trimester ultrasound, already available." }
+      },
+      {
+        "id": "a_cesarea", "class": "pertinente", "levels": [3], "ref": "p. 49",
+        "label": { "pt": "Cirurgias uterinas prévias", "en": "Prior uterine surgery" },
+        "result": { "pt": "Uma cesárea há 3 anos.", "en": "One cesarean 3 years ago." },
+        "why": { "pt": "Cesárea prévia não contraindica misoprostol < 20 semanas, mas não se deve associar ocitocina ao mesmo tempo.", "en": "Prior cesarean does not contraindicate misoprostol < 20 weeks, but oxytocin must not be given at the same time." }
+      }
+    ],
+    "exame": [
+      {
+        "id": "e_geral", "class": "pertinente", "ref": "p. 32",
+        "label": { "pt": "Estado geral, perfusão e mucosas", "en": "General appearance, perfusion and mucous membranes" },
+        "result": { "pt": "Bom estado geral, mucosas coradas.", "en": "Well-appearing, pink mucous membranes." },
+        "byLevel": { "3": { "result": { "pt": "Mucosas hipocoradas (2+/4+); lúcida; perfusão periférica normal.", "en": "Pale mucous membranes (2+/4+); alert; normal peripheral perfusion." } } },
+        "why": { "pt": "Palidez e alterações de perfusão integram a avaliação de infecção e anemia.", "en": "Pallor and perfusion changes are part of the infection and anemia assessment." }
+      },
+      {
+        "id": "e_abd", "class": "essencial", "ref": "p. 32",
+        "label": { "pt": "Exame abdominal", "en": "Abdominal exam" },
+        "result": { "pt": "Flácido, indolor, sem irritação peritoneal.", "en": "Soft, non-tender, no peritoneal signs." },
+        "byLevel": { "3": { "result": { "pt": "Útero palpável 2 cm abaixo da cicatriz umbilical; indolor; sem irritação peritoneal.", "en": "Uterus palpable 2 cm below the umbilicus; non-tender; no peritoneal signs." } } },
+        "why": { "pt": "Irritação peritoneal é sinal de infecção.", "en": "Peritoneal irritation is a sign of infection." }
+      },
+      {
+        "id": "e_espec", "class": "essencial", "ref": "p. 32",
+        "label": { "pt": "Exame especular", "en": "Speculum exam" },
+        "result": { "pt": "Colo fechado, pequena quantidade de sangue escuro; sem pus, sem odor fétido.", "en": "Closed os, small amount of dark blood; no pus, no foul odor." },
+        "why": { "pt": "Identifica pus no colo, odor fétido e a origem do sangramento.", "en": "Identifies cervical pus, foul odor and the source of bleeding." }
+      },
+      {
+        "id": "e_toque", "class": "essencial", "ref": "p. 40",
+        "label": { "pt": "Toque vaginal (orifício cervical interno)", "en": "Bimanual exam (internal os)" },
+        "result": { "pt": "Orifício cervical interno fechado; útero compatível com 7 semanas; anexos livres.", "en": "Internal os closed; uterus consistent with 7 weeks; adnexa normal." },
+        "byLevel": { "3": { "result": { "pt": "Orifício cervical interno fechado; colo longo e posterior.", "en": "Internal os closed; long, posterior cervix." } } },
+        "why": { "pt": "O colo aberto ou fechado define o ramo do fluxograma.", "en": "An open or closed os defines the flowchart branch." }
+      },
+      {
+        "id": "e_sonar", "class": "desnecessaria", "ref": "p. 36",
+        "label": { "pt": "Ausculta de BCF com sonar Doppler", "en": "Fetal heart auscultation with handheld Doppler" },
+        "result": { "pt": "Batimentos fetais não audíveis.", "en": "Fetal heart tones not audible." },
+        "byLevel": { "3": { "class": "pertinente", "why": { "pt": "Acima de 12 semanas, o sonar pode ser utilizado para auscultar os BCF; a confirmação é ultrassonográfica.", "en": "After 12 weeks, the handheld Doppler can be used to auscultate fetal heart tones; confirmation is by ultrasound." } } },
+        "why": { "pt": "O sonar só é útil em gestações com mais de 12 semanas.", "en": "The handheld Doppler is only useful after 12 weeks." }
+      }
+    ],
+    "lab": [
+      {
+        "id": "l_hemo", "class": "essencial", "ref": "p. 39",
+        "label": { "pt": "Hemograma", "en": "Complete blood count" },
+        "result": { "pt": "Hb 12,1 g/dL; leucócitos 9.400/mm³; plaquetas 251.000/mm³.", "en": "Hb 12.1 g/dL; WBC 9,400/mm³; platelets 251,000/mm³." },
+        "byLevel": { "3": { "result": { "pt": "Hb 7,6 g/dL; VCM 74 fL; leucócitos 11.200/mm³; plaquetas 198.000/mm³.", "en": "Hb 7.6 g/dL; MCV 74 fL; WBC 11,200/mm³; platelets 198,000/mm³." } } },
+        "why": { "pt": "Exame pré-operatório essencial: Hb < 8 g/dL exige reserva de sangue; leucócitos ≥ 14.000/mm³ definem aborto infectado.", "en": "Essential pre-op test: Hb < 8 g/dL requires cross-match; WBC ≥ 14,000/mm³ defines septic abortion." }
+      },
+      {
+        "id": "l_tipagem", "class": "essencial", "ref": "p. 39, 44",
+        "label": { "pt": "Tipagem sanguínea e fator Rh", "en": "Blood type and Rh factor" },
+        "result": { "pt": "O Rh positivo.", "en": "O Rh positive." },
+        "why": { "pt": "Exame pré-operatório essencial; define a necessidade de imunoglobulina anti-Rh.", "en": "Essential pre-op test; defines the need for anti-D immune globulin." }
+      },
+      {
+        "id": "l_soro", "class": "essencial", "ref": "p. 39, 48",
+        "label": { "pt": "Sorologias: VDRL, anti-HIV, HBsAg, anti-HCV", "en": "Serologies: VDRL, HIV, HBsAg, HCV antibody" },
+        "result": { "pt": "VDRL não reagente; anti-HIV REAGENTE; HBsAg não reagente; anti-HCV não reagente.", "en": "VDRL non-reactive; HIV REACTIVE; HBsAg non-reactive; HCV antibody non-reactive." },
+        "byLevel": { "3": { "result": { "pt": "VDRL, anti-HIV, HBsAg e anti-HCV não reagentes.", "en": "VDRL, HIV, HBsAg and HCV antibody non-reactive." } } },
+        "why": { "pt": "Exames pré-operatórios essenciais; testes de 7 dias atrás podem estar fora da janela sorológica (Caso 1).", "en": "Essential pre-op tests; tests from 7 days ago may be within the window period (Case 1)." }
+      },
+      {
+        "id": "l_bhcg", "class": "desnecessaria", "ref": "p. 39",
+        "label": { "pt": "β-hCG sérico quantitativo", "en": "Quantitative serum β-hCG" },
+        "result": { "pt": "21.300 mUI/mL.", "en": "21,300 mIU/mL." },
+        "byLevel": { "3": { "result": { "pt": "14.800 mUI/mL.", "en": "14,800 mIU/mL." } } },
+        "why": { "pt": "A gestação intrauterina já está confirmada; o β-hCG não está entre os exames pré-operatórios do esvaziamento.", "en": "The intrauterine pregnancy is already confirmed; β-hCG is not among the pre-evacuation tests." }
+      },
+      {
+        "id": "l_coag", "class": "desnecessaria", "levels": [2, 3], "ref": "p. 39",
+        "label": { "pt": "Coagulograma (TP/INR, TTPA)", "en": "Coagulation panel (PT/INR, aPTT)" },
+        "result": { "pt": "INR 1,0; TTPA 30 s.", "en": "INR 1.0; aPTT 30 s." },
+        "why": { "pt": "Não integra os exames pré-operatórios essenciais na ausência de suspeita clínica de coagulopatia.", "en": "Not among the essential pre-op tests without clinical suspicion of coagulopathy." }
+      },
+      {
+        "id": "l_pcr", "class": "desnecessaria", "levels": [2, 3], "ref": "p. 39",
+        "label": { "pt": "Proteína C-reativa", "en": "C-reactive protein" },
+        "result": { "pt": "4 mg/L.", "en": "4 mg/L." },
+        "why": { "pt": "Sem suspeita de infecção, não altera a conduta; o critério institucional de infecção é o leucograma.", "en": "Without suspected infection it does not change management; the institutional infection criterion is the WBC count." }
+      },
+      {
+        "id": "l_trombo", "class": "desnecessaria", "levels": [2, 3], "ref": "p. 43",
+        "label": { "pt": "Investigação de trombofilias e anticorpos antifosfolípides", "en": "Thrombophilia and antiphospholipid antibody workup" },
+        "result": { "pt": "Coletado; resultados em 15 dias.", "en": "Drawn; results in 15 days." },
+        "why": { "pt": "Aborto recorrente é definido por 2 ou mais abortos consecutivos; esta é uma primeira perda e a investigação não é tarefa da emergência.", "en": "Recurrent pregnancy loss is defined as 2 or more consecutive losses; this is a first loss and the workup is not an emergency task." }
+      }
+    ],
+    "imagem": [
+      {
+        "id": "i_ustv", "class": "essencial", "ref": "p. 44",
+        "label": { "pt": "Ultrassonografia transvaginal", "en": "Transvaginal ultrasound" },
+        "result": { "pt": "Saco gestacional tópico com diâmetro médio de 28 mm; embrião com CCN de 15 mm, sem atividade cardíaca. Anexos sem alterações; sem líquido livre.", "en": "Intrauterine gestational sac, mean diameter 28 mm; embryo CRL 15 mm without cardiac activity. Normal adnexa; no free fluid." },
+        "byLevel": { "3": { "class": "pertinente", "result": { "pt": "Feto único sem atividade cardíaca; avaliação biométrica limitada pela via transvaginal.", "en": "Single fetus without cardiac activity; biometry limited by the transvaginal route." }, "why": { "pt": "Com IG ≥ 12 semanas, a via abdominal (obstétrica) é a recomendada.", "en": "At ≥ 12 weeks, the transabdominal (obstetric) route is recommended." } } },
+        "why": { "pt": "Embrião com CCN ≥ 7 mm sem atividade cardíaca tem especificidade de 100% para gestação interrompida.", "en": "An embryo CRL ≥ 7 mm without cardiac activity has 100% specificity for early pregnancy loss." }
+      },
+      {
+        "id": "i_usabd", "class": "desnecessaria", "ref": "p. 33",
+        "label": { "pt": "Ultrassonografia obstétrica por via abdominal", "en": "Transabdominal obstetric ultrasound" },
+        "result": { "pt": "Útero aumentado; conteúdo mal caracterizado.", "en": "Enlarged uterus; content poorly characterized." },
+        "byLevel": { "3": { "class": "essencial", "result": { "pt": "Feto único, sem atividade cardíaca, biometria compatível com 17 semanas e 4 dias; placenta posterior, sem sinais de descolamento; líquido amniótico normal.", "en": "Single fetus without cardiac activity, biometry consistent with 17 weeks 4 days; posterior placenta without abruption; normal amniotic fluid." }, "why": { "pt": "Com IG ≥ 12 semanas, utiliza-se a ultrassonografia por via abdominal para avaliar a vitalidade fetal.", "en": "At ≥ 12 weeks, transabdominal ultrasound is used to assess fetal viability." } } },
+        "why": { "pt": "Abaixo de 12 semanas, a via transvaginal é a indicada.", "en": "Below 12 weeks, the transvaginal route is indicated." }
+      },
+      {
+        "id": "i_tc", "class": "desnecessaria", "levels": [2, 3], "ref": "p. 44",
+        "label": { "pt": "Tomografia computadorizada de abdome e pelve", "en": "Abdominal and pelvic CT" },
+        "result": { "pt": "Útero gravídico, sem outras alterações.", "en": "Gravid uterus, otherwise unremarkable." },
+        "why": { "pt": "A ultrassonografia é essencial e suficiente para o diagnóstico de abortamento retido.", "en": "Ultrasound is essential and sufficient to diagnose missed miscarriage." }
+      }
+    ],
+    "conduta": [
+      {
+        "id": "c_presc1_l1", "levels": [1], "group": "medicamento", "class": "essencial", "ref": "p. 39–40",
+        "label": { "pt": "Jejum, soro glicofisiológico e sintomáticos (antiemético e analgésico)", "en": "NPO, dextrose-saline and symptomatic drugs (antiemetic and analgesic)" },
+        "why": { "pt": "Prescrição 1 do fluxograma; pacientes em jejum recebem soro glicofisiológico.", "en": "Flowchart Prescription 1; fasting patients receive dextrose-saline." }
+      },
+      {
+        "id": "c_presc1", "levels": [2, 3], "group": "medicamento", "class": "essencial", "ref": "p. 40",
+        "label": { "pt": "NPO; CSV; SGF 1.000 mL IV a 30 gotas/min contínuo; metoclopramida 1 ampola IV 6/6 h se náuseas/vômitos; dipirona 1 ampola IV 6/6 h se dor", "en": "NPO; vital signs; dextrose-saline 1,000 mL IV at 30 drops/min continuous; metoclopramide 1 ampoule IV q6h PRN nausea/vomiting; dipyrone 1 ampoule IV q6h PRN pain" },
+        "why": { "pt": "Prescrição 1 do fluxograma do aborto não infectado.", "en": "Prescription 1 of the non-septic miscarriage flowchart." }
+      },
+      {
+        "id": "c_miso_l1", "levels": [1], "group": "medicamento", "class": "essencial", "ref": "p. 46",
+        "label": { "pt": "Misoprostol via vaginal para preparo do colo antes da AMIU", "en": "Vaginal misoprostol for cervical priming before MVA" },
+        "why": { "pt": "Com IG ≤ 12 semanas, o misoprostol prepara o colo, sem esperar a expulsão do embrião.", "en": "At ≤ 12 weeks, misoprostol primes the cervix without waiting for expulsion." }
+      },
+      {
+        "id": "c_miso400", "levels": [2, 3], "group": "medicamento", "class": "essencial", "ref": "p. 46",
+        "label": { "pt": "Misoprostol 400 µg via vaginal 3 a 4 horas antes da AMIU", "en": "Misoprostol 400 µg vaginally 3–4 hours before MVA" },
+        "byLevel": { "3": { "class": "desnecessaria", "why": { "pt": "Esquema de preparo do colo para IG ≤ 12 semanas; com 18 semanas e feto morto, o misoprostol é usado até a expulsão.", "en": "Cervical priming regimen for ≤ 12 weeks; at 18 weeks with fetal death, misoprostol is given until expulsion." } } },
+        "why": { "pt": "Preparo cervical para AMIU ≤ 12 semanas: 400 µg via vaginal, 3 a 4 horas antes do procedimento.", "en": "Cervical priming for MVA ≤ 12 weeks: 400 µg vaginally, 3–4 hours before the procedure." }
+      },
+      {
+        "id": "c_miso200", "levels": [2, 3], "group": "medicamento", "class": "desnecessaria", "ref": "p. 40, 46",
+        "label": { "pt": "Misoprostol 200 µg via vaginal mais de 6 horas antes da AMIU", "en": "Misoprostol 200 µg vaginally more than 6 hours before MVA" },
+        "why": { "pt": "Esquema reservado para aborto incompleto ou gestação de até 7 semanas.", "en": "Regimen reserved for incomplete miscarriage or pregnancy up to 7 weeks." }
+      },
+      {
+        "id": "c_miso800", "levels": [2, 3], "group": "medicamento", "class": "desnecessaria", "ref": "p. 51",
+        "label": { "pt": "Misoprostol 800 µg via vaginal e alta para expulsão domiciliar", "en": "Misoprostol 800 µg vaginally and discharge for home expulsion" },
+        "why": { "pt": "Modalidade de tratamento medicamentoso ambulatorial não utilizada no nosso meio; no Brasil, o misoprostol é de uso hospitalar.", "en": "Outpatient medical management is not used in this service; in Brazil, misoprostol is restricted to hospital use." }
+      },
+      {
+        "id": "c_miso2tri", "levels": [3], "group": "medicamento", "class": "essencial", "ref": "p. 46",
+        "label": { "pt": "Misoprostol 400 µg via vaginal a cada 4 horas até a expulsão (máximo 2.400 µg em 24 h)", "en": "Misoprostol 400 µg vaginally every 4 hours until expulsion (maximum 2,400 µg in 24 h)" },
+        "why": { "pt": "Entre > 12 e 20 semanas com feto morto: 200 a 400 µg via vaginal a cada 4 a 6 horas até a expulsão, máximo 2.400 µg em 24 h.", "en": "Between > 12 and 20 weeks with fetal death: 200–400 µg vaginally every 4–6 hours until expulsion, maximum 2,400 µg in 24 h." }
+      },
+      {
+        "id": "c_manha", "levels": [3], "group": "orientacao", "class": "pertinente", "ref": "p. 49",
+        "label": { "pt": "Programar o início do misoprostol pela manhã, com intervalos rigorosos", "en": "Schedule misoprostol to start in the morning with strict intervals" },
+        "why": { "pt": "A colocação noturna tende a não seguir a posologia; é melhor iniciar pela manhã e ser rigoroso (Caso 3).", "en": "Night-time dosing tends not to follow the schedule; it is better to start in the morning and be strict (Case 3)." }
+      },
+      {
+        "id": "c_ocitmiso", "levels": [3], "group": "medicamento", "class": "contraindicada", "ref": "p. 49",
+        "label": { "pt": "Associar ocitocina IV ao misoprostol desde o início", "en": "Add IV oxytocin to misoprostol from the start" },
+        "why": { "pt": "Na cesárea prévia, basta não adicionar outros fármacos, como a ocitocina, ao mesmo tempo que o misoprostol.", "en": "With a prior cesarean, simply do not add other drugs, such as oxytocin, at the same time as misoprostol." }
+      },
+      {
+        "id": "c_suspmiso", "levels": [3], "group": "medicamento", "class": "desnecessaria", "ref": "p. 49",
+        "label": { "pt": "Evitar misoprostol por causa da cesárea prévia", "en": "Avoid misoprostol because of the prior cesarean" },
+        "why": { "pt": "Não há necessidade de se preocupar com o misoprostol na cesárea prévia em gestações com menos de 20 semanas.", "en": "There is no need for concern about misoprostol with a prior cesarean before 20 weeks." }
+      },
+      {
+        "id": "c_antib", "group": "medicamento", "class": "desnecessaria", "ref": "p. 39",
+        "label": { "pt": "Antibioticoterapia", "en": "Antibiotics" },
+        "why": { "pt": "Sem sinais de infecção e com leucócitos < 14.000/mm³, não há indicação.", "en": "No signs of infection and WBC < 14,000/mm³: not indicated." }
+      },
+      {
+        "id": "c_amiu", "group": "procedimento", "class": "essencial", "ref": "p. 46",
+        "label": { "pt": "AMIU após o tempo de ação do misoprostol", "en": "MVA after the misoprostol action time" },
+        "byLevel": { "3": { "class": "contraindicada", "why": { "pt": "Acima de 12 semanas, o misoprostol é usado para expulsar o feto antes do esvaziamento; a AMIU primária não é o esquema do fluxograma.", "en": "Beyond 12 weeks, misoprostol is used to expel the fetus before evacuation; primary MVA is not the flowchart regimen." } } },
+        "why": { "pt": "A AMIU é o padrão-ouro cirúrgico (sucesso 100%; IC95%: 98,65 a 100%).", "en": "MVA is the surgical gold standard (100% success; 95% CI 98.65–100%)." }
+      },
+      {
+        "id": "c_pressa", "group": "procedimento", "class": "contraindicada", "grave": true, "ref": "p. 48–49",
+        "label": { "pt": "Levar ao bloco 1 hora após o misoprostol para aproveitar vaga disponível", "en": "Take to the OR 1 hour after misoprostol to use an available slot" },
+        "why": { "pt": "O misoprostol não tem tempo de agir; a pressa sem preparo adequado do colo pode levar a perfuração uterina (Caso 2).", "en": "Misoprostol has no time to act; haste without adequate cervical priming may cause uterine perforation (Case 2)." },
+        "outcome": { "pt": "Perfuração uterina com cânula de AMIU, conversão para laparotomia e histerectomia, com transfusão de 3 unidades de concentrado de hemácias não reservadas (Caso 2, p. 48–49).", "en": "Uterine perforation with the MVA cannula, conversion to laparotomy and hysterectomy, with transfusion of 3 units of non-cross-matched red cells (Case 2, p. 48–49)." }
+      },
+      {
+        "id": "c_curmet", "levels": [1, 2], "group": "procedimento", "class": "desnecessaria", "ref": "p. 46, 47",
+        "label": { "pt": "Curetagem uterina com cureta metálica", "en": "Sharp curettage" },
+        "why": { "pt": "A AMIU é o padrão-ouro; curetagem com cureta metálica em mulheres com ≥ 3 abortos aumenta o risco de placenta prévia (RR 6; IC95%: 1,6 a 22).", "en": "MVA is the gold standard; sharp curettage in women with ≥ 3 miscarriages increases placenta previa risk (RR 6; 95% CI 1.6–22)." }
+      },
+      {
+        "id": "c_curpos", "levels": [3], "group": "procedimento", "class": "essencial", "ref": "p. 40",
+        "label": { "pt": "Após a expulsão fetal: anatomopatológico e esvaziamento uterino (curetagem)", "en": "After fetal expulsion: pathology and uterine evacuation (curettage)" },
+        "why": { "pt": "Fluxograma: eliminou o feto → solicitar anatomopatológico → marcar curetagem.", "en": "Flowchart: fetus expelled → send pathology → schedule curettage." }
+      },
+      {
+        "id": "c_reserva", "group": "procedimento", "class": "desnecessaria", "ref": "p. 39–40",
+        "label": { "pt": "Reserva de concentrado de hemácias", "en": "Cross-match red blood cells" },
+        "byLevel": { "3": { "class": "essencial", "why": { "pt": "Hb < 8 g/dL exige reserva de sangue.", "en": "Hb < 8 g/dL requires blood cross-match." } } },
+        "why": { "pt": "Indicada apenas com Hb < 8 g/dL ou coagulopatia.", "en": "Indicated only with Hb < 8 g/dL or coagulopathy." }
+      },
+      {
+        "id": "c_revisa", "group": "procedimento", "class": "essencial", "ref": "p. 39–40",
+        "label": { "pt": "Revisar exames e aplicar o QSG-12 antes do esvaziamento", "en": "Review tests and apply the GHQ-12 before evacuation" },
+        "why": { "pt": "Revisar o caso antes da cirurgia é crucial; o QSG-12 rastreia o impacto emocional (escore ≥ 4: sensibilidade 83%, especificidade 90%).", "en": "Reviewing the case before surgery is crucial; the GHQ-12 screens emotional impact (score ≥ 4: sensitivity 83%, specificity 90%)." }
+      },
+      {
+        "id": "c_hiv", "levels": [1, 2], "group": "orientacao", "class": "essencial", "ref": "p. 48",
+        "label": { "pt": "Comunicar o anti-HIV reagente à paciente e acionar a infectologia", "en": "Disclose the reactive HIV test to the patient and consult infectious diseases" },
+        "why": { "pt": "No Caso 1, o teste repetido foi positivo; a infectologia foi avisada e o diagnóstico e o tratamento foram dados à paciente.", "en": "In Case 1, the repeat test was positive; infectious diseases was notified and diagnosis and treatment were given to the patient." }
+      },
+      {
+        "id": "c_acolhe", "group": "orientacao", "class": "pertinente", "ref": "p. 50",
+        "label": { "pt": "Acolhimento: retirar o sentimento de culpa e esclarecer dúvidas", "en": "Supportive care: relieve guilt and answer questions" },
+        "why": { "pt": "É obrigação do médico retirar a culpa, dar esperança e tranquilizar; seja pronto para ouvir, tardio para falar.", "en": "The physician must relieve guilt, offer hope and reassure; be quick to listen and slow to speak." }
+      },
+      {
+        "id": "c_expect", "levels": [2, 3], "group": "destino", "class": "desnecessaria", "ref": "p. 46, 50",
+        "label": { "pt": "Conduta expectante domiciliar por até 6 semanas", "en": "Expectant management at home for up to 6 weeks" },
+        "byLevel": { "3": { "why": { "pt": "Óbito fetal de segundo trimestre com Hb 7,6 g/dL: o fluxograma indica misoprostol hospitalar até a expulsão.", "en": "Second-trimester fetal death with Hb 7.6 g/dL: the flowchart indicates in-hospital misoprostol until expulsion." } } },
+        "why": { "pt": "O sucesso da conduta expectante no aborto retido é de 47% (IC95%: 35 a 59%); na paciente ansiosa, discutir o esvaziamento abrevia o sofrimento.", "en": "Expectant management of missed miscarriage succeeds in 47% (95% CI 35–59%); in an anxious patient, discussing evacuation shortens distress." }
+      },
+      {
+        "id": "c_intern", "group": "destino", "class": "essencial", "ref": "p. 40, 46",
+        "label": { "pt": "Internação para esvaziamento uterino", "en": "Admission for uterine evacuation" },
+        "why": { "pt": "No HCPA, o manejo do aborto retido é cirúrgico, com preparo do colo e esvaziamento em ambiente hospitalar.", "en": "At HCPA, missed miscarriage is managed surgically, with cervical priming and evacuation in hospital." }
+      }
+    ]
+  }
+}

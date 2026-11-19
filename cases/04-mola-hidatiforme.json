@@ -1,0 +1,347 @@
+{
+  "id": "c04",
+  "title": { "pt": "Sangramento vaginal e vômitos persistentes", "en": "Vaginal bleeding and persistent vomiting" },
+  "chapter": { "pt": "Mola hidatiforme", "en": "Hydatidiform mole" },
+  "pages": "p. 83–105",
+  "base": {
+    "triage": {
+      "pt": "Mulher de 42 anos, G2P1, com amenorreia de 12 semanas. Procura a emergência por sangramento vaginal intermitente há 3 semanas e vômitos frequentes desde a 8ª semana. Ainda não fez ultrassonografia nesta gestação.",
+      "en": "42-year-old woman, G2P1, with 12 weeks of amenorrhea. She presents with intermittent vaginal bleeding for 3 weeks and frequent vomiting since week 8. She has not had an ultrasound in this pregnancy."
+    },
+    "vitals": { "PA": "138/86 mmHg", "FC": "112 bpm", "FR": "18 mrpm", "Tax": "36,9 °C", "SpO2": "98%" },
+    "correctDiagnosis": "mhc",
+    "diagnosisExplanation": {
+      "pt": "Sangramento no 1º trimestre, hiperêmese, útero maior que a idade gestacional, β-hCG de 380.000 mUI/mL, USTV com massa intrauterina heterogênea com múltiplas imagens císticas, sem embrião, e cistos tecaluteínicos bilaterais de 8 cm: mola hidatiforme completa (USTV para MHC: LR+ 421,7; Tabela 7, p. 94). Escore de Berkowitz = 9 (mola completa 1; útero > 1 mês acima da IG 1; β-hCG > 100.000 e < 1.000.000 2; cistos > 6 e < 10 cm 2; idade ≥ 40 anos 2; complicações ≥ 1 1) → alto risco (≥ 4): actinomicina-D 1,25 mg/m² 1 h antes do esvaziamento por aspiração a vácuo (p. 84, 93–94).",
+      "en": "First-trimester bleeding, hyperemesis, uterus larger than dates, β-hCG 380,000 mIU/mL, TVUS with a heterogeneous intrauterine mass with multiple cystic spaces, no embryo, and 8-cm bilateral theca lutein cysts: complete hydatidiform mole (TVUS for CHM: LR+ 421.7; Table 7, p. 94). Berkowitz score = 9 (complete mole 1; uterus > 1 month above dates 1; β-hCG > 100,000 and < 1,000,000 2; cysts > 6 and < 10 cm 2; age ≥ 40 2; ≥ 1 complication 1) → high risk (≥ 4): dactinomycin 1.25 mg/m² 1 h before suction evacuation (p. 84, 93–94)."
+    },
+    "learning": {
+      "pt": "O tratamento da mola tem cinco etapas: corrigir alterações clínicas; exames pré-esvaziamento (β-hCG, hemograma, coagulograma, TSH, radiografia de tórax, sorologias, tipagem); escala de Berkowitz; esvaziamento por aspiração a vácuo; seguimento com anatomopatológico, anticoncepção e β-hCG (p. 92).\nO hipertireoidismo subclínico é mediado pela atividade tireotrófica do β-hCG e regride com o esvaziamento; o betabloqueador pode ser necessário (Caso 1, p. 97). Cistos tecaluteínicos não devem ser tratados cirurgicamente (Pérola 2, p. 98).\nNão se faz esvaziamento medicamentoso da mola; o misoprostol pode amolecer o colo e a ocitocina pode ser usada após o início do esvaziamento (Pérola 6, p. 99). Com β-hCG muito elevado, o teste urinário pode ser falso-negativo pelo efeito gancho (p. 92, 100–101).",
+      "en": "Molar pregnancy treatment has five steps: correct clinical abnormalities; pre-evacuation tests (β-hCG, CBC, coagulation, TSH, chest X-ray, serologies, blood type); Berkowitz score; suction evacuation; follow-up with pathology, contraception and β-hCG (p. 92).\nSubclinical hyperthyroidism is mediated by the thyrotropic activity of β-hCG and resolves after evacuation; a beta-blocker may be needed (Case 1, p. 97). Theca lutein cysts must not be treated surgically (Pearl 2, p. 98).\nMedical evacuation of a mole is not performed; misoprostol may soften the cervix and oxytocin may be used once evacuation has started (Pearl 6, p. 99). With very high β-hCG, the urine test may be falsely negative due to the hook effect (p. 92, 100–101)."
+    }
+  },
+  "levels": {
+    "3": {
+      "triage": {
+        "pt": "Mulher de 29 anos, G1P0, submetida a esvaziamento uterino há 6 semanas em hospital de outra cidade. Procura a emergência por sangramento vaginal intenso iniciado hoje pela manhã.",
+        "en": "29-year-old woman, G1P0, who underwent uterine evacuation 6 weeks ago at a hospital in another city. She presents with heavy vaginal bleeding that started this morning."
+      },
+      "vitals": { "PA": "104/66 mmHg", "FC": "102 bpm", "FR": "18 mrpm", "Tax": "36,7 °C", "SpO2": "98%" },
+      "correctDiagnosis": "ntg",
+      "timerMinutes": 15,
+      "deterioration": [
+        {
+          "afterSeconds": 420, "afterActions": 16, "flag": "instavel",
+          "vitals": { "PA": "86/52 mmHg", "FC": "126 bpm", "FR": "24 mrpm" },
+          "message": { "pt": "A paciente apresenta aumento do sangramento com coágulos, sudorese fria e tontura.", "en": "Bleeding increases with clots; the patient becomes diaphoretic and dizzy." }
+        }
+      ],
+      "diagnosisExplanation": {
+        "pt": "Mola hidatiforme completa esvaziada há 6 semanas, sem seguimento, com β-hCG em ascensão (≥ 10% em 3 dosagens) e massa miometrial com fluxo ao Doppler: neoplasia trofoblástica gestacional pós-molar (mola invasiva). Os critérios FIGO baseiam-se no comportamento do β-hCG e não exigem biópsia (p. 91, 95). Escore OMS/FIGO = 4 (idade < 40: 0; antecedente mola: 0; intervalo < 4 meses: 0; hCG 10.000 a 100.000: 2; maior tumor ≥ 5 cm: 2; sem metástases: 0) → baixo risco (< 7): quimioterapia com agente único (metotrexato) (Tabela 8, p. 96; Caso 2, p. 97).",
+        "en": "Complete hydatidiform mole evacuated 6 weeks ago, no follow-up, with rising β-hCG (≥ 10% over 3 values) and a myometrial mass with Doppler flow: post-molar gestational trophoblastic neoplasia (invasive mole). FIGO criteria rely on β-hCG behavior and do not require biopsy (p. 91, 95). WHO/FIGO score = 4 (age < 40: 0; antecedent mole: 0; interval < 4 months: 0; hCG 10,000–100,000: 2; largest tumor ≥ 5 cm: 2; no metastases: 0) → low risk (< 7): single-agent chemotherapy (methotrexate) (Table 8, p. 96; Case 2, p. 97)."
+      },
+      "learning": {
+        "pt": "O seguimento pós-molar com β-hCG salva vidas; sua interrupção permite que a NTG pós-molar evolua sem detecção precoce. Mesmo na NTG, a taxa de cura com quimioterapia é próxima de 100% (Caso 2, p. 97).\nCritérios FIGO: platô (± 10%) em 4 dosagens semanais, elevação ≥ 10% em 3 dosagens semanais, β-hCG detectável por ≥ 6 meses ou histologia de coriocarcinoma (p. 95). Com hCG > 5.000 ou OMS > 4, prefere-se quimioterapia com agente único; no sangramento maciço com instabilidade, estabilizar e considerar quimioterapia, com cautela em nova curetagem pelo risco de perfuração (p. 96).",
+        "en": "Post-molar β-hCG follow-up saves lives; stopping it lets post-molar GTN progress undetected. Even in GTN, the cure rate with chemotherapy is close to 100% (Case 2, p. 97).\nFIGO criteria: plateau (± 10%) over 4 weekly values, rise ≥ 10% over 3 weekly values, detectable β-hCG for ≥ 6 months or choriocarcinoma histology (p. 95). With hCG > 5,000 or WHO > 4, single-agent chemotherapy is preferred; with massive bleeding and instability, stabilize and consider chemotherapy, with caution regarding repeat curettage because of perforation risk (p. 96)."
+      }
+    }
+  },
+  "diagnoses": [
+    { "id": "mhc", "label": { "pt": "Mola hidatiforme completa", "en": "Complete hydatidiform mole" } },
+    { "id": "mhp", "label": { "pt": "Mola hidatiforme parcial", "en": "Partial hydatidiform mole" } },
+    { "id": "retido", "label": { "pt": "Gestação interrompida (aborto retido)", "en": "Early pregnancy loss (missed miscarriage)" } },
+    { "id": "incompleto", "label": { "pt": "Aborto incompleto / restos pós-esvaziamento", "en": "Incomplete miscarriage / retained products after evacuation" } },
+    { "id": "hiperemese", "label": { "pt": "Hiperêmese gravídica em gestação normal", "en": "Hyperemesis gravidarum in a normal pregnancy" } },
+    { "id": "gemelar", "label": { "pt": "Gestação gemelar com mola completa e feto normal", "en": "Twin pregnancy with complete mole and normal fetus" } },
+    { "id": "ntg", "label": { "pt": "Neoplasia trofoblástica gestacional pós-molar", "en": "Post-molar gestational trophoblastic neoplasia" } },
+    { "id": "fantasma", "label": { "pt": "hCG fantasma (anticorpos heterófilos)", "en": "Phantom hCG (heterophile antibodies)" } }
+  ],
+  "stages": {
+    "anamnese": [
+      {
+        "id": "a_sangr", "class": "essencial", "ref": "p. 90",
+        "label": { "pt": "Características do sangramento", "en": "Bleeding characteristics" },
+        "result": { "pt": "Intermitente, moderado, sangue escuro, há 3 semanas.", "en": "Intermittent, moderate, dark blood, for 3 weeks." },
+        "byLevel": { "3": { "result": { "pt": "Intenso desde hoje cedo, com coágulos; trocou 6 absorventes noturnos em 5 horas.", "en": "Heavy since early this morning, with clots; 6 overnight pads in 5 hours." } } },
+        "why": { "pt": "Sangramento vaginal ocorre em cerca de 97% das molas completas.", "en": "Vaginal bleeding occurs in about 97% of complete moles." }
+      },
+      {
+        "id": "a_vomit", "class": "essencial", "ref": "p. 90–91",
+        "label": { "pt": "Náuseas e vômitos", "en": "Nausea and vomiting" },
+        "result": { "pt": "Vômitos 5 a 6 vezes ao dia desde a 8ª semana; perdeu 4 kg.", "en": "Vomiting 5–6 times a day since week 8; 4-kg weight loss." },
+        "byLevel": { "3": { "class": "desnecessaria", "result": { "pt": "Nega.", "en": "Denies." }, "why": { "pt": "Sintoma da mola antes do esvaziamento; não integra os critérios FIGO de NTG pós-molar.", "en": "A pre-evacuation molar symptom; not part of the FIGO criteria for post-molar GTN." } } },
+        "why": { "pt": "Hiperêmese gravídica ocorre em cerca de 26% das molas completas e é complicação do escore de Berkowitz.", "en": "Hyperemesis occurs in about 26% of complete moles and is a complication in the Berkowitz score." }
+      },
+      {
+        "id": "a_tireo", "class": "pertinente", "levels": [1, 2], "ref": "p. 91",
+        "label": { "pt": "Palpitações, tremor ou intolerância ao calor", "en": "Palpitations, tremor or heat intolerance" },
+        "result": { "pt": "Palpitações há 1 semana e calor excessivo.", "en": "Palpitations for 1 week and feeling excessively warm." },
+        "why": { "pt": "Sintomas de hipertireoidismo são achado clínico sugestivo de mola.", "en": "Hyperthyroid symptoms are a clinical finding suggestive of a mole." }
+      },
+      {
+        "id": "a_pe", "class": "pertinente", "levels": [1, 2], "ref": "p. 90–91",
+        "label": { "pt": "Cefaleia, escotomas ou edema", "en": "Headache, scotomata or edema" },
+        "result": { "pt": "Nega.", "en": "Denies." },
+        "why": { "pt": "Pré-eclâmpsia antes das 20 semanas é achado sugestivo de mola.", "en": "Preeclampsia before 20 weeks is suggestive of a mole." }
+      },
+      {
+        "id": "a_vesic", "class": "pertinente", "levels": [1, 2], "ref": "p. 91",
+        "label": { "pt": "Eliminação de vesículas pela vagina", "en": "Passage of vesicles through the vagina" },
+        "result": { "pt": "Nega.", "en": "Denies." },
+        "why": { "pt": "Eliminação de vesículas hidrópicas é rara, mas patognomônica.", "en": "Passage of hydropic vesicles is rare but pathognomonic." }
+      },
+      {
+        "id": "a_molaprev", "class": "essencial", "ref": "p. 88, 93",
+        "label": { "pt": "Mola ou doença trofoblástica prévia (pessoal ou familiar)", "en": "Prior molar pregnancy or GTD (personal or family)" },
+        "result": { "pt": "Nega; gestação anterior a termo, sem intercorrências.", "en": "Denies; previous term pregnancy without complications." },
+        "byLevel": { "3": { "result": { "pt": "O esvaziamento de 6 semanas atrás teve anatomopatológico de mola hidatiforme completa. Não fez seguimento com β-hCG por dificuldade de acesso.", "en": "The evacuation 6 weeks ago had pathology showing a complete hydatidiform mole. She did not have β-hCG follow-up because of access problems." } } },
+        "why": { "pt": "História de mola prévia integra o escore de Berkowitz e aumenta o risco (MC: OR 12,0; MP: OR 18,1).", "en": "Prior mole is part of the Berkowitz score and increases risk (CM: OR 12.0; PM: OR 18.1)." }
+      },
+      {
+        "id": "a_contra", "class": "essencial", "levels": [3], "ref": "p. 94, 99",
+        "label": { "pt": "Método contraceptivo após o esvaziamento", "en": "Contraception after evacuation" },
+        "result": { "pt": "Não usa anticoncepção.", "en": "No contraception." },
+        "why": { "pt": "Uma nova gestação durante o seguimento impede a interpretação do β-hCG.", "en": "A new pregnancy during follow-up prevents interpretation of β-hCG." }
+      },
+      {
+        "id": "a_tabaco", "class": "desnecessaria", "levels": [2, 3], "ref": "p. 89",
+        "label": { "pt": "Tabagismo", "en": "Smoking" },
+        "result": { "pt": "Nega.", "en": "Denies." },
+        "why": { "pt": "Fator de risco epidemiológico (RR 2,0) sem impacto na conduta de emergência nem no escore de Berkowitz.", "en": "An epidemiologic risk factor (RR 2.0) with no impact on emergency management or the Berkowitz score." }
+      },
+      {
+        "id": "a_dum", "class": "desnecessaria", "levels": [2, 3], "ref": "p. 28",
+        "label": { "pt": "Data exata da última menstruação", "en": "Exact last menstrual period" },
+        "result": { "pt": "Não lembra o dia exato.", "en": "Does not recall the exact day." },
+        "byLevel": { "3": { "result": { "pt": "Menstruação não retornou após o esvaziamento.", "en": "No period since the evacuation." } } },
+        "why": { "pt": "A conduta é definida pela ultrassonografia e pelo β-hCG.", "en": "Management is defined by ultrasound and β-hCG." }
+      }
+    ],
+    "exame": [
+      {
+        "id": "e_geral", "class": "pertinente", "ref": "p. 92",
+        "label": { "pt": "Estado geral, hidratação, mucosas e tremor", "en": "General appearance, hydration, mucous membranes and tremor" },
+        "result": { "pt": "Mucosas secas e hipocoradas (1+/4+); tremor fino de extremidades.", "en": "Dry, pale mucous membranes (1+/4+); fine tremor of the hands." },
+        "byLevel": { "3": { "class": "essencial", "result": { "pt": "Palidez cutaneomucosa (2+/4+); pele fria; enchimento capilar de 3 s.", "en": "Pallor (2+/4+); cool skin; capillary refill 3 s." }, "why": { "pt": "A estabilidade hemodinâmica define a sequência do manejo no sangramento intenso.", "en": "Hemodynamic stability defines management sequence in heavy bleeding." } } },
+        "why": { "pt": "A primeira etapa do tratamento é corrigir alterações clínicas (anemia, distúrbios eletrolíticos, hipertensão, hipertireoidismo).", "en": "The first treatment step is to correct clinical abnormalities (anemia, electrolyte disorders, hypertension, hyperthyroidism)." }
+      },
+      {
+        "id": "e_abd", "class": "essencial", "ref": "p. 90, 93",
+        "label": { "pt": "Palpação abdominal e altura uterina", "en": "Abdominal palpation and uterine size" },
+        "result": { "pt": "Útero palpável 2 cm abaixo da cicatriz umbilical, compatível com cerca de 18 semanas; indolor.", "en": "Uterus palpable 2 cm below the umbilicus, consistent with about 18 weeks; non-tender." },
+        "byLevel": { "3": { "result": { "pt": "Útero palpável 3 cm acima da sínfise púbica; discretamente doloroso.", "en": "Uterus palpable 3 cm above the pubic symphysis; mildly tender." } } },
+        "why": { "pt": "Útero maior que a IG ocorre em cerca de 50% das molas completas e integra o escore de Berkowitz.", "en": "Uterus larger than dates occurs in about 50% of complete moles and is part of the Berkowitz score." }
+      },
+      {
+        "id": "e_espec", "class": "essencial", "ref": "p. 91",
+        "label": { "pt": "Exame especular", "en": "Speculum exam" },
+        "result": { "pt": "Colo fechado; sangue escuro em moderada quantidade; sem vesículas.", "en": "Closed os; moderate dark blood; no vesicles." },
+        "byLevel": { "3": { "result": { "pt": "Sangramento vermelho vivo com coágulos pelo orifício externo; colo sem lesões visíveis.", "en": "Bright red bleeding with clots from the external os; no visible cervical lesions." } } },
+        "why": { "pt": "Avalia a origem e o volume do sangramento e a eliminação de vesículas.", "en": "Assesses source and volume of bleeding and passage of vesicles." }
+      },
+      {
+        "id": "e_toque", "class": "essencial", "ref": "p. 91",
+        "label": { "pt": "Toque vaginal bimanual", "en": "Bimanual exam" },
+        "result": { "pt": "Orifício cervical interno fechado; útero aumentado e amolecido; massas anexiais bilaterais palpáveis, móveis.", "en": "Internal os closed; enlarged, soft uterus; palpable mobile bilateral adnexal masses." },
+        "byLevel": { "3": { "result": { "pt": "Orifício cervical interno entreaberto; útero aumentado, com nodulação irregular; anexos livres.", "en": "Internal os slightly open; enlarged uterus with irregular nodularity; adnexa normal." } } },
+        "why": { "pt": "Cistos tecaluteínicos (ovários > 6 cm) e útero aumentado são achados sugestivos de mola.", "en": "Theca lutein cysts (ovaries > 6 cm) and an enlarged uterus are suggestive of a mole." }
+      },
+      {
+        "id": "e_sonar", "class": "desnecessaria", "levels": [1, 2], "ref": "p. 90",
+        "label": { "pt": "Ausculta de BCF com sonar Doppler", "en": "Fetal heart auscultation with handheld Doppler" },
+        "result": { "pt": "Batimentos fetais não audíveis.", "en": "Fetal heart tones not audible." },
+        "why": { "pt": "O diagnóstico de mola baseia-se em β-hCG sérico e ultrassonografia transvaginal.", "en": "Molar diagnosis relies on serum β-hCG and transvaginal ultrasound." }
+      },
+      {
+        "id": "e_tireo", "class": "pertinente", "levels": [2], "ref": "p. 93",
+        "label": { "pt": "Palpação da tireoide", "en": "Thyroid palpation" },
+        "result": { "pt": "Sem bócio ou nódulos.", "en": "No goiter or nodules." },
+        "why": { "pt": "O hipertireoidismo na mola é induzido pelo hCG (homologia com o TSH), sem doença tireoidiana estrutural.", "en": "Molar hyperthyroidism is hCG-induced (TSH homology), without structural thyroid disease." }
+      }
+    ],
+    "lab": [
+      {
+        "id": "l_bhcgq", "class": "essencial", "ref": "p. 84, 93",
+        "label": { "pt": "β-hCG sérico quantitativo", "en": "Quantitative serum β-hCG" },
+        "result": { "pt": "380.000 mUI/mL.", "en": "380,000 mIU/mL." },
+        "byLevel": { "3": { "result": { "pt": "45.000 mUI/mL. Resultados trazidos de outro laboratório: 21.000 mUI/mL há 3 semanas e 32.000 mUI/mL há 2 semanas.", "en": "45,000 mIU/mL. Results from another laboratory: 21,000 mIU/mL 3 weeks ago and 32,000 mIU/mL 2 weeks ago." }, "why": { "pt": "O comportamento do β-hCG define os critérios FIGO de NTG pós-molar e integra o escore OMS/FIGO.", "en": "β-hCG behavior defines the FIGO criteria for post-molar GTN and is part of the WHO/FIGO score." } } },
+        "why": { "pt": "Exame 1 da suspeita de mola; integra o escore de Berkowitz e é a base do seguimento.", "en": "Test 1 in suspected mole; part of the Berkowitz score and the basis of follow-up." }
+      },
+      {
+        "id": "l_bhcgu", "class": "desnecessaria", "levels": [2, 3], "ref": "p. 92, 100–101",
+        "label": { "pt": "β-hCG urinário (teste rápido)", "en": "Urine β-hCG (rapid test)" },
+        "result": { "pt": "Negativo.", "en": "Negative." },
+        "byLevel": { "3": { "result": { "pt": "Positivo.", "en": "Positive." }, "why": { "pt": "O seguimento e os critérios FIGO utilizam o β-hCG sérico quantitativo.", "en": "Follow-up and FIGO criteria use quantitative serum β-hCG." } } },
+        "why": { "pt": "Com β-hCG muito elevado, o teste urinário pode ser falso-negativo pelo efeito gancho; a avaliação exige β-hCG sérico quantitativo.", "en": "With very high β-hCG, the urine test may be falsely negative due to the hook effect; assessment requires quantitative serum β-hCG." }
+      },
+      {
+        "id": "l_tsh", "class": "essencial", "ref": "p. 84, 93",
+        "label": { "pt": "TSH e T4 livre", "en": "TSH and free T4" },
+        "result": { "pt": "TSH 0,02 mUI/L (suprimido); T4 livre no limite superior da normalidade.", "en": "TSH 0.02 mIU/L (suppressed); free T4 at the upper limit of normal." },
+        "byLevel": { "3": { "class": "desnecessaria", "result": { "pt": "TSH 1,6 mUI/L.", "en": "TSH 1.6 mIU/L." }, "why": { "pt": "Exame do pré-esvaziamento molar; não altera o manejo da NTG com sangramento.", "en": "A pre-evacuation molar test; does not change management of bleeding GTN." } } },
+        "why": { "pt": "Exame 1: investiga hipertireoidismo induzido pelo hCG.", "en": "Test 1: screens for hCG-induced hyperthyroidism." }
+      },
+      {
+        "id": "l_hemo", "class": "essencial", "ref": "p. 84, 93",
+        "label": { "pt": "Hemograma", "en": "Complete blood count" },
+        "result": { "pt": "Hb 10,4 g/dL; leucócitos 10.900/mm³; plaquetas 210.000/mm³.", "en": "Hb 10.4 g/dL; WBC 10,900/mm³; platelets 210,000/mm³." },
+        "byLevel": { "3": { "result": { "pt": "Hb 8,9 g/dL; leucócitos 9.800/mm³; plaquetas 188.000/mm³.", "en": "Hb 8.9 g/dL; WBC 9,800/mm³; platelets 188,000/mm³." } } },
+        "why": { "pt": "Avalia anemia por sangramento e leucocitose.", "en": "Assesses anemia from bleeding and leukocytosis." }
+      },
+      {
+        "id": "l_coag", "class": "essencial", "ref": "p. 84, 94",
+        "label": { "pt": "INR e TTPA", "en": "INR and aPTT" },
+        "result": { "pt": "INR 1,0; TTPA 28 s.", "en": "INR 1.0; aPTT 28 s." },
+        "byLevel": { "3": { "class": "pertinente", "result": { "pt": "INR 1,1; TTPA 30 s.", "en": "INR 1.1; aPTT 30 s." } } },
+        "why": { "pt": "Exame 1: rastreia coagulopatia em sangramento profuso ou pré-eclâmpsia.", "en": "Test 1: screens for coagulopathy with heavy bleeding or preeclampsia." }
+      },
+      {
+        "id": "l_tipagem", "class": "essencial", "ref": "p. 84, 94",
+        "label": { "pt": "Tipagem sanguínea e fator Rh", "en": "Blood type and Rh factor" },
+        "result": { "pt": "B Rh positivo.", "en": "B Rh positive." },
+        "why": { "pt": "Exame 1: para eventual transfusão e imunoglobulina anti-Rh em pacientes Rh negativo.", "en": "Test 1: for possible transfusion and anti-D immune globulin if Rh negative." }
+      },
+      {
+        "id": "l_soro", "class": "essencial", "ref": "p. 84, 94",
+        "label": { "pt": "Sorologias: VDRL, anti-HIV, HBsAg, anti-HCV", "en": "Serologies: VDRL, HIV, HBsAg, HCV antibody" },
+        "result": { "pt": "Todas não reagentes.", "en": "All non-reactive." },
+        "byLevel": { "3": { "class": "pertinente" } },
+        "why": { "pt": "Exame 1: rastreamento de rotina pré-esvaziamento.", "en": "Test 1: routine pre-evacuation screening." }
+      },
+      {
+        "id": "l_pcr", "class": "desnecessaria", "levels": [2, 3], "ref": "p. 93",
+        "label": { "pt": "Proteína C-reativa", "en": "C-reactive protein" },
+        "result": { "pt": "6 mg/L.", "en": "6 mg/L." },
+        "why": { "pt": "Não integra os exames pré-esvaziamento nem os critérios de NTG.", "en": "Not part of pre-evacuation tests or GTN criteria." }
+      }
+    ],
+    "imagem": [
+      {
+        "id": "i_ustv", "class": "essencial", "ref": "p. 90, 94",
+        "label": { "pt": "Ultrassonografia transvaginal com Doppler", "en": "Transvaginal ultrasound with Doppler" },
+        "result": { "pt": "Massa intrauterina heterogênea com múltiplas imagens císticas, sem embrião ou partes fetais. Ovários com cistos multiloculados bilaterais de 8 cm.", "en": "Heterogeneous intrauterine mass with multiple cystic spaces, no embryo or fetal parts. Bilateral multiloculated ovarian cysts, 8 cm." },
+        "byLevel": { "3": { "result": { "pt": "Cavidade uterina sem material residual. Massa heterogênea de 5 cm na parede miometrial posterior, com fluxo intenso ao Doppler colorido. Ovários normais.", "en": "Uterine cavity without residual material. 5-cm heterogeneous mass in the posterior myometrium with marked color Doppler flow. Normal ovaries." } } },
+        "why": { "pt": "USTV para mola completa: LR+ 421,7; LR− 0,2.", "en": "TVUS for complete mole: LR+ 421.7; LR− 0.2." }
+      },
+      {
+        "id": "i_rx", "class": "essencial", "ref": "p. 84, 94",
+        "label": { "pt": "Radiografia de tórax", "en": "Chest X-ray" },
+        "result": { "pt": "Sem alterações; sem nódulos pulmonares.", "en": "Normal; no pulmonary nodules." },
+        "why": { "pt": "Exame 1: rastreia metástases pulmonares, sítio mais comum da DTG invasiva.", "en": "Test 1: screens for pulmonary metastases, the most common site in invasive GTD." }
+      },
+      {
+        "id": "i_rm", "class": "desnecessaria", "levels": [2, 3], "ref": "p. 94, 97",
+        "label": { "pt": "Ressonância magnética da pelve", "en": "Pelvic MRI" },
+        "result": { "pt": "Útero aumentado com conteúdo heterogêneo; cistos ovarianos bilaterais.", "en": "Enlarged uterus with heterogeneous content; bilateral ovarian cysts." },
+        "byLevel": { "3": { "class": "pertinente", "result": { "pt": "Lesão miometrial posterior de 5 cm com invasão miometrial, sem extensão extrauterina.", "en": "5-cm posterior myometrial lesion with myometrial invasion, no extrauterine extension." }, "why": { "pt": "No Caso 2, a ressonância confirmou a invasão miometrial; o diagnóstico de NTG, porém, é feito pelos critérios FIGO.", "en": "In Case 2, MRI confirmed myometrial invasion; GTN diagnosis, however, is made by FIGO criteria." } } },
+        "why": { "pt": "Não integra os exames pré-esvaziamento da mola.", "en": "Not among pre-evacuation molar tests." }
+      },
+      {
+        "id": "i_tc", "class": "desnecessaria", "ref": "p. 94",
+        "label": { "pt": "Tomografia computadorizada de tórax e abdome", "en": "Chest and abdominal CT" },
+        "result": { "pt": "Útero aumentado; sem lesões pulmonares.", "en": "Enlarged uterus; no pulmonary lesions." },
+        "why": { "pt": "O rastreamento de metástases pulmonares pré-esvaziamento é feito com radiografia de tórax.", "en": "Pre-evacuation pulmonary metastasis screening is done with chest X-ray." }
+      }
+    ],
+    "conduta": [
+      {
+        "id": "c_correcao", "levels": [1, 2], "group": "medicamento", "class": "essencial", "ref": "p. 92",
+        "label": { "pt": "Corrigir alterações clínicas antes do esvaziamento (hidratação, distúrbios eletrolíticos, anemia)", "en": "Correct clinical abnormalities before evacuation (hydration, electrolytes, anemia)" },
+        "why": { "pt": "Etapa 1 do tratamento da mola.", "en": "Step 1 of molar pregnancy treatment." }
+      },
+      {
+        "id": "c_betabloq", "levels": [1, 2], "group": "medicamento", "class": "pertinente", "ref": "p. 97",
+        "label": { "pt": "Betabloqueador para controle da taquicardia", "en": "Beta-blocker for tachycardia control" },
+        "why": { "pt": "O hipertireoidismo regride com o esvaziamento, mas o betabloqueador pode ser necessário (Caso 1).", "en": "Hyperthyroidism resolves after evacuation, but a beta-blocker may be needed (Case 1)." }
+      },
+      {
+        "id": "c_actino_l1", "levels": [1], "group": "medicamento", "class": "essencial", "ref": "p. 84, 94",
+        "label": { "pt": "Actinomicina-D antes do esvaziamento", "en": "Dactinomycin before evacuation" },
+        "why": { "pt": "Escore de Berkowitz ≥ 4: actinomicina-D 1 h antes do esvaziamento (NTG 19% vs 39,7%; RR 0,48; IC95%: 0,35 a 0,66; NNT 5).", "en": "Berkowitz score ≥ 4: dactinomycin 1 h before evacuation (GTN 19% vs 39.7%; RR 0.48; 95% CI 0.35–0.66; NNT 5)." }
+      },
+      {
+        "id": "c_actino", "levels": [2, 3], "group": "medicamento", "class": "essencial", "ref": "p. 84, 94, 99",
+        "label": { "pt": "Actinomicina-D 1,25 mg/m² IV 1 hora antes do esvaziamento uterino", "en": "Dactinomycin 1.25 mg/m² IV 1 hour before uterine evacuation" },
+        "byLevel": { "3": { "class": "desnecessaria", "why": { "pt": "A actinomicina-D profilática é usada antes do esvaziamento molar com Berkowitz ≥ 4; na NTG pós-molar, a indicação é quimioterapia com agente único conforme escore OMS/FIGO.", "en": "Prophylactic dactinomycin is used before molar evacuation with Berkowitz ≥ 4; in post-molar GTN, single-agent chemotherapy is indicated per WHO/FIGO score." } } },
+        "why": { "pt": "Escore de Berkowitz ≥ 4: actinomicina-D 1,25 mg/m² 1 h antes (NTG 19% vs 39,7%; RR 0,48; IC95%: 0,35 a 0,66; NNT 5).", "en": "Berkowitz score ≥ 4: dactinomycin 1.25 mg/m² 1 h before (GTN 19% vs 39.7%; RR 0.48; 95% CI 0.35–0.66; NNT 5)." }
+      },
+      {
+        "id": "c_misocolo", "levels": [2], "group": "medicamento", "class": "pertinente", "ref": "p. 99",
+        "label": { "pt": "Misoprostol para amolecer o colo e ocitocina após iniciado o esvaziamento", "en": "Misoprostol to soften the cervix and oxytocin after evacuation has started" },
+        "why": { "pt": "Pode-se usar misoprostol para amolecer o colo e, após iniciado o esvaziamento, ocitocina para contrair o útero.", "en": "Misoprostol may soften the cervix and, once evacuation has started, oxytocin may contract the uterus." }
+      },
+      {
+        "id": "c_misoexp", "levels": [1, 2], "group": "medicamento", "class": "contraindicada", "ref": "p. 99",
+        "label": { "pt": "Misoprostol em doses seriadas até a expulsão do conteúdo uterino", "en": "Serial misoprostol until expulsion of uterine contents" },
+        "why": { "pt": "As evidências demonstram que não se deve fazer o esvaziamento medicamentoso da mola hidatiforme.", "en": "Evidence shows that medical evacuation of a hydatidiform mole should not be performed." }
+      },
+      {
+        "id": "c_mtxagora", "levels": [1, 2], "group": "medicamento", "class": "contraindicada", "ref": "p. 91, 95",
+        "label": { "pt": "Metotrexato sistêmico antes do esvaziamento", "en": "Systemic methotrexate before evacuation" },
+        "why": { "pt": "A NTG é diagnosticada pelos critérios FIGO após o esvaziamento; o tratamento inicial da mola é o esvaziamento por aspiração a vácuo.", "en": "GTN is diagnosed by FIGO criteria after evacuation; initial molar treatment is suction evacuation." }
+      },
+      {
+        "id": "c_aspiracao", "levels": [1, 2], "group": "procedimento", "class": "essencial", "ref": "p. 92, 99",
+        "label": { "pt": "Esvaziamento uterino por aspiração a vácuo", "en": "Uterine suction evacuation" },
+        "why": { "pt": "Método de escolha por eficácia e segurança; em molas volumosas, a cânula de AMIU pode ser ligada ao aspirador de parede (pressão máxima de 600 mmHg).", "en": "Method of choice for efficacy and safety; in large moles, the MVA cannula can be connected to wall suction (maximum 600 mmHg)." }
+      },
+      {
+        "id": "c_cistos", "levels": [1, 2], "group": "procedimento", "class": "contraindicada", "ref": "p. 98",
+        "label": { "pt": "Cistectomia ou ooforectomia dos cistos tecaluteínicos", "en": "Cystectomy or oophorectomy for theca lutein cysts" },
+        "why": { "pt": "Cistos tecaluteínicos regridem espontaneamente após o esvaziamento; cirurgia apenas para torção ou ruptura.", "en": "Theca lutein cysts regress spontaneously after evacuation; surgery only for torsion or rupture." }
+      },
+      {
+        "id": "c_ap", "levels": [1, 2], "group": "procedimento", "class": "essencial", "ref": "p. 90, 98",
+        "label": { "pt": "Anatomopatológico do material com imuno-histoquímica para p57", "en": "Pathology of the specimen with p57 immunohistochemistry" },
+        "why": { "pt": "O exame anatomopatológico é mandatório; p57 negativo distingue MHC de MHP (LR+ 99,8).", "en": "Pathology is mandatory; negative p57 distinguishes CHM from PHM (LR+ 99.8)." }
+      },
+      {
+        "id": "c_estab", "levels": [3], "group": "procedimento", "class": "essencial", "ref": "p. 96",
+        "label": { "pt": "Estabilização hemodinâmica: acesso venoso calibroso, cristaloide e reserva de concentrado de hemácias", "en": "Hemodynamic stabilization: large-bore IV access, crystalloid and cross-matched red cells" },
+        "why": { "pt": "No sangramento com instabilidade, a primeira medida é estabilizar.", "en": "With bleeding and instability, the first step is to stabilize." }
+      },
+      {
+        "id": "c_recuret", "levels": [3], "group": "procedimento", "class": "desnecessaria", "ref": "p. 96",
+        "label": { "pt": "Nova curetagem uterina", "en": "Repeat uterine curettage" },
+        "whenFlag": { "instavel": { "class": "contraindicada", "why": { "pt": "No sangramento maciço com instabilidade: estabilizar e considerar quimioterapia; nova curetagem com cautela pelo risco de perfuração.", "en": "Massive bleeding with instability: stabilize and consider chemotherapy; repeat curettage with caution because of perforation risk." } } },
+        "why": { "pt": "Cavidade sem material residual e critérios FIGO com hCG > 5.000: preferir quimioterapia com agente único.", "en": "No residual material and FIGO criteria with hCG > 5,000: single-agent chemotherapy is preferred." }
+      },
+      {
+        "id": "c_biopsia", "levels": [3], "group": "procedimento", "class": "desnecessaria", "ref": "p. 91, 97",
+        "label": { "pt": "Biópsia da lesão para confirmação histológica antes da quimioterapia", "en": "Biopsy of the lesion for histologic confirmation before chemotherapy" },
+        "why": { "pt": "Os critérios FIGO baseiam-se no β-hCG; não é necessária biópsia para iniciar o tratamento.", "en": "FIGO criteria rely on β-hCG; biopsy is not required to start treatment." }
+      },
+      {
+        "id": "c_figo", "levels": [3], "group": "orientacao", "class": "essencial", "ref": "p. 95–96",
+        "label": { "pt": "Aplicar os critérios FIGO e calcular o escore prognóstico OMS/FIGO", "en": "Apply FIGO criteria and calculate the WHO/FIGO prognostic score" },
+        "why": { "pt": "Elevação ≥ 10% em 3 dosagens; escore 4 = baixo risco (< 7).", "en": "Rise ≥ 10% over 3 values; score 4 = low risk (< 7)." }
+      },
+      {
+        "id": "c_qt", "levels": [3], "group": "medicamento", "class": "essencial", "ref": "p. 96–97",
+        "label": { "pt": "Quimioterapia com agente único (metotrexato) com a Oncoginecologia", "en": "Single-agent chemotherapy (methotrexate) with Gynecologic Oncology" },
+        "why": { "pt": "NTG de baixo risco com hCG > 5.000: agente único; no Caso 2, resposta completa após 6 ciclos de metotrexato.", "en": "Low-risk GTN with hCG > 5,000: single agent; in Case 2, complete response after 6 cycles of methotrexate." }
+      },
+      {
+        "id": "c_aco", "group": "orientacao", "class": "essencial", "ref": "p. 94, 99",
+        "label": { "pt": "Anticoncepção hormonal iniciada logo após o esvaziamento e mantida durante o seguimento", "en": "Hormonal contraception started right after evacuation and continued during follow-up" },
+        "byLevel": { "3": { "label": { "pt": "Anticoncepção hormonal durante todo o tratamento e seguimento", "en": "Hormonal contraception throughout treatment and follow-up" } } },
+        "why": { "pt": "Nova gestação durante o seguimento impossibilita a interpretação do β-hCG.", "en": "A new pregnancy during follow-up makes β-hCG uninterpretable." }
+      },
+      {
+        "id": "c_seguim", "levels": [1, 2], "group": "orientacao", "class": "essencial", "ref": "p. 85, 94–95",
+        "label": { "pt": "β-hCG quantitativo a cada 2 semanas até normalizar", "en": "Quantitative β-hCG every 2 weeks until normal" },
+        "why": { "pt": "Seguimento pós-molar: β-hCG a cada 2 semanas; na MHC com normalização ≥ 56 dias, manter mensal por mais 6 meses.", "en": "Post-molar follow-up: β-hCG every 2 weeks; in CHM normalizing at ≥ 56 days, continue monthly for 6 more months." }
+      },
+      {
+        "id": "c_intern", "group": "destino", "class": "essencial", "ref": "p. 92",
+        "label": { "pt": "Internação hospitalar", "en": "Hospital admission" },
+        "why": { "pt": "Esvaziamento, correção clínica e quimioprofilaxia exigem ambiente hospitalar.", "en": "Evacuation, clinical correction and chemoprophylaxis require hospital care." }
+      },
+      {
+        "id": "c_altausg", "group": "destino", "class": "desnecessaria", "ref": "p. 92",
+        "label": { "pt": "Alta com nova ultrassonografia em 1 semana", "en": "Discharge with repeat ultrasound in 1 week" },
+        "byLevel": { "3": { "class": "contraindicada", "why": { "pt": "Sangramento intenso com NTG pós-molar exige internação, estabilização e tratamento.", "en": "Heavy bleeding with post-molar GTN requires admission, stabilization and treatment." } } },
+        "why": { "pt": "A suspeita de mola exige exames pré-esvaziamento e esvaziamento uterino.", "en": "Suspected mole requires pre-evacuation tests and uterine evacuation." }
+      }
+    ]
+  }
+}

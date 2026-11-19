@@ -1,0 +1,330 @@
+{
+  "id": "c03",
+  "title": { "pt": "Atraso menstrual e sangramento vaginal", "en": "Missed period and vaginal bleeding" },
+  "chapter": { "pt": "Gravidez ectópica", "en": "Ectopic pregnancy" },
+  "pages": "p. 61–82",
+  "base": {
+    "triage": {
+      "pt": "Mulher de 36 anos, G3P2, com atraso menstrual de cerca de 2 semanas e teste de gravidez de farmácia positivo ontem. Procura a emergência por sangramento vaginal em pequena quantidade iniciado há 1 dia.",
+      "en": "36-year-old woman, G3P2, with a period about 2 weeks late and a positive home pregnancy test yesterday. She presents with light vaginal bleeding that started 1 day ago."
+    },
+    "vitals": { "PA": "122/76 mmHg", "FC": "80 bpm", "FR": "16 mrpm", "Tax": "36,5 °C", "SpO2": "99%" },
+    "correctDiagnosis": "ge_tubaria",
+    "diagnosisExplanation": {
+      "pt": "Sangramento vaginal com 1 fator de risco (laqueadura tubária = cirurgia tubária prévia): probabilidade pré-teste de 8% (Tabela 1, p. 66). USTV com massa anexial (LR+ 38): probabilidade pós-teste de 76,8%, na faixa > 1% e < 95%, com ultrassonografia alterada → β-hCG quantitativo. β-hCG < 2.000 mUI/mL na presença de massa anexial (LR 13): probabilidade pós-teste de 97,7% (≥ 95%) → diagnóstico confirmado e videolaparoscopia (p. 62–63).",
+      "en": "Vaginal bleeding with 1 risk factor (tubal ligation = prior tubal surgery): pretest probability 8% (Table 1, p. 66). TVUS with an adnexal mass (LR+ 38): post-test probability 76.8%, in the > 1% and < 95% range, with abnormal ultrasound → quantitative β-hCG. β-hCG < 2,000 mIU/mL with an adnexal mass (LR 13): post-test probability 97.7% (≥ 95%) → diagnosis confirmed and laparoscopy (p. 62–63)."
+    },
+    "learning": {
+      "pt": "O diagnóstico de gravidez ectópica combina sintomas, fatores de risco, USTV e β-hCG em um algoritmo bayesiano com acurácia de 98,9% (IC95%: 98,3% a 99,2%): pós-teste ≥ 95% confirma, < 1% exclui e valores intermediários exigem seguimento (p. 68).\nO metotrexato tem como primeira indicação o desejo reprodutivo (Figura 2, p. 69); uma paciente com laqueadura não tem esse desejo. A salpingostomia é para quem deseja preservação tubária (Tabela 4, p. 70). No HCPA, prefere-se o tratamento cirúrgico por laparoscopia, pela taxa de resolução e dispensa de acompanhamento (p. 68).\nToda ultrassonografia com laudo de restos só é válida se houver registro prévio de gestação tópica (Caso 4, p. 49).",
+      "en": "Ectopic pregnancy diagnosis combines symptoms, risk factors, TVUS and β-hCG in a Bayesian algorithm with 98.9% accuracy (95% CI 98.3%–99.2%): post-test ≥ 95% confirms, < 1% excludes and intermediate values require follow-up (p. 68).\nThe first indication for methotrexate is the desire for future fertility (Figure 2, p. 69); a patient with tubal ligation has no such desire. Salpingostomy is for those who wish tubal preservation (Table 4, p. 70). At HCPA, laparoscopic surgery is preferred for its resolution rate and no need for follow-up (p. 68).\nAny ultrasound reporting retained products is only valid with a prior record of an intrauterine pregnancy (Case 4, p. 49)."
+    }
+  },
+  "levels": {
+    "3": {
+      "triage": {
+        "pt": "Mulher de 38 anos, G3P2, gestação de 6 semanas pela data da última menstruação. Procura a emergência por dor em hipogástrio e sangramento vaginal há 1 dia.",
+        "en": "38-year-old woman, G3P2, 6 weeks pregnant by last menstrual period. She presents with suprapubic pain and vaginal bleeding for 1 day."
+      },
+      "vitals": { "PA": "116/72 mmHg", "FC": "84 bpm", "FR": "16 mrpm", "Tax": "36,6 °C", "SpO2": "99%" },
+      "correctDiagnosis": "ge_cicatriz",
+      "timerMinutes": 15,
+      "diagnosisExplanation": {
+        "pt": "Na primeira consulta, a ultrassonografia sugeria abortamento em curso (endométrio heterogêneo, sem saco gestacional ou líquido livre) e a probabilidade de gravidez ectópica extrauterina foi de 1,22% (faixa > 1% e < 95%): retorno em 48 h com β-hCG e USTV. O β-hCG subiu de 2.718 para 2.885 mUI/mL (6%; o aumento mínimo esperado na gestação normal é 35% em 48 h). A USTV de controle mostrou formação cística de 1,4 × 0,9 cm no istmo, sem fluxo ao Doppler e sem polo embrionário: gravidez ectópica em cicatriz de cesárea, tratada com metotrexato IM e seguimento com β-hCG (Caso 2, p. 74–75).",
+        "en": "At the first visit, ultrasound suggested an inevitable miscarriage (heterogeneous endometrium, no gestational sac or free fluid) and the probability of extrauterine ectopic pregnancy was 1.22% (> 1% and < 95% range): return in 48 h with β-hCG and TVUS. β-hCG rose from 2,718 to 2,885 mIU/mL (6%; the minimum expected rise in a normal pregnancy is 35% in 48 h). Follow-up TVUS showed a 1.4 × 0.9 cm cystic lesion at the isthmus, without Doppler flow or embryonic pole: cesarean scar ectopic pregnancy, treated with IM methotrexate and β-hCG follow-up (Case 2, p. 74–75)."
+      },
+      "learning": {
+        "pt": "Os métodos diagnósticos têm limitações: a primeira imagem sugeria abortamento em curso. É necessário unir todas as ferramentas e manter o acompanhamento com β-hCG nos casos suspeitos (Caso 2, p. 75).\nO metotrexato é indicado com desejo reprodutivo, facilidade de retorno, gravidez ectópica não rota, estabilidade hemodinâmica, < 8 semanas, ausência de tuberculose e imunodepressão, função renal normal e hCG < 2.000 mUI/mL; níveis mais elevados exigem decisão compartilhada (p. 68–71). Dose: 100 mg IM ou 50 mg/m² IM; seguimento com β-hCG nos dias 4 e 7, com queda ≥ 15% entre eles (Figura 2, p. 69).\nNa gravidez ectópica uterina (cicatriz de cesárea), as complicações são mais frequentes e graves, incluindo hemorragia e histerectomia (p. 72).",
+        "en": "Diagnostic tests have limitations: the first image suggested an inevitable miscarriage. All tools must be combined and suspected cases followed with β-hCG (Case 2, p. 75).\nMethotrexate is indicated with desire for fertility, ease of return, unruptured ectopic, hemodynamic stability, < 8 weeks, no tuberculosis or immunosuppression, normal renal function and hCG < 2,000 mIU/mL; higher levels require shared decision-making (p. 68–71). Dose: 100 mg IM or 50 mg/m² IM; follow-up β-hCG on days 4 and 7, with a ≥ 15% fall between them (Figure 2, p. 69).\nIn uterine ectopic pregnancy (cesarean scar), complications are more frequent and severe, including hemorrhage and hysterectomy (p. 72)."
+      }
+    }
+  },
+  "diagnoses": [
+    { "id": "ameaca", "label": { "pt": "Ameaça de abortamento", "en": "Threatened miscarriage" } },
+    { "id": "incompleto", "label": { "pt": "Aborto incompleto", "en": "Incomplete miscarriage" } },
+    { "id": "inevitavel", "label": { "pt": "Aborto inevitável (em curso)", "en": "Inevitable miscarriage" } },
+    { "id": "completo", "label": { "pt": "Aborto completo", "en": "Complete miscarriage" } },
+    { "id": "pul", "label": { "pt": "Gestação em local indeterminado — seguimento em 48 h", "en": "Pregnancy of unknown location — 48-h follow-up" } },
+    { "id": "ge_tubaria", "label": { "pt": "Gravidez ectópica tubária", "en": "Tubal ectopic pregnancy" } },
+    { "id": "ge_cicatriz", "label": { "pt": "Gravidez ectópica em cicatriz de cesárea", "en": "Cesarean scar ectopic pregnancy" } },
+    { "id": "mola", "label": { "pt": "Mola hidatiforme", "en": "Hydatidiform mole" } }
+  ],
+  "stages": {
+    "anamnese": [
+      {
+        "id": "a_dor", "class": "essencial", "ref": "p. 65–66",
+        "label": { "pt": "Dor pélvica ou abdominal", "en": "Pelvic or abdominal pain" },
+        "result": { "pt": "Nega dor.", "en": "Denies pain." },
+        "byLevel": { "3": { "result": { "pt": "Cólica moderada em hipogástrio há 1 dia.", "en": "Moderate suprapubic cramping for 1 day." } } },
+        "why": { "pt": "A combinação de sintomas (assintomática, dor, sangramento, dor com sangramento) define a probabilidade pré-teste.", "en": "The symptom combination (asymptomatic, pain, bleeding, pain with bleeding) defines pretest probability." }
+      },
+      {
+        "id": "a_sangr", "class": "pertinente", "ref": "p. 65",
+        "label": { "pt": "Volume do sangramento", "en": "Amount of bleeding" },
+        "result": { "pt": "Pequena quantidade, sangue escuro.", "en": "Small amount, dark blood." },
+        "byLevel": { "3": { "result": { "pt": "Menor que uma menstruação.", "en": "Lighter than a period." } } },
+        "why": { "pt": "Qualquer sangramento identificado pelo profissional é considerado presente para o cálculo da probabilidade pré-teste.", "en": "Any bleeding seen by the clinician counts as present for pretest probability." }
+      },
+      {
+        "id": "a_cir", "class": "essencial", "ref": "p. 63, 65",
+        "label": { "pt": "Cirurgias prévias e método contraceptivo", "en": "Prior surgery and contraceptive method" },
+        "result": { "pt": "Laqueadura tubária há 4 anos, após o segundo parto vaginal.", "en": "Tubal ligation 4 years ago, after her second vaginal birth." },
+        "byLevel": { "3": { "class": "pertinente", "result": { "pt": "Duas cesáreas, a última há 2 anos; sem método contraceptivo; nega cirurgia tubária.", "en": "Two cesareans, the last 2 years ago; no contraception; denies tubal surgery." }, "why": { "pt": "Cirurgia tubária é fator de risco (RR 2,31); cesárea prévia é dado anatômico relevante para a localização da gestação (Caso 2).", "en": "Tubal surgery is a risk factor (RR 2.31); prior cesarean is an anatomic detail relevant to pregnancy location (Case 2)." } } },
+        "why": { "pt": "Ligadura tubária conta como fator de risco (cirurgia tubária prévia; RR 2,31; IC95%: 1,27 a 4,18).", "en": "Tubal ligation counts as a risk factor (prior tubal surgery; RR 2.31; 95% CI 1.27–4.18)." }
+      },
+      {
+        "id": "a_fr", "class": "pertinente", "ref": "p. 65",
+        "label": { "pt": "Gravidez ectópica prévia, DIP ou infertilidade", "en": "Prior ectopic pregnancy, PID or infertility" },
+        "result": { "pt": "Nega.", "en": "Denies." },
+        "why": { "pt": "Fatores de risco do serviço: GE prévia (RR 2,94), DIP (RR 2,39), infertilidade (RR 2,80).", "en": "Local risk factors: prior EP (RR 2.94), PID (RR 2.39), infertility (RR 2.80)." }
+      },
+      {
+        "id": "a_desejo", "class": "essencial", "ref": "p. 68–69",
+        "label": { "pt": "Desejo reprodutivo futuro", "en": "Desire for future fertility" },
+        "result": { "pt": "Não deseja mais filhos; fez a laqueadura por isso.", "en": "She does not want more children; that is why she had the ligation." },
+        "byLevel": { "3": { "result": { "pt": "Deseja nova gestação no futuro.", "en": "She wishes to conceive again in the future." } } },
+        "why": { "pt": "O desejo reprodutivo integra as indicações de metotrexato e a escolha entre salpingectomia e salpingostomia.", "en": "Desire for fertility is part of the methotrexate indications and the choice between salpingectomy and salpingostomy." }
+      },
+      {
+        "id": "a_usprev", "class": "essencial", "ref": "p. 49, 73",
+        "label": { "pt": "Ultrassonografia prévia confirmando gestação intrauterina", "en": "Prior ultrasound confirming intrauterine pregnancy" },
+        "result": { "pt": "Nunca fez ultrassonografia nesta gestação.", "en": "No ultrasound in this pregnancy." },
+        "why": { "pt": "Sem registro prévio de gestação tópica, laudos de \"restos\" não são válidos e a gravidez ectópica permanece no diferencial.", "en": "Without a prior record of intrauterine pregnancy, reports of \"retained products\" are not valid and ectopic pregnancy remains in the differential." }
+      },
+      {
+        "id": "a_sincope", "class": "pertinente", "ref": "p. 61",
+        "label": { "pt": "Desmaio, tontura ou dor no ombro", "en": "Syncope, dizziness or shoulder pain" },
+        "result": { "pt": "Nega.", "en": "Denies." },
+        "why": { "pt": "Gestante com desmaio é critério de triagem para gravidez ectópica.", "en": "A pregnant patient with syncope is a triage criterion for ectopic pregnancy." }
+      },
+      {
+        "id": "a_infec", "class": "pertinente", "ref": "p. 32",
+        "label": { "pt": "Febre ou secreção vaginal com odor fétido", "en": "Fever or foul-smelling discharge" },
+        "result": { "pt": "Nega.", "en": "Denies." },
+        "why": { "pt": "Sinais de infecção redirecionam o fluxograma do sangramento no início da gravidez.", "en": "Signs of infection redirect the early-pregnancy bleeding flowchart." }
+      },
+      {
+        "id": "a_tabaco", "class": "desnecessaria", "levels": [2, 3], "ref": "p. 65",
+        "label": { "pt": "Tabagismo", "en": "Smoking" },
+        "result": { "pt": "Fuma 5 cigarros por dia.", "en": "Smokes 5 cigarettes per day." },
+        "why": { "pt": "Tabagismo não foi fator de risco significativo na população do serviço (RR 1,48; IC95%: 0,96 a 2,30) e não entra no algoritmo.", "en": "Smoking was not a significant risk factor in the local population (RR 1.48; 95% CI 0.96–2.30) and is not part of the algorithm." }
+      },
+      {
+        "id": "a_diu", "class": "desnecessaria", "levels": [2, 3], "ref": "p. 65",
+        "label": { "pt": "Uso prévio de DIU", "en": "Prior IUD use" },
+        "result": { "pt": "Usou DIU de cobre por 3 anos, há 8 anos.", "en": "Copper IUD for 3 years, 8 years ago." },
+        "why": { "pt": "História de uso de DIU não foi significativa na população do serviço (RR 1,03; IC95%: 0,50 a 2,11).", "en": "History of IUD use was not significant in the local population (RR 1.03; 95% CI 0.50–2.11)." }
+      }
+    ],
+    "exame": [
+      {
+        "id": "e_geral", "class": "pertinente", "ref": "p. 65",
+        "label": { "pt": "Estado geral, perfusão e mucosas", "en": "General appearance, perfusion and mucous membranes" },
+        "result": { "pt": "Bom estado geral, mucosas coradas, perfusão normal.", "en": "Well-appearing, pink mucous membranes, normal perfusion." },
+        "why": { "pt": "A apresentação varia de assintomática a abdome agudo hemorrágico; a estabilidade hemodinâmica orienta o tratamento.", "en": "Presentation ranges from asymptomatic to hemorrhagic acute abdomen; hemodynamic stability guides treatment." }
+      },
+      {
+        "id": "e_abd", "class": "essencial", "ref": "p. 65, 68",
+        "label": { "pt": "Exame abdominal (irritação peritoneal)", "en": "Abdominal exam (peritoneal signs)" },
+        "result": { "pt": "Flácido, indolor, sem irritação peritoneal.", "en": "Soft, non-tender, no peritoneal signs." },
+        "byLevel": { "3": { "result": { "pt": "Dor leve à palpação do hipogástrio; sem irritação peritoneal.", "en": "Mild suprapubic tenderness; no peritoneal signs." } } },
+        "why": { "pt": "Sinais de hemoperitônio indicam ruptura e instabilidade, com tratamento cirúrgico.", "en": "Signs of hemoperitoneum indicate rupture and instability, requiring surgery." }
+      },
+      {
+        "id": "e_espec", "class": "essencial", "ref": "p. 62",
+        "label": { "pt": "Exame especular", "en": "Speculum exam" },
+        "result": { "pt": "Colo fechado; pequena quantidade de sangue escuro no fundo de saco vaginal; sem restos ovulares.", "en": "Closed os; small amount of dark blood in the vaginal vault; no products of conception." },
+        "why": { "pt": "Colo aberto ou eliminação de restos direcionam para abortamento no fluxograma.", "en": "An open os or passage of products redirects to miscarriage in the flowchart." }
+      },
+      {
+        "id": "e_toque", "class": "essencial", "ref": "p. 62",
+        "label": { "pt": "Toque vaginal bimanual", "en": "Bimanual exam" },
+        "result": { "pt": "Orifício cervical interno fechado; útero de tamanho normal; anexos sem massa palpável; mobilização do colo indolor.", "en": "Internal os closed; normal-sized uterus; no palpable adnexal mass; no cervical motion tenderness." },
+        "byLevel": { "3": { "result": { "pt": "Orifício cervical interno fechado; útero discretamente aumentado e doloroso no segmento inferior; anexos livres.", "en": "Internal os closed; slightly enlarged uterus, tender at the lower segment; adnexa normal." } } },
+        "why": { "pt": "Confirma colo fechado e ausência de restos, mantendo o ramo da ultrassonografia transvaginal.", "en": "Confirms a closed os and no products, keeping the transvaginal ultrasound branch." }
+      },
+      {
+        "id": "e_sonar", "class": "desnecessaria", "ref": "p. 36",
+        "label": { "pt": "Ausculta de BCF com sonar Doppler", "en": "Fetal heart auscultation with handheld Doppler" },
+        "result": { "pt": "Batimentos fetais não audíveis.", "en": "Fetal heart tones not audible." },
+        "why": { "pt": "O sonar só é útil acima de 12 semanas.", "en": "The handheld Doppler is only useful after 12 weeks." }
+      }
+    ],
+    "lab": [
+      {
+        "id": "l_bhcgu", "class": "essencial", "ref": "p. 62",
+        "label": { "pt": "β-hCG urinário", "en": "Urine β-hCG" },
+        "result": { "pt": "Positivo.", "en": "Positive." },
+        "why": { "pt": "Primeiro passo do fluxograma da gravidez ectópica.", "en": "First step of the ectopic pregnancy flowchart." }
+      },
+      {
+        "id": "l_bhcgq", "class": "essencial", "ref": "p. 62, 66",
+        "label": { "pt": "β-hCG sérico quantitativo", "en": "Quantitative serum β-hCG" },
+        "result": { "pt": "120 mUI/mL.", "en": "120 mIU/mL." },
+        "byLevel": { "3": { "result": { "pt": "2.718 mUI/mL.", "en": "2,718 mIU/mL." } } },
+        "why": { "pt": "Com probabilidade pós-teste entre 1% e 95% e ultrassonografia alterada, solicita-se β-hCG quantitativo; o limiar de referência é 2.000 mUI/mL.", "en": "With post-test probability between 1% and 95% and abnormal ultrasound, quantitative β-hCG is ordered; the reference threshold is 2,000 mIU/mL." }
+      },
+      {
+        "id": "l_bhcg48", "levels": [3], "class": "essencial", "ref": "p. 62, 67",
+        "label": { "pt": "Retorno em 48 h: novo β-hCG quantitativo", "en": "Return in 48 h: repeat quantitative β-hCG" },
+        "result": { "pt": "2.885 mUI/mL (aumento de 6% em 48 h).", "en": "2,885 mIU/mL (6% rise in 48 h)." },
+        "why": { "pt": "Com probabilidade entre 1% e 95%, repete-se o β-hCG a cada 48 h; o aumento mínimo na gestação normal é 35%.", "en": "With probability between 1% and 95%, β-hCG is repeated every 48 h; the minimum rise in a normal pregnancy is 35%." }
+      },
+      {
+        "id": "l_hemo", "class": "pertinente", "ref": "p. 69",
+        "label": { "pt": "Hemograma", "en": "Complete blood count" },
+        "result": { "pt": "Hb 12,8 g/dL; leucócitos 7.600/mm³; plaquetas 244.000/mm³.", "en": "Hb 12.8 g/dL; WBC 7,600/mm³; platelets 244,000/mm³." },
+        "byLevel": { "3": { "class": "essencial", "result": { "pt": "Hb 12,0 g/dL; leucócitos 8.100/mm³; plaquetas 231.000/mm³.", "en": "Hb 12.0 g/dL; WBC 8,100/mm³; platelets 231,000/mm³." } } },
+        "why": { "pt": "Integra os exames antes do metotrexato (Exames 1) e a avaliação de perda sanguínea.", "en": "Part of the pre-methotrexate tests (Tests 1) and blood loss assessment." }
+      },
+      {
+        "id": "l_tipagem", "class": "pertinente", "ref": "p. 69",
+        "label": { "pt": "Tipagem sanguínea e fator Rh", "en": "Blood type and Rh factor" },
+        "result": { "pt": "A Rh positivo.", "en": "A Rh positive." },
+        "byLevel": { "3": { "class": "essencial", "result": { "pt": "O Rh negativo.", "en": "O Rh negative." } } },
+        "why": { "pt": "Integra os Exames 1 do metotrexato; Rh negativo indica imunoglobulina anti-Rh 250 µg IM.", "en": "Part of methotrexate Tests 1; Rh negative indicates anti-D immune globulin 250 µg IM." }
+      },
+      {
+        "id": "l_tgo", "class": "desnecessaria", "ref": "p. 69",
+        "label": { "pt": "TGO/TGP e creatinina", "en": "AST/ALT and creatinine" },
+        "result": { "pt": "TGO 18 U/L; TGP 21 U/L; creatinina 0,7 mg/dL.", "en": "AST 18 U/L; ALT 21 U/L; creatinine 0.7 mg/dL." },
+        "byLevel": { "3": { "class": "essencial", "why": { "pt": "Exames 1 obrigatórios antes do metotrexato (função hepática e renal normal).", "en": "Tests 1 required before methotrexate (normal liver and renal function)." } } },
+        "why": { "pt": "São os Exames 1 do metotrexato, que não está indicado nesta paciente sem desejo reprodutivo.", "en": "These are methotrexate Tests 1; methotrexate is not indicated in this patient without desire for fertility." }
+      },
+      {
+        "id": "l_pcr", "class": "desnecessaria", "levels": [2, 3], "ref": "p. 66",
+        "label": { "pt": "Proteína C-reativa", "en": "C-reactive protein" },
+        "result": { "pt": "2 mg/L.", "en": "2 mg/L." },
+        "why": { "pt": "Não integra o algoritmo diagnóstico da gravidez ectópica.", "en": "Not part of the ectopic pregnancy diagnostic algorithm." }
+      },
+      {
+        "id": "l_lactato", "class": "desnecessaria", "levels": [3], "ref": "p. 79",
+        "label": { "pt": "Lactato sérico como biomarcador de gravidez ectópica", "en": "Serum lactate as an ectopic pregnancy biomarker" },
+        "result": { "pt": "1,1 mmol/L.", "en": "1.1 mmol/L." },
+        "why": { "pt": "Potencial biomarcador ainda em estudo no serviço; não integra o algoritmo clínico.", "en": "A potential biomarker still under study; not part of the clinical algorithm." }
+      }
+    ],
+    "imagem": [
+      {
+        "id": "i_ustv", "class": "essencial", "ref": "p. 62, 66",
+        "label": { "pt": "Ultrassonografia transvaginal", "en": "Transvaginal ultrasound" },
+        "result": { "pt": "Útero sem saco gestacional; endométrio de 7 mm, homogêneo. Massa anexial direita de 2,4 cm, separada do ovário (o ovário desliza sobre a massa à compressão). Ovários normais. Sem líquido livre.", "en": "No intrauterine gestational sac; homogeneous 7-mm endometrium. 2.4-cm right adnexal mass separate from the ovary (the ovary slides over the mass with compression). Normal ovaries. No free fluid." },
+        "byLevel": { "3": { "result": { "pt": "Endométrio heterogêneo, sem saco gestacional; sem massa anexial; sem líquido livre. A imagem no corpo uterino pode corresponder a abortamento em curso.", "en": "Heterogeneous endometrium, no gestational sac; no adnexal mass; no free fluid. The image in the uterine body may represent an inevitable miscarriage." } } },
+        "why": { "pt": "A USTV é chave: procure massa anexial fora do ovário e qualquer volume de líquido livre.", "en": "TVUS is key: look for an adnexal mass separate from the ovary and any amount of free fluid." }
+      },
+      {
+        "id": "i_ustv48", "levels": [3], "class": "essencial", "ref": "p. 62, 75",
+        "label": { "pt": "Retorno em 48 h: nova ultrassonografia transvaginal com Doppler", "en": "Return in 48 h: repeat transvaginal ultrasound with Doppler" },
+        "result": { "pt": "Formação cística de 1,4 × 0,9 cm na região do istmo uterino (sobre a cicatriz de cesárea), conteúdo heterogêneo e amorfo, sem fluxo ao Doppler colorido; sem polo embrionário ou vesícula vitelínica.", "en": "1.4 × 0.9 cm cystic lesion at the uterine isthmus (over the cesarean scar), heterogeneous amorphous content, no color Doppler flow; no embryonic pole or yolk sac." },
+        "why": { "pt": "Com probabilidade entre 1% e 95%, repetem-se β-hCG e ultrassonografia a cada 48 h.", "en": "With probability between 1% and 95%, β-hCG and ultrasound are repeated every 48 h." }
+      },
+      {
+        "id": "i_usabd", "class": "desnecessaria", "ref": "p. 33",
+        "label": { "pt": "Ultrassonografia pélvica por via abdominal", "en": "Transabdominal pelvic ultrasound" },
+        "result": { "pt": "Útero de tamanho normal; anexos mal visualizados.", "en": "Normal-sized uterus; adnexa poorly seen." },
+        "why": { "pt": "Abaixo de 12 semanas, a via transvaginal é a indicada.", "en": "Below 12 weeks, the transvaginal route is indicated." }
+      },
+      {
+        "id": "i_tc", "class": "desnecessaria", "ref": "p. 66",
+        "label": { "pt": "Tomografia computadorizada de abdome e pelve", "en": "Abdominal and pelvic CT" },
+        "result": { "pt": "Sem alterações significativas.", "en": "No significant findings." },
+        "why": { "pt": "O diagnóstico baseia-se em USTV e β-hCG.", "en": "Diagnosis relies on TVUS and β-hCG." }
+      },
+      {
+        "id": "i_rm", "class": "desnecessaria", "levels": [2], "ref": "p. 66",
+        "label": { "pt": "Ressonância magnética da pelve", "en": "Pelvic MRI" },
+        "result": { "pt": "Lesão anexial direita inespecífica.", "en": "Non-specific right adnexal lesion." },
+        "why": { "pt": "O diagnóstico baseia-se em USTV e β-hCG.", "en": "Diagnosis relies on TVUS and β-hCG." }
+      }
+    ],
+    "conduta": [
+      {
+        "id": "c_mtx_l1", "levels": [1], "group": "medicamento", "class": "desnecessaria", "ref": "p. 69",
+        "label": { "pt": "Metotrexato IM", "en": "IM methotrexate" },
+        "why": { "pt": "A primeira indicação de metotrexato é o desejo reprodutivo; a paciente tem laqueadura e não deseja mais filhos.", "en": "The first indication for methotrexate is desire for fertility; the patient had a tubal ligation and wants no more children." }
+      },
+      {
+        "id": "c_mtx", "levels": [2, 3], "group": "medicamento", "class": "desnecessaria", "ref": "p. 69, 77",
+        "label": { "pt": "Metotrexato 100 mg IM dose única (ou 50 mg/m² IM)", "en": "Methotrexate 100 mg IM single dose (or 50 mg/m² IM)" },
+        "byLevel": { "3": { "class": "essencial", "why": { "pt": "Gravidez ectópica em cicatriz de cesárea, estável, com desejo reprodutivo: metotrexato IM (Caso 2). Dose de 100 mg IM ou 50 mg/m²; 100 mg utiliza todo o conteúdo das ampolas (Pérola 6).", "en": "Stable cesarean scar ectopic pregnancy with desire for fertility: IM methotrexate (Case 2). Dose 100 mg IM or 50 mg/m²; 100 mg uses the full vials (Pearl 6)." } } },
+        "why": { "pt": "A primeira indicação de metotrexato é o desejo reprodutivo; a paciente tem laqueadura e não deseja mais filhos.", "en": "The first indication for methotrexate is desire for fertility; the patient had a tubal ligation and wants no more children." }
+      },
+      {
+        "id": "c_consent", "levels": [3], "group": "orientacao", "class": "essencial", "ref": "p. 69–71",
+        "label": { "pt": "Termo de consentimento e decisão compartilhada (β-hCG > 2.000 mUI/mL)", "en": "Informed consent and shared decision-making (β-hCG > 2,000 mIU/mL)" },
+        "why": { "pt": "O fluxograma exige termo de consentimento; níveis de hCG acima de 2.000 mUI/mL exigem discussão com a paciente (sucesso 96,23% entre 2.000 e 4.999 mUI/mL; IC95%: 90,62 a 98,96).", "en": "The flowchart requires informed consent; hCG above 2,000 mIU/mL requires discussion with the patient (96.23% success for 2,000–4,999 mIU/mL; 95% CI 90.62–98.96)." }
+      },
+      {
+        "id": "c_rhogam", "group": "medicamento", "class": "desnecessaria", "ref": "p. 69",
+        "label": { "pt": "Imunoglobulina anti-Rh 250 µg IM", "en": "Anti-D immune globulin 250 µg IM" },
+        "byLevel": { "3": { "class": "essencial", "why": { "pt": "Paciente Rh negativo em tratamento com metotrexato: imunoglobulina anti-Rh 250 µg IM.", "en": "Rh-negative patient on methotrexate: anti-D immune globulin 250 µg IM." } } },
+        "why": { "pt": "Indicada apenas em paciente Rh negativo; esta paciente é Rh positivo.", "en": "Indicated only for Rh-negative patients; this patient is Rh positive." }
+      },
+      {
+        "id": "c_vlp", "group": "procedimento", "class": "essencial", "ref": "p. 62, 68",
+        "label": { "pt": "Videolaparoscopia", "en": "Laparoscopy" },
+        "byLevel": { "3": { "class": "contraindicada", "why": { "pt": "A gestação está no istmo uterino, sobre a cicatriz de cesárea; não há gravidez tubária a ser abordada por laparoscopia nesta paciente estável.", "en": "The pregnancy is at the uterine isthmus over the cesarean scar; there is no tubal pregnancy to address laparoscopically in this stable patient." } } },
+        "why": { "pt": "Probabilidade pós-teste ≥ 95%: videolaparoscopia; no HCPA, prefere-se o tratamento cirúrgico por laparoscopia.", "en": "Post-test probability ≥ 95%: laparoscopy; HCPA prefers laparoscopic surgical treatment." }
+      },
+      {
+        "id": "c_salpingectomia", "group": "procedimento", "class": "essencial", "ref": "p. 61, 70",
+        "label": { "pt": "Salpingectomia", "en": "Salpingectomy" },
+        "byLevel": { "3": { "class": "contraindicada", "why": { "pt": "Não se trata de gravidez tubária.", "en": "This is not a tubal pregnancy." } } },
+        "why": { "pt": "Salpingectomia é o padrão de tratamento; resolução > 95%, sem desejo de preservação tubária.", "en": "Salpingectomy is the standard; > 95% resolution, with no wish for tubal preservation." }
+      },
+      {
+        "id": "c_salpingostomia", "group": "procedimento", "class": "desnecessaria", "ref": "p. 70, 72",
+        "label": { "pt": "Salpingostomia", "en": "Salpingostomy" },
+        "byLevel": { "3": { "class": "contraindicada", "why": { "pt": "Não se trata de gravidez tubária.", "en": "This is not a tubal pregnancy." } } },
+        "why": { "pt": "Indicada quando a preservação tubária é desejada; tem maior risco de persistência trofoblástica (2%) e exige seguimento do hCG.", "en": "Indicated when tubal preservation is desired; higher risk of persistent trophoblast (2%) and requires hCG follow-up." }
+      },
+      {
+        "id": "c_laparotomia", "levels": [2, 3], "group": "procedimento", "class": "desnecessaria", "ref": "p. 68",
+        "label": { "pt": "Laparotomia exploradora", "en": "Exploratory laparotomy" },
+        "why": { "pt": "Paciente estável; no HCPA, a via preferencial é a laparoscopia.", "en": "Stable patient; HCPA's preferred route is laparoscopy." }
+      },
+      {
+        "id": "c_amiu", "group": "procedimento", "class": "contraindicada", "grave": true, "ref": "p. 49, 72–73",
+        "label": { "pt": "Esvaziamento uterino (AMIU ou curetagem)", "en": "Uterine evacuation (MVA or curettage)" },
+        "byLevel": { "3": { "outcome": { "pt": "Curetagem de gravidez ectópica em cicatriz de cesárea: nessa localização, as complicações são mais frequentes e graves, incluindo hemorragia, histerectomia e embolização arterial (p. 72).", "en": "Curettage of a cesarean scar ectopic pregnancy: at this site, complications are more frequent and severe, including hemorrhage, hysterectomy and arterial embolization (p. 72)." } } },
+        "why": { "pt": "Sem gestação intrauterina prévia confirmada, o esvaziamento não trata a gravidez ectópica e atrasa o diagnóstico (Caso 1, p. 73; Caso 4, p. 49).", "en": "Without a previously confirmed intrauterine pregnancy, evacuation does not treat the ectopic pregnancy and delays diagnosis (Case 1, p. 73; Case 4, p. 49)." },
+        "outcome": { "pt": "Retorno com dor e diagnóstico tardio de gravidez ectópica, com risco de abdome agudo hemorrágico (Caso 4, p. 49; Caso 1, p. 35).", "en": "Return with pain and delayed diagnosis of ectopic pregnancy, with risk of hemorrhagic acute abdomen (Case 4, p. 49; Case 1, p. 35)." }
+      },
+      {
+        "id": "c_expect", "group": "destino", "class": "desnecessaria", "ref": "p. 62, 70",
+        "label": { "pt": "Conduta expectante com β-hCG e USTV a cada 48 h", "en": "Expectant management with β-hCG and TVUS every 48 h" },
+        "byLevel": { "3": { "why": { "pt": "Após o diagnóstico de gravidez ectópica em cicatriz de cesárea com β-hCG em ascensão, o tratamento indicado foi o metotrexato.", "en": "After diagnosing a cesarean scar ectopic pregnancy with rising β-hCG, the indicated treatment was methotrexate." } } },
+        "why": { "pt": "Com probabilidade pós-teste ≥ 95%, o diagnóstico está confirmado e o fluxograma indica videolaparoscopia.", "en": "With post-test probability ≥ 95%, the diagnosis is confirmed and the flowchart indicates laparoscopy." }
+      },
+      {
+        "id": "c_hcg7", "levels": [2], "group": "orientacao", "class": "desnecessaria", "ref": "p. 61",
+        "label": { "pt": "β-hCG em 7 dias após a cirurgia", "en": "β-hCG 7 days after surgery" },
+        "why": { "pt": "O seguimento com hCG em 7 dias é exigido após salpingostomia; a salpingectomia dispensa acompanhamento.", "en": "hCG follow-up at 7 days is required after salpingostomy; salpingectomy needs no follow-up." }
+      },
+      {
+        "id": "c_seguimtx", "levels": [3], "group": "orientacao", "class": "essencial", "ref": "p. 69",
+        "label": { "pt": "β-hCG quantitativo nos dias 4 e 7 (queda ≥ 15% entre D4 e D7) e semanal a partir do D14 até negativar", "en": "Quantitative β-hCG on days 4 and 7 (≥ 15% fall between D4 and D7), then weekly from D14 until negative" },
+        "why": { "pt": "Protocolo de seguimento do metotrexato; sem queda, discutir cirurgia ou nova dose.", "en": "Methotrexate follow-up protocol; without a fall, discuss surgery or a repeat dose." }
+      },
+      {
+        "id": "c_orientmtx", "levels": [3], "group": "orientacao", "class": "essencial", "ref": "p. 69",
+        "label": { "pt": "Orientar: não ingerir álcool nem alimentos com ácido fólico, não ter relações sexuais, não engravidar por 3 meses; retornar se dor > 12 h sem alívio com anti-inflamatório, desmaio ou tontura", "en": "Counsel: no alcohol or folate-rich foods, no intercourse, avoid pregnancy for 3 months; return for pain > 12 h unrelieved by NSAIDs, syncope or dizziness" },
+        "why": { "pt": "Recomendações de alta do dia 2 do protocolo de metotrexato.", "en": "Day-2 discharge recommendations of the methotrexate protocol." }
+      },
+      {
+        "id": "c_intern", "levels": [1, 2], "group": "destino", "class": "essencial", "ref": "p. 62, 68",
+        "label": { "pt": "Internação para cirurgia", "en": "Admission for surgery" },
+        "why": { "pt": "Diagnóstico confirmado; tratamento cirúrgico por laparoscopia.", "en": "Confirmed diagnosis; laparoscopic surgical treatment." }
+      },
+      {
+        "id": "c_obs12", "levels": [3], "group": "destino", "class": "essencial", "ref": "p. 69",
+        "label": { "pt": "Reavaliar 12 h após o metotrexato e alta com retorno no dia 4", "en": "Reassess 12 h after methotrexate and discharge with return on day 4" },
+        "why": { "pt": "Fluxograma do metotrexato: aplicar, reavaliar em 12 h, verificar Rh e seguir o protocolo.", "en": "Methotrexate flowchart: administer, reassess at 12 h, check Rh and follow the protocol." }
+      },
+      {
+        "id": "c_alta", "levels": [1, 2], "group": "destino", "class": "desnecessaria", "ref": "p. 62",
+        "label": { "pt": "Alta com retorno em 48 h", "en": "Discharge with return in 48 h" },
+        "why": { "pt": "O seguimento em 48 h é para probabilidade entre 1% e 95%; aqui a probabilidade pós-teste é ≥ 95%.", "en": "48-h follow-up is for probability between 1% and 95%; here post-test probability is ≥ 95%." }
+      }
+    ]
+  }
+}

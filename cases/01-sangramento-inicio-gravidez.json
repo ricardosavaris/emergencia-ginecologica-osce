@@ -1,0 +1,326 @@
+{
+  "id": "c01",
+  "title": { "pt": "Gestante com sangramento vaginal", "en": "Pregnant patient with vaginal bleeding" },
+  "chapter": { "pt": "Sangramento no início da gravidez", "en": "Bleeding in early pregnancy" },
+  "pages": "p. 28–38",
+  "base": {
+    "triage": {
+      "pt": "Mulher de 33 anos, G2P0A1, refere teste de gravidez de farmácia positivo há 2 semanas. Procura a emergência por sangramento vaginal iniciado há 6 horas.\nAinda não iniciou o pré-natal.",
+      "en": "33-year-old woman, G2P0A1, reports a positive home pregnancy test 2 weeks ago. She presents to the emergency department with vaginal bleeding that started 6 hours ago.\nShe has not started prenatal care."
+    },
+    "vitals": { "PA": "118/74 mmHg", "FC": "82 bpm", "FR": "16 mrpm", "Tax": "36,5 °C", "SpO2": "99%" },
+    "correctDiagnosis": "ameaca",
+    "diagnosisExplanation": {
+      "pt": "Sem sinais de infecção, colo uterino fechado e USTV com saco gestacional intrauterino, embrião com CCN ≥ 7 mm e BCF presente: ameaça de abortamento (fluxograma, p. 29). Como há abortamento prévio, o braço do fluxograma indica progesterona micronizada vaginal 400 mg 12/12 h até 12 semanas (RR 1,08; IC95%: 1,02 a 1,15 para nascido vivo; p. 34).",
+      "en": "No signs of infection, closed cervical os and TVUS showing an intrauterine gestational sac with an embryo CRL ≥ 7 mm and cardiac activity: threatened miscarriage (flowchart, p. 29). Because of a previous miscarriage, the flowchart branch indicates vaginal micronized progesterone 400 mg every 12 h until 12 weeks (live birth RR 1.08; 95% CI 1.02–1.15; p. 34)."
+    },
+    "learning": {
+      "pt": "As duas perguntas da emergência são: onde está a gestação e como está o embrião/feto (p. 30). A idade gestacional no 1º trimestre é definida pela ultrassonografia, não pela DUM (p. 28).\nAntes de avaliar o colo, procure sinais de infecção; com colo fechado e paciente estável, a USTV é o exame que diferencia abortamento, gravidez ectópica e mola (p. 32–33).\nA escolha do progestágeno depende do antecedente de abortamento: sem abortamento prévio, didrogesterona 40 mg VO (ataque) seguida de 10 mg 12/12 h até 16 semanas; com abortamento prévio, progesterona micronizada vaginal 400 mg 12/12 h até 12 semanas (p. 34). Repouso e abstinência sexual não têm benefício comprovado (p. 46).",
+      "en": "The two emergency questions are: where is the pregnancy and how is the embryo/fetus (p. 30). First-trimester gestational age is set by ultrasound, not by the LMP (p. 28).\nBefore assessing the cervix, look for signs of infection; with a closed os and a stable patient, TVUS differentiates miscarriage, ectopic pregnancy and molar pregnancy (p. 32–33).\nThe choice of progestogen depends on prior miscarriage: none — dydrogesterone 40 mg PO loading dose, then 10 mg every 12 h until 16 weeks; prior miscarriage — vaginal micronized progesterone 400 mg every 12 h until 12 weeks (p. 34). Bed rest and sexual abstinence have no proven benefit (p. 46)."
+    }
+  },
+  "levels": {
+    "3": {
+      "triage": {
+        "pt": "Gestante de 44 anos, G1P0, traz carteira de pré-natal de outro serviço onde consta \"10 semanas de gestação hoje\". Refere pequeno sangramento vaginal desde a manhã.\nNa carteira não há registro de como a gestação foi datada.",
+        "en": "44-year-old pregnant woman, G1P0, brings a prenatal card from another clinic stating \"10 weeks of gestation today\". She reports light vaginal bleeding since this morning.\nThe card does not record how the pregnancy was dated."
+      },
+      "vitals": { "PA": "124/78 mmHg", "FC": "86 bpm", "FR": "16 mrpm", "Tax": "36,4 °C", "SpO2": "98%" },
+      "correctDiagnosis": "inicial",
+      "timerMinutes": 12,
+      "diagnosisExplanation": {
+        "pt": "A ultrassonografia abdominal com bexiga cheia comprimiu o endométrio e ocultou a gestação inicial; após esvaziamento vesical, a USTV mostrou saco gestacional com vesícula vitelínica, sem embrião. Pelo fluxograma (p. 29), saco gestacional com vesícula vitelínica, sem embrião ≥ 7 mm: repetir a ultrassonografia em 1 semana. A carteira de pré-natal sem datação ultrassonográfica é informação secundária e não confirma a idade gestacional (Caso 2, p. 35).",
+        "en": "Transabdominal ultrasound with a full bladder compressed the endometrium and concealed the early pregnancy; after voiding, TVUS showed a gestational sac with a yolk sac and no embryo. Per the flowchart (p. 29), sac with yolk sac and no embryo ≥ 7 mm: repeat the ultrasound in 1 week. A prenatal card without ultrasound dating is secondary information and does not confirm gestational age (Case 2, p. 35)."
+      },
+      "learning": {
+        "pt": "Não confie em informação secundária sem confirmação: a carteira não informava como a gestação foi datada e a paciente não lembrava a DUM (Caso 2, p. 35).\nAbaixo de 12 semanas, a via de escolha é a transvaginal (p. 33). A bexiga cheia, janela acústica da via abdominal, comprime o endométrio e pode ocultar uma gestação inicial; se a ultrassonografia abdominal fosse o único exame, o caso seria rotulado como aborto completo (p. 35).\nIdade materna de 35 a 40+ anos aumenta o risco de abortamento (OR 2,03 a 4,24; p. 31), mas não altera o fluxograma: sem embrião visível, repete-se a USTV em 1 semana.",
+        "en": "Do not trust secondary information without confirmation: the card did not state how the pregnancy was dated and the patient did not recall her LMP (Case 2, p. 35).\nBelow 12 weeks, the transvaginal route is preferred (p. 33). The full bladder used as an acoustic window compresses the endometrium and may conceal an early pregnancy; had transabdominal ultrasound been the only study, the case would have been labeled a complete miscarriage (p. 35).\nMaternal age 35–40+ increases miscarriage risk (OR 2.03–4.24; p. 31) but does not change the flowchart: with no visible embryo, repeat TVUS in 1 week."
+      }
+    }
+  },
+  "diagnoses": [
+    { "id": "ameaca", "label": { "pt": "Ameaça de abortamento", "en": "Threatened miscarriage" } },
+    { "id": "incompleto", "label": { "pt": "Aborto incompleto", "en": "Incomplete miscarriage" } },
+    { "id": "completo", "label": { "pt": "Aborto completo", "en": "Complete miscarriage" } },
+    { "id": "retido", "label": { "pt": "Gestação interrompida (aborto retido)", "en": "Early pregnancy loss (missed miscarriage)" } },
+    { "id": "anembrionada", "label": { "pt": "Gestação anembrionada", "en": "Anembryonic pregnancy" } },
+    { "id": "inicial", "label": { "pt": "Gestação intrauterina inicial — repetir USTV em 1 semana", "en": "Early intrauterine pregnancy — repeat TVUS in 1 week" } },
+    { "id": "ectopica", "label": { "pt": "Gravidez ectópica", "en": "Ectopic pregnancy" } },
+    { "id": "mola", "label": { "pt": "Mola hidatiforme", "en": "Hydatidiform mole" } }
+  ],
+  "stages": {
+    "anamnese": [
+      {
+        "id": "a_sangr", "class": "essencial", "ref": "p. 31",
+        "label": { "pt": "Volume e evolução do sangramento", "en": "Amount and course of bleeding" },
+        "result": { "pt": "Sangramento menor que uma menstruação, sem coágulos, estável desde o início.", "en": "Lighter than a period, no clots, unchanged since onset." },
+        "byLevel": { "3": { "result": { "pt": "Pequena quantidade, \"borra\", desde a manhã.", "en": "Small amount, spotting, since this morning." } } },
+        "why": { "pt": "O sangramento (ausente, presente, aumentado ou diminuído) é um dos 5 elementos que definem o tipo de abortamento.", "en": "Bleeding (absent, present, increased or decreased) is one of the 5 elements that define the type of miscarriage." }
+      },
+      {
+        "id": "a_dor", "class": "pertinente", "ref": "p. 31",
+        "label": { "pt": "Dor ou cólica abdominal", "en": "Abdominal pain or cramping" },
+        "result": { "pt": "Cólica leve em hipogástrio.", "en": "Mild suprapubic cramping." },
+        "byLevel": { "3": { "result": { "pt": "Nega dor.", "en": "Denies pain." } } },
+        "why": { "pt": "A dor uterina integra os 5 elementos de classificação; sangramento com cólica abdominal baixa associa-se a abortamento (HR 5,03; IC95%: 2,07 a 12,20).", "en": "Uterine pain is one of the 5 classification elements; bleeding with lower abdominal cramping is associated with miscarriage (HR 5.03; 95% CI 2.07–12.20)." }
+      },
+      {
+        "id": "a_infec", "class": "essencial", "ref": "p. 32",
+        "label": { "pt": "Febre, calafrios ou secreção vaginal com odor fétido", "en": "Fever, chills or foul-smelling discharge" },
+        "result": { "pt": "Nega.", "en": "Denies." },
+        "why": { "pt": "A avaliação inicia pela identificação de sinais de infecção; se presentes, o caso é conduzido como aborto infectado.", "en": "Assessment starts by looking for signs of infection; if present, the case is managed as septic abortion." }
+      },
+      {
+        "id": "a_manip", "class": "essencial", "ref": "p. 32",
+        "label": { "pt": "Manipulação uterina ou uso de substâncias para interromper a gestação", "en": "Uterine instrumentation or use of substances to end the pregnancy" },
+        "result": { "pt": "Nega.", "en": "Denies." },
+        "why": { "pt": "História de manipulação uterina é sinal de infecção no fluxograma.", "en": "History of uterine instrumentation is a sign of infection in the flowchart." }
+      },
+      {
+        "id": "a_abprev", "class": "essencial", "ref": "p. 29, 34",
+        "label": { "pt": "Abortamento prévio", "en": "Previous miscarriage" },
+        "result": { "pt": "Um aborto espontâneo há 2 anos, com 8 semanas.", "en": "One spontaneous miscarriage 2 years ago, at 8 weeks." },
+        "byLevel": { "3": { "class": "pertinente", "result": { "pt": "Primeira gestação; nunca teve aborto.", "en": "First pregnancy; no previous miscarriage." }, "why": { "pt": "O antecedente de abortamento define o progestágeno na ameaça de aborto; aqui não há embrião com BCF, logo não há indicação de progestágeno.", "en": "Prior miscarriage defines the progestogen in threatened miscarriage; here there is no embryo with cardiac activity, so no progestogen is indicated." } } },
+        "why": { "pt": "Na ameaça de aborto, o antecedente de abortamento define o progestágeno: progesterona vaginal (com aborto prévio) ou didrogesterona (sem aborto prévio).", "en": "In threatened miscarriage, prior miscarriage defines the progestogen: vaginal progesterone (prior miscarriage) or dydrogesterone (none)." }
+      },
+      {
+        "id": "a_usprev", "class": "essencial", "ref": "p. 33, 35",
+        "label": { "pt": "Ultrassonografia prévia confirmando gestação intrauterina", "en": "Prior ultrasound confirming intrauterine pregnancy" },
+        "result": { "pt": "Nunca fez ultrassonografia nesta gestação.", "en": "No ultrasound in this pregnancy." },
+        "byLevel": { "3": { "result": { "pt": "Não sabe informar; a carteira não registra ultrassonografia.", "en": "She does not know; the card does not record any ultrasound." } } },
+        "why": { "pt": "Restos ovulares só podem ser assumidos se houver gestação intrauterina prévia confirmada; sem esse dado, considera-se gestação em local indeterminado (Caso 1, p. 35).", "en": "Retained products can only be assumed if an intrauterine pregnancy was previously confirmed; otherwise it is a pregnancy of unknown location (Case 1, p. 35)." }
+      },
+      {
+        "id": "a_dum", "class": "desnecessaria", "ref": "p. 28",
+        "label": { "pt": "Data da última menstruação para calcular a idade gestacional", "en": "Last menstrual period to calculate gestational age" },
+        "result": { "pt": "Não lembra com precisão; \"talvez no início do mês passado\".", "en": "She does not remember precisely; \"maybe early last month\"." },
+        "why": { "pt": "No 1º trimestre, a idade gestacional deve ser determinada pela ultrassonografia; o manual orienta não perguntar a DUM para esse fim.", "en": "In the first trimester, gestational age must be set by ultrasound; the handbook advises against asking the LMP for this purpose." }
+      },
+      {
+        "id": "a_fr_ge", "class": "pertinente", "ref": "p. 64–65",
+        "label": { "pt": "Fatores de risco para gravidez ectópica (GE prévia, DIP, cirurgia tubária, infertilidade)", "en": "Ectopic pregnancy risk factors (prior EP, PID, tubal surgery, infertility)" },
+        "result": { "pt": "Nega todos.", "en": "Denies all." },
+        "why": { "pt": "A gravidez ectópica integra o diagnóstico diferencial tríplice do sangramento no início da gestação; os fatores de risco alteram a probabilidade pré-teste.", "en": "Ectopic pregnancy is part of the triple differential of early-pregnancy bleeding; risk factors change pretest probability." }
+      },
+      {
+        "id": "a_tecido", "class": "pertinente", "ref": "p. 33",
+        "label": { "pt": "Eliminação de material ou tecido pela vagina", "en": "Passage of tissue through the vagina" },
+        "result": { "pt": "Nega.", "en": "Denies." },
+        "why": { "pt": "Perda de material amorfo é um ramo do fluxograma para restos ovulares.", "en": "Passage of amorphous material is a flowchart branch for retained products." }
+      },
+      {
+        "id": "a_coito", "class": "desnecessaria", "levels": [2, 3], "ref": "p. 46",
+        "label": { "pt": "Relação sexual recente", "en": "Recent sexual intercourse" },
+        "result": { "pt": "Última relação há 5 dias.", "en": "Last intercourse 5 days ago." },
+        "why": { "pt": "Não altera o fluxograma; não há evidência que apoie abstinência sexual na ameaça de aborto.", "en": "Does not change the flowchart; no evidence supports sexual abstinence in threatened miscarriage." }
+      },
+      {
+        "id": "a_famca", "class": "desnecessaria", "levels": [2, 3], "ref": "p. 29",
+        "label": { "pt": "História familiar de câncer de mama", "en": "Family history of breast cancer" },
+        "result": { "pt": "Tia materna com câncer de mama aos 60 anos.", "en": "Maternal aunt with breast cancer at 60." },
+        "why": { "pt": "Não integra nenhum ramo do fluxograma do sangramento no início da gravidez.", "en": "Not part of any branch of the early-pregnancy bleeding flowchart." }
+      }
+    ],
+    "exame": [
+      {
+        "id": "e_geral", "class": "pertinente", "ref": "p. 32",
+        "label": { "pt": "Estado geral, perfusão e mucosas", "en": "General appearance, perfusion and mucous membranes" },
+        "result": { "pt": "Bom estado geral, lúcida, mucosas coradas, perfusão periférica normal.", "en": "Well-appearing, alert, pink mucous membranes, normal peripheral perfusion." },
+        "why": { "pt": "Estado mental alterado, cianose/palidez e pulso filiforme são sinais de infecção listados no fluxograma.", "en": "Altered mental status, cyanosis/pallor and thready pulse are signs of infection listed in the flowchart." }
+      },
+      {
+        "id": "e_abd", "class": "essencial", "ref": "p. 32",
+        "label": { "pt": "Exame abdominal (irritação peritoneal)", "en": "Abdominal exam (peritoneal signs)" },
+        "result": { "pt": "Abdome flácido, indolor, sem sinais de irritação peritoneal.", "en": "Soft, non-tender abdomen, no peritoneal signs." },
+        "why": { "pt": "Irritação peritoneal é sinal de infecção e também alerta para hemoperitônio por gravidez ectópica.", "en": "Peritoneal irritation is a sign of infection and also raises concern for hemoperitoneum from ectopic pregnancy." }
+      },
+      {
+        "id": "e_espec", "class": "essencial", "ref": "p. 32",
+        "label": { "pt": "Exame especular", "en": "Speculum exam" },
+        "result": { "pt": "Colo epitelizado, orifício externo fechado, pequena quantidade de sangue escuro proveniente do canal cervical; sem pus e sem odor fétido.", "en": "Epithelialized cervix, external os closed, small amount of dark blood from the cervical canal; no pus or foul odor." },
+        "byLevel": { "3": { "result": { "pt": "Colo puntiforme, fechado, pequena saída de sangue pelo orifício externo; sem pus.", "en": "Pinpoint closed os, small amount of blood from the external os; no pus." } } },
+        "why": { "pt": "Identifica pus no colo, secreção fétida e a origem do sangramento.", "en": "Identifies cervical pus, foul discharge and the source of bleeding." }
+      },
+      {
+        "id": "e_toque", "class": "essencial", "ref": "p. 32",
+        "label": { "pt": "Toque vaginal bimanual (orifício cervical interno)", "en": "Bimanual exam (internal cervical os)" },
+        "result": { "pt": "Orifício cervical interno fechado; útero aumentado, amolecido; anexos livres; sem dor à mobilização do colo.", "en": "Internal os closed; enlarged, soft uterus; adnexa non-tender; no cervical motion tenderness." },
+        "why": { "pt": "Afastada infecção, o colo define o ramo: orifício cervical interno aberto → aborto não infectado; fechado → avaliar localização e vitalidade.", "en": "Once infection is excluded, the cervix defines the branch: internal os open → non-septic miscarriage; closed → assess location and viability." }
+      },
+      {
+        "id": "e_sonar", "class": "desnecessaria", "ref": "p. 36",
+        "label": { "pt": "Ausculta de BCF com sonar Doppler", "en": "Fetal heart auscultation with handheld Doppler" },
+        "result": { "pt": "Batimentos fetais não audíveis.", "en": "Fetal heart tones not audible." },
+        "why": { "pt": "O sonar só é útil em gestações com mais de 12 semanas; abaixo disso, um resultado negativo não tem valor e pode induzir erro.", "en": "Handheld Doppler is only useful after 12 weeks; before that, a negative result has no value and may mislead." }
+      },
+      {
+        "id": "e_mamas", "class": "desnecessaria", "levels": [2, 3], "ref": "p. 29",
+        "label": { "pt": "Exame das mamas", "en": "Breast exam" },
+        "result": { "pt": "Mamas aumentadas, sem nódulos.", "en": "Enlarged breasts, no masses." },
+        "why": { "pt": "Não integra a avaliação do sangramento no início da gravidez.", "en": "Not part of the evaluation of early-pregnancy bleeding." }
+      },
+      {
+        "id": "e_retal", "class": "desnecessaria", "levels": [2, 3], "ref": "p. 32",
+        "label": { "pt": "Toque retal", "en": "Rectal exam" },
+        "result": { "pt": "Sem alterações.", "en": "Unremarkable." },
+        "why": { "pt": "Não acrescenta informação à definição de infecção, colo, localização ou vitalidade.", "en": "Adds no information on infection, cervix, location or viability." }
+      }
+    ],
+    "lab": [
+      {
+        "id": "l_bhcgq", "class": "essencial", "ref": "p. 28",
+        "label": { "pt": "Teste de gravidez (β-hCG urinário)", "en": "Pregnancy test (urine β-hCG)" },
+        "result": { "pt": "Positivo.", "en": "Positive." },
+        "why": { "pt": "Sempre confirme o diagnóstico dito de gravidez.", "en": "Always confirm a reported pregnancy." }
+      },
+      {
+        "id": "l_bhcgquant", "class": "pertinente", "ref": "p. 33",
+        "label": { "pt": "β-hCG sérico quantitativo", "en": "Quantitative serum β-hCG" },
+        "result": { "pt": "38.400 mUI/mL.", "en": "38,400 mIU/mL." },
+        "byLevel": { "3": { "result": { "pt": "6.900 mUI/mL.", "en": "6,900 mIU/mL." } } },
+        "why": { "pt": "Útil quando não há saco gestacional (gestação em local indeterminado), situação em que se repetem hCG e ultrassonografia a cada 48 h.", "en": "Useful when there is no gestational sac (pregnancy of unknown location), when hCG and ultrasound are repeated every 48 h." }
+      },
+      {
+        "id": "l_hemo", "class": "pertinente", "ref": "p. 32",
+        "label": { "pt": "Hemograma", "en": "Complete blood count" },
+        "result": { "pt": "Hb 12,6 g/dL; leucócitos 8.900/mm³; plaquetas 236.000/mm³.", "en": "Hb 12.6 g/dL; WBC 8,900/mm³; platelets 236,000/mm³." },
+        "why": { "pt": "Leucocitose > 14.000 células/mm³ integra os sinais de infecção do fluxograma.", "en": "Leukocytosis > 14,000 cells/mm³ is one of the flowchart signs of infection." }
+      },
+      {
+        "id": "l_pcr", "class": "desnecessaria", "levels": [2, 3], "ref": "p. 32",
+        "label": { "pt": "Proteína C-reativa", "en": "C-reactive protein" },
+        "result": { "pt": "3 mg/L.", "en": "3 mg/L." },
+        "why": { "pt": "Não integra os sinais de infecção do fluxograma; sem suspeita clínica, não altera a conduta.", "en": "Not among the flowchart signs of infection; without clinical suspicion it does not change management." }
+      },
+      {
+        "id": "l_equ", "class": "desnecessaria", "ref": "p. 33",
+        "label": { "pt": "Exame qualitativo de urina e urocultura", "en": "Urinalysis and urine culture" },
+        "result": { "pt": "Sem alterações; urocultura em andamento.", "en": "Unremarkable; culture pending." },
+        "why": { "pt": "A localização e a vitalidade do embrião são definidas pela USTV; os exames urinários não alteram o fluxograma.", "en": "Embryo location and viability are defined by TVUS; urine tests do not change the flowchart." }
+      },
+      {
+        "id": "l_tsh", "class": "desnecessaria", "levels": [2, 3], "ref": "p. 33",
+        "label": { "pt": "TSH", "en": "TSH" },
+        "result": { "pt": "1,8 mUI/L.", "en": "1.8 mIU/L." },
+        "why": { "pt": "Não integra a investigação do sangramento no início da gravidez.", "en": "Not part of the workup of early-pregnancy bleeding." }
+      },
+      {
+        "id": "l_coag", "class": "desnecessaria", "levels": [2, 3], "ref": "p. 32",
+        "label": { "pt": "Coagulograma (TP/INR, TTPA)", "en": "Coagulation panel (PT/INR, aPTT)" },
+        "result": { "pt": "INR 1,0; TTPA 29 s.", "en": "INR 1.0; aPTT 29 s." },
+        "why": { "pt": "Coagulopatia é sinal de infecção, mas não há suspeita clínica; não altera a conduta.", "en": "Coagulopathy is a sign of infection, but there is no clinical suspicion; it does not change management." }
+      }
+    ],
+    "imagem": [
+      {
+        "id": "i_ustv", "class": "essencial", "ref": "p. 29, 33",
+        "label": { "pt": "Ultrassonografia transvaginal", "en": "Transvaginal ultrasound" },
+        "result": { "pt": "Saco gestacional tópico; embrião único com CCN de 11 mm (7 semanas e 2 dias); BCF presente (148 bpm). Pequena área anecoica subcoriônica de 8 mm. Anexos sem alterações; sem líquido livre.", "en": "Intrauterine gestational sac; single embryo, CRL 11 mm (7 weeks 2 days); cardiac activity present (148 bpm). Small 8-mm subchorionic anechoic area. Normal adnexa; no free fluid." },
+        "byLevel": { "3": { "result": { "pt": "Após esvaziamento vesical: saco gestacional tópico com diâmetro médio de 14 mm, contendo vesícula vitelínica de 5 mm; embrião não visualizado. Anexos sem alterações; sem líquido livre.", "en": "After voiding: intrauterine gestational sac, mean diameter 14 mm, containing a 5-mm yolk sac; no embryo seen. Normal adnexa; no free fluid." } } },
+        "why": { "pt": "Com colo fechado e paciente estável, a USTV é a ferramenta definitiva para diferenciar as principais causas (< 12 semanas).", "en": "With a closed os and a stable patient, TVUS is the definitive tool to differentiate the main causes (< 12 weeks)." }
+      },
+      {
+        "id": "i_usabd", "class": "desnecessaria", "ref": "p. 33, 35",
+        "label": { "pt": "Ultrassonografia pélvica por via abdominal (bexiga cheia)", "en": "Transabdominal pelvic ultrasound (full bladder)" },
+        "result": { "pt": "Útero aumentado; conteúdo intrauterino mal caracterizado pela via abdominal.", "en": "Enlarged uterus; intrauterine content poorly characterized transabdominally." },
+        "byLevel": { "3": { "result": { "pt": "Endométrio espessado e heterogêneo; não se identifica embrião na cavidade uterina.", "en": "Thickened, heterogeneous endometrium; no embryo identified in the uterine cavity." } } },
+        "why": { "pt": "A via abdominal é para idade gestacional ≥ 12 semanas; a bexiga cheia comprime o endométrio e pode ocultar a gestação inicial (Caso 2).", "en": "The transabdominal route is for ≥ 12 weeks; the full bladder compresses the endometrium and may conceal an early pregnancy (Case 2)." }
+      },
+      {
+        "id": "i_tc", "class": "desnecessaria", "ref": "p. 33",
+        "label": { "pt": "Tomografia computadorizada de abdome e pelve", "en": "Abdominal and pelvic CT" },
+        "result": { "pt": "Útero aumentado, sem outras alterações.", "en": "Enlarged uterus, otherwise unremarkable." },
+        "why": { "pt": "A determinação da localização e da vitalidade do embrião é feita pela USTV.", "en": "Embryo location and viability are determined by TVUS." }
+      },
+      {
+        "id": "i_rm", "class": "desnecessaria", "levels": [2, 3], "ref": "p. 33",
+        "label": { "pt": "Ressonância magnética da pelve", "en": "Pelvic MRI" },
+        "result": { "pt": "Gestação intrauterina inicial.", "en": "Early intrauterine pregnancy." },
+        "why": { "pt": "A ultrassonografia é o exame padrão para determinar a localização da gestação.", "en": "Ultrasound is the standard test to determine pregnancy location." }
+      }
+    ],
+    "conduta": [
+      {
+        "id": "c_proges_l1", "levels": [1], "group": "medicamento", "class": "essencial", "ref": "p. 29, 34",
+        "label": { "pt": "Progesterona micronizada via vaginal", "en": "Vaginal micronized progesterone" },
+        "why": { "pt": "Ameaça de aborto com abortamento prévio: progesterona micronizada vaginal.", "en": "Threatened miscarriage with prior miscarriage: vaginal micronized progesterone." }
+      },
+      {
+        "id": "c_didro_l1", "levels": [1], "group": "medicamento", "class": "desnecessaria", "ref": "p. 29, 34",
+        "label": { "pt": "Didrogesterona via oral", "en": "Oral dydrogesterone" },
+        "why": { "pt": "Didrogesterona é o braço do fluxograma para pacientes sem abortamento prévio.", "en": "Dydrogesterone is the flowchart branch for patients without prior miscarriage." }
+      },
+      {
+        "id": "c_proges", "levels": [2, 3], "group": "medicamento", "class": "essencial", "ref": "p. 34",
+        "label": { "pt": "Progesterona micronizada 400 mg via vaginal de 12/12 h até 12 semanas", "en": "Micronized progesterone 400 mg vaginally every 12 h until 12 weeks" },
+        "byLevel": { "3": { "class": "desnecessaria", "why": { "pt": "Não há embrião com BCF; o progestágeno é indicado na ameaça de aborto (BCF presente). A conduta é repetir a USTV em 1 semana.", "en": "There is no embryo with cardiac activity; progestogen is indicated in threatened miscarriage (cardiac activity present). Management is to repeat TVUS in 1 week." } } },
+        "why": { "pt": "Com abortamento prévio: progesterona micronizada vaginal 400 mg 12/12 h até 12 semanas (nascido vivo RR 1,08; IC95%: 1,02 a 1,15).", "en": "Prior miscarriage: vaginal micronized progesterone 400 mg every 12 h until 12 weeks (live birth RR 1.08; 95% CI 1.02–1.15)." }
+      },
+      {
+        "id": "c_proges_dose", "levels": [2, 3], "group": "medicamento", "class": "desnecessaria", "ref": "p. 34",
+        "label": { "pt": "Progesterona micronizada 200 mg via vaginal 1 vez ao dia até 8 semanas", "en": "Micronized progesterone 200 mg vaginally once daily until 8 weeks" },
+        "why": { "pt": "Dose e duração divergem do protocolo (400 mg 12/12 h até 12 semanas).", "en": "Dose and duration differ from the protocol (400 mg every 12 h until 12 weeks)." }
+      },
+      {
+        "id": "c_didro", "levels": [2, 3], "group": "medicamento", "class": "desnecessaria", "ref": "p. 34",
+        "label": { "pt": "Didrogesterona 40 mg VO (ataque) e 10 mg VO de 12/12 h até 16 semanas", "en": "Dydrogesterone 40 mg PO loading dose, then 10 mg PO every 12 h until 16 weeks" },
+        "byLevel": { "3": { "why": { "pt": "Não há embrião com BCF; progestágeno não está indicado nesta etapa.", "en": "There is no embryo with cardiac activity; progestogen is not indicated at this point." } } },
+        "why": { "pt": "Esquema indicado para ameaça de aborto sem abortamento prévio (OR 0,50; IC95%: 0,32 a 0,76); esta paciente tem abortamento prévio.", "en": "Regimen for threatened miscarriage without prior miscarriage (OR 0.50; 95% CI 0.32–0.76); this patient has a prior miscarriage." }
+      },
+      {
+        "id": "c_miso", "group": "medicamento", "class": "contraindicada", "grave": true, "ref": "p. 45–46",
+        "label": { "pt": "Misoprostol via vaginal", "en": "Vaginal misoprostol" },
+        "why": { "pt": "Misoprostol é usado para preparo do colo ou expulsão nos abortos retido, incompleto ou em curso; na ameaça de aborto ou na gestação inicial o manejo é conservador.", "en": "Misoprostol is used for cervical priming or expulsion in missed, incomplete or inevitable miscarriage; threatened miscarriage and early pregnancy are managed conservatively." },
+        "outcome": { "pt": "Interrupção de uma gestação intrauterina em evolução.", "en": "Termination of an ongoing intrauterine pregnancy." }
+      },
+      {
+        "id": "c_antib", "levels": [2, 3], "group": "medicamento", "class": "desnecessaria", "ref": "p. 32",
+        "label": { "pt": "Antibioticoterapia empírica", "en": "Empirical antibiotics" },
+        "why": { "pt": "Não há sinais de infecção.", "en": "There are no signs of infection." }
+      },
+      {
+        "id": "c_amiu", "group": "procedimento", "class": "contraindicada", "grave": true, "ref": "p. 29, 33",
+        "label": { "pt": "Esvaziamento uterino (AMIU)", "en": "Uterine evacuation (MVA)" },
+        "byLevel": { "3": { "why": { "pt": "A ultrassonografia abdominal sugeria aborto completo, mas a USTV demonstrou gestação intrauterina inicial; o esvaziamento é indicado na gestação anembrionada (SG ≥ 25 mm) ou no aborto incompleto (> 15 mm).", "en": "Transabdominal ultrasound suggested complete miscarriage, but TVUS showed an early intrauterine pregnancy; evacuation is indicated for anembryonic pregnancy (sac ≥ 25 mm) or incomplete miscarriage (> 15 mm)." } } } ,
+        "why": { "pt": "Esvaziamento uterino está indicado no aborto incompleto, na gestação anembrionada ou na gestação interrompida; não na ameaça de aborto.", "en": "Uterine evacuation is indicated for incomplete miscarriage, anembryonic pregnancy or early pregnancy loss; not for threatened miscarriage." },
+        "outcome": { "pt": "Esvaziamento de uma gestação intrauterina em evolução.", "en": "Evacuation of an ongoing intrauterine pregnancy." }
+      },
+      {
+        "id": "c_mtx", "levels": [2, 3], "group": "medicamento", "class": "contraindicada", "grave": true, "ref": "p. 68",
+        "label": { "pt": "Metotrexato IM", "en": "IM methotrexate" },
+        "why": { "pt": "O metotrexato é tratamento de gravidez ectópica; a USTV demonstrou gestação intrauterina.", "en": "Methotrexate treats ectopic pregnancy; TVUS showed an intrauterine pregnancy." },
+        "outcome": { "pt": "Exposição de gestação intrauterina a antimetabólito.", "en": "Exposure of an intrauterine pregnancy to an antimetabolite." }
+      },
+      {
+        "id": "c_usg1sem", "levels": [3], "group": "procedimento", "class": "essencial", "ref": "p. 29, 33",
+        "label": { "pt": "Repetir ultrassonografia transvaginal em 1 semana", "en": "Repeat transvaginal ultrasound in 1 week" },
+        "why": { "pt": "Saco gestacional com vesícula vitelínica e sem embrião ≥ 7 mm: nova ecografia em 1 semana.", "en": "Gestational sac with yolk sac and no embryo ≥ 7 mm: repeat ultrasound in 1 week." }
+      },
+      {
+        "id": "c_repouso", "group": "orientacao", "class": "desnecessaria", "ref": "p. 46",
+        "label": { "pt": "Repouso absoluto no leito", "en": "Strict bed rest" },
+        "why": { "pt": "Repouso não tem benefício comprovado.", "en": "Bed rest has no proven benefit." }
+      },
+      {
+        "id": "c_abst", "group": "orientacao", "class": "desnecessaria", "ref": "p. 46",
+        "label": { "pt": "Abstinência sexual", "en": "Sexual abstinence" },
+        "why": { "pt": "Não há evidência que apoie a recomendação de abstinência sexual.", "en": "There is no evidence to support sexual abstinence." }
+      },
+      {
+        "id": "c_alarme", "group": "orientacao", "class": "essencial", "ref": "p. 46",
+        "label": { "pt": "Orientar sinais de alarme (aumento do sangramento, dor, febre, secreção fétida) e retorno", "en": "Counsel on warning signs (heavier bleeding, pain, fever, foul discharge) and return" },
+        "why": { "pt": "O manejo da ameaça de aborto é conservador, com acompanhamento clínico e ultrassonográfico.", "en": "Threatened miscarriage is managed conservatively with clinical and ultrasound follow-up." }
+      },
+      {
+        "id": "c_alta", "group": "destino", "class": "essencial", "ref": "p. 45",
+        "label": { "pt": "Alta com encaminhamento ao pré-natal", "en": "Discharge with referral to prenatal care" },
+        "why": { "pt": "Paciente estável, sem infecção, com gestação intrauterina: manejo ambulatorial conservador.", "en": "Stable patient, no infection, intrauterine pregnancy: conservative outpatient management." }
+      },
+      {
+        "id": "c_intern", "group": "destino", "class": "desnecessaria", "ref": "p. 45",
+        "label": { "pt": "Internação hospitalar para observação", "en": "Hospital admission for observation" },
+        "why": { "pt": "O manejo é conservador e ambulatorial na paciente estável.", "en": "Management is conservative and outpatient in the stable patient." }
+      }
+    ]
+  }
+}

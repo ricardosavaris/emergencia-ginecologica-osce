@@ -1,0 +1,236 @@
+{
+ "version": "1.0",
+ "cases": [
+  {
+   "id": "c01",
+   "number": 1,
+   "file": "01-sangramento-inicio-gravidez.json",
+   "title": {
+    "pt": "Gestante com sangramento vaginal",
+    "en": "Pregnant patient with vaginal bleeding"
+   },
+   "block": 1,
+   "available": true
+  },
+  {
+   "id": "c02",
+   "number": 2,
+   "file": "02-aborto-nao-infectado.json",
+   "title": {
+    "pt": "Gestante com sangramento escuro e cólica",
+    "en": "Pregnant patient with dark bleeding and cramping"
+   },
+   "block": 1,
+   "available": true
+  },
+  {
+   "id": "c03",
+   "number": 3,
+   "file": "03-gravidez-ectopica.json",
+   "title": {
+    "pt": "Atraso menstrual e sangramento vaginal",
+    "en": "Missed period and vaginal bleeding"
+   },
+   "block": 1,
+   "available": true
+  },
+  {
+   "id": "c04",
+   "number": 4,
+   "file": "04-mola-hidatiforme.json",
+   "title": {
+    "pt": "Sangramento vaginal e vômitos persistentes",
+    "en": "Vaginal bleeding and persistent vomiting"
+   },
+   "block": 1,
+   "available": true
+  },
+  {
+   "id": "c05",
+   "number": 5,
+   "file": null,
+   "title": {
+    "pt": "Sangramento vaginal aumentado",
+    "en": "Heavy vaginal bleeding"
+   },
+   "block": 2,
+   "available": false
+  },
+  {
+   "id": "c06",
+   "number": 6,
+   "file": null,
+   "title": {
+    "pt": "Sangramento vaginal e corrimento",
+    "en": "Vaginal bleeding and discharge"
+   },
+   "block": 2,
+   "available": false
+  },
+  {
+   "id": "c07",
+   "number": 7,
+   "file": null,
+   "title": {
+    "pt": "Febre e dor pélvica após atraso menstrual",
+    "en": "Fever and pelvic pain after a missed period"
+   },
+   "block": 2,
+   "available": false
+  },
+  {
+   "id": "c08",
+   "number": 8,
+   "file": null,
+   "title": {
+    "pt": "Dor pélvica e corrimento",
+    "en": "Pelvic pain and discharge"
+   },
+   "block": 2,
+   "available": false
+  },
+  {
+   "id": "c09",
+   "number": 9,
+   "file": null,
+   "title": {
+    "pt": "Dor e abaulamento vulvar",
+    "en": "Vulvar pain and swelling"
+   },
+   "block": 3,
+   "available": false
+  },
+  {
+   "id": "c10",
+   "number": 10,
+   "file": null,
+   "title": {
+    "pt": "Dor e secreção na ferida operatória",
+    "en": "Wound pain and drainage"
+   },
+   "block": 3,
+   "available": false
+  },
+  {
+   "id": "c11",
+   "number": 11,
+   "file": null,
+   "title": {
+    "pt": "Disúria e febre",
+    "en": "Dysuria and fever"
+   },
+   "block": 3,
+   "available": false
+  },
+  {
+   "id": "c12",
+   "number": 12,
+   "file": null,
+   "title": {
+    "pt": "Febre no puerpério",
+    "en": "Postpartum fever"
+   },
+   "block": 3,
+   "available": false
+  },
+  {
+   "id": "c13",
+   "number": 13,
+   "file": null,
+   "title": {
+    "pt": "Lesão genital",
+    "en": "Genital lesion"
+   },
+   "block": 4,
+   "available": false
+  },
+  {
+   "id": "c14",
+   "number": 14,
+   "file": null,
+   "title": {
+    "pt": "Distensão abdominal após tratamento de infertilidade",
+    "en": "Abdominal distension after fertility treatment"
+   },
+   "block": 4,
+   "available": false
+  },
+  {
+   "id": "c15",
+   "number": 15,
+   "file": null,
+   "title": {
+    "pt": "Dor pélvica súbita",
+    "en": "Sudden pelvic pain"
+   },
+   "block": 4,
+   "available": false
+  },
+  {
+   "id": "c16",
+   "number": 16,
+   "file": null,
+   "title": {
+    "pt": "Vômitos na gestação",
+    "en": "Vomiting in pregnancy"
+   },
+   "block": 4,
+   "available": false
+  },
+  {
+   "id": "c17",
+   "number": 17,
+   "file": null,
+   "title": {
+    "pt": "Dor mamária",
+    "en": "Breast pain"
+   },
+   "block": 5,
+   "available": false
+  },
+  {
+   "id": "c18",
+   "number": 18,
+   "file": null,
+   "title": {
+    "pt": "Cefaleia no pós-operatório",
+    "en": "Postoperative headache"
+   },
+   "block": 5,
+   "available": false
+  },
+  {
+   "id": "c19",
+   "number": 19,
+   "file": null,
+   "title": {
+    "pt": "Pressão elevada no puerpério",
+    "en": "High blood pressure postpartum"
+   },
+   "block": 5,
+   "available": false
+  },
+  {
+   "id": "c20",
+   "number": 20,
+   "file": null,
+   "title": {
+    "pt": "Dor em fossa ilíaca direita",
+    "en": "Right lower quadrant pain"
+   },
+   "block": 6,
+   "available": false
+  },
+  {
+   "id": "c21",
+   "number": 21,
+   "file": null,
+   "title": {
+    "pt": "Dor lombar em cólica",
+    "en": "Colicky flank pain"
+   },
+   "block": 6,
+   "available": false
+  }
+ ]
+}
