@@ -1,0 +1,717 @@
+{
+ "id": "c13",
+ "title": {
+  "pt": "Lesão genital",
+  "en": "Genital lesion"
+ },
+ "chapter": {
+  "pt": "Úlceras genitais — abordagem sindrômica",
+  "en": "Genital ulcers — syndromic approach"
+ },
+ "pages": "p. 252–268",
+ "base": {
+  "triage": {
+   "pt": "Mulher de 24 anos procura a emergência por lesões dolorosas na vulva há 4 dias.",
+   "en": "24-year-old woman presents with painful vulvar lesions for 4 days."
+  },
+  "vitals": {
+   "PA": "118/72 mmHg",
+   "FC": "84 bpm",
+   "FR": "16 mrpm",
+   "Tax": "36,8 °C",
+   "SpO2": "98%"
+  },
+  "correctDiagnosis": "cancro_herpes",
+  "diagnosisExplanation": {
+   "pt": "Três úlceras rasas, dolorosas, de fundo purulento e bordas irregulares, com linfadenopatia inguinal dolorosa sem flutuação, sem vesículas e com testes rápidos de sífilis e HIV não reagentes: úlcera genital dolorosa sob abordagem sindrômica, com suspeita de cancro mole e herpes genital. Tratamento empírico imediato: azitromicina 1 g VO dose única e aciclovir 400 mg VO 8/8 h por 10 dias, orientação do parceiro e retorno em 7 dias (Caso 1, p. 262–263).",
+   "en": "Three shallow, painful ulcers with purulent bases and irregular borders, with tender inguinal lymphadenopathy without fluctuance, no vesicles and non-reactive rapid syphilis and HIV tests: painful genital ulcer under syndromic management, suspected chancroid and genital herpes. Immediate empirical treatment: azithromycin 1 g PO single dose and acyclovir 400 mg PO every 8 h for 10 days, partner referral and return in 7 days (Case 1, p. 262–263)."
+  },
+  "learning": {
+   "pt": "A abordagem sindrômica prioriza o tratamento imediato com base no fluxograma; sua sensibilidade e especificidade são limitadas (herpes LR+ 3,63; sífilis 1,89; cancro mole 1,53) (p. 252, 260–261). O tratamento empírico nunca deve ser atrasado pela espera de resultados (p. 260).\nFluxograma: só vesículas → herpes (e sífilis, se indicado); úlcera → sífilis e cancro mole (e herpes, se indicado); bubão → linfogranuloma venéreo e cancro mole. Em todos: educar, oferecer preservativos, testar HIV e outras IST, retornar em 7 dias e tratar o parceiro (p. 253).\nA leucocitúria tem VPP de apenas 41% nessa população e é a principal causa de negligência diagnóstica das IST (Pérola 1, p. 264).",
+   "en": "Syndromic management prioritizes immediate treatment based on the flowchart; its sensitivity and specificity are limited (herpes LR+ 3.63; syphilis 1.89; chancroid 1.53) (p. 252, 260–261). Empirical treatment must never be delayed while awaiting results (p. 260).\nFlowchart: vesicles only → herpes (and syphilis if indicated); ulcer → syphilis and chancroid (and herpes if indicated); bubo → lymphogranuloma venereum and chancroid. In all cases: educate, offer condoms, test for HIV and other STIs, return in 7 days and treat the partner (p. 253).\nPyuria has a PPV of only 41% in this population and is the main cause of missed STI diagnoses (Pearl 1, p. 264)."
+  }
+ },
+ "levels": {
+  "3": {
+   "triage": {
+    "pt": "Mulher de 26 anos com \"caroço\" doloroso na virilha esquerda há 10 dias, com dificuldade para caminhar, febre baixa e mal-estar nos últimos 3 dias.",
+    "en": "26-year-old woman with a painful \"lump\" in the left groin for 10 days, difficulty walking, low-grade fever and malaise for 3 days."
+   },
+   "vitals": {
+    "PA": "120/76 mmHg",
+    "FC": "98 bpm",
+    "FR": "16 mrpm",
+    "Tax": "38,0 °C",
+    "SpO2": "98%"
+   },
+   "correctDiagnosis": "lgv",
+   "diagnosisExplanation": {
+    "pt": "Lesão genital indolor e efêmera 3 semanas antes, seguida de massa de linfonodos fundidos com flutuação e sinal do sulco (ligamento inguinal dividindo a massa): linfogranuloma venéreo. Conduta: aspiração com agulha de grosso calibre pela pele íntegra, doxiciclina 100 mg VO 12/12 h por 21 dias, rastreamento de HIV e sífilis e convocação do parceiro (Caso 2, p. 263–264).",
+    "en": "An ephemeral painless genital lesion 3 weeks earlier, followed by a fluctuant mass of matted nodes with the groove sign (inguinal ligament dividing the mass): lymphogranuloma venereum. Management: large-bore needle aspiration through intact skin, doxycycline 100 mg PO every 12 h for 21 days, HIV and syphilis screening and partner notification (Case 2, p. 263–264)."
+   },
+   "learning": {
+    "pt": "A lesão primária do LGV é efêmera e passa despercebida; diante de bubão, procure cicatrizes ou história de lesões genitais e reconheça o sinal do sulco (Caso 2, p. 264).\nBubões nunca devem ser incisados ou excisados, pelo risco de fístulas crônicas e má cicatrização; o alívio requer apenas aspiração por agulha de grosso calibre em pele íntegra (Caso 2, p. 264).\nLGV: doxiciclina 100 mg VO 12/12 h por 21 dias (cura 99%) ou azitromicina 1 g VO por semana por 3 semanas (cura 98%) (Tabela 4, p. 261).",
+    "en": "The primary LGV lesion is ephemeral and often missed; with a bubo, look for scars or a history of genital lesions and recognize the groove sign (Case 2, p. 264).\nBuboes must never be incised or excised because of the risk of chronic fistulas and poor healing; relief requires only large-bore needle aspiration through intact skin (Case 2, p. 264).\nLGV: doxycycline 100 mg PO every 12 h for 21 days (cure 99%) or azithromycin 1 g PO weekly for 3 weeks (cure 98%) (Table 4, p. 261)."
+   },
+   "timerMinutes": 10
+  }
+ },
+ "diagnoses": [
+  {
+   "id": "cancro_herpes",
+   "label": {
+    "pt": "Úlcera genital dolorosa: cancro mole e/ou herpes genital",
+    "en": "Painful genital ulcer: chancroid and/or genital herpes"
+   }
+  },
+  {
+   "id": "herpes",
+   "label": {
+    "pt": "Herpes genital isolado (vesículas)",
+    "en": "Genital herpes alone (vesicles)"
+   }
+  },
+  {
+   "id": "sifilis",
+   "label": {
+    "pt": "Sífilis primária",
+    "en": "Primary syphilis"
+   }
+  },
+  {
+   "id": "lgv",
+   "label": {
+    "pt": "Linfogranuloma venéreo",
+    "en": "Lymphogranuloma venereum"
+   }
+  },
+  {
+   "id": "donovanose",
+   "label": {
+    "pt": "Donovanose (granuloma inguinal)",
+    "en": "Donovanosis (granuloma inguinale)"
+   }
+  },
+  {
+   "id": "bartholin",
+   "label": {
+    "pt": "Abscesso de Bartholin",
+    "en": "Bartholin abscess"
+   }
+  },
+  {
+   "id": "erupcao",
+   "label": {
+    "pt": "Erupção fixa por drogas",
+    "en": "Fixed drug eruption"
+   }
+  },
+  {
+   "id": "carcinoma",
+   "label": {
+    "pt": "Carcinoma espinocelular de vulva",
+    "en": "Vulvar squamous cell carcinoma"
+   }
+  }
+ ],
+ "stages": {
+  "anamnese": [
+   {
+    "id": "a_evol",
+    "class": "essencial",
+    "ref": "p. 259",
+    "label": {
+     "pt": "Tempo de evolução e intensidade da dor",
+     "en": "Duration and pain severity"
+    },
+    "result": {
+     "pt": "Lesões há 4 dias, muito dolorosas.",
+     "en": "Lesions for 4 days, very painful."
+    },
+    "why": {
+     "pt": "A anamnese direcionada investiga tempo de evolução e intensidade da dor.",
+     "en": "Focused history covers duration and pain severity."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Tumefação inguinal há 10 dias, progressiva e intensamente dolorosa.",
+       "en": "Groin swelling for 10 days, progressive and very painful."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_vesic",
+    "class": "essencial",
+    "ref": "p. 253",
+    "label": {
+     "pt": "Vesículas antes das lesões",
+     "en": "Vesicles before the lesions"
+    },
+    "result": {
+     "pt": "Nega vesículas; as lesões surgiram como feridas.",
+     "en": "Denies vesicles; the lesions appeared as sores."
+    },
+    "why": {
+     "pt": "Primeira decisão do fluxograma: só vesículas → herpes.",
+     "en": "First flowchart decision: vesicles only → herpes."
+    }
+   },
+   {
+    "id": "a_previos",
+    "class": "essencial",
+    "ref": "p. 259",
+    "label": {
+     "pt": "Episódios semelhantes anteriores",
+     "en": "Similar prior episodes"
+    },
+    "result": {
+     "pt": "Nega.",
+     "en": "Denies."
+    },
+    "why": {
+     "pt": "Episódios prévios sugerem herpes.",
+     "en": "Prior episodes suggest herpes."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Há 3 semanas teve pequena ferida indolor na fúrcula vaginal, que desapareceu em 4 dias.",
+       "en": "Three weeks ago she had a small painless sore at the posterior fourchette that disappeared within 4 days."
+      },
+      "why": {
+       "pt": "A lesão primária do LGV é efêmera; procure ativamente história de lesões genitais.",
+       "en": "The primary LGV lesion is ephemeral; actively seek a history of genital lesions."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_sexual",
+    "class": "essencial",
+    "ref": "p. 252, 257–258",
+    "label": {
+     "pt": "Parceria sexual e uso de preservativo",
+     "en": "Sexual partners and condom use"
+    },
+    "result": {
+     "pt": "Novo parceiro há 3 semanas, sem preservativo.",
+     "en": "New partner 3 weeks ago, no condom."
+    },
+    "why": {
+     "pt": "Fatores de risco para IST e necessidade de avaliar o parceiro.",
+     "en": "STI risk factors and need to evaluate the partner."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Relação vaginal desprotegida com novo parceiro há 1 mês.",
+       "en": "Unprotected vaginal sex with a new partner 1 month ago."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_sistem",
+    "class": "pertinente",
+    "ref": "p. 259",
+    "label": {
+     "pt": "Febre e mal-estar",
+     "en": "Fever and malaise"
+    },
+    "result": {
+     "pt": "Nega.",
+     "en": "Denies."
+    },
+    "why": {
+     "pt": "Sintomas sistêmicos integram a anamnese.",
+     "en": "Systemic symptoms are part of the history."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Febre baixa e mal-estar há 3 dias.",
+       "en": "Low-grade fever and malaise for 3 days."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_med",
+    "class": "pertinente",
+    "ref": "p. 259",
+    "label": {
+     "pt": "Medicamentos recentes",
+     "en": "Recent medications"
+    },
+    "result": {
+     "pt": "Nenhum.",
+     "en": "None."
+    },
+    "why": {
+     "pt": "Erupção fixa por drogas é diagnóstico diferencial.",
+     "en": "Fixed drug eruption is a differential."
+    }
+   },
+   {
+    "id": "a_sifprev",
+    "class": "pertinente",
+    "ref": "p. 253",
+    "label": {
+     "pt": "Tratamento recente para sífilis",
+     "en": "Recent syphilis treatment"
+    },
+    "result": {
+     "pt": "Nunca tratou.",
+     "en": "Never treated."
+    },
+    "why": {
+     "pt": "Paciente não tratada recentemente para sífilis é indicação de tratar sífilis no fluxograma.",
+     "en": "No recent syphilis treatment is an indication to treat syphilis in the flowchart."
+    },
+    "levels": [
+     1,
+     2
+    ]
+   },
+   {
+    "id": "a_higiene",
+    "class": "desnecessaria",
+    "ref": "p. 257",
+    "label": {
+     "pt": "Compartilhamento de roupas e camas",
+     "en": "Sharing clothes and beds"
+    },
+    "result": {
+     "pt": "Nega.",
+     "en": "Denies."
+    },
+    "why": {
+     "pt": "Fator de risco para escabiose, sem relação com úlcera genital.",
+     "en": "A scabies risk factor, unrelated to genital ulcers."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   }
+  ],
+  "exame": [
+   {
+    "id": "e_lesao",
+    "class": "essencial",
+    "ref": "p. 259",
+    "label": {
+     "pt": "Inspeção das lesões (número, fundo, bordas)",
+     "en": "Inspection of lesions (number, base, borders)"
+    },
+    "result": {
+     "pt": "Três úlceras rasas no grande lábio esquerdo, fundo purulento, bordas irregulares, muito dolorosas.",
+     "en": "Three shallow ulcers on the left labium majus, purulent base, irregular borders, very tender."
+    },
+    "why": {
+     "pt": "Lesões únicas ou múltiplas, fundo limpo ou purulento, bordas endurecidas ou amolecidas orientam a suspeita.",
+     "en": "Single or multiple lesions, clean or purulent base, indurated or soft borders guide suspicion."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Sem lesões ativas; cicatriz tênue na fúrcula vaginal.",
+       "en": "No active lesions; faint scar at the posterior fourchette."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_inguinal",
+    "class": "essencial",
+    "ref": "p. 259",
+    "label": {
+     "pt": "Palpação inguinal",
+     "en": "Inguinal palpation"
+    },
+    "result": {
+     "pt": "Linfadenopatia inguinal esquerda dolorosa, sem flutuação.",
+     "en": "Tender left inguinal lymphadenopathy without fluctuance."
+    },
+    "why": {
+     "pt": "Mandatória: identifica linfadenopatia, flutuação ou fístulas.",
+     "en": "Mandatory: identifies lymphadenopathy, fluctuance or fistulas."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Massa de linfonodos fundidos à esquerda, pele eritematosa, flutuação e sinal do sulco.",
+       "en": "Left mass of matted nodes, red skin, fluctuance and groove sign."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_espec",
+    "class": "essencial",
+    "ref": "p. 259",
+    "label": {
+     "pt": "Exame especular",
+     "en": "Speculum exam"
+    },
+    "result": {
+     "pt": "Sem alterações.",
+     "en": "Normal."
+    },
+    "why": {
+     "pt": "Avalia corrimento e cervicite.",
+     "en": "Assesses discharge and cervicitis."
+    }
+   },
+   {
+    "id": "e_pele",
+    "class": "desnecessaria",
+    "ref": "p. 257",
+    "label": {
+     "pt": "Inspeção de pelos pubianos e dobras cutâneas para parasitas",
+     "en": "Inspection of pubic hair and skin folds for parasites"
+    },
+    "result": {
+     "pt": "Sem lêndeas ou escoriações.",
+     "en": "No nits or excoriations."
+    },
+    "why": {
+     "pt": "Avaliação de pediculose e escabiose, sem queixa de prurido.",
+     "en": "Pediculosis and scabies assessment without itching complaints."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   }
+  ],
+  "lab": [
+   {
+    "id": "l_trsif",
+    "class": "essencial",
+    "ref": "p. 253, 260",
+    "label": {
+     "pt": "Teste rápido para sífilis",
+     "en": "Rapid syphilis test"
+    },
+    "result": {
+     "pt": "Não reagente.",
+     "en": "Non-reactive."
+    },
+    "why": {
+     "pt": "Teste à beira do leito com resultado em minutos.",
+     "en": "Point-of-care test with results in minutes."
+    }
+   },
+   {
+    "id": "l_trhiv",
+    "class": "essencial",
+    "ref": "p. 253, 260",
+    "label": {
+     "pt": "Teste rápido para HIV",
+     "en": "Rapid HIV test"
+    },
+    "result": {
+     "pt": "Não reagente.",
+     "en": "Non-reactive."
+    },
+    "why": {
+     "pt": "Testar HIV em todas as síndromes do fluxograma.",
+     "en": "Test for HIV in every flowchart syndrome."
+    }
+   },
+   {
+    "id": "l_naat",
+    "class": "pertinente",
+    "ref": "p. 260",
+    "label": {
+     "pt": "NAAT/PCR do material da úlcera",
+     "en": "NAAT/PCR of ulcer material"
+    },
+    "result": {
+     "pt": "Coletado; resultado em 7 dias.",
+     "en": "Collected; result in 7 days."
+    },
+    "why": {
+     "pt": "Confere robustez, mas não deve atrasar o tratamento empírico.",
+     "en": "Adds robustness but must not delay empirical treatment."
+    },
+    "byLevel": {
+     "3": {
+      "label": {
+       "pt": "PCR para herpes simples e VDRL",
+       "en": "Herpes simplex PCR and VDRL"
+      },
+      "result": {
+       "pt": "Negativos.",
+       "en": "Negative."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_hcg",
+    "class": "pertinente",
+    "ref": "p. 263",
+    "label": {
+     "pt": "β-hCG",
+     "en": "β-hCG"
+    },
+    "result": {
+     "pt": "Negativo.",
+     "en": "Negative."
+    },
+    "why": {
+     "pt": "Antes de prescrever doxiciclina e para o manejo global.",
+     "en": "Before prescribing doxycycline and for overall care."
+    }
+   },
+   {
+    "id": "l_equ",
+    "class": "desnecessaria",
+    "ref": "p. 264",
+    "label": {
+     "pt": "Exame qualitativo de urina",
+     "en": "Urinalysis"
+    },
+    "result": {
+     "pt": "Leucocitúria.",
+     "en": "Pyuria."
+    },
+    "why": {
+     "pt": "A leucocitúria tem VPP de 41% e é a principal causa de negligência diagnóstica das IST (Pérola 1).",
+     "en": "Pyuria has a 41% PPV and is the main cause of missed STI diagnoses (Pearl 1)."
+    }
+   }
+  ],
+  "imagem": [
+   {
+    "id": "i_us",
+    "class": "desnecessaria",
+    "ref": "p. 260",
+    "label": {
+     "pt": "Ultrassonografia inguinal",
+     "en": "Inguinal ultrasound"
+    },
+    "result": {
+     "pt": "Linfonodos aumentados com área liquefeita.",
+     "en": "Enlarged nodes with liquefied area."
+    },
+    "why": {
+     "pt": "A abordagem é clínica e sindrômica; o exame não altera a conduta.",
+     "en": "Management is clinical and syndromic; the study does not change management."
+    }
+   }
+  ],
+  "conduta": [
+   {
+    "id": "c_azitro",
+    "class": "essencial",
+    "ref": "p. 261, 262",
+    "label": {
+     "pt": "Azitromicina 1 g VO dose única",
+     "en": "Azithromycin 1 g PO single dose"
+    },
+    "why": {
+     "pt": "Cancro mole: cura 100% (IC95%: 89,2% a 100%).",
+     "en": "Chancroid: cure 100% (95% CI 89.2%–100%)."
+    },
+    "group": "medicamento",
+    "byLevel": {
+     "3": {
+      "class": "pertinente",
+      "label": {
+       "pt": "Azitromicina 1 g VO por semana por 3 semanas",
+       "en": "Azithromycin 1 g PO weekly for 3 weeks"
+      },
+      "why": {
+       "pt": "Alternativa para LGV (cura 98%).",
+       "en": "Alternative for LGV (cure 98%)."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_aciclo",
+    "class": "essencial",
+    "ref": "p. 262",
+    "label": {
+     "pt": "Aciclovir 400 mg VO 8/8 h por 10 dias",
+     "en": "Acyclovir 400 mg PO every 8 h for 10 days"
+    },
+    "why": {
+     "pt": "Úlceras múltiplas e dolorosas: cobrir herpes (Caso 1).",
+     "en": "Multiple painful ulcers: cover herpes (Case 1)."
+    },
+    "group": "medicamento",
+    "byLevel": {
+     "3": {
+      "class": "desnecessaria",
+      "why": {
+       "pt": "Sem lesões ativas e PCR para herpes negativa.",
+       "en": "No active lesions and negative herpes PCR."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_pgb",
+    "class": "pertinente",
+    "ref": "p. 253, 261",
+    "label": {
+     "pt": "Penicilina G benzatina 2,4 milhões UI IM, dose única",
+     "en": "Benzathine penicillin G 2.4 million IU IM, single dose"
+    },
+    "why": {
+     "pt": "O fluxograma da úlcera inclui sífilis; no Caso 1, com teste rápido não reagente, não foi prescrita.",
+     "en": "The ulcer flowchart includes syphilis; in Case 1, with a non-reactive rapid test, it was not given."
+    },
+    "group": "medicamento",
+    "byLevel": {
+     "3": {
+      "class": "desnecessaria",
+      "why": {
+       "pt": "No bubão, o fluxograma trata LGV e cancro mole; VDRL negativo.",
+       "en": "For a bubo, the flowchart treats LGV and chancroid; VDRL negative."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_doxi",
+    "class": "desnecessaria",
+    "ref": "p. 261",
+    "label": {
+     "pt": "Doxiciclina 100 mg VO 12/12 h por 21 dias",
+     "en": "Doxycycline 100 mg PO every 12 h for 21 days"
+    },
+    "why": {
+     "pt": "Esquema de LGV ou donovanose.",
+     "en": "Regimen for LGV or donovanosis."
+    },
+    "group": "medicamento",
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "why": {
+       "pt": "Primeira escolha no LGV (cura 99%).",
+       "en": "First choice for LGV (cure 99%)."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_metro",
+    "class": "desnecessaria",
+    "ref": "p. 261, 264",
+    "label": {
+     "pt": "Metronidazol 2 g VO dose única",
+     "en": "Metronidazole 2 g PO single dose"
+    },
+    "why": {
+     "pt": "Esquema de vaginose/tricomoníase; a dose única foi abandonada para tricomonas (Pérola 2).",
+     "en": "BV/trichomoniasis regimen; the single dose was abandoned for trichomonas (Pearl 2)."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_aspira",
+    "class": "essencial",
+    "ref": "p. 253, 264",
+    "label": {
+     "pt": "Aspiração do bubão com agulha de grosso calibre pela pele íntegra",
+     "en": "Large-bore needle aspiration of the bubo through intact skin"
+    },
+    "why": {
+     "pt": "Alívio sintomático sem risco de fístula.",
+     "en": "Symptomatic relief without fistula risk."
+    },
+    "levels": [
+     3
+    ],
+    "group": "procedimento"
+   },
+   {
+    "id": "c_incisao",
+    "class": "contraindicada",
+    "ref": "p. 264",
+    "label": {
+     "pt": "Incisão e drenagem do linfonodo",
+     "en": "Incision and drainage of the lymph node"
+    },
+    "why": {
+     "pt": "Bubões nunca devem ser incisados ou excisados.",
+     "en": "Buboes must never be incised or excised."
+    },
+    "group": "procedimento",
+    "grave": true,
+    "outcome": {
+     "pt": "Risco de fístulas crônicas e má cicatrização (Caso 2, p. 264).",
+     "en": "Risk of chronic fistulas and poor healing (Case 2, p. 264)."
+    }
+   },
+   {
+    "id": "c_aguardar",
+    "class": "contraindicada",
+    "ref": "p. 260",
+    "label": {
+     "pt": "Aguardar os resultados laboratoriais antes de tratar",
+     "en": "Wait for laboratory results before treating"
+    },
+    "why": {
+     "pt": "O tratamento sindrômico empírico jamais deve ser atrasado.",
+     "en": "Empirical syndromic treatment must never be delayed."
+    },
+    "group": "orientacao"
+   },
+   {
+    "id": "c_parceiro",
+    "class": "essencial",
+    "ref": "p. 252–253",
+    "label": {
+     "pt": "Encaminhar o parceiro para avaliação e tratamento",
+     "en": "Refer the partner for evaluation and treatment"
+    },
+    "why": {
+     "pt": "Não se esqueça do parceiro sexual.",
+     "en": "Do not forget the sexual partner."
+    },
+    "group": "orientacao"
+   },
+   {
+    "id": "c_educa",
+    "class": "essencial",
+    "ref": "p. 253",
+    "label": {
+     "pt": "Educar, aconselhar e oferecer preservativos",
+     "en": "Educate, counsel and offer condoms"
+    },
+    "why": {
+     "pt": "Etapa comum a todas as síndromes do fluxograma.",
+     "en": "A step common to all flowchart syndromes."
+    },
+    "group": "orientacao"
+   },
+   {
+    "id": "c_retorno",
+    "class": "essencial",
+    "ref": "p. 253",
+    "label": {
+     "pt": "Alta com retorno em 7 dias",
+     "en": "Discharge with return in 7 days"
+    },
+    "why": {
+     "pt": "Reavaliação da cura; sem melhora, continuar por mais 7 dias ou encaminhar.",
+     "en": "Reassess cure; without improvement, continue 7 more days or refer."
+    },
+    "group": "destino"
+   }
+  ]
+ }
+}

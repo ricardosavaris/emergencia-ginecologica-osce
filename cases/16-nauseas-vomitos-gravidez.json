@@ -1,0 +1,876 @@
+{
+ "id": "c16",
+ "title": {
+  "pt": "Vômitos na gestação",
+  "en": "Vomiting in pregnancy"
+ },
+ "chapter": {
+  "pt": "Náuseas e vômitos na gravidez",
+  "en": "Nausea and vomiting in pregnancy"
+ },
+ "pages": "p. 299–320",
+ "base": {
+  "triage": {
+   "pt": "Gestante de 29 anos, G2P1, com 13 semanas, procura a emergência por vômitos persistentes há 5 dias, sem conseguir comer ou beber.",
+   "en": "29-year-old pregnant woman, G2P1, at 13 weeks, presents with persistent vomiting for 5 days, unable to eat or drink."
+  },
+  "vitals": {
+   "PA": "102/64 mmHg",
+   "FC": "108 bpm",
+   "FR": "18 mrpm",
+   "Tax": "36,6 °C",
+   "SpO2": "98%"
+  },
+  "correctDiagnosis": "hg",
+  "diagnosisExplanation": {
+   "pt": "Início antes de 16 semanas, vômitos intensos, incapacidade de comer e beber e limitação funcional importante (critérios de Windsor), PUQE 15, perda de peso de 6%, cetonúria e hipocalemia, com ultrassonografia de gestação única tópica sem mola: hiperêmese gravídica (p. 299, 303). Conduta: internação, tiamina antes de soluções glicosadas, reidratação IV com reposição de potássio e antieméticos escalonados (metoclopramida e ondansetrona) (p. 310–312; Caso 2, p. 314).",
+   "en": "Onset before 16 weeks, severe vomiting, inability to eat and drink and marked functional limitation (Windsor criteria), PUQE 15, 6% weight loss, ketonuria and hypokalemia, with ultrasound showing a single intrauterine pregnancy and no mole: hyperemesis gravidarum (p. 299, 303). Management: admission, thiamine before glucose-containing solutions, IV rehydration with potassium replacement and stepwise antiemetics (metoclopramide and ondansetron) (p. 310–312; Case 2, p. 314)."
+  },
+  "learning": {
+   "pt": "O diagnóstico é clínico e de exclusão; exames avaliam gravidade e excluem mola, gestação múltipla, colecistite, pancreatite e outras causas (p. 299). TSH e T4 livre não são de rotina, apenas com sintomas de hipertireoidismo (p. 299).\nA tiamina 100 mg/dia é obrigatória nos casos graves antes de soluções glicosadas, inclusive a ampola de dimenidrinato + piridoxina, que contém glicose e frutose (p. 310; Pérola 8, p. 315).\nTenha paciência: passe as medicações para via oral antes de reintroduzir os alimentos e dê alta quando a paciente fizer no hospital o que fará em casa (Caso 2, p. 314; Pérola 4, p. 315). Corticoide é a 4ª linha, para refratários, e deve ser evitado antes de 10 semanas (p. 311–312).",
+   "en": "Diagnosis is clinical and of exclusion; tests assess severity and exclude molar pregnancy, multiple gestation, cholecystitis, pancreatitis and other causes (p. 299). TSH and free T4 are not routine, only with hyperthyroid symptoms (p. 299).\nThiamine 100 mg/day is mandatory in severe cases before glucose-containing solutions, including the dimenhydrinate + pyridoxine ampoule, which contains glucose and fructose (p. 310; Pearl 8, p. 315).\nBe patient: switch drugs to the oral route before reintroducing food and discharge when the patient does in hospital what she will do at home (Case 2, p. 314; Pearl 4, p. 315). Corticosteroids are fourth line, for refractory cases, and should be avoided before 10 weeks (p. 311–312)."
+  }
+ },
+ "levels": {
+  "3": {
+   "triage": {
+    "pt": "Gestante de 30 anos, com 18 semanas, internada há 7 dias com diagnóstico de \"hiperêmese gravídica\", mantém vômitos apesar de antieméticos IV. A equipe solicita revisão do caso.",
+    "en": "30-year-old pregnant woman at 18 weeks, admitted 7 days ago with a diagnosis of \"hyperemesis gravidarum\", continues vomiting despite IV antiemetics. The team requests a case review."
+   },
+   "vitals": {
+    "PA": "110/70 mmHg",
+    "FC": "96 bpm",
+    "FR": "16 mrpm",
+    "Tax": "36,5 °C",
+    "SpO2": "98%"
+   },
+   "correctDiagnosis": "obstrucao",
+   "diagnosisExplanation": {
+    "pt": "Vômitos incoercíveis sem náuseas, iniciados após 16 semanas e refratários ao tratamento: o quadro não preenche os critérios de hiperêmese gravídica e sugere obstrução da saída gástrica. A endoscopia digestiva alta identificou carcinoma gástrico obstrutivo; a ressonância mostrou doença localizada e a conduta foi cirúrgica (Caso 1, p. 313–314).",
+    "en": "Intractable vomiting without nausea, starting after 16 weeks and refractory to treatment: the picture does not meet hyperemesis criteria and suggests gastric outlet obstruction. Upper endoscopy found an obstructing gastric carcinoma; MRI showed localized disease and treatment was surgical (Case 1, p. 313–314)."
+   },
+   "learning": {
+    "pt": "Vômitos sem náuseas devem chamar a atenção para obstrução da saída gástrica (Caso 1, p. 314). Na refratariedade, revise o diagnóstico antes de escalar o tratamento.\nAo comunicar um diagnóstico, apresente também o plano de tratamento: isso reduz a ansiedade da paciente e da família (Caso 1, p. 314). A endoscopia é indicada diante de sinais de alarme (p. 309).",
+    "en": "Vomiting without nausea should raise suspicion of gastric outlet obstruction (Case 1, p. 314). With refractoriness, review the diagnosis before escalating treatment.\nWhen disclosing a diagnosis, also present the treatment plan: this reduces patient and family anxiety (Case 1, p. 314). Endoscopy is indicated for alarm features (p. 309)."
+   },
+   "timerMinutes": 12
+  }
+ },
+ "diagnoses": [
+  {
+   "id": "hg",
+   "label": {
+    "pt": "Hiperêmese gravídica",
+    "en": "Hyperemesis gravidarum"
+   }
+  },
+  {
+   "id": "nvg",
+   "label": {
+    "pt": "Náuseas e vômitos da gravidez leves",
+    "en": "Mild nausea and vomiting of pregnancy"
+   }
+  },
+  {
+   "id": "mola",
+   "label": {
+    "pt": "Mola hidatiforme",
+    "en": "Hydatidiform mole"
+   }
+  },
+  {
+   "id": "gemelar",
+   "label": {
+    "pt": "Gestação múltipla",
+    "en": "Multiple gestation"
+   }
+  },
+  {
+   "id": "pielo",
+   "label": {
+    "pt": "Pielonefrite",
+    "en": "Pyelonephritis"
+   }
+  },
+  {
+   "id": "colecist",
+   "label": {
+    "pt": "Colecistite aguda",
+    "en": "Acute cholecystitis"
+   }
+  },
+  {
+   "id": "tireo",
+   "label": {
+    "pt": "Hipertireoidismo gestacional",
+    "en": "Gestational hyperthyroidism"
+   }
+  },
+  {
+   "id": "obstrucao",
+   "label": {
+    "pt": "Obstrução da saída gástrica",
+    "en": "Gastric outlet obstruction"
+   }
+  }
+ ],
+ "stages": {
+  "anamnese": [
+   {
+    "id": "a_puqe",
+    "class": "essencial",
+    "ref": "p. 303–304",
+    "label": {
+     "pt": "Escala PUQE (duração da náusea, vômitos e ânsias em 24 h)",
+     "en": "PUQE scale (nausea duration, vomiting and retching in 24 h)"
+    },
+    "result": {
+     "pt": "Náusea > 6 h/dia (5); ≥ 7 vômitos (5); ≥ 7 ânsias (5): PUQE 15.",
+     "en": "Nausea > 6 h/day (5); ≥ 7 vomits (5); ≥ 7 retching episodes (5): PUQE 15."
+    },
+    "why": {
+     "pt": "PUQE ≥ 13: grave, provável HG com necessidade de internação.",
+     "en": "PUQE ≥ 13: severe, probable HG requiring admission."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Nega náuseas; ≥ 7 vômitos por dia, sem ânsias prévias.",
+       "en": "Denies nausea; ≥ 7 vomits per day without preceding retching."
+      },
+      "why": {
+       "pt": "Vômitos sem náuseas sugerem obstrução da saída gástrica (Caso 1).",
+       "en": "Vomiting without nausea suggests gastric outlet obstruction (Case 1)."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_inicio",
+    "class": "essencial",
+    "ref": "p. 299, 303",
+    "label": {
+     "pt": "Idade gestacional no início dos sintomas",
+     "en": "Gestational age at symptom onset"
+    },
+    "result": {
+     "pt": "Desde a 7ª semana.",
+     "en": "Since week 7."
+    },
+    "why": {
+     "pt": "Critério de Windsor: início antes de 16 semanas.",
+     "en": "Windsor criterion: onset before 16 weeks."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Iniciou com 17 semanas.",
+       "en": "Began at 17 weeks."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_func",
+    "class": "essencial",
+    "ref": "p. 303",
+    "label": {
+     "pt": "Capacidade de comer, beber e realizar atividades",
+     "en": "Ability to eat, drink and perform activities"
+    },
+    "result": {
+     "pt": "Não consegue manter líquidos; afastada do trabalho.",
+     "en": "Cannot keep fluids down; off work."
+    },
+    "why": {
+     "pt": "Inabilidade para comer e beber e limitação funcional são critérios de Windsor.",
+     "en": "Inability to eat and drink and functional limitation are Windsor criteria."
+    }
+   },
+   {
+    "id": "a_previa",
+    "class": "pertinente",
+    "ref": "p. 301, 314",
+    "label": {
+     "pt": "Hiperêmese em gestação anterior",
+     "en": "Hyperemesis in a prior pregnancy"
+    },
+    "result": {
+     "pt": "Sim, na gestação anterior.",
+     "en": "Yes, in her prior pregnancy."
+    },
+    "why": {
+     "pt": "Fator de risco mais forte (RR 8,92).",
+     "en": "Strongest risk factor (RR 8.92)."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Primeira gestação.",
+       "en": "First pregnancy."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_dif",
+    "class": "essencial",
+    "ref": "p. 304–309",
+    "label": {
+     "pt": "Dor abdominal, febre, disúria, diarreia, pirose",
+     "en": "Abdominal pain, fever, dysuria, diarrhea, heartburn"
+    },
+    "result": {
+     "pt": "Nega.",
+     "en": "Denies."
+    },
+    "why": {
+     "pt": "Rastreia colecistite, pancreatite, pielonefrite, gastroenterite e doença péptica.",
+     "en": "Screens for cholecystitis, pancreatitis, pyelonephritis, gastroenteritis and peptic disease."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Plenitude epigástrica pós-prandial; nega dor em hipocôndrio, febre ou diarreia.",
+       "en": "Postprandial epigastric fullness; denies RUQ pain, fever or diarrhea."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_tireo",
+    "class": "pertinente",
+    "ref": "p. 299, 308–309",
+    "label": {
+     "pt": "Intolerância ao calor, tremores, palpitações",
+     "en": "Heat intolerance, tremor, palpitations"
+    },
+    "result": {
+     "pt": "Nega.",
+     "en": "Denies."
+    },
+    "why": {
+     "pt": "TSH só é solicitado na presença de sintomas de hipertireoidismo.",
+     "en": "TSH is ordered only with hyperthyroid symptoms."
+    }
+   },
+   {
+    "id": "a_gatilhos",
+    "class": "pertinente",
+    "ref": "p. 315",
+    "label": {
+     "pt": "Alimentos e cheiros que desencadeiam náuseas",
+     "en": "Foods and smells that trigger nausea"
+    },
+    "result": {
+     "pt": "Cheiro de café e de carne cozinhando.",
+     "en": "Smell of coffee and cooking meat."
+    },
+    "why": {
+     "pt": "Identificar e banir desencadeantes (Pérola 7).",
+     "en": "Identify and remove triggers (Pearl 7)."
+    },
+    "levels": [
+     1,
+     2
+    ]
+   }
+  ],
+  "exame": [
+   {
+    "id": "e_peso",
+    "class": "essencial",
+    "ref": "p. 314–315",
+    "label": {
+     "pt": "Peso atual comparado com a carteira de pré-natal",
+     "en": "Current weight compared with the prenatal card"
+    },
+    "result": {
+     "pt": "Perda de 4 kg (6%) desde a primeira consulta.",
+     "en": "4-kg (6%) loss since the first visit."
+    },
+    "why": {
+     "pt": "Pese a paciente na chegada e compare com a carteira (Pérolas 1 e 2).",
+     "en": "Weigh the patient on arrival and compare with the card (Pearls 1 and 2)."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Perda de 5 kg nas últimas 2 semanas.",
+       "en": "5-kg loss over the last 2 weeks."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_hidrat",
+    "class": "essencial",
+    "ref": "p. 302",
+    "label": {
+     "pt": "Estado de hidratação e sinais de deficiência vitamínica",
+     "en": "Hydration status and signs of vitamin deficiency"
+    },
+    "result": {
+     "pt": "Mucosas secas, turgor reduzido; sem nistagmo ou confusão.",
+     "en": "Dry mucous membranes, reduced turgor; no nystagmus or confusion."
+    },
+    "why": {
+     "pt": "Avalie hidratação, estado nutricional e sinais de Wernicke.",
+     "en": "Assess hydration, nutrition and signs of Wernicke encephalopathy."
+    }
+   },
+   {
+    "id": "e_abd",
+    "class": "essencial",
+    "ref": "p. 304–306",
+    "label": {
+     "pt": "Exame abdominal (Murphy, defesa, ruídos)",
+     "en": "Abdominal exam (Murphy sign, guarding, bowel sounds)"
+    },
+    "result": {
+     "pt": "Abdome flácido, indolor; Murphy negativo.",
+     "en": "Soft, non-tender abdomen; Murphy negative."
+    },
+    "why": {
+     "pt": "Afasta colecistite, pancreatite e obstrução intestinal.",
+     "en": "Helps exclude cholecystitis, pancreatitis and bowel obstruction."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Distensão epigástrica com vascolejo; abdome inferior indolor.",
+       "en": "Epigastric distension with succussion splash; lower abdomen non-tender."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_goleagua",
+    "class": "pertinente",
+    "ref": "p. 315",
+    "label": {
+     "pt": "Teste do gole d'água",
+     "en": "Sip-of-water test"
+    },
+    "result": {
+     "pt": "Vomitou logo após o gole.",
+     "en": "Vomited right after the sip."
+    },
+    "why": {
+     "pt": "Ajuda quando a história e o exame não são compatíveis (Pérola 5).",
+     "en": "Helps when history and exam do not match (Pearl 5)."
+    }
+   },
+   {
+    "id": "e_ppl",
+    "class": "pertinente",
+    "ref": "p. 308",
+    "label": {
+     "pt": "Punho-percussão lombar",
+     "en": "CVA percussion"
+    },
+    "result": {
+     "pt": "Negativa.",
+     "en": "Negative."
+    },
+    "why": {
+     "pt": "Rastreia pielonefrite.",
+     "en": "Screens for pyelonephritis."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   }
+  ],
+  "lab": [
+   {
+    "id": "l_urina",
+    "class": "essencial",
+    "ref": "p. 314",
+    "label": {
+     "pt": "Exame de urina (cetonúria e infecção)",
+     "en": "Urinalysis (ketonuria and infection)"
+    },
+    "result": {
+     "pt": "Cetonúria +++; sem leucocitúria ou nitrito.",
+     "en": "Ketonuria +++; no pyuria or nitrite."
+    },
+    "why": {
+     "pt": "Verifique cetonúria e infecção urinária na chegada (Pérola 1).",
+     "en": "Check ketonuria and urinary infection on arrival (Pearl 1)."
+    }
+   },
+   {
+    "id": "l_eletro",
+    "class": "essencial",
+    "ref": "p. 310",
+    "label": {
+     "pt": "Eletrólitos, função renal e hepática",
+     "en": "Electrolytes, renal and liver function"
+    },
+    "result": {
+     "pt": "Na⁺ 133 mEq/L; K⁺ 3,0 mEq/L; creatinina 0,9 mg/dL; TGO 58 U/L; TGP 64 U/L.",
+     "en": "Na⁺ 133 mEq/L; K⁺ 3.0 mEq/L; creatinine 0.9 mg/dL; AST 58 U/L; ALT 64 U/L."
+    },
+    "why": {
+     "pt": "Avaliam o impacto; elevação de aminotransferases até 200 UI/L é compatível com HG.",
+     "en": "Assess impact; aminotransferases up to 200 IU/L are compatible with HG."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Na⁺ 135 mEq/L; K⁺ 3,2 mEq/L; creatinina 0,7 mg/dL; transaminases normais.",
+       "en": "Na⁺ 135 mEq/L; K⁺ 3.2 mEq/L; creatinine 0.7 mg/dL; normal transaminases."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_tsh",
+    "class": "desnecessaria",
+    "ref": "p. 299",
+    "label": {
+     "pt": "TSH e T4 livre",
+     "en": "TSH and free T4"
+    },
+    "result": {
+     "pt": "TSH 0,3 mUI/L; T4 livre normal.",
+     "en": "TSH 0.3 mIU/L; normal free T4."
+    },
+    "why": {
+     "pt": "Não solicitar de rotina, apenas com sintomas de hipertireoidismo.",
+     "en": "Not routine; only with hyperthyroid symptoms."
+    }
+   },
+   {
+    "id": "l_lipase",
+    "class": "desnecessaria",
+    "ref": "p. 305",
+    "label": {
+     "pt": "Amilase e lipase",
+     "en": "Amylase and lipase"
+    },
+    "result": {
+     "pt": "Normais.",
+     "en": "Normal."
+    },
+    "why": {
+     "pt": "Indicadas com dor epigástrica intensa irradiada para o dorso.",
+     "en": "Indicated for severe epigastric pain radiating to the back."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   },
+   {
+    "id": "l_hcg",
+    "class": "desnecessaria",
+    "ref": "p. 307–308",
+    "label": {
+     "pt": "β-hCG quantitativo",
+     "en": "Quantitative β-hCG"
+    },
+    "result": {
+     "pt": "68.000 mUI/mL.",
+     "en": "68,000 mIU/mL."
+    },
+    "why": {
+     "pt": "Útil se a ultrassonografia sugerir mola; a ultrassonografia é o exame inicial (Pérola 3).",
+     "en": "Useful if ultrasound suggests a mole; ultrasound is the initial test (Pearl 3)."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   }
+  ],
+  "imagem": [
+   {
+    "id": "i_us",
+    "class": "essencial",
+    "ref": "p. 307–308, 315",
+    "label": {
+     "pt": "Ultrassonografia obstétrica",
+     "en": "Obstetric ultrasound"
+    },
+    "result": {
+     "pt": "Gestação única tópica de 13 semanas, BCF presente; sem sinais de mola.",
+     "en": "Single intrauterine 13-week pregnancy, cardiac activity present; no signs of a mole."
+    },
+    "why": {
+     "pt": "Exclui mola hidatiforme e gestação múltipla (Pérola 3).",
+     "en": "Excludes molar pregnancy and multiple gestation (Pearl 3)."
+    },
+    "byLevel": {
+     "3": {
+      "class": "pertinente",
+      "result": {
+       "pt": "Gestação única de 18 semanas, sem alterações.",
+       "en": "Single 18-week pregnancy, normal."
+      }
+     }
+    }
+   },
+   {
+    "id": "i_usabd",
+    "class": "desnecessaria",
+    "ref": "p. 305",
+    "label": {
+     "pt": "Ultrassonografia de vias biliares",
+     "en": "Biliary ultrasound"
+    },
+    "result": {
+     "pt": "Sem colelitíase.",
+     "en": "No gallstones."
+    },
+    "why": {
+     "pt": "Indicada na suspeita de colecistite (dor em hipocôndrio direito, Murphy).",
+     "en": "Indicated for suspected cholecystitis (RUQ pain, Murphy sign)."
+    },
+    "byLevel": {
+     "3": {
+      "class": "pertinente",
+      "result": {
+       "pt": "Vesícula sem cálculos; estômago distendido com conteúdo líquido.",
+       "en": "Gallbladder without stones; distended fluid-filled stomach."
+      }
+     }
+    }
+   },
+   {
+    "id": "i_eda",
+    "class": "desnecessaria",
+    "ref": "p. 309, 313",
+    "label": {
+     "pt": "Endoscopia digestiva alta",
+     "en": "Upper endoscopy"
+    },
+    "result": {
+     "pt": "Gastrite enantematosa leve.",
+     "en": "Mild erythematous gastritis."
+    },
+    "why": {
+     "pt": "Indicada apenas diante de sinais de alarme.",
+     "en": "Indicated only with alarm features."
+    },
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "result": {
+       "pt": "Lesão infiltrativa no antro gástrico obstruindo o piloro; biópsia: adenocarcinoma gástrico.",
+       "en": "Infiltrative antral lesion obstructing the pylorus; biopsy: gastric adenocarcinoma."
+      },
+      "why": {
+       "pt": "Vômitos sem náuseas refratários: investigar obstrução da saída gástrica (Caso 1).",
+       "en": "Refractory vomiting without nausea: investigate gastric outlet obstruction (Case 1)."
+      }
+     }
+    }
+   },
+   {
+    "id": "i_rm",
+    "class": "desnecessaria",
+    "ref": "p. 313–314",
+    "label": {
+     "pt": "Ressonância magnética de abdome",
+     "en": "Abdominal MRI"
+    },
+    "result": {
+     "pt": "Sem alterações.",
+     "en": "Normal."
+    },
+    "why": {
+     "pt": "Sem indicação na hiperêmese.",
+     "en": "Not indicated in hyperemesis."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "byLevel": {
+     "3": {
+      "class": "pertinente",
+      "result": {
+       "pt": "Doença localizada, sem metástases.",
+       "en": "Localized disease, no metastases."
+      },
+      "why": {
+       "pt": "Estadiamento solicitado pela oncologia (Caso 1).",
+       "en": "Staging requested by oncology (Case 1)."
+      }
+     }
+    }
+   }
+  ],
+  "conduta": [
+   {
+    "id": "c_tiamina",
+    "class": "essencial",
+    "ref": "p. 310, 315",
+    "label": {
+     "pt": "Tiamina 100 mg antes de qualquer solução glicosada",
+     "en": "Thiamine 100 mg before any glucose-containing solution"
+    },
+    "why": {
+     "pt": "Previne encefalopatia de Wernicke (Pérola 8).",
+     "en": "Prevents Wernicke encephalopathy (Pearl 8)."
+    },
+    "group": "medicamento",
+    "byLevel": {
+     "3": {
+      "class": "pertinente"
+     }
+    }
+   },
+   {
+    "id": "c_hidrat",
+    "class": "essencial",
+    "ref": "p. 310",
+    "label": {
+     "pt": "Reidratação IV com solução salina balanceada e reposição de potássio; depois soro glicofisiológico",
+     "en": "IV rehydration with balanced saline and potassium replacement; then dextrose-saline"
+    },
+    "why": {
+     "pt": "Corrige desidratação e distúrbios eletrolíticos.",
+     "en": "Corrects dehydration and electrolyte disorders."
+    },
+    "group": "medicamento",
+    "byLevel": {
+     "3": {
+      "class": "pertinente"
+     }
+    }
+   },
+   {
+    "id": "c_dramin_iv",
+    "class": "contraindicada",
+    "ref": "p. 310, 315",
+    "label": {
+     "pt": "Dimenidrinato + piridoxina IV em infusão contínua antes da tiamina",
+     "en": "Continuous IV dimenhydrinate + pyridoxine before thiamine"
+    },
+    "why": {
+     "pt": "A ampola contém glicose e frutose; em pacientes desnutridas pode precipitar Wernicke.",
+     "en": "The ampoule contains glucose and fructose; in malnourished patients it may precipitate Wernicke's."
+    },
+    "group": "medicamento",
+    "grave": true,
+    "outcome": {
+     "pt": "Risco de encefalopatia de Wernicke (p. 310; Pérola 8, p. 315).",
+     "en": "Risk of Wernicke encephalopathy (p. 310; Pearl 8, p. 315)."
+    }
+   },
+   {
+    "id": "c_antiem_l1",
+    "class": "essencial",
+    "ref": "p. 310–311",
+    "label": {
+     "pt": "Antieméticos IV escalonados (metoclopramida e ondansetrona)",
+     "en": "Stepwise IV antiemetics (metoclopramide and ondansetron)"
+    },
+    "why": {
+     "pt": "Tratamento escalonado pela gravidade (PUQE).",
+     "en": "Stepwise treatment by severity (PUQE)."
+    },
+    "levels": [
+     1
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_metoclo",
+    "class": "essencial",
+    "ref": "p. 311",
+    "label": {
+     "pt": "Metoclopramida 10 mg IV 8/8 h",
+     "en": "Metoclopramide 10 mg IV every 8 h"
+    },
+    "why": {
+     "pt": "2ª linha; menos sedação que a prometazina.",
+     "en": "Second line; less sedation than promethazine."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "medicamento",
+    "byLevel": {
+     "3": {
+      "class": "desnecessaria",
+      "why": {
+       "pt": "Refratariedade indica revisar o diagnóstico, não apenas manter antieméticos.",
+       "en": "Refractoriness calls for reviewing the diagnosis, not just continuing antiemetics."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_ondan",
+    "class": "essencial",
+    "ref": "p. 311",
+    "label": {
+     "pt": "Ondansetrona 4 a 8 mg IV 8/8 h",
+     "en": "Ondansetron 4–8 mg IV every 8 h"
+    },
+    "why": {
+     "pt": "3ª linha para PUQE ≥ 13.",
+     "en": "Third line for PUQE ≥ 13."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "medicamento",
+    "byLevel": {
+     "3": {
+      "class": "desnecessaria",
+      "why": {
+       "pt": "Refratariedade indica revisar o diagnóstico.",
+       "en": "Refractoriness calls for reviewing the diagnosis."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_cortic",
+    "class": "desnecessaria",
+    "ref": "p. 311–312",
+    "label": {
+     "pt": "Metilprednisolona 16 mg IV 8/8 h",
+     "en": "Methylprednisolone 16 mg IV every 8 h"
+    },
+    "why": {
+     "pt": "4ª linha, para casos refratários após falha das linhas anteriores.",
+     "en": "Fourth line, for refractory cases after earlier lines fail."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "medicamento",
+    "byLevel": {
+     "3": {
+      "class": "contraindicada",
+      "why": {
+       "pt": "O quadro não é de hiperêmese; o corticoide atrasaria o diagnóstico de obstrução.",
+       "en": "This is not hyperemesis; steroids would delay diagnosis of obstruction."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_gengibre",
+    "class": "desnecessaria",
+    "ref": "p. 310",
+    "label": {
+     "pt": "Gengibre 250 mg VO 4×/dia",
+     "en": "Ginger 250 mg PO 4×/day"
+    },
+    "why": {
+     "pt": "1ª linha para casos leves (PUQE 3–6).",
+     "en": "First line for mild cases (PUQE 3–6)."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_transic",
+    "class": "essencial",
+    "ref": "p. 314–315",
+    "label": {
+     "pt": "Passar medicações para VO antes de reintroduzir a alimentação, de forma gradual",
+     "en": "Switch drugs to oral before gradually reintroducing food"
+    },
+    "why": {
+     "pt": "Pérola 4 e Caso 2.",
+     "en": "Pearl 4 and Case 2."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "orientacao"
+   },
+   {
+    "id": "c_dieta",
+    "class": "desnecessaria",
+    "ref": "p. 314",
+    "label": {
+     "pt": "Liberar dieta livre assim que o PUQE melhorar",
+     "en": "Allow a regular diet as soon as PUQE improves"
+    },
+    "why": {
+     "pt": "No Caso 2, a liberação precoce da dieta levou à recaída (PUQE de volta a 15).",
+     "en": "In Case 2, early diet led to relapse (PUQE back to 15)."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "orientacao"
+   },
+   {
+    "id": "c_multi",
+    "class": "essencial",
+    "ref": "p. 313–314",
+    "label": {
+     "pt": "Discussão com oncologia e cirurgia; comunicar o diagnóstico junto com o plano de tratamento",
+     "en": "Discuss with oncology and surgery; disclose the diagnosis together with the treatment plan"
+    },
+    "why": {
+     "pt": "Reduz a ansiedade da paciente e da família (Caso 1).",
+     "en": "Reduces patient and family anxiety (Case 1)."
+    },
+    "levels": [
+     3
+    ],
+    "group": "orientacao"
+   },
+   {
+    "id": "c_intern",
+    "class": "essencial",
+    "ref": "p. 304",
+    "label": {
+     "pt": "Internação hospitalar",
+     "en": "Hospital admission"
+    },
+    "why": {
+     "pt": "PUQE ≥ 13 indica internação.",
+     "en": "PUQE ≥ 13 indicates admission."
+    },
+    "group": "destino",
+    "byLevel": {
+     "3": {
+      "label": {
+       "pt": "Manter internação para investigação e tratamento",
+       "en": "Continue admission for workup and treatment"
+      }
+     }
+    }
+   },
+   {
+    "id": "c_alta",
+    "class": "contraindicada",
+    "ref": "p. 304, 315",
+    "label": {
+     "pt": "Alta com antiemético oral",
+     "en": "Discharge on oral antiemetic"
+    },
+    "why": {
+     "pt": "Paciente com PUQE 15, desidratação e perda de peso exige internação.",
+     "en": "A patient with PUQE 15, dehydration and weight loss requires admission."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "destino"
+   }
+  ]
+ }
+}

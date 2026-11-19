@@ -136,46 +136,46 @@
   {
    "id": "c13",
    "number": 13,
-   "file": null,
+   "file": "13-ulceras-genitais.json",
    "title": {
     "pt": "Lesão genital",
     "en": "Genital lesion"
    },
    "block": 4,
-   "available": false
+   "available": true
   },
   {
    "id": "c14",
    "number": 14,
-   "file": null,
+   "file": "14-sindrome-hiperestimulacao-ovariana.json",
    "title": {
-    "pt": "Distensão abdominal após tratamento de infertilidade",
-    "en": "Abdominal distension after fertility treatment"
+    "pt": "Distensão abdominal e vômitos",
+    "en": "Abdominal distension and vomiting"
    },
    "block": 4,
-   "available": false
+   "available": true
   },
   {
    "id": "c15",
    "number": 15,
-   "file": null,
+   "file": "15-torcao-anexo.json",
    "title": {
     "pt": "Dor pélvica súbita",
     "en": "Sudden pelvic pain"
    },
    "block": 4,
-   "available": false
+   "available": true
   },
   {
    "id": "c16",
    "number": 16,
-   "file": null,
+   "file": "16-nauseas-vomitos-gravidez.json",
    "title": {
     "pt": "Vômitos na gestação",
     "en": "Vomiting in pregnancy"
    },
    "block": 4,
-   "available": false
+   "available": true
   },
   {
    "id": "c17",

@@ -1,0 +1,674 @@
+{
+ "id": "c15",
+ "title": {
+  "pt": "Dor pélvica súbita",
+  "en": "Sudden pelvic pain"
+ },
+ "chapter": {
+  "pt": "Torção de anexo",
+  "en": "Adnexal torsion"
+ },
+ "pages": "p. 284–298",
+ "base": {
+  "triage": {
+   "pt": "Mulher de 26 anos, sem comorbidades, procura a emergência por dor súbita e muito intensa em fossa ilíaca direita há 6 horas.",
+   "en": "26-year-old woman without comorbidities presents with sudden, very severe right iliac fossa pain for 6 hours."
+  },
+  "vitals": {
+   "PA": "128/80 mmHg",
+   "FC": "102 bpm",
+   "FR": "18 mrpm",
+   "Tax": "36,8 °C",
+   "SpO2": "98%"
+  },
+  "correctDiagnosis": "torcao",
+  "diagnosisExplanation": {
+   "pt": "SAQ-GE de 10 pontos (dor unilateral 3, sem leucorreia/metrorragia 2, dor ovariana 2, dor insuportável 2, vômitos 1): probabilidade de 52,2%. Com o sinal do redemoinho ao Doppler (LR+ 7,22), a probabilidade passa a 88,7%, justificando laparoscopia (Caso 1, p. 292). Na cirurgia: destorção independentemente do aspecto e preservação do ovário (p. 291).",
+   "en": "SAQ-GE score 10 (unilateral pain 3, no discharge/metrorrhagia 2, ovarian tenderness 2, unbearable pain 2, vomiting 1): probability 52.2%. With the whirlpool sign on Doppler (LR+ 7.22), probability rises to 88.7%, justifying laparoscopy (Case 1, p. 292). At surgery: detorsion regardless of appearance and ovarian preservation (p. 291)."
+  },
+  "learning": {
+   "pt": "O atraso no diagnóstico é o principal determinante da perda ovariana (p. 284). Use o SAQ-GE: ≤ 6 = baixo risco (0,3%); 7–9 = 12,4%; 10 = 52,2%; Doppler indicado com SAQ-GE ≥ 7 (p. 284, 288).\nA presença de fluxo arterial ao Doppler não exclui torção (fluxo normal em até 60% dos casos confirmados) (p. 290). Exames laboratoriais são inespecíficos, mas a relação neutrófilo-linfócito > 3,5 tem LR+ 5,24 (p. 291).\nA destorção deve ser realizada independentemente do aspecto; ovário preto ou azulado não indica necrose irreversível e não há relatos de embolia após destorção (p. 291; Pérolas 1–2, p. 293). Ooforopexia apenas em torções recorrentes ou ligamentos anormalmente longos (p. 291).",
+   "en": "Diagnostic delay is the main determinant of ovarian loss (p. 284). Use the SAQ-GE: ≤ 6 = low risk (0.3%); 7–9 = 12.4%; 10 = 52.2%; Doppler indicated with SAQ-GE ≥ 7 (p. 284, 288).\nArterial flow on Doppler does not exclude torsion (normal flow in up to 60% of confirmed cases) (p. 290). Laboratory tests are non-specific, but a neutrophil-lymphocyte ratio > 3.5 has LR+ 5.24 (p. 291).\nDetorsion should be performed regardless of appearance; a black or blue ovary does not mean irreversible necrosis, and no embolism after detorsion has been reported (p. 291; Pearls 1–2, p. 293). Oophoropexy only for recurrent torsion or abnormally long ligaments (p. 291)."
+  }
+ },
+ "levels": {
+  "3": {
+   "triage": {
+    "pt": "Mulher de 25 anos com dor excruciante de início súbito em fossa ilíaca direita há 2 horas, nota 10/10, com múltiplos episódios de vômitos.",
+    "en": "25-year-old woman with sudden excruciating right iliac fossa pain for 2 hours, 10/10, with multiple episodes of vomiting."
+   },
+   "vitals": {
+    "PA": "145/90 mmHg",
+    "FC": "110 bpm",
+    "FR": "20 mrpm",
+    "Tax": "36,9 °C",
+    "SpO2": "98%"
+   },
+   "correctDiagnosis": "torcao",
+   "diagnosisExplanation": {
+    "pt": "Dores intermitentes nas semanas anteriores (torção intermitente), piora súbita, cisto ovariano de 6,7 cm (massa > 5 cm: OR 4,13), edema estromal com folículos periféricos e ausência de fluxo ao Doppler (LR+ 10,6): torção anexial. A laparoscopia de emergência confirmou torção completa com 9 voltas; o ovário se desmanchava à manipulação, situação em que a ooforectomia é inevitável (Caso 2, p. 292–293).",
+    "en": "Intermittent pain in prior weeks (intermittent torsion), sudden worsening, a 6.7-cm ovarian cyst (mass > 5 cm: OR 4.13), stromal edema with peripheral follicles and absent Doppler flow (LR+ 10.6): adnexal torsion. Emergency laparoscopy confirmed complete torsion with 9 twists; the ovary disintegrated on handling, when oophorectomy is unavoidable (Case 2, p. 292–293)."
+   },
+   "learning": {
+    "pt": "Torção parcial ou intermitente explica dores episódicas; o quadro arrastado levou à necrose (p. 286; Caso 2, p. 293).\nO ovário deve ser preservado em todos os casos, exceto quando a ooforectomia é inevitável (ovário necrótico que se desintegra). Se estiver azulado ou com aspecto necrótico, destorça e aguarde alguns minutos pela recuperação (p. 291; Caso 2, p. 293).",
+    "en": "Partial or intermittent torsion explains episodic pain; the prolonged course led to necrosis (p. 286; Case 2, p. 293).\nThe ovary should be preserved in all cases, except when oophorectomy is unavoidable (a necrotic ovary that disintegrates). If it is bluish or looks necrotic, detorse it and wait a few minutes for recovery (p. 291; Case 2, p. 293)."
+   },
+   "timerMinutes": 10,
+   "deterioration": [
+    {
+     "afterSeconds": 360,
+     "afterActions": 14,
+     "flag": "atraso",
+     "vitals": {
+      "FC": "122 bpm"
+     },
+     "message": {
+      "pt": "A dor permanece insuportável apesar da analgesia; a paciente está sudorética.",
+      "en": "Pain remains unbearable despite analgesia; the patient is diaphoretic."
+     }
+    }
+   ]
+  }
+ },
+ "diagnoses": [
+  {
+   "id": "torcao",
+   "label": {
+    "pt": "Torção de anexo",
+    "en": "Adnexal torsion"
+   }
+  },
+  {
+   "id": "apend",
+   "label": {
+    "pt": "Apendicite aguda",
+    "en": "Acute appendicitis"
+   }
+  },
+  {
+   "id": "cisto",
+   "label": {
+    "pt": "Cisto ovariano hemorrágico",
+    "en": "Hemorrhagic ovarian cyst"
+   }
+  },
+  {
+   "id": "dip",
+   "label": {
+    "pt": "Doença inflamatória pélvica",
+    "en": "Pelvic inflammatory disease"
+   }
+  },
+  {
+   "id": "renal",
+   "label": {
+    "pt": "Cólica renal",
+    "en": "Renal colic"
+   }
+  },
+  {
+   "id": "ge",
+   "label": {
+    "pt": "Gravidez ectópica",
+    "en": "Ectopic pregnancy"
+   }
+  },
+  {
+   "id": "ato",
+   "label": {
+    "pt": "Abscesso tubo-ovariano",
+    "en": "Tubo-ovarian abscess"
+   }
+  },
+  {
+   "id": "endometrioma",
+   "label": {
+    "pt": "Endometrioma roto",
+    "en": "Ruptured endometrioma"
+   }
+  }
+ ],
+ "stages": {
+  "anamnese": [
+   {
+    "id": "a_dor",
+    "class": "essencial",
+    "ref": "p. 287–288",
+    "label": {
+     "pt": "Início, localização e intensidade da dor",
+     "en": "Onset, location and severity of pain"
+    },
+    "result": {
+     "pt": "Dor súbita, unilateral à direita, nota 10, insuportável.",
+     "en": "Sudden right-sided pain, 10/10, unbearable."
+    },
+    "why": {
+     "pt": "Dor unilateral (3 pontos) e insuportável (2 pontos) no SAQ-GE.",
+     "en": "Unilateral (3 points) and unbearable (2 points) pain in the SAQ-GE."
+    }
+   },
+   {
+    "id": "a_vomit",
+    "class": "essencial",
+    "ref": "p. 284, 288",
+    "label": {
+     "pt": "Náuseas e vômitos",
+     "en": "Nausea and vomiting"
+    },
+    "result": {
+     "pt": "Três episódios de vômitos.",
+     "en": "Three episodes of vomiting."
+    },
+    "why": {
+     "pt": "Presentes em até 67% (OR 5,92); 1 ponto no SAQ-GE.",
+     "en": "Present in up to 67% (OR 5.92); 1 point in the SAQ-GE."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Múltiplos episódios de vômitos.",
+       "en": "Multiple vomiting episodes."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_leuco",
+    "class": "essencial",
+    "ref": "p. 288",
+    "label": {
+     "pt": "Corrimento vaginal ou sangramento",
+     "en": "Vaginal discharge or bleeding"
+    },
+    "result": {
+     "pt": "Nega.",
+     "en": "Denies."
+    },
+    "why": {
+     "pt": "Ausência de leucorreia e metrorragia soma 2 pontos no SAQ-GE.",
+     "en": "No discharge or metrorrhagia adds 2 points in the SAQ-GE."
+    }
+   },
+   {
+    "id": "a_previas",
+    "class": "pertinente",
+    "ref": "p. 286, 292",
+    "label": {
+     "pt": "Episódios prévios de dor semelhante",
+     "en": "Prior similar pain episodes"
+    },
+    "result": {
+     "pt": "Nega.",
+     "en": "Denies."
+    },
+    "why": {
+     "pt": "Dor intermitente sugere torção parcial.",
+     "en": "Intermittent pain suggests partial torsion."
+    },
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "result": {
+       "pt": "Dores episódicas e intermitentes nas últimas semanas.",
+       "en": "Episodic, intermittent pain over the last weeks."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_gest",
+    "class": "pertinente",
+    "ref": "p. 289",
+    "label": {
+     "pt": "Atraso menstrual",
+     "en": "Late period"
+    },
+    "result": {
+     "pt": "Menstruou há 12 dias.",
+     "en": "Period 12 days ago."
+    },
+    "why": {
+     "pt": "Gravidez ectópica é diagnóstico diferencial.",
+     "en": "Ectopic pregnancy is a differential."
+    }
+   },
+   {
+    "id": "a_urin",
+    "class": "pertinente",
+    "ref": "p. 289",
+    "label": {
+     "pt": "Sintomas urinários e irradiação para a virilha",
+     "en": "Urinary symptoms and radiation to the groin"
+    },
+    "result": {
+     "pt": "Nega.",
+     "en": "Denies."
+    },
+    "why": {
+     "pt": "Cólica renal irradia para a virilha com hematúria.",
+     "en": "Renal colic radiates to the groin with hematuria."
+    }
+   },
+   {
+    "id": "a_migr",
+    "class": "pertinente",
+    "ref": "p. 289",
+    "label": {
+     "pt": "Migração da dor e febre",
+     "en": "Pain migration and fever"
+    },
+    "result": {
+     "pt": "Dor desde o início em fossa ilíaca direita; nega febre.",
+     "en": "Pain in the right iliac fossa from the start; denies fever."
+    },
+    "why": {
+     "pt": "Afasta apendicite.",
+     "en": "Helps exclude appendicitis."
+    }
+   },
+   {
+    "id": "a_dieta",
+    "class": "desnecessaria",
+    "ref": "p. 287",
+    "label": {
+     "pt": "Hábito intestinal",
+     "en": "Bowel habits"
+    },
+    "result": {
+     "pt": "Normal.",
+     "en": "Normal."
+    },
+    "why": {
+     "pt": "Não altera o escore nem a conduta.",
+     "en": "Does not change the score or management."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   }
+  ],
+  "exame": [
+   {
+    "id": "e_abd",
+    "class": "essencial",
+    "ref": "p. 287, 289",
+    "label": {
+     "pt": "Exame abdominal (irritação peritoneal)",
+     "en": "Abdominal exam (peritoneal signs)"
+    },
+    "result": {
+     "pt": "Dor à palpação profunda em fossa ilíaca direita, sem sinais de peritonite.",
+     "en": "Deep right iliac fossa tenderness, no peritonitis."
+    },
+    "why": {
+     "pt": "Irritação peritoneal é rara (12% a 27%), mas aumenta muito a probabilidade (OR 100,9).",
+     "en": "Peritoneal signs are rare (12%–27%) but greatly increase probability (OR 100.9)."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Defesa à palpação profunda em fossa ilíaca direita.",
+       "en": "Guarding on deep right iliac fossa palpation."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_toque",
+    "class": "essencial",
+    "ref": "p. 288",
+    "label": {
+     "pt": "Toque vaginal bimanual",
+     "en": "Bimanual exam"
+    },
+    "result": {
+     "pt": "Dor à palpação do anexo direito.",
+     "en": "Right adnexal tenderness."
+    },
+    "why": {
+     "pt": "Dor ovariana soma 2 pontos no SAQ-GE.",
+     "en": "Ovarian tenderness adds 2 points in the SAQ-GE."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Anexo direito doloroso e aumentado.",
+       "en": "Tender, enlarged right adnexa."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_espec",
+    "class": "pertinente",
+    "ref": "p. 288",
+    "label": {
+     "pt": "Exame especular",
+     "en": "Speculum exam"
+    },
+    "result": {
+     "pt": "Sem sangramento ou leucorreia.",
+     "en": "No bleeding or discharge."
+    },
+    "why": {
+     "pt": "Confirma ausência de leucorreia e metrorragia.",
+     "en": "Confirms absence of discharge and metrorrhagia."
+    }
+   },
+   {
+    "id": "e_ppl",
+    "class": "pertinente",
+    "ref": "p. 289",
+    "label": {
+     "pt": "Punho-percussão lombar",
+     "en": "CVA percussion"
+    },
+    "result": {
+     "pt": "Negativa.",
+     "en": "Negative."
+    },
+    "why": {
+     "pt": "Diferencial com cólica renal.",
+     "en": "Differential with renal colic."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   }
+  ],
+  "lab": [
+   {
+    "id": "l_hcg",
+    "class": "essencial",
+    "ref": "p. 289",
+    "label": {
+     "pt": "β-hCG",
+     "en": "β-hCG"
+    },
+    "result": {
+     "pt": "Negativo.",
+     "en": "Negative."
+    },
+    "why": {
+     "pt": "Essencial para excluir gravidez ectópica.",
+     "en": "Essential to exclude ectopic pregnancy."
+    }
+   },
+   {
+    "id": "l_hemo",
+    "class": "pertinente",
+    "ref": "p. 284, 290",
+    "label": {
+     "pt": "Hemograma com relação neutrófilo-linfócito",
+     "en": "CBC with neutrophil-lymphocyte ratio"
+    },
+    "result": {
+     "pt": "Leucócitos 12.340/mm³; RNL 4,8.",
+     "en": "WBC 12,340/mm³; NLR 4.8."
+    },
+    "why": {
+     "pt": "RNL > 3,5: LR+ 5,24, LR− 0,24; usar em conjunto com clínica e ultrassonografia.",
+     "en": "NLR > 3.5: LR+ 5.24, LR− 0.24; use together with clinical and ultrasound findings."
+    }
+   },
+   {
+    "id": "l_pcr",
+    "class": "desnecessaria",
+    "ref": "p. 287",
+    "label": {
+     "pt": "Proteína C-reativa e VSG",
+     "en": "C-reactive protein and ESR"
+    },
+    "result": {
+     "pt": "PCR 8 mg/L.",
+     "en": "CRP 8 mg/L."
+    },
+    "why": {
+     "pt": "Sem valor diagnóstico estabelecido para torção.",
+     "en": "No established diagnostic value for torsion."
+    }
+   },
+   {
+    "id": "l_equ",
+    "class": "pertinente",
+    "ref": "p. 289",
+    "label": {
+     "pt": "Exame de urina",
+     "en": "Urinalysis"
+    },
+    "result": {
+     "pt": "Sem hematúria.",
+     "en": "No hematuria."
+    },
+    "why": {
+     "pt": "Afasta cólica renal.",
+     "en": "Helps exclude renal colic."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   }
+  ],
+  "imagem": [
+   {
+    "id": "i_doppler",
+    "class": "essencial",
+    "ref": "p. 284, 290–291",
+    "label": {
+     "pt": "Ultrassonografia transvaginal com Doppler",
+     "en": "Transvaginal ultrasound with Doppler"
+    },
+    "result": {
+     "pt": "Ovário direito de 65 cm³, folículos deslocados para a periferia e sinal do redemoinho ao Doppler.",
+     "en": "65-cm³ right ovary, peripheral follicles and whirlpool sign on Doppler."
+    },
+    "why": {
+     "pt": "Indicada com SAQ-GE ≥ 7; sinal do redemoinho LR+ 7,22; fluxo ausente LR+ 10,6.",
+     "en": "Indicated with SAQ-GE ≥ 7; whirlpool sign LR+ 7.22; absent flow LR+ 10.6."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Ovário direito de 8,1 × 6,1 cm com cisto de 6,7 × 4,1 cm, folículos periféricos (edema estromal) e ausência de fluxo ao Doppler.",
+       "en": "8.1 × 6.1 cm right ovary with a 6.7 × 4.1 cm cyst, peripheral follicles (stromal edema) and absent Doppler flow."
+      }
+     }
+    }
+   },
+   {
+    "id": "i_tc",
+    "class": "desnecessaria",
+    "ref": "p. 290",
+    "label": {
+     "pt": "Tomografia de abdome e pelve",
+     "en": "Abdominal and pelvic CT"
+    },
+    "result": {
+     "pt": "Ovário direito aumentado.",
+     "en": "Enlarged right ovary."
+    },
+    "why": {
+     "pt": "Reservada para casos atípicos e indeterminados; atrasa a cirurgia.",
+     "en": "Reserved for atypical, indeterminate cases; delays surgery."
+    }
+   },
+   {
+    "id": "i_rm",
+    "class": "desnecessaria",
+    "ref": "p. 290",
+    "label": {
+     "pt": "Ressonância magnética da pelve",
+     "en": "Pelvic MRI"
+    },
+    "result": {
+     "pt": "Agendada.",
+     "en": "Scheduled."
+    },
+    "why": {
+     "pt": "Reservada para casos atípicos, por custo e tempo.",
+     "en": "Reserved for atypical cases because of cost and time."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   }
+  ],
+  "conduta": [
+   {
+    "id": "c_lap",
+    "class": "essencial",
+    "ref": "p. 291",
+    "label": {
+     "pt": "Laparoscopia de emergência",
+     "en": "Emergency laparoscopy"
+    },
+    "why": {
+     "pt": "Diagnóstico cirúrgico; com suspeita alta, laparoscopia precoce.",
+     "en": "Surgical diagnosis; with high suspicion, early laparoscopy."
+    },
+    "group": "procedimento"
+   },
+   {
+    "id": "c_destorcao",
+    "class": "essencial",
+    "ref": "p. 291",
+    "label": {
+     "pt": "Destorção independentemente do aspecto do ovário, com preservação ovariana",
+     "en": "Detorsion regardless of ovarian appearance, with ovarian preservation"
+    },
+    "why": {
+     "pt": "A aparência visual não indica viabilidade; preservar o ovário, exceto se ooforectomia inevitável.",
+     "en": "Appearance does not indicate viability; preserve the ovary unless oophorectomy is unavoidable."
+    },
+    "group": "procedimento",
+    "byLevel": {
+     "3": {
+      "label": {
+       "pt": "Destorção com preservação ovariana; ooforectomia somente se o ovário se desintegrar à manipulação",
+       "en": "Detorsion with ovarian preservation; oophorectomy only if the ovary disintegrates on handling"
+      }
+     }
+    }
+   },
+   {
+    "id": "c_oofcor",
+    "class": "contraindicada",
+    "ref": "p. 293",
+    "label": {
+     "pt": "Ooforectomia se o ovário estiver preto ou azulado",
+     "en": "Oophorectomy if the ovary is black or blue"
+    },
+    "why": {
+     "pt": "Mito: múltiplos estudos mostram função ovariana preservada apesar do aspecto isquêmico (Pérola 1).",
+     "en": "Myth: many studies show preserved ovarian function despite an ischemic look (Pearl 1)."
+    },
+    "group": "procedimento"
+   },
+   {
+    "id": "c_oofpexia",
+    "class": "desnecessaria",
+    "ref": "p. 291",
+    "label": {
+     "pt": "Ooforopexia de rotina",
+     "en": "Routine oophoropexy"
+    },
+    "why": {
+     "pt": "Indicada apenas em torções recorrentes ou ligamentos anormalmente longos.",
+     "en": "Indicated only for recurrent torsion or abnormally long ligaments."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "procedimento"
+   },
+   {
+    "id": "c_embolia",
+    "class": "contraindicada",
+    "ref": "p. 293",
+    "label": {
+     "pt": "Evitar a destorção pelo risco de tromboembolismo",
+     "en": "Avoid detorsion because of thromboembolism risk"
+    },
+    "why": {
+     "pt": "Mito: não há relatos de tromboembolismo após destorção (Pérola 2).",
+     "en": "Myth: no thromboembolism after detorsion has been reported (Pearl 2)."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "orientacao"
+   },
+   {
+    "id": "c_analg",
+    "class": "pertinente",
+    "ref": "p. 284",
+    "label": {
+     "pt": "Analgesia e antiemético enquanto se prepara a cirurgia",
+     "en": "Analgesia and antiemetic while preparing for surgery"
+    },
+    "why": {
+     "pt": "Medida de suporte.",
+     "en": "Supportive measure."
+    },
+    "group": "medicamento"
+   },
+   {
+    "id": "c_atb",
+    "class": "desnecessaria",
+    "ref": "p. 289",
+    "label": {
+     "pt": "Antibioticoterapia para DIP",
+     "en": "Antibiotics for PID"
+    },
+    "why": {
+     "pt": "Sem leucorreia e com início súbito com vômitos, o quadro não é de DIP.",
+     "en": "Without discharge and with sudden onset and vomiting, the picture is not PID."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_observ",
+    "class": "contraindicada",
+    "ref": "p. 284, 291",
+    "label": {
+     "pt": "Observação com analgesia e reavaliação em 12 horas",
+     "en": "Observation with analgesia and reassessment in 12 hours"
+    },
+    "why": {
+     "pt": "O atraso no diagnóstico é o principal determinante da perda ovariana.",
+     "en": "Diagnostic delay is the main determinant of ovarian loss."
+    },
+    "group": "destino",
+    "grave": true,
+    "outcome": {
+     "pt": "Necrose ovariana irreversível com ooforectomia (p. 291).",
+     "en": "Irreversible ovarian necrosis requiring oophorectomy (p. 291)."
+    }
+   },
+   {
+    "id": "c_bloco",
+    "class": "essencial",
+    "ref": "p. 291",
+    "label": {
+     "pt": "Encaminhar ao bloco cirúrgico",
+     "en": "Send to the operating room"
+    },
+    "why": {
+     "pt": "Torção é emergência cirúrgica.",
+     "en": "Torsion is a surgical emergency."
+    },
+    "group": "destino"
+   }
+  ]
+ }
+}

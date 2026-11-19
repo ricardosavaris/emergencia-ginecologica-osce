@@ -1,0 +1,864 @@
+{
+ "id": "c14",
+ "title": {
+  "pt": "Distensão abdominal e vômitos",
+  "en": "Abdominal distension and vomiting"
+ },
+ "chapter": {
+  "pt": "Síndrome de hiperestimulação ovariana",
+  "en": "Ovarian hyperstimulation syndrome"
+ },
+ "pages": "p. 269–283",
+ "base": {
+  "triage": {
+   "pt": "Mulher de 28 anos, nulípara, procura a emergência por dor abdominal em cólica intensa, distensão abdominal progressiva, vômitos incoercíveis e ganho de 4 kg nos últimos 2 dias.",
+   "en": "28-year-old nulliparous woman presents with severe cramping abdominal pain, progressive abdominal distension, intractable vomiting and 4-kg weight gain over 2 days."
+  },
+  "vitals": {
+   "PA": "88/60 mmHg",
+   "FC": "112 bpm",
+   "FR": "20 mrpm",
+   "Tax": "36,7 °C",
+   "SpO2": "97%"
+  },
+  "correctDiagnosis": "sho_grave",
+  "diagnosisExplanation": {
+   "pt": "FIV com gatilho de hCG e 24 oócitos captados há 4 dias; ascite clínica, hipotensão, Hb 17,2 g/dL (hemoconcentração), Na⁺ 129 mEq/L, K⁺ 5,1 mEq/L, creatinina 1,4 mg/dL, albumina 2,8 g/dL e ovários de 15 × 12 cm: SHO precoce grave (grau III) (Tabela 3, p. 273; Caso 1, p. 278–279).",
+   "en": "IVF with hCG trigger and 24 oocytes retrieved 4 days ago; clinical ascites, hypotension, Hb 17.2 g/dL (hemoconcentration), Na⁺ 129 mEq/L, K⁺ 5.1 mEq/L, creatinine 1.4 mg/dL, albumin 2.8 g/dL and 15 × 12 cm ovaries: severe early OHSS (grade III) (Table 3, p. 273; Case 1, p. 278–279)."
+  },
+  "learning": {
+   "pt": "Pergunte sempre sobre tratamento de fertilidade: a SHO é um diagnóstico que é preciso lembrar para fazer (Pérola 1, p. 280).\nNa SHO grave: internação, cristaloide isotônico, albumina 20% se hipoalbuminemia ≤ 3,0 g/dL, paracentese guiada por ultrassonografia e enoxaparina 40 mg SC/dia desde o diagnóstico (p. 277; Pérola 4, p. 281). AINEs (nefrotóxicos) e diuréticos (agravam a hipovolemia) são contraindicados na fase aguda (p. 269).\nA hiponatremia é dilucional: não tratar com restrição de sódio nem salina hipertônica; restaure a pressão oncótica e drene a ascite (Caso 1, p. 279; Pérola 2, p. 280). A paracentese reduz a pressão intra-abdominal e melhora a perfusão renal (Pérola 3, p. 280).",
+   "en": "Always ask about fertility treatment: OHSS is a diagnosis you must remember to make (Pearl 1, p. 280).\nIn severe OHSS: admission, isotonic crystalloid, 20% albumin if albumin ≤ 3.0 g/dL, ultrasound-guided paracentesis and enoxaparin 40 mg SC daily from diagnosis (p. 277; Pearl 4, p. 281). NSAIDs (nephrotoxic) and diuretics (worsen hypovolemia) are contraindicated in the acute phase (p. 269).\nHyponatremia is dilutional: do not treat with sodium restriction or hypertonic saline; restore oncotic pressure and drain ascites (Case 1, p. 279; Pearl 2, p. 280). Paracentesis lowers intra-abdominal pressure and improves renal perfusion (Pearl 3, p. 280)."
+  }
+ },
+ "levels": {
+  "3": {
+   "triage": {
+    "pt": "Mulher de 32 anos, G1P1, procura a emergência por dor abdominal intensa, distensão progressiva, falta de ar aos esforços e ganho de 5 kg em 4 dias.",
+    "en": "32-year-old woman, G1P1, presents with severe abdominal pain, progressive distension, exertional dyspnea and 5-kg weight gain over 4 days."
+   },
+   "vitals": {
+    "PA": "105/70 mmHg",
+    "FC": "98 bpm",
+    "FR": "24 mrpm",
+    "Tax": "36,8 °C",
+    "SpO2": "93%"
+   },
+   "correctDiagnosis": "sho_tardia",
+   "diagnosisExplanation": {
+    "pt": "FIV com transferência a fresco há 6 dias, β-hCG de 2.340 mUI/mL, gestação intrauterina tópica, ascite moderada, ovários de 11 × 9 cm, derrame pleural direito com SpO₂ 93% e Hb 16 g/dL: SHO tardia grave, desencadeada pelo hCG endógeno da implantação (Caso 2, p. 279–280). Conduta: internação, albumina, toracocentese, enoxaparina até pelo menos 12 semanas de gestação e paracentese guiada por ultrassonografia.",
+    "en": "IVF with fresh transfer 6 days ago, β-hCG 2,340 mIU/mL, intrauterine pregnancy, moderate ascites, 11 × 9 cm ovaries, right pleural effusion with SpO₂ 93% and Hb 16 g/dL: severe late OHSS triggered by endogenous hCG from implantation (Case 2, p. 279–280). Management: admission, albumin, thoracentesis, enoxaparin until at least 12 weeks' gestation and ultrasound-guided paracentesis."
+   },
+   "learning": {
+    "pt": "A SHO tardia (≥ 9 a 12 dias após o hCG) é mais grave e duradoura, pois o hCG endógeno perpetua a produção de VEGF (p. 273; Caso 2, p. 280).\nToda paciente com SHO deve ter β-hCG e ultrassonografia transvaginal para confirmar a localização da gravidez, excluir ectópica (que pode coexistir) e orientar o prognóstico (Caso 2, p. 280–281). Gravidez não contraindica o tratamento: a enoxaparina é segura e indicada, até pelo menos 12 semanas (p. 280).\nO derrame pleural direito resulta da drenagem linfática diafragmática; a toracocentese alivia a dispneia de imediato (Caso 2, p. 280).",
+    "en": "Late OHSS (≥ 9–12 days after hCG) is more severe and prolonged, because endogenous hCG sustains VEGF production (p. 273; Case 2, p. 280).\nEvery OHSS patient needs β-hCG and transvaginal ultrasound to confirm pregnancy location, exclude ectopic pregnancy (which may coexist) and guide prognosis (Case 2, p. 280–281). Pregnancy does not contraindicate treatment: enoxaparin is safe and indicated, until at least 12 weeks (p. 280).\nThe right pleural effusion results from diaphragmatic lymphatic drainage; thoracentesis relieves dyspnea immediately (Case 2, p. 280)."
+   },
+   "timerMinutes": 15
+  }
+ },
+ "diagnoses": [
+  {
+   "id": "sho_leve",
+   "label": {
+    "pt": "SHO leve",
+    "en": "Mild OHSS"
+   }
+  },
+  {
+   "id": "sho_mod",
+   "label": {
+    "pt": "SHO moderada",
+    "en": "Moderate OHSS"
+   }
+  },
+  {
+   "id": "sho_grave",
+   "label": {
+    "pt": "SHO grave (precoce)",
+    "en": "Severe OHSS (early)"
+   }
+  },
+  {
+   "id": "sho_tardia",
+   "label": {
+    "pt": "SHO grave tardia com gestação intrauterina",
+    "en": "Severe late OHSS with intrauterine pregnancy"
+   }
+  },
+  {
+   "id": "torcao",
+   "label": {
+    "pt": "Torção ovariana",
+    "en": "Ovarian torsion"
+   }
+  },
+  {
+   "id": "ge",
+   "label": {
+    "pt": "Gravidez ectópica",
+    "en": "Ectopic pregnancy"
+   }
+  },
+  {
+   "id": "cisto",
+   "label": {
+    "pt": "Ruptura de cisto ovariano",
+    "en": "Ruptured ovarian cyst"
+   }
+  },
+  {
+   "id": "apend",
+   "label": {
+    "pt": "Apendicite aguda",
+    "en": "Acute appendicitis"
+   }
+  }
+ ],
+ "stages": {
+  "anamnese": [
+   {
+    "id": "a_fiv",
+    "class": "essencial",
+    "ref": "p. 280",
+    "label": {
+     "pt": "Tratamento de fertilidade em curso",
+     "en": "Ongoing fertility treatment"
+    },
+    "result": {
+     "pt": "Primeiro ciclo de FIV: gatilho com hCG 10.000 UI; 24 oócitos coletados há 4 dias; sem transferência.",
+     "en": "First IVF cycle: hCG 10,000 IU trigger; 24 oocytes retrieved 4 days ago; no transfer."
+    },
+    "why": {
+     "pt": "Essa pergunta muda todo o raciocínio diagnóstico (Pérola 1).",
+     "en": "This question changes the whole diagnostic reasoning (Pearl 1)."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Segundo ciclo de FIV: gatilho com agonista GnRH; 11 oócitos coletados há 12 dias; transferência a fresco de 2 embriões há 6 dias.",
+       "en": "Second IVF cycle: GnRH agonist trigger; 11 oocytes retrieved 12 days ago; fresh transfer of 2 embryos 6 days ago."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_diurese",
+    "class": "essencial",
+    "ref": "p. 273–276",
+    "label": {
+     "pt": "Volume urinário",
+     "en": "Urine output"
+    },
+    "result": {
+     "pt": "Urina pouco desde ontem.",
+     "en": "Little urine since yesterday."
+    },
+    "why": {
+     "pt": "Oligúria indica SHO grave e é critério de internação.",
+     "en": "Oliguria indicates severe OHSS and is an admission criterion."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Diurese reduzida.",
+       "en": "Reduced urine output."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_dispneia",
+    "class": "essencial",
+    "ref": "p. 273",
+    "label": {
+     "pt": "Dispneia",
+     "en": "Dyspnea"
+    },
+    "result": {
+     "pt": "Leve desconforto respiratório ao deitar.",
+     "en": "Mild breathing discomfort when lying down."
+    },
+    "why": {
+     "pt": "Dispneia intensa, hidrotórax e derrame pleural caracterizam SHO grave.",
+     "en": "Severe dyspnea, hydrothorax and pleural effusion characterize severe OHSS."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Dispneia aos esforços há 2 dias.",
+       "en": "Exertional dyspnea for 2 days."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_dor",
+    "class": "pertinente",
+    "ref": "p. 274",
+    "label": {
+     "pt": "Caráter da dor",
+     "en": "Pain character"
+    },
+    "result": {
+     "pt": "Dor difusa, em cólica, progressiva.",
+     "en": "Diffuse, cramping, progressive pain."
+    },
+    "why": {
+     "pt": "Dor súbita, unilateral, em cólica sugere torção; dor migratória para FID sugere apendicite.",
+     "en": "Sudden unilateral cramping pain suggests torsion; pain migrating to the RLQ suggests appendicitis."
+    }
+   },
+   {
+    "id": "a_peso",
+    "class": "pertinente",
+    "ref": "p. 273, 276",
+    "label": {
+     "pt": "Ganho de peso diário",
+     "en": "Daily weight gain"
+    },
+    "result": {
+     "pt": "2 kg por dia.",
+     "en": "2 kg per day."
+    },
+    "why": {
+     "pt": "Ganho > 1 kg/24 h é critério de SHO grave e de internação.",
+     "en": "Gain > 1 kg/24 h is a criterion for severe OHSS and admission."
+    }
+   },
+   {
+    "id": "a_hcg",
+    "class": "pertinente",
+    "ref": "p. 274, 280",
+    "label": {
+     "pt": "Teste de gravidez após o procedimento",
+     "en": "Pregnancy test after the procedure"
+    },
+    "result": {
+     "pt": "Não fez; não houve transferência.",
+     "en": "Not done; no transfer."
+    },
+    "why": {
+     "pt": "O β-hCG define o desfecho do ciclo; gestação mantém o estímulo (SHO tardia).",
+     "en": "β-hCG defines the cycle outcome; pregnancy sustains the stimulus (late OHSS)."
+    },
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "result": {
+       "pt": "Teste de farmácia positivo ontem.",
+       "en": "Positive home test yesterday."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_dieta",
+    "class": "desnecessaria",
+    "ref": "p. 276",
+    "label": {
+     "pt": "Ingestão de sal",
+     "en": "Salt intake"
+    },
+    "result": {
+     "pt": "Habitual.",
+     "en": "Usual."
+    },
+    "why": {
+     "pt": "A hiponatremia é dilucional; restrição de sódio não faz parte do tratamento.",
+     "en": "Hyponatremia is dilutional; sodium restriction is not part of treatment."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   }
+  ],
+  "exame": [
+   {
+    "id": "e_hemod",
+    "class": "essencial",
+    "ref": "p. 273",
+    "label": {
+     "pt": "Perfusão e estado hemodinâmico",
+     "en": "Perfusion and hemodynamic status"
+    },
+    "result": {
+     "pt": "Mucosas secas; enchimento capilar 3 s.",
+     "en": "Dry mucous membranes; capillary refill 3 s."
+    },
+    "why": {
+     "pt": "Instabilidade hemodinâmica caracteriza a forma crítica.",
+     "en": "Hemodynamic instability characterizes the critical form."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Corada, perfusão normal.",
+       "en": "Pink, normal perfusion."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_abd",
+    "class": "essencial",
+    "ref": "p. 273",
+    "label": {
+     "pt": "Exame abdominal",
+     "en": "Abdominal exam"
+    },
+    "result": {
+     "pt": "Distendido, doloroso difusamente, com macicez em flancos.",
+     "en": "Distended, diffusely tender, with flank dullness."
+    },
+    "why": {
+     "pt": "Ascite clínica define a forma grave.",
+     "en": "Clinical ascites defines the severe form."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Distendido, com macicez móvel.",
+       "en": "Distended, with shifting dullness."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_pulm",
+    "class": "essencial",
+    "ref": "p. 273, 280",
+    "label": {
+     "pt": "Ausculta pulmonar",
+     "en": "Lung auscultation"
+    },
+    "result": {
+     "pt": "Murmúrio vesicular presente bilateralmente.",
+     "en": "Breath sounds present bilaterally."
+    },
+    "why": {
+     "pt": "Derrame pleural indica SHO grave.",
+     "en": "Pleural effusion indicates severe OHSS."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Murmúrio vesicular abolido na base direita.",
+       "en": "Absent breath sounds at the right base."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_circ",
+    "class": "pertinente",
+    "ref": "p. 276",
+    "label": {
+     "pt": "Peso e circunferência abdominal",
+     "en": "Weight and abdominal girth"
+    },
+    "result": {
+     "pt": "Registrados para seguimento diário.",
+     "en": "Recorded for daily follow-up."
+    },
+    "why": {
+     "pt": "Monitoramento diário de peso, circunferência e diurese.",
+     "en": "Daily monitoring of weight, girth and urine output."
+    }
+   },
+   {
+    "id": "e_mmii",
+    "class": "pertinente",
+    "ref": "p. 269, 277",
+    "label": {
+     "pt": "Membros inferiores (sinais de TVP)",
+     "en": "Lower limbs (signs of DVT)"
+    },
+    "result": {
+     "pt": "Sem edema assimétrico.",
+     "en": "No asymmetric edema."
+    },
+    "why": {
+     "pt": "Risco tromboembólico elevado na SHO.",
+     "en": "High thromboembolic risk in OHSS."
+    }
+   }
+  ],
+  "lab": [
+   {
+    "id": "l_hemo",
+    "class": "essencial",
+    "ref": "p. 274–275",
+    "label": {
+     "pt": "Hemograma com hematócrito",
+     "en": "CBC with hematocrit"
+    },
+    "result": {
+     "pt": "Hb 17,2 g/dL; Ht 51%; leucócitos 18.400/mm³.",
+     "en": "Hb 17.2 g/dL; Hct 51%; WBC 18,400/mm³."
+    },
+    "why": {
+     "pt": "Ht > 45% é o melhor marcador isolado de hemoconcentração e indica SHO grave.",
+     "en": "Hct > 45% is the best single marker of hemoconcentration and indicates severe OHSS."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Hb 16 g/dL; Ht 47%; leucócitos 16.900/mm³.",
+       "en": "Hb 16 g/dL; Hct 47%; WBC 16,900/mm³."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_renal",
+    "class": "essencial",
+    "ref": "p. 274–275",
+    "label": {
+     "pt": "Creatinina, sódio e potássio",
+     "en": "Creatinine, sodium and potassium"
+    },
+    "result": {
+     "pt": "Creatinina 1,4 mg/dL; Na⁺ 129 mEq/L; K⁺ 5,1 mEq/L.",
+     "en": "Creatinine 1.4 mg/dL; Na⁺ 129 mEq/L; K⁺ 5.1 mEq/L."
+    },
+    "why": {
+     "pt": "Creatinina > 1,2 é critério de internação; Na⁺ < 135 e K⁺ > 5 nas formas graves.",
+     "en": "Creatinine > 1.2 is an admission criterion; Na⁺ < 135 and K⁺ > 5 in severe forms."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Creatinina 0,9 mg/dL; Na⁺ 134 mEq/L; K⁺ 4,6 mEq/L.",
+       "en": "Creatinine 0.9 mg/dL; Na⁺ 134 mEq/L; K⁺ 4.6 mEq/L."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_alb",
+    "class": "essencial",
+    "ref": "p. 274–275",
+    "label": {
+     "pt": "Albumina sérica",
+     "en": "Serum albumin"
+    },
+    "result": {
+     "pt": "2,8 g/dL.",
+     "en": "2.8 g/dL."
+    },
+    "why": {
+     "pt": "≤ 3 g/dL orienta reposição de albumina IV.",
+     "en": "≤ 3 g/dL guides IV albumin replacement."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "2,9 g/dL.",
+       "en": "2.9 g/dL."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_bhcg",
+    "class": "essencial",
+    "ref": "p. 274, 280",
+    "label": {
+     "pt": "β-hCG sérico",
+     "en": "Serum β-hCG"
+    },
+    "result": {
+     "pt": "Negativo.",
+     "en": "Negative."
+    },
+    "why": {
+     "pt": "Mandatório para definir o desfecho do ciclo.",
+     "en": "Mandatory to define the cycle outcome."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "2.340 mUI/mL.",
+       "en": "2,340 mIU/mL."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_hep",
+    "class": "pertinente",
+    "ref": "p. 274",
+    "label": {
+     "pt": "TGO/TGP",
+     "en": "AST/ALT"
+    },
+    "result": {
+     "pt": "TGO 48 U/L; TGP 52 U/L.",
+     "en": "AST 48 U/L; ALT 52 U/L."
+    },
+    "why": {
+     "pt": "Elevação nas formas graves.",
+     "en": "Elevated in severe forms."
+    }
+   },
+   {
+    "id": "l_coag",
+    "class": "pertinente",
+    "ref": "p. 274",
+    "label": {
+     "pt": "Coagulograma e D-dímero",
+     "en": "Coagulation panel and D-dimer"
+    },
+    "result": {
+     "pt": "TP e TTPA normais; fibrinogênio 520 mg/dL; D-dímero 210 ng/mL.",
+     "en": "Normal PT and aPTT; fibrinogen 520 mg/dL; D-dimer 210 ng/mL."
+    },
+    "why": {
+     "pt": "Avaliam risco tromboembólico e CIVD.",
+     "en": "Assess thromboembolic risk and DIC."
+    }
+   },
+   {
+    "id": "l_gaso",
+    "class": "desnecessaria",
+    "ref": "p. 275",
+    "label": {
+     "pt": "Gasometria arterial",
+     "en": "Arterial blood gas"
+    },
+    "result": {
+     "pt": "pH 7,36; pO₂ 88 mmHg.",
+     "en": "pH 7.36; pO₂ 88 mmHg."
+    },
+    "why": {
+     "pt": "Indicada com comprometimento respiratório.",
+     "en": "Indicated with respiratory compromise."
+    },
+    "byLevel": {
+     "3": {
+      "class": "pertinente",
+      "result": {
+       "pt": "pH 7,42; pO₂ 66 mmHg.",
+       "en": "pH 7.42; pO₂ 66 mmHg."
+      }
+     }
+    }
+   }
+  ],
+  "imagem": [
+   {
+    "id": "i_us",
+    "class": "essencial",
+    "ref": "p. 274–275",
+    "label": {
+     "pt": "Ultrassonografia transvaginal/abdominal à beira do leito",
+     "en": "Bedside transvaginal/abdominal ultrasound"
+    },
+    "result": {
+     "pt": "Ovários de 15 × 12 cm bilateralmente; ascite moderada a volumosa.",
+     "en": "15 × 12 cm ovaries bilaterally; moderate to large ascites."
+    },
+    "why": {
+     "pt": "Exame de escolha: tamanho ovariano, ascite e derrame pleural.",
+     "en": "Study of choice: ovarian size, ascites and pleural effusion."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Gestação intrauterina tópica; ovários de 11 × 9 cm; ascite moderada; derrame pleural direito.",
+       "en": "Intrauterine pregnancy; 11 × 9 cm ovaries; moderate ascites; right pleural effusion."
+      }
+     }
+    }
+   },
+   {
+    "id": "i_rx",
+    "class": "desnecessaria",
+    "ref": "p. 274",
+    "label": {
+     "pt": "Radiografia de tórax",
+     "en": "Chest X-ray"
+    },
+    "result": {
+     "pt": "Sem derrame pleural.",
+     "en": "No pleural effusion."
+    },
+    "why": {
+     "pt": "Usada quando não há ultrassonografia para avaliar derrame.",
+     "en": "Used when ultrasound is unavailable to assess effusion."
+    },
+    "byLevel": {
+     "3": {
+      "class": "pertinente",
+      "result": {
+       "pt": "Derrame pleural direito moderado.",
+       "en": "Moderate right pleural effusion."
+      }
+     }
+    }
+   },
+   {
+    "id": "i_eco",
+    "class": "desnecessaria",
+    "ref": "p. 274",
+    "label": {
+     "pt": "Ecocardiograma",
+     "en": "Echocardiogram"
+    },
+    "result": {
+     "pt": "Sem derrame pericárdico.",
+     "en": "No pericardial effusion."
+    },
+    "why": {
+     "pt": "Indicado na suspeita de derrame pericárdico ou instabilidade.",
+     "en": "Indicated for suspected pericardial effusion or instability."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "byLevel": {
+     "3": {
+      "class": "pertinente"
+     }
+    }
+   },
+   {
+    "id": "i_tc",
+    "class": "desnecessaria",
+    "ref": "p. 274",
+    "label": {
+     "pt": "Tomografia de abdome",
+     "en": "Abdominal CT"
+    },
+    "result": {
+     "pt": "Ovários aumentados e ascite.",
+     "en": "Enlarged ovaries and ascites."
+    },
+    "why": {
+     "pt": "O diagnóstico é clínico-ultrassonográfico.",
+     "en": "Diagnosis is clinical and ultrasound-based."
+    }
+   }
+  ],
+  "conduta": [
+   {
+    "id": "c_crist",
+    "class": "essencial",
+    "ref": "p. 277, 279",
+    "label": {
+     "pt": "Cristaloide isotônico IV (SF 0,9% ou Ringer lactato)",
+     "en": "IV isotonic crystalloid (0.9% saline or lactated Ringer's)"
+    },
+    "why": {
+     "pt": "Restaura volume intravascular e perfusão renal.",
+     "en": "Restores intravascular volume and renal perfusion."
+    },
+    "group": "medicamento",
+    "byLevel": {
+     "3": {
+      "class": "pertinente"
+     }
+    }
+   },
+   {
+    "id": "c_alb",
+    "class": "essencial",
+    "ref": "p. 277",
+    "label": {
+     "pt": "Albumina humana 20% IV",
+     "en": "20% human albumin IV"
+    },
+    "why": {
+     "pt": "Indicada com albumina ≤ 3,0 g/dL ou perfusão inadequada.",
+     "en": "Indicated with albumin ≤ 3.0 g/dL or inadequate perfusion."
+    },
+    "group": "medicamento"
+   },
+   {
+    "id": "c_enox",
+    "class": "essencial",
+    "ref": "p. 269, 277, 281",
+    "label": {
+     "pt": "Enoxaparina 40 mg SC/dia desde o diagnóstico",
+     "en": "Enoxaparin 40 mg SC daily from diagnosis"
+    },
+    "why": {
+     "pt": "Tromboprofilaxia mandatória em todas as internadas (Pérola 4).",
+     "en": "Mandatory thromboprophylaxis for all inpatients (Pearl 4)."
+    },
+    "group": "medicamento",
+    "byLevel": {
+     "3": {
+      "label": {
+       "pt": "Enoxaparina 40 mg SC/dia, mantida até pelo menos 12 semanas de gestação",
+       "en": "Enoxaparin 40 mg SC daily, continued until at least 12 weeks' gestation"
+      },
+      "why": {
+       "pt": "A gestação aumenta o risco de TEV; a enoxaparina é segura e indicada (Caso 2).",
+       "en": "Pregnancy increases VTE risk; enoxaparin is safe and indicated (Case 2)."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_sint",
+    "class": "pertinente",
+    "ref": "p. 276, 279",
+    "label": {
+     "pt": "Ondansetrona e analgesia com paracetamol ou tramadol",
+     "en": "Ondansetron and analgesia with acetaminophen or tramadol"
+    },
+    "why": {
+     "pt": "Controle de vômitos e dor sem AINE.",
+     "en": "Control of vomiting and pain without NSAIDs."
+    },
+    "group": "medicamento"
+   },
+   {
+    "id": "c_aine",
+    "class": "contraindicada",
+    "ref": "p. 269, 276",
+    "label": {
+     "pt": "Anti-inflamatório não esteroide para a dor",
+     "en": "NSAID for pain"
+    },
+    "why": {
+     "pt": "Nefrotóxico; contraindicado na fase aguda.",
+     "en": "Nephrotoxic; contraindicated in the acute phase."
+    },
+    "group": "medicamento"
+   },
+   {
+    "id": "c_diur",
+    "class": "contraindicada",
+    "ref": "p. 269",
+    "label": {
+     "pt": "Furosemida para reduzir a ascite",
+     "en": "Furosemide to reduce ascites"
+    },
+    "why": {
+     "pt": "Diuréticos agravam a hipovolemia.",
+     "en": "Diuretics worsen hypovolemia."
+    },
+    "group": "medicamento"
+   },
+   {
+    "id": "c_sal",
+    "class": "contraindicada",
+    "ref": "p. 279–280",
+    "label": {
+     "pt": "Restrição de sódio ou salina hipertônica para a hiponatremia",
+     "en": "Sodium restriction or hypertonic saline for hyponatremia"
+    },
+    "why": {
+     "pt": "Hiponatremia dilucional: tratar a causa (Pérola 2).",
+     "en": "Dilutional hyponatremia: treat the cause (Pearl 2)."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_parac",
+    "class": "essencial",
+    "ref": "p. 277, 280",
+    "label": {
+     "pt": "Paracentese guiada por ultrassonografia",
+     "en": "Ultrasound-guided paracentesis"
+    },
+    "why": {
+     "pt": "Reduz a pressão intra-abdominal e melhora a perfusão renal (Pérola 3).",
+     "en": "Lowers intra-abdominal pressure and improves renal perfusion (Pearl 3)."
+    },
+    "group": "procedimento",
+    "byLevel": {
+     "3": {
+      "class": "pertinente"
+     }
+    }
+   },
+   {
+    "id": "c_toraco",
+    "class": "essencial",
+    "ref": "p. 280",
+    "label": {
+     "pt": "Toracocentese direita",
+     "en": "Right thoracentesis"
+    },
+    "why": {
+     "pt": "Alivia a dispneia de imediato (Caso 2).",
+     "en": "Relieves dyspnea immediately (Case 2)."
+    },
+    "levels": [
+     3
+    ],
+    "group": "procedimento"
+   },
+   {
+    "id": "c_meias",
+    "class": "pertinente",
+    "ref": "p. 279",
+    "label": {
+     "pt": "Meias elásticas de compressão",
+     "en": "Compression stockings"
+    },
+    "why": {
+     "pt": "Associadas à enoxaparina nos Casos 1 e 2.",
+     "en": "Combined with enoxaparin in Cases 1 and 2."
+    },
+    "group": "procedimento"
+   },
+   {
+    "id": "c_diurese",
+    "class": "essencial",
+    "ref": "p. 275–276",
+    "label": {
+     "pt": "Monitorar débito urinário (meta ≥ 0,5 mL/kg/h), peso e circunferência abdominal",
+     "en": "Monitor urine output (target ≥ 0.5 mL/kg/h), weight and abdominal girth"
+    },
+    "why": {
+     "pt": "Monitoramento da resolução.",
+     "en": "Monitoring resolution."
+    },
+    "group": "orientacao"
+   },
+   {
+    "id": "c_intern",
+    "class": "essencial",
+    "ref": "p. 276–277",
+    "label": {
+     "pt": "Internação hospitalar",
+     "en": "Hospital admission"
+    },
+    "why": {
+     "pt": "SHO grave exige internação intensiva.",
+     "en": "Severe OHSS requires intensive inpatient care."
+    },
+    "group": "destino"
+   },
+   {
+    "id": "c_alta",
+    "class": "contraindicada",
+    "ref": "p. 276",
+    "label": {
+     "pt": "Alta com hidratação oral e retorno em 48 h",
+     "en": "Discharge with oral hydration and return in 48 h"
+    },
+    "why": {
+     "pt": "Manejo ambulatorial é para formas leve e moderada sem critérios de internação.",
+     "en": "Outpatient care is for mild and moderate forms without admission criteria."
+    },
+    "group": "destino",
+    "grave": true,
+    "outcome": {
+     "pt": "A SHO é autolimitada, mas pode matar se não for adequadamente manejada (p. 276).",
+     "en": "OHSS is self-limited but can kill if not properly managed (p. 276)."
+    }
+   }
+  ]
+ }
+}
