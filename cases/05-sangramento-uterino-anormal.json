@@ -1,0 +1,1034 @@
+{
+ "id": "c05",
+ "title": {
+  "pt": "Sangramento vaginal aumentado",
+  "en": "Heavy vaginal bleeding"
+ },
+ "chapter": {
+  "pt": "Sangramento uterino anormal",
+  "en": "Abnormal uterine bleeding"
+ },
+ "pages": "p. 106–132",
+ "base": {
+  "triage": {
+   "pt": "Mulher de 24 anos, G1P1, procura a emergência por sangramento vaginal muito intenso há 2 dias, com coágulos. Refere tontura e um episódio de síncope em casa.",
+   "en": "24-year-old woman, G1P1, presents with very heavy vaginal bleeding for 2 days, with clots. She reports dizziness and one syncopal episode at home."
+  },
+  "vitals": {
+   "PA": "95/60 mmHg",
+   "FC": "115 bpm",
+   "FR": "20 mrpm",
+   "Tax": "36,4 °C",
+   "SpO2": "98%"
+  },
+  "correctDiagnosis": "anovul",
+  "diagnosisExplanation": {
+   "pt": "Gravidez descartada (hCG negativo), sem medicamentos, sem endocrinopatia, sem história de coagulopatia, sem lesão vulvar, vaginal ou cervical e sem causa estrutural: SUA agudo por disfunção ovulatória (anovulação crônica, SOMP/SOP). Na menacme com SUA como único fator de risco, a probabilidade pré-teste de hiperplasia/câncer é de 1,3% (Tabela 2, p. 112). Tratamento agudo: estabilização, ACO com 30 a 35 µg de etinilestradiol 1 comprimido 3×/dia por 7 dias, ácido tranexâmico e AINE (Caso 3, p. 124).",
+   "en": "Pregnancy excluded (negative hCG), no medications, no endocrinopathy, no history of coagulopathy, no vulvar, vaginal or cervical lesion and no structural cause: acute AUB due to ovulatory dysfunction (chronic anovulation, PCOS). In a reproductive-age woman with AUB as the only risk factor, pretest probability of hyperplasia/cancer is 1.3% (Table 2, p. 112). Acute treatment: stabilization, COC with 30–35 µg ethinyl estradiol 1 tablet 3×/day for 7 days, tranexamic acid and an NSAID (Case 3, p. 124)."
+  },
+  "learning": {
+   "pt": "O SUA é um sintoma, não um diagnóstico: siga a sequência gravidez → medicamentos → doença sistêmica → coagulopatia → malignidade → doença benigna → disfunção ovulatória (fluxograma, p. 107; Pérola 3, p. 125).\nNa anovulação, o endométrio é instável; altas doses de ACO o estabilizam rapidamente. Ao fim dos 7 dias, emende nova cartela para evitar sangramento de privação imediato (Caso 3, p. 124).\nO LNG-IUS é o tratamento de manutenção mais eficaz, mas não é primeira linha na emergência (Pérola 4, p. 125). A curetagem oferece alívio temporário e fica reservada para refratariedade ou instabilidade persistente (p. 118–119).",
+   "en": "AUB is a symptom, not a diagnosis: follow the sequence pregnancy → medications → systemic disease → coagulopathy → malignancy → benign disease → ovulatory dysfunction (flowchart, p. 107; Pearl 3, p. 125).\nIn anovulation the endometrium is unstable; high-dose COCs stabilize it quickly. After 7 days, start a new pack immediately to avoid withdrawal bleeding (Case 3, p. 124).\nThe LNG-IUS is the most effective maintenance treatment but is not first line in the emergency setting (Pearl 4, p. 125). Curettage gives temporary relief and is reserved for refractoriness or persistent instability (p. 118–119)."
+  }
+ },
+ "levels": {
+  "3": {
+   "triage": {
+    "pt": "Mulher de 64 anos, pós-menopáusica, internada na clínica médica por tromboembolismo pulmonar, em uso de enoxaparina há 4 dias. A equipe solicita consultoria por sangramento vaginal escasso iniciado ontem.",
+    "en": "64-year-old postmenopausal woman admitted to internal medicine for pulmonary embolism, on enoxaparin for 4 days. The team requests a consult for scant vaginal bleeding that began yesterday."
+   },
+   "vitals": {
+    "PA": "132/80 mmHg",
+    "FC": "82 bpm",
+    "FR": "18 mrpm",
+    "Tax": "36,6 °C",
+    "SpO2": "96%"
+   },
+   "correctDiagnosis": "malig",
+   "diagnosisExplanation": {
+    "pt": "Pós-menopausa com 3 ou mais fatores de risco (nuliparidade, diabetes, IMC 33 kg/m², câncer de cólon prévio): probabilidade pré-teste de hiperplasia/câncer de 57,1% (Tabela 2, p. 112). Espessura endometrial de 4 mm (LR− 0,11) reduz a probabilidade para 12,7%, valor ainda alto: a biópsia de endométrio (Pipelle; LR+ 97,0) é necessária. O resultado foi câncer de endométrio (Caso 2, p. 123).",
+    "en": "Postmenopausal with 3 or more risk factors (nulliparity, diabetes, BMI 33 kg/m², prior colon cancer): pretest probability of hyperplasia/cancer 57.1% (Table 2, p. 112). Endometrial thickness of 4 mm (LR− 0.11) lowers it to 12.7%, still high: endometrial biopsy (Pipelle; LR+ 97.0) is required. The result was endometrial cancer (Case 2, p. 123)."
+   },
+   "learning": {
+    "pt": "Uma avaliação superficial atribuiria o sangramento à enoxaparina. Fatores de risco (diabetes, nuliparidade, câncer de cólon — síndrome de Lynch — e obesidade) definem a probabilidade pré-teste; um exame não deve ser interpretado isoladamente (Caso 2, p. 123).\nCom pré-teste de 57,1%, mesmo uma biópsia negativa (LR− 0,24) deixa probabilidade pós-teste de 24,2%, o que não afasta câncer (p. 115).\nHistória de trombose contraindica estrogênio e ACO (p. 117; Caso 4, p. 124–125).",
+    "en": "A superficial assessment would blame the enoxaparin. Risk factors (diabetes, nulliparity, colon cancer — Lynch syndrome — and obesity) define pretest probability; a test must not be interpreted in isolation (Case 2, p. 123).\nWith 57.1% pretest probability, even a negative biopsy (LR− 0.24) leaves 24.2% post-test probability, which does not exclude cancer (p. 115).\nHistory of thrombosis contraindicates estrogen and COCs (p. 117; Case 4, p. 124–125)."
+   },
+   "timerMinutes": 12
+  }
+ },
+ "diagnoses": [
+  {
+   "id": "anovul",
+   "label": {
+    "pt": "SUA por disfunção ovulatória (anovulação)",
+    "en": "AUB due to ovulatory dysfunction (anovulation)"
+   }
+  },
+  {
+   "id": "coag",
+   "label": {
+    "pt": "SUA por coagulopatia (doença de von Willebrand)",
+    "en": "AUB due to coagulopathy (von Willebrand disease)"
+   }
+  },
+  {
+   "id": "iatro",
+   "label": {
+    "pt": "SUA por medicamento (anticoagulante)",
+    "en": "Medication-related AUB (anticoagulant)"
+   }
+  },
+  {
+   "id": "mioma",
+   "label": {
+    "pt": "SUA por leiomioma uterino",
+    "en": "AUB due to uterine leiomyoma"
+   }
+  },
+  {
+   "id": "polipo",
+   "label": {
+    "pt": "SUA por pólipo endometrial ou endocervical",
+    "en": "AUB due to endometrial or endocervical polyp"
+   }
+  },
+  {
+   "id": "malig",
+   "label": {
+    "pt": "Hiperplasia ou câncer de endométrio",
+    "en": "Endometrial hyperplasia or cancer"
+   }
+  },
+  {
+   "id": "tireo",
+   "label": {
+    "pt": "SUA por doença tireoidiana",
+    "en": "AUB due to thyroid disease"
+   }
+  },
+  {
+   "id": "gest",
+   "label": {
+    "pt": "Sangramento na gestação",
+    "en": "Bleeding in pregnancy"
+   }
+  }
+ ],
+ "stages": {
+  "anamnese": [
+   {
+    "id": "a_gest",
+    "class": "essencial",
+    "ref": "p. 112, 125",
+    "label": {
+     "pt": "Possibilidade de gravidez e ciclos menstruais",
+     "en": "Possibility of pregnancy and menstrual cycles"
+    },
+    "result": {
+     "pt": "Ciclos irregulares desde a menarca; amenorreia nos últimos 4 meses. Tem diagnóstico de SOP.",
+     "en": "Irregular cycles since menarche; amenorrhea for the last 4 months. Diagnosed with PCOS."
+    },
+    "why": {
+     "pt": "Em idade reprodutiva, a primeira pergunta é se a paciente está grávida (Pérola 2).",
+     "en": "In reproductive age, the first question is whether she is pregnant (Pearl 2)."
+    },
+    "byLevel": {
+     "3": {
+      "class": "pertinente",
+      "result": {
+       "pt": "Menopausa aos 52 anos; sem sangramento desde então.",
+       "en": "Menopause at 52; no bleeding since."
+      },
+      "why": {
+       "pt": "Define a população (pós-menopausa) para a probabilidade pré-teste.",
+       "en": "Defines the population (postmenopausal) for pretest probability."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_med",
+    "class": "essencial",
+    "ref": "p. 113",
+    "label": {
+     "pt": "Medicamentos em uso",
+     "en": "Current medications"
+    },
+    "result": {
+     "pt": "Nenhum.",
+     "en": "None."
+    },
+    "why": {
+     "pt": "Anote qualquer medicação e verifique se o SUA é efeito colateral (anticoncepcionais, Depo-Provera, cumarínicos).",
+     "en": "Record every medication and check whether AUB is a side effect (contraceptives, depot medroxyprogesterone, coumarins)."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Enoxaparina 1 mg/kg SC 12/12 h há 4 dias; metformina.",
+       "en": "Enoxaparin 1 mg/kg SC every 12 h for 4 days; metformin."
+      },
+      "why": {
+       "pt": "A anticoagulação é uma causa possível, mas não exclui outras causas, especialmente com fatores de risco para malignidade.",
+       "en": "Anticoagulation is a possible cause but does not exclude others, especially with malignancy risk factors."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_tireo",
+    "class": "essencial",
+    "ref": "p. 113",
+    "label": {
+     "pt": "Intolerância ao calor ou ao frio; saída de leite pelos mamilos",
+     "en": "Heat or cold intolerance; nipple discharge of milk"
+    },
+    "result": {
+     "pt": "Nega.",
+     "en": "Denies."
+    },
+    "why": {
+     "pt": "Doenças da tireoide e galactorreia são as endocrinopatias pesquisadas no fluxograma.",
+     "en": "Thyroid disease and galactorrhea are the endocrinopathies screened in the flowchart."
+    },
+    "byLevel": {
+     "3": {
+      "class": "pertinente"
+     }
+    }
+   },
+   {
+    "id": "a_coag",
+    "class": "essencial",
+    "ref": "p. 113",
+    "label": {
+     "pt": "Menstruação aumentada desde a menarca, sangramento em procedimentos, epistaxe, sangramento gengival, história familiar",
+     "en": "Heavy periods since menarche, bleeding with procedures, epistaxis, gum bleeding, family history"
+    },
+    "result": {
+     "pt": "Nega todos.",
+     "en": "Denies all."
+    },
+    "why": {
+     "pt": "Menstruação aumentada desde a adolescência, sangramento em procedimentos ou 2 ou mais situações (epistaxe, sangramento gengival, história familiar) sugerem coagulopatia.",
+     "en": "Heavy bleeding since adolescence, bleeding with procedures or 2 or more situations (epistaxis, gum bleeding, family history) suggest coagulopathy."
+    },
+    "byLevel": {
+     "3": {
+      "class": "pertinente"
+     }
+    }
+   },
+   {
+    "id": "a_risco",
+    "class": "essencial",
+    "ref": "p. 112–113",
+    "label": {
+     "pt": "Fatores de risco para hiperplasia/câncer (infertilidade, nuliparidade, diabetes, câncer de cólon)",
+     "en": "Risk factors for hyperplasia/cancer (infertility, nulliparity, diabetes, colon cancer)"
+    },
+    "result": {
+     "pt": "Um parto vaginal há 3 anos; nega diabetes e câncer de cólon.",
+     "en": "One vaginal birth 3 years ago; denies diabetes and colon cancer."
+    },
+    "why": {
+     "pt": "O número de fatores de risco define a probabilidade pré-teste (Tabela 2).",
+     "en": "The number of risk factors defines pretest probability (Table 2)."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Nulípara; diabética há 15 anos; colectomia por câncer de cólon há 5 anos.",
+       "en": "Nulliparous; diabetic for 15 years; colectomy for colon cancer 5 years ago."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_sincope",
+    "class": "essencial",
+    "ref": "p. 106, 124",
+    "label": {
+     "pt": "Tontura, síncope e volume do sangramento",
+     "en": "Dizziness, syncope and amount of bleeding"
+    },
+    "result": {
+     "pt": "Troca absorvente noturno a cada hora; desmaiou ao levantar hoje.",
+     "en": "Soaks an overnight pad every hour; fainted on standing today."
+    },
+    "why": {
+     "pt": "No sangramento agudo e intenso, o manejo começa pela estabilização.",
+     "en": "In acute heavy bleeding, management starts with stabilization."
+    },
+    "byLevel": {
+     "3": {
+      "class": "pertinente",
+      "result": {
+       "pt": "Sangramento escasso, borra; nega tontura.",
+       "en": "Scant spotting; denies dizziness."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_sexual",
+    "class": "desnecessaria",
+    "ref": "p. 112",
+    "label": {
+     "pt": "Número de parceiros sexuais",
+     "en": "Number of sexual partners"
+    },
+    "result": {
+     "pt": "Parceiro único.",
+     "en": "One partner."
+    },
+    "why": {
+     "pt": "Não integra a sequência diagnóstica do SUA.",
+     "en": "Not part of the AUB diagnostic sequence."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   },
+   {
+    "id": "a_dieta",
+    "class": "desnecessaria",
+    "ref": "p. 112",
+    "label": {
+     "pt": "Hábitos alimentares",
+     "en": "Dietary habits"
+    },
+    "result": {
+     "pt": "Alimentação variada.",
+     "en": "Varied diet."
+    },
+    "why": {
+     "pt": "Não altera a sequência diagnóstica do fluxograma.",
+     "en": "Does not change the flowchart sequence."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   }
+  ],
+  "exame": [
+   {
+    "id": "e_hemod",
+    "class": "essencial",
+    "ref": "p. 106",
+    "label": {
+     "pt": "Perfusão, mucosas e estado hemodinâmico",
+     "en": "Perfusion, mucous membranes and hemodynamic status"
+    },
+    "result": {
+     "pt": "Pálida (3+/4+), pele fria, enchimento capilar 3 s.",
+     "en": "Pale (3+/4+), cool skin, capillary refill 3 s."
+    },
+    "why": {
+     "pt": "A estabilização é a primeira medida no sangramento agudo intenso.",
+     "en": "Stabilization is the first step in acute heavy bleeding."
+    },
+    "byLevel": {
+     "3": {
+      "class": "pertinente",
+      "result": {
+       "pt": "Corada, perfusão normal.",
+       "en": "Pink, normal perfusion."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_imc",
+    "class": "pertinente",
+    "ref": "p. 113",
+    "label": {
+     "pt": "Peso e IMC",
+     "en": "Weight and BMI"
+    },
+    "result": {
+     "pt": "IMC 27 kg/m².",
+     "en": "BMI 27 kg/m²."
+    },
+    "why": {
+     "pt": "IMC ≥ 30 é fator de risco para hiperplasia/câncer.",
+     "en": "BMI ≥ 30 is a risk factor for hyperplasia/cancer."
+    },
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "result": {
+       "pt": "IMC 33 kg/m².",
+       "en": "BMI 33 kg/m²."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_vulva",
+    "class": "essencial",
+    "ref": "p. 113",
+    "label": {
+     "pt": "Inspeção de vulva e períneo",
+     "en": "Vulvar and perineal inspection"
+    },
+    "result": {
+     "pt": "Sem lesões; sangue escoando pelo introito.",
+     "en": "No lesions; blood flowing from the introitus."
+    },
+    "why": {
+     "pt": "Identifica lesão que justifique o sangramento.",
+     "en": "Identifies a lesion that explains the bleeding."
+    }
+   },
+   {
+    "id": "e_espec",
+    "class": "essencial",
+    "ref": "p. 113",
+    "label": {
+     "pt": "Exame especular",
+     "en": "Speculum exam"
+    },
+    "result": {
+     "pt": "Grande quantidade de sangue e coágulos na vagina; colo sem lesões, pólipos ou ectopia; sangramento pelo orifício externo.",
+     "en": "Large amount of blood and clots in the vagina; cervix without lesions, polyps or ectropion; bleeding from the external os."
+    },
+    "why": {
+     "pt": "Identifica fonte vaginal ou cervical (pólipo, lesão vegetante, ectopia).",
+     "en": "Identifies a vaginal or cervical source (polyp, exophytic lesion, ectropion)."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Pequena quantidade de sangue escuro; mucosa atrófica; colo sem lesões; sangramento pelo orifício externo.",
+       "en": "Small amount of dark blood; atrophic mucosa; cervix without lesions; bleeding from the external os."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_toque",
+    "class": "essencial",
+    "ref": "p. 113",
+    "label": {
+     "pt": "Toque bimanual",
+     "en": "Bimanual exam"
+    },
+    "result": {
+     "pt": "Útero de tamanho normal, regular; anexos livres.",
+     "en": "Normal-sized, regular uterus; adnexa normal."
+    },
+    "why": {
+     "pt": "Útero endurecido e bocelado sugere mioma; massa polipoide pelo colo sugere pólipo.",
+     "en": "A firm, irregular uterus suggests fibroids; a polypoid mass through the cervix suggests a polyp."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Útero pequeno, regular; anexos livres.",
+       "en": "Small, regular uterus; adnexa normal."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_mamas",
+    "class": "desnecessaria",
+    "ref": "p. 113",
+    "label": {
+     "pt": "Exame das mamas",
+     "en": "Breast exam"
+    },
+    "result": {
+     "pt": "Sem alterações.",
+     "en": "Normal."
+    },
+    "why": {
+     "pt": "A galactorreia é pesquisada pela história; o exame mamário não integra o fluxograma do SUA.",
+     "en": "Galactorrhea is screened by history; breast exam is not part of the AUB flowchart."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   }
+  ],
+  "lab": [
+   {
+    "id": "l_hcg",
+    "class": "essencial",
+    "ref": "p. 112, 125",
+    "label": {
+     "pt": "β-hCG urinário",
+     "en": "Urine β-hCG"
+    },
+    "result": {
+     "pt": "Negativo.",
+     "en": "Negative."
+    },
+    "why": {
+     "pt": "Em idade reprodutiva, confirmar ou descartar gravidez direciona todo o fluxograma.",
+     "en": "In reproductive age, confirming or excluding pregnancy directs the whole flowchart."
+    },
+    "byLevel": {
+     "3": {
+      "class": "desnecessaria",
+      "why": {
+       "pt": "Paciente pós-menopáusica há 12 anos; o hCG é exigido em idade reprodutiva.",
+       "en": "Postmenopausal for 12 years; hCG is required in reproductive age."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_hemo",
+    "class": "essencial",
+    "ref": "p. 113",
+    "label": {
+     "pt": "Hemograma com plaquetas",
+     "en": "CBC with platelets"
+    },
+    "result": {
+     "pt": "Hb 8,1 g/dL; VCM 79 fL; plaquetas 268.000/mm³.",
+     "en": "Hb 8.1 g/dL; MCV 79 fL; platelets 268,000/mm³."
+    },
+    "why": {
+     "pt": "Os achados clínicos podem não revelar a verdadeira condição da anemia.",
+     "en": "Clinical findings may not reveal the true degree of anemia."
+    },
+    "byLevel": {
+     "3": {
+      "class": "pertinente",
+      "result": {
+       "pt": "Hb 12,4 g/dL; plaquetas 210.000/mm³.",
+       "en": "Hb 12.4 g/dL; platelets 210,000/mm³."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_coag",
+    "class": "desnecessaria",
+    "ref": "p. 107, 113",
+    "label": {
+     "pt": "TP e TTPA",
+     "en": "PT and aPTT"
+    },
+    "result": {
+     "pt": "Normais.",
+     "en": "Normal."
+    },
+    "why": {
+     "pt": "Solicitados conforme a história; sem sinais de coagulopatia na anamnese.",
+     "en": "Ordered according to history; no signs of coagulopathy on history."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "byLevel": {
+     "3": {
+      "class": "pertinente",
+      "result": {
+       "pt": "TP normal; TTPA 34 s; anti-Xa em faixa terapêutica.",
+       "en": "Normal PT; aPTT 34 s; anti-Xa in therapeutic range."
+      },
+      "why": {
+       "pt": "Paciente anticoagulada; avalia a contribuição do anticoagulante.",
+       "en": "Anticoagulated patient; assesses the anticoagulant's contribution."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_tsh",
+    "class": "desnecessaria",
+    "ref": "p. 107, 113",
+    "label": {
+     "pt": "TSH",
+     "en": "TSH"
+    },
+    "result": {
+     "pt": "1,9 mUI/L.",
+     "en": "1.9 mIU/L."
+    },
+    "why": {
+     "pt": "Solicitado quando há suspeita de doença sistêmica na história.",
+     "en": "Ordered when history suggests systemic disease."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   },
+   {
+    "id": "l_vwf",
+    "class": "desnecessaria",
+    "ref": "p. 113",
+    "label": {
+     "pt": "Fator VIII e fator de von Willebrand",
+     "en": "Factor VIII and von Willebrand factor"
+    },
+    "result": {
+     "pt": "Coletados; resultado em 10 dias.",
+     "en": "Drawn; results in 10 days."
+    },
+    "why": {
+     "pt": "Geralmente solicitados pelo hematologista diante de suspeita de coagulopatia.",
+     "en": "Usually ordered by hematology when coagulopathy is suspected."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   },
+   {
+    "id": "l_tgo",
+    "class": "desnecessaria",
+    "ref": "p. 113–114",
+    "label": {
+     "pt": "TGO/TGP e albumina",
+     "en": "AST/ALT and albumin"
+    },
+    "result": {
+     "pt": "Normais.",
+     "en": "Normal."
+    },
+    "why": {
+     "pt": "Indicados na suspeita de doença hepática.",
+     "en": "Indicated when liver disease is suspected."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   },
+   {
+    "id": "l_pipelle",
+    "class": "desnecessaria",
+    "ref": "p. 107, 114–115",
+    "label": {
+     "pt": "Biópsia de endométrio (Pipelle)",
+     "en": "Endometrial biopsy (Pipelle)"
+    },
+    "result": {
+     "pt": "Material escasso; resultado em 15 dias.",
+     "en": "Scant sample; results in 15 days."
+    },
+    "why": {
+     "pt": "Na menacme com SUA como único fator de risco, a probabilidade pré-teste é 1,3%; com biópsia negativa cai para 0,3%. Não é medida da emergência neste caso.",
+     "en": "In reproductive age with AUB as the only risk factor, pretest probability is 1.3%; a negative biopsy lowers it to 0.3%. Not an emergency step here."
+    },
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "result": {
+       "pt": "Adenocarcinoma endometrioide de endométrio.",
+       "en": "Endometrioid endometrial adenocarcinoma."
+      },
+      "why": {
+       "pt": "Pós-teste de 12,7% após espessura de 4 mm: a biópsia (LR+ 97,0) é necessária.",
+       "en": "Post-test 12.7% after 4-mm thickness: biopsy (LR+ 97.0) is required."
+      }
+     }
+    }
+   }
+  ],
+  "imagem": [
+   {
+    "id": "i_ustv",
+    "class": "pertinente",
+    "ref": "p. 107, 114",
+    "label": {
+     "pt": "Ultrassonografia transvaginal",
+     "en": "Transvaginal ultrasound"
+    },
+    "result": {
+     "pt": "Útero de volume normal, sem miomas; endométrio de 18 mm, heterogêneo; ovários com múltiplos folículos periféricos.",
+     "en": "Normal-sized uterus, no fibroids; heterogeneous 18-mm endometrium; ovaries with multiple peripheral follicles."
+    },
+    "why": {
+     "pt": "Identifica miomas e adenomiose; a espessura endometrial é usada para risco de malignidade na pós-menopausa.",
+     "en": "Identifies fibroids and adenomyosis; endometrial thickness is used for malignancy risk after menopause."
+    },
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "result": {
+       "pt": "Útero atrófico; espessura endometrial de 4 mm; ovários atróficos.",
+       "en": "Atrophic uterus; endometrial thickness 4 mm; atrophic ovaries."
+      },
+      "why": {
+       "pt": "Na pós-menopausa, a espessura endometrial ajusta a probabilidade (≤ 4 mm: LR− 0,11).",
+       "en": "After menopause, endometrial thickness adjusts probability (≤ 4 mm: LR− 0.11)."
+      }
+     }
+    }
+   },
+   {
+    "id": "i_tc",
+    "class": "desnecessaria",
+    "ref": "p. 114",
+    "label": {
+     "pt": "Tomografia de abdome e pelve",
+     "en": "Abdominal and pelvic CT"
+    },
+    "result": {
+     "pt": "Sem alterações significativas.",
+     "en": "No significant findings."
+    },
+    "why": {
+     "pt": "A avaliação uterina é feita por USTV e, se necessário, biópsia ou histeroscopia.",
+     "en": "Uterine assessment uses TVUS and, if needed, biopsy or hysteroscopy."
+    }
+   },
+   {
+    "id": "i_histero",
+    "class": "desnecessaria",
+    "ref": "p. 114, 125",
+    "label": {
+     "pt": "Histeroscopia diagnóstica",
+     "en": "Diagnostic hysteroscopy"
+    },
+    "result": {
+     "pt": "Agendada.",
+     "en": "Scheduled."
+    },
+    "why": {
+     "pt": "Identifica lesões intracavitárias; não é medida do manejo agudo neste caso.",
+     "en": "Identifies intracavitary lesions; not part of acute management here."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   }
+  ],
+  "conduta": [
+   {
+    "id": "c_volume",
+    "class": "essencial",
+    "ref": "p. 124",
+    "label": {
+     "pt": "Estabilização hemodinâmica com Ringer lactato IV",
+     "en": "Hemodynamic stabilization with IV lactated Ringer's"
+    },
+    "why": {
+     "pt": "Primeira medida no SUA agudo intenso com instabilidade (Caso 3).",
+     "en": "First step in acute heavy AUB with instability (Case 3)."
+    },
+    "group": "medicamento",
+    "byLevel": {
+     "3": {
+      "class": "desnecessaria",
+      "why": {
+       "pt": "Paciente estável com sangramento escasso.",
+       "en": "Stable patient with scant bleeding."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_aco_l1",
+    "class": "essencial",
+    "ref": "p. 117, 124",
+    "label": {
+     "pt": "Anticoncepcional oral combinado em dose alta",
+     "en": "High-dose combined oral contraceptive"
+    },
+    "why": {
+     "pt": "Estabiliza rapidamente o endométrio instável da anovulação.",
+     "en": "Rapidly stabilizes the unstable anovulatory endometrium."
+    },
+    "levels": [
+     1
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_aco",
+    "class": "essencial",
+    "ref": "p. 117, 124",
+    "label": {
+     "pt": "ACO com 30 a 35 µg de etinilestradiol, 1 comprimido VO 3×/dia por 7 dias, emendando nova cartela",
+     "en": "COC with 30–35 µg ethinyl estradiol, 1 tablet PO 3×/day for 7 days, then a new pack without a break"
+    },
+    "why": {
+     "pt": "Posologia do SUA agudo; OR de resposta vs placebo 5,15 (IC95%: 3,16 a 8,4).",
+     "en": "Acute AUB dosing; response OR vs placebo 5.15 (95% CI 3.16–8.4)."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "medicamento",
+    "byLevel": {
+     "3": {
+      "class": "contraindicada",
+      "why": {
+       "pt": "História de trombose (TEP atual) contraindica estrogênio.",
+       "en": "History of thrombosis (current PE) contraindicates estrogen."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_atx",
+    "class": "essencial",
+    "ref": "p. 117, 124",
+    "label": {
+     "pt": "Ácido tranexâmico 1 g VO 3 a 4×/dia, por até 5 dias",
+     "en": "Tranexamic acid 1 g PO 3–4×/day for up to 5 days"
+    },
+    "why": {
+     "pt": "Antifibrinolítico; reduz o sangramento em 34% a 54%.",
+     "en": "Antifibrinolytic; reduces bleeding by 34%–54%."
+    },
+    "group": "medicamento",
+    "byLevel": {
+     "3": {
+      "class": "desnecessaria",
+      "why": {
+       "pt": "Sangramento escasso; a prioridade é investigar malignidade.",
+       "en": "Scant bleeding; the priority is to investigate malignancy."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_aine",
+    "class": "pertinente",
+    "ref": "p. 117, 124",
+    "label": {
+     "pt": "AINE (tenoxicam 40 mg IM ou ácido mefenâmico 500 mg VO 3×/dia)",
+     "en": "NSAID (tenoxicam 40 mg IM or mefenamic acid 500 mg PO 3×/day)"
+    },
+    "why": {
+     "pt": "Pode ser associado enquanto se aguardam os exames; reduz o sangramento em 45% a 50%.",
+     "en": "May be added while awaiting tests; reduces bleeding by 45%–50%."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_net",
+    "class": "pertinente",
+    "ref": "p. 115, 118",
+    "label": {
+     "pt": "Noretisterona 15 mg/dia VO",
+     "en": "Norethisterone 15 mg/day PO"
+    },
+    "why": {
+     "pt": "Na anovulação com endométrio espessado, progestagênio (NET) ou ACO são opções.",
+     "en": "In anovulation with a thickened endometrium, progestin (NET) or COC are options."
+    },
+    "levels": [
+     2
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_estrog",
+    "class": "desnecessaria",
+    "ref": "p. 115, 118",
+    "label": {
+     "pt": "Estradiol micronizado 2 mg VO 3×/dia",
+     "en": "Micronized estradiol 2 mg PO 3×/day"
+    },
+    "why": {
+     "pt": "O estrogênio isolado é indicado no endométrio atrófico; aqui o endométrio está espessado.",
+     "en": "Estrogen alone is indicated for an atrophic endometrium; here the endometrium is thickened."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "medicamento",
+    "byLevel": {
+     "3": {
+      "class": "contraindicada",
+      "why": {
+       "pt": "História de trombose contraindica estrogênio.",
+       "en": "History of thrombosis contraindicates estrogen."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_gnrh",
+    "class": "desnecessaria",
+    "ref": "p. 118",
+    "label": {
+     "pt": "Análogo do GnRH",
+     "en": "GnRH analogue"
+    },
+    "why": {
+     "pt": "Não é usado no manejo agudo pela latência de efeito.",
+     "en": "Not used in acute management because of delayed effect."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_diu",
+    "class": "desnecessaria",
+    "ref": "p. 116–117, 125",
+    "label": {
+     "pt": "Inserção de DIU de levonorgestrel na emergência",
+     "en": "Levonorgestrel IUD insertion in the emergency department"
+    },
+    "why": {
+     "pt": "O LNG-IUS é tratamento de manutenção, não de primeira linha na emergência (Pérola 4).",
+     "en": "The LNG-IUS is maintenance therapy, not first line in the emergency (Pearl 4)."
+    },
+    "group": "procedimento"
+   },
+   {
+    "id": "c_curet",
+    "class": "desnecessaria",
+    "ref": "p. 118–119",
+    "label": {
+     "pt": "Curetagem uterina",
+     "en": "Uterine curettage"
+    },
+    "why": {
+     "pt": "Reservada para instabilidade persistente, contraindicação ou falha do tratamento clínico; o alívio é temporário.",
+     "en": "Reserved for persistent instability, contraindication or failure of medical treatment; relief is temporary."
+    },
+    "group": "procedimento",
+    "byLevel": {
+     "3": {
+      "why": {
+       "pt": "O diagnóstico histológico é obtido pela biópsia com Pipelle; não há sangramento que exija curetagem.",
+       "en": "Histologic diagnosis is obtained with Pipelle biopsy; bleeding does not require curettage."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_hister",
+    "class": "contraindicada",
+    "ref": "p. 121–122",
+    "label": {
+     "pt": "Histerectomia",
+     "en": "Hysterectomy"
+    },
+    "why": {
+     "pt": "Tratamento definitivo para casos refratários, sem desejo reprodutivo ou malignidade; não é conduta inicial.",
+     "en": "Definitive treatment for refractory cases, no desire for fertility or malignancy; not initial management."
+    },
+    "group": "procedimento",
+    "byLevel": {
+     "3": {
+      "class": "desnecessaria",
+      "why": {
+       "pt": "A conduta oncológica é definida pela Oncologia após o diagnóstico histológico.",
+       "en": "Oncologic management is defined by Oncology after histologic diagnosis."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_atribui",
+    "class": "contraindicada",
+    "ref": "p. 123",
+    "label": {
+     "pt": "Atribuir o sangramento à enoxaparina e dispensar investigação",
+     "en": "Attribute the bleeding to enoxaparin and skip workup"
+    },
+    "why": {
+     "pt": "Os fatores de risco exigem investigação de malignidade independentemente do anticoagulante.",
+     "en": "Risk factors require malignancy workup regardless of the anticoagulant."
+    },
+    "levels": [
+     3
+    ],
+    "group": "orientacao",
+    "grave": true,
+    "outcome": {
+     "pt": "Câncer de endométrio não diagnosticado (Caso 2, p. 123).",
+     "en": "Undiagnosed endometrial cancer (Case 2, p. 123)."
+    }
+   },
+   {
+    "id": "c_onco",
+    "class": "essencial",
+    "ref": "p. 107, 123",
+    "label": {
+     "pt": "Encaminhar à Oncologia ginecológica",
+     "en": "Refer to Gynecologic Oncology"
+    },
+    "why": {
+     "pt": "Câncer confirmado: encaminhar para oncologia (fluxograma).",
+     "en": "Confirmed cancer: refer to oncology (flowchart)."
+    },
+    "levels": [
+     3
+    ],
+    "group": "orientacao"
+   },
+   {
+    "id": "c_seguim",
+    "class": "essencial",
+    "ref": "p. 124–125",
+    "label": {
+     "pt": "Orientar seguimento ambulatorial e manutenção hormonal após o episódio agudo",
+     "en": "Arrange outpatient follow-up and hormonal maintenance after the acute episode"
+    },
+    "why": {
+     "pt": "Gerenciar expectativas sobre duração do tratamento e recorrências (Pérola 5).",
+     "en": "Manage expectations about treatment duration and recurrence (Pearl 5)."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "orientacao"
+   },
+   {
+    "id": "c_obs",
+    "class": "essencial",
+    "ref": "p. 124",
+    "label": {
+     "pt": "Observação até estabilização e redução do sangramento; depois alta",
+     "en": "Observe until stable with reduced bleeding; then discharge"
+    },
+    "why": {
+     "pt": "No Caso 3, o sangramento reduziu em 24 h e a paciente recebeu alta.",
+     "en": "In Case 3, bleeding decreased within 24 h and the patient was discharged."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "destino"
+   },
+   {
+    "id": "c_altaimed",
+    "class": "contraindicada",
+    "ref": "p. 106",
+    "label": {
+     "pt": "Alta imediata com prescrição",
+     "en": "Immediate discharge with prescription"
+    },
+    "why": {
+     "pt": "Paciente com síncope, hipotensão e taquicardia exige estabilização antes da alta.",
+     "en": "A patient with syncope, hypotension and tachycardia requires stabilization before discharge."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "destino"
+   }
+  ]
+ }
+}

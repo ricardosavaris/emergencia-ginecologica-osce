@@ -48,46 +48,46 @@
   {
    "id": "c05",
    "number": 5,
-   "file": null,
+   "file": "05-sangramento-uterino-anormal.json",
    "title": {
     "pt": "Sangramento vaginal aumentado",
     "en": "Heavy vaginal bleeding"
    },
    "block": 2,
-   "available": false
+   "available": true
   },
   {
    "id": "c06",
    "number": 6,
-   "file": null,
+   "file": "06-sangramento-cancer-colo.json",
    "title": {
-    "pt": "Sangramento vaginal e corrimento",
-    "en": "Vaginal bleeding and discharge"
+    "pt": "Sangramento vaginal abundante com lipotimia",
+    "en": "Heavy vaginal bleeding with presyncope"
    },
    "block": 2,
-   "available": false
+   "available": true
   },
   {
    "id": "c07",
    "number": 7,
-   "file": null,
+   "file": "07-aborto-infectado.json",
    "title": {
     "pt": "Febre e dor pélvica após atraso menstrual",
     "en": "Fever and pelvic pain after a missed period"
    },
    "block": 2,
-   "available": false
+   "available": true
   },
   {
    "id": "c08",
    "number": 8,
-   "file": null,
+   "file": "08-doenca-inflamatoria-pelvica.json",
    "title": {
     "pt": "Dor pélvica e corrimento",
     "en": "Pelvic pain and discharge"
    },
    "block": 2,
-   "available": false
+   "available": true
   },
   {
    "id": "c09",

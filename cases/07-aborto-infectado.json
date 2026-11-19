@@ -1,0 +1,916 @@
+{
+ "id": "c07",
+ "title": {
+  "pt": "Febre e dor pélvica após atraso menstrual",
+  "en": "Fever and pelvic pain after a missed period"
+ },
+ "chapter": {
+  "pt": "Aborto infectado",
+  "en": "Septic abortion"
+ },
+ "pages": "p. 143–158",
+ "base": {
+  "triage": {
+   "pt": "Mulher de 19 anos, gestação de cerca de 10 semanas por ultrassonografia de 2 semanas atrás, procura a emergência com dor abdominal, febre e sangramento vaginal há 1 dia.",
+   "en": "19-year-old woman, about 10 weeks pregnant by an ultrasound 2 weeks ago, presents with abdominal pain, fever and vaginal bleeding for 1 day."
+  },
+  "vitals": {
+   "PA": "100/64 mmHg",
+   "FC": "112 bpm",
+   "FR": "22 mrpm",
+   "Tax": "38,6 °C",
+   "SpO2": "98%"
+  },
+  "correctDiagnosis": "infectado",
+  "diagnosisExplanation": {
+   "pt": "Uso de misoprostol sem supervisão, febre, taquicardia, secreção fétida cor-de-telha, colo pérvio com restos, útero doloroso e leucócitos 18.600/mm³ (> 14.000): aborto infectado (p. 146–147). Conduta: Ringer lactato 1.000 mL em 1 h, clindamicina 2.700 mg + gentamicina 240 mg IV em 250 mL de SF em 1 h e esvaziamento uterino (AMIU ≤ 12 semanas) assim que o antibiótico estiver instalado (p. 143, 152).",
+   "en": "Unsupervised misoprostol use, fever, tachycardia, foul brownish discharge, open os with retained products, uterine tenderness and WBC 18,600/mm³ (> 14,000): septic abortion (p. 146–147). Management: lactated Ringer's 1,000 mL over 1 h, clindamycin 2,700 mg + gentamicin 240 mg IV in 250 mL NS over 1 h and uterine evacuation (MVA ≤ 12 weeks) as soon as the antibiotic is running (p. 143, 152)."
+  },
+  "learning": {
+   "pt": "O controle da fonte é a prioridade: antibióticos são essenciais, mas o esvaziamento uterino elimina o foco infeccioso (Pérola 4, p. 156). Uma vez instalado o antibiótico IV, já se pode fazer o esvaziamento (p. 143).\nApós 48 h de melhora clínica sustentada, não há benefício em manter antibióticos orais (p. 153). Ampicilina 1 g IV 6/6 h é acrescentada apenas na sepse grave (p. 152).\nPara ressuscitação volêmica, prefira Ringer lactato ao soro fisiológico (Pérola 8, p. 156). No útero infectado, use a maior cureta possível e, se necessário, guie o esvaziamento por ultrassonografia (Pérolas 6–7, p. 156).",
+   "en": "Source control is the priority: antibiotics are essential, but uterine evacuation removes the infectious focus (Pearl 4, p. 156). Once IV antibiotics are running, evacuation can proceed (p. 143).\nAfter 48 h of sustained clinical improvement, oral antibiotics add no benefit (p. 153). Ampicillin 1 g IV every 6 h is added only in severe sepsis (p. 152).\nFor volume resuscitation, prefer lactated Ringer's over normal saline (Pearl 8, p. 156). In the infected uterus, use the largest curette possible and, if needed, ultrasound guidance (Pearls 6–7, p. 156)."
+  }
+ },
+ "levels": {
+  "3": {
+   "triage": {
+    "pt": "Gestante de 32 anos, 13 semanas, com resfriado comum há 3 dias, procura a emergência por sangramento vaginal. Relata febre de 38 °C na noite anterior.",
+    "en": "32-year-old woman, 13 weeks pregnant, with a common cold for 3 days, presents with vaginal bleeding. She reports a 38 °C fever last night."
+   },
+   "vitals": {
+    "PA": "112/70 mmHg",
+    "FC": "98 bpm",
+    "FR": "18 mrpm",
+    "Tax": "37,4 °C",
+    "SpO2": "98%"
+   },
+   "correctDiagnosis": "infectado",
+   "diagnosisExplanation": {
+    "pt": "Febre recente, dor uterina, sangramento cor-de-telha e leucocitose > 14.000/mm³, mesmo com colo fechado e feto com atividade cardíaca: aborto infectado. A febre não deve ser atribuída ao resfriado. Em caso de dúvida, inicie antibiótico e interne (Caso 1, p. 153). A curetagem deve ser realizada assim que houver estabilização mínima, mesmo na presença de BCF (p. 152).",
+    "en": "Recent fever, uterine tenderness, brownish bleeding and WBC > 14,000/mm³, even with a closed os and fetal cardiac activity: septic abortion. The fever should not be blamed on the cold. When in doubt, start antibiotics and admit (Case 1, p. 153). Curettage should be performed as soon as minimal stabilization is achieved, even with fetal cardiac activity (p. 152)."
+   },
+   "learning": {
+    "pt": "Tenha um baixo limiar para o diagnóstico: na dúvida, trate (p. 143; Pérola 1, p. 155). Uma infecção ovular geralmente não cede apenas com antibiótico (Caso 1, p. 153).\nA evolução para sepse grave exige vigilância constante (Pérola 2, p. 155). Na sepse grave: acrescentar ampicilina 1 g IV 6/6 h, iniciar o protocolo de choque séptico e solicitar Exames 2 (hemoculturas, lactato, gasometria, sódio e potássio) (p. 149–152).",
+    "en": "Keep a low threshold for diagnosis: when in doubt, treat (p. 143; Pearl 1, p. 155). An intra-amniotic infection usually does not resolve with antibiotics alone (Case 1, p. 153).\nProgression to severe sepsis requires constant monitoring (Pearl 2, p. 155). In severe sepsis: add ampicillin 1 g IV every 6 h, start the septic shock protocol and order Tests 2 (blood cultures, lactate, arterial blood gas, sodium and potassium) (p. 149–152)."
+   },
+   "timerMinutes": 12,
+   "deterioration": [
+    {
+     "afterSeconds": 300,
+     "afterActions": 12,
+     "flag": "sepse",
+     "vitals": {
+      "PA": "86/50 mmHg",
+      "FC": "126 bpm",
+      "FR": "28 mrpm",
+      "Tax": "39,2 °C"
+     },
+     "message": {
+      "pt": "A paciente inicia calafrios intensos, sudorese e confusão leve.",
+      "en": "The patient develops severe rigors, diaphoresis and mild confusion."
+     }
+    }
+   ]
+  }
+ },
+ "diagnoses": [
+  {
+   "id": "infectado",
+   "label": {
+    "pt": "Aborto infectado",
+    "en": "Septic abortion"
+   }
+  },
+  {
+   "id": "incompleto",
+   "label": {
+    "pt": "Aborto incompleto não infectado",
+    "en": "Non-septic incomplete miscarriage"
+   }
+  },
+  {
+   "id": "ameaca",
+   "label": {
+    "pt": "Ameaça de abortamento",
+    "en": "Threatened miscarriage"
+   }
+  },
+  {
+   "id": "dip",
+   "label": {
+    "pt": "Doença inflamatória pélvica",
+    "en": "Pelvic inflammatory disease"
+   }
+  },
+  {
+   "id": "ato",
+   "label": {
+    "pt": "Abscesso tubo-ovariano",
+    "en": "Tubo-ovarian abscess"
+   }
+  },
+  {
+   "id": "ge_rota",
+   "label": {
+    "pt": "Gravidez ectópica rota",
+    "en": "Ruptured ectopic pregnancy"
+   }
+  },
+  {
+   "id": "pielo",
+   "label": {
+    "pt": "Pielonefrite",
+    "en": "Pyelonephritis"
+   }
+  },
+  {
+   "id": "viral",
+   "label": {
+    "pt": "Febre por infecção viral de vias aéreas",
+    "en": "Fever from viral respiratory infection"
+   }
+  }
+ ],
+ "stages": {
+  "anamnese": [
+   {
+    "id": "a_manip",
+    "class": "essencial",
+    "ref": "p. 146–147",
+    "label": {
+     "pt": "Manipulação uterina ou uso de medicamento abortivo",
+     "en": "Uterine instrumentation or use of abortifacient drugs"
+    },
+    "result": {
+     "pt": "Usou 4 comprimidos de misoprostol comprados pela internet há 3 dias, sem supervisão.",
+     "en": "Took 4 misoprostol tablets bought online 3 days ago, unsupervised."
+    },
+    "why": {
+     "pt": "História de manipulação uterina e uso de medicamento abortivo são sinais de infecção; métodos inseguros elevam a infecção de 0,01–0,5% para 24%.",
+     "en": "Uterine instrumentation and abortifacient use are signs of infection; unsafe methods raise infection from 0.01–0.5% to 24%."
+    },
+    "byLevel": {
+     "3": {
+      "class": "pertinente",
+      "result": {
+       "pt": "Nega.",
+       "en": "Denies."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_febre",
+    "class": "essencial",
+    "ref": "p. 146–147",
+    "label": {
+     "pt": "Febre, calafrios, náuseas ou vômitos",
+     "en": "Fever, chills, nausea or vomiting"
+    },
+    "result": {
+     "pt": "Febre e calafrios desde ontem; náuseas.",
+     "en": "Fever and chills since yesterday; nausea."
+    },
+    "why": {
+     "pt": "Febre (≥ 38 °C) ou hipotermia, calafrios, náuseas e vômitos são sinais de infecção.",
+     "en": "Fever (≥ 38 °C) or hypothermia, chills, nausea and vomiting are signs of infection."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Febre de 38 °C ontem à noite; atribuiu ao resfriado.",
+       "en": "38 °C fever last night; she attributed it to the cold."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_alergia",
+    "class": "essencial",
+    "ref": "p. 147",
+    "label": {
+     "pt": "Alergias medicamentosas",
+     "en": "Drug allergies"
+    },
+    "result": {
+     "pt": "Nega.",
+     "en": "Denies."
+    },
+    "why": {
+     "pt": "Pergunte alergias para evitar choque anafilático antes do antibiótico.",
+     "en": "Ask about allergies to avoid anaphylaxis before antibiotics."
+    }
+   },
+   {
+    "id": "a_secrecao",
+    "class": "pertinente",
+    "ref": "p. 146–147",
+    "label": {
+     "pt": "Características da secreção e do sangramento",
+     "en": "Character of discharge and bleeding"
+    },
+    "result": {
+     "pt": "Sangramento escuro com odor fétido.",
+     "en": "Dark, foul-smelling bleeding."
+    },
+    "why": {
+     "pt": "Secreção fétida ou cor-de-telha sugere infecção.",
+     "en": "Foul or brownish discharge suggests infection."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Sangramento acastanhado, sem odor percebido.",
+       "en": "Brownish bleeding, no odor noticed."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_dor",
+    "class": "pertinente",
+    "ref": "p. 147",
+    "label": {
+     "pt": "Intensidade e evolução da dor",
+     "en": "Pain severity and course"
+    },
+    "result": {
+     "pt": "Dor em baixo ventre progressiva, sem melhora com analgésico.",
+     "en": "Progressive lower abdominal pain unrelieved by analgesics."
+    },
+    "why": {
+     "pt": "Dor intensa, progressiva ou refratária, com febre ou secreção, exige investigação.",
+     "en": "Severe, progressive or refractory pain with fever or discharge requires investigation."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Dor em cólica no hipogástrio desde a manhã.",
+       "en": "Cramping suprapubic pain since this morning."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_parceiros",
+    "class": "desnecessaria",
+    "ref": "p. 146",
+    "label": {
+     "pt": "Estado civil",
+     "en": "Marital status"
+    },
+    "result": {
+     "pt": "Solteira.",
+     "en": "Single."
+    },
+    "why": {
+     "pt": "Fator epidemiológico (OR 2,05) que não altera a conduta imediata.",
+     "en": "Epidemiologic factor (OR 2.05) that does not change immediate management."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   },
+   {
+    "id": "a_dum",
+    "class": "desnecessaria",
+    "ref": "p. 148",
+    "label": {
+     "pt": "Data da última menstruação",
+     "en": "Last menstrual period"
+    },
+    "result": {
+     "pt": "Não lembra.",
+     "en": "Does not remember."
+    },
+    "why": {
+     "pt": "A gestação já foi confirmada por ultrassonografia.",
+     "en": "Pregnancy has already been confirmed by ultrasound."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   }
+  ],
+  "exame": [
+   {
+    "id": "e_sepse",
+    "class": "essencial",
+    "ref": "p. 146–149",
+    "label": {
+     "pt": "Estado mental, enchimento capilar, perfusão e diurese",
+     "en": "Mental status, capillary refill, perfusion and urine output"
+    },
+    "result": {
+     "pt": "Lúcida, enchimento capilar 3 s, extremidades quentes.",
+     "en": "Alert, capillary refill 3 s, warm extremities."
+    },
+    "why": {
+     "pt": "Identifique sinais precoces de sepse: estado mental, perfusão, taquicardia, hipotensão, oligúria.",
+     "en": "Identify early signs of sepsis: mental status, perfusion, tachycardia, hypotension, oliguria."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Lúcida, enchimento capilar 2 s.",
+       "en": "Alert, capillary refill 2 s."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_abd",
+    "class": "essencial",
+    "ref": "p. 147",
+    "label": {
+     "pt": "Palpação abdominal",
+     "en": "Abdominal palpation"
+    },
+    "result": {
+     "pt": "Dor à palpação do hipogástrio, sem irritação peritoneal difusa.",
+     "en": "Suprapubic tenderness without diffuse peritoneal signs."
+    },
+    "why": {
+     "pt": "Verifica irritação peritoneal.",
+     "en": "Checks for peritoneal irritation."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Útero palpável, doloroso à palpação.",
+       "en": "Palpable, tender uterus."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_espec",
+    "class": "essencial",
+    "ref": "p. 146–148",
+    "label": {
+     "pt": "Exame especular",
+     "en": "Speculum exam"
+    },
+    "result": {
+     "pt": "Secreção sanguinolenta cor-de-telha, fétida; colo pérvio com restos ovulares no canal.",
+     "en": "Foul, brownish bloody discharge; open os with products of conception in the canal."
+    },
+    "why": {
+     "pt": "Pus no colo e secreção fétida são sinais de infecção; colo pérvio com restos sugere aborto em curso.",
+     "en": "Cervical pus and foul discharge are signs of infection; an open os with products suggests inevitable miscarriage."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Colo fechado; sangramento com aspecto cor-de-telha.",
+       "en": "Closed os; brownish bleeding."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_toque",
+    "class": "essencial",
+    "ref": "p. 147–148",
+    "label": {
+     "pt": "Toque vaginal",
+     "en": "Bimanual exam"
+    },
+    "result": {
+     "pt": "Colo aberto, restos no canal; útero amolecido e doloroso.",
+     "en": "Open os, products in the canal; soft, tender uterus."
+    },
+    "why": {
+     "pt": "Identifica se está eliminando restos; se houver, remoção digital.",
+     "en": "Identifies passage of products; if present, digital removal."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Colo fechado; útero doloroso à mobilização.",
+       "en": "Closed os; uterus tender on motion."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_sonar",
+    "class": "desnecessaria",
+    "ref": "p. 36",
+    "label": {
+     "pt": "Ausculta de BCF com sonar",
+     "en": "Fetal heart auscultation with Doppler"
+    },
+    "result": {
+     "pt": "BCF não audíveis.",
+     "en": "Fetal heart tones not audible."
+    },
+    "why": {
+     "pt": "Abaixo de 12 semanas, o sonar não tem utilidade.",
+     "en": "Before 12 weeks, the Doppler has no value."
+    },
+    "byLevel": {
+     "3": {
+      "class": "pertinente",
+      "result": {
+       "pt": "BCF 168 bpm.",
+       "en": "Fetal heart rate 168 bpm."
+      },
+      "why": {
+       "pt": "Acima de 12 semanas o sonar pode ser usado; BCF presente não exclui aborto infectado.",
+       "en": "After 12 weeks the Doppler can be used; cardiac activity does not exclude septic abortion."
+      }
+     }
+    }
+   }
+  ],
+  "lab": [
+   {
+    "id": "l_hemo",
+    "class": "essencial",
+    "ref": "p. 149, 155",
+    "label": {
+     "pt": "Hemograma",
+     "en": "Complete blood count"
+    },
+    "result": {
+     "pt": "Hb 10,2 g/dL; leucócitos 18.600/mm³ (12% bastões).",
+     "en": "Hb 10.2 g/dL; WBC 18,600/mm³ (12% bands)."
+    },
+    "why": {
+     "pt": "Leucocitose > 14.000/mm³ define infecção no serviço; o hemograma deve ser recente (Caso 3).",
+     "en": "WBC > 14,000/mm³ defines infection in the service; the CBC must be recent (Case 3)."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Hb 11,6 g/dL; leucócitos 15.900/mm³ (9% bastões).",
+       "en": "Hb 11.6 g/dL; WBC 15,900/mm³ (9% bands)."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_tipagem",
+    "class": "essencial",
+    "ref": "p. 149",
+    "label": {
+     "pt": "Tipagem sanguínea",
+     "en": "Blood type"
+    },
+    "result": {
+     "pt": "O Rh positivo.",
+     "en": "O Rh positive."
+    },
+    "why": {
+     "pt": "Exames 1: transfusão e RhoGAM se Rh negativo.",
+     "en": "Tests 1: transfusion and RhoGAM if Rh negative."
+    }
+   },
+   {
+    "id": "l_soro",
+    "class": "essencial",
+    "ref": "p. 149",
+    "label": {
+     "pt": "VDRL, anti-HIV, anti-HCV, HBsAg",
+     "en": "VDRL, HIV, HCV antibody, HBsAg"
+    },
+    "result": {
+     "pt": "Não reagentes.",
+     "en": "Non-reactive."
+    },
+    "why": {
+     "pt": "Exames 1.",
+     "en": "Tests 1."
+    }
+   },
+   {
+    "id": "l_creat",
+    "class": "essencial",
+    "ref": "p. 149",
+    "label": {
+     "pt": "Creatinina",
+     "en": "Creatinine"
+    },
+    "result": {
+     "pt": "0,8 mg/dL.",
+     "en": "0.8 mg/dL."
+    },
+    "why": {
+     "pt": "Avalia função renal antes da gentamicina.",
+     "en": "Assesses renal function before gentamicin."
+    }
+   },
+   {
+    "id": "l_ex2",
+    "class": "pertinente",
+    "ref": "p. 149–150",
+    "label": {
+     "pt": "Exames 2: hemoculturas (2), lactato, gasometria, sódio e potássio",
+     "en": "Tests 2: blood cultures (2), lactate, ABG, sodium and potassium"
+    },
+    "result": {
+     "pt": "Lactato 1,6 mmol/L; gasometria e eletrólitos normais; hemoculturas em andamento.",
+     "en": "Lactate 1.6 mmol/L; normal ABG and electrolytes; cultures pending."
+    },
+    "why": {
+     "pt": "Reservados para suspeita de sepse grave.",
+     "en": "Reserved for suspected severe sepsis."
+    },
+    "byLevel": {
+     "3": {
+      "class": "desnecessaria",
+      "result": {
+       "pt": "Lactato 3,4 mmol/L; acidose metabólica; hemoculturas em andamento.",
+       "en": "Lactate 3.4 mmol/L; metabolic acidosis; cultures pending."
+      },
+      "why": {
+       "pt": "Antes da piora, sem sinais de sepse grave.",
+       "en": "Before deterioration, no signs of severe sepsis."
+      }
+     }
+    },
+    "whenFlag": {
+     "sepse": {
+      "class": "essencial",
+      "why": {
+       "pt": "Sepse grave: Exames 2 avaliam disfunção orgânica (lactato > 2 mmol/L).",
+       "en": "Severe sepsis: Tests 2 assess organ dysfunction (lactate > 2 mmol/L)."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_pcr",
+    "class": "desnecessaria",
+    "ref": "p. 150–152",
+    "label": {
+     "pt": "Proteína C-reativa e VSG",
+     "en": "C-reactive protein and ESR"
+    },
+    "result": {
+     "pt": "PCR 96 mg/L.",
+     "en": "CRP 96 mg/L."
+    },
+    "why": {
+     "pt": "Resultados normais não descartam aborto infectado; o diagnóstico é clínico e o exame não deve atrasar o antibiótico.",
+     "en": "Normal results do not exclude septic abortion; diagnosis is clinical and the test must not delay antibiotics."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   },
+   {
+    "id": "l_hcgs",
+    "class": "desnecessaria",
+    "ref": "p. 148",
+    "label": {
+     "pt": "β-hCG sérico quantitativo",
+     "en": "Quantitative serum β-hCG"
+    },
+    "result": {
+     "pt": "24.000 mUI/mL.",
+     "en": "24,000 mIU/mL."
+    },
+    "why": {
+     "pt": "A gestação já foi confirmada por ultrassonografia; a sequência custo-efetiva é ultrassom → hCG urinário → hCG sanguíneo.",
+     "en": "Pregnancy is already confirmed by ultrasound; the cost-effective sequence is ultrasound → urine hCG → serum hCG."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   }
+  ],
+  "imagem": [
+   {
+    "id": "i_us",
+    "class": "essencial",
+    "ref": "p. 147, 151",
+    "label": {
+     "pt": "Ultrassonografia (transvaginal ou abdominal à beira do leito)",
+     "en": "Ultrasound (transvaginal or bedside transabdominal)"
+    },
+    "result": {
+     "pt": "Eco endometrial heterogêneo de 28 mm (restos ovulares); sem embrião; sem líquido livre; anexos sem coleções.",
+     "en": "Heterogeneous 28-mm endometrial echo (retained products); no embryo; no free fluid; no adnexal collections."
+    },
+    "why": {
+     "pt": "Confirma restos ovulares, líquido livre, coleções e exclui diagnósticos diferenciais.",
+     "en": "Confirms retained products, free fluid and collections, and excludes differentials."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Feto único de 13 semanas com atividade cardíaca; placenta sem alterações; sem líquido livre; anexos normais.",
+       "en": "Single 13-week fetus with cardiac activity; normal placenta; no free fluid; normal adnexa."
+      }
+     }
+    }
+   },
+   {
+    "id": "i_tc",
+    "class": "desnecessaria",
+    "ref": "p. 151",
+    "label": {
+     "pt": "Tomografia de abdome e pelve",
+     "en": "Abdominal and pelvic CT"
+    },
+    "result": {
+     "pt": "Útero aumentado, sem coleções.",
+     "en": "Enlarged uterus, no collections."
+    },
+    "why": {
+     "pt": "Considerada na suspeita de abscesso ou falha do tratamento inicial.",
+     "en": "Considered for suspected abscess or failure of initial treatment."
+    }
+   }
+  ],
+  "conduta": [
+   {
+    "id": "c_ringer",
+    "class": "essencial",
+    "ref": "p. 143, 152, 156",
+    "label": {
+     "pt": "Ringer lactato 1.000 mL IV em 1 hora",
+     "en": "Lactated Ringer's 1,000 mL IV over 1 hour"
+    },
+    "why": {
+     "pt": "Reposição volêmica inicial com cristaloide balanceado (Pérola 8).",
+     "en": "Initial resuscitation with balanced crystalloid (Pearl 8)."
+    },
+    "group": "medicamento"
+   },
+   {
+    "id": "c_sf",
+    "class": "desnecessaria",
+    "ref": "p. 156",
+    "label": {
+     "pt": "Soro fisiológico 0,9% como solução de ressuscitação",
+     "en": "0.9% saline as resuscitation fluid"
+    },
+    "why": {
+     "pt": "Associado a acidose hiperclorêmica e lesão renal aguda; prefira Ringer lactato.",
+     "en": "Associated with hyperchloremic acidosis and acute kidney injury; prefer lactated Ringer's."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_atb_l1",
+    "class": "essencial",
+    "ref": "p. 143, 152",
+    "label": {
+     "pt": "Clindamicina + gentamicina IV",
+     "en": "IV clindamycin + gentamicin"
+    },
+    "why": {
+     "pt": "Esquema antimicrobiano do serviço.",
+     "en": "Service antimicrobial regimen."
+    },
+    "levels": [
+     1
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_atb",
+    "class": "essencial",
+    "ref": "p. 152",
+    "label": {
+     "pt": "Clindamicina 2.700 mg + gentamicina 240 mg IV em 250 mL de SF, em 1 hora",
+     "en": "Clindamycin 2,700 mg + gentamicin 240 mg IV in 250 mL NS over 1 hour"
+    },
+    "why": {
+     "pt": "Regime inicial, cobrindo aeróbios e anaeróbios.",
+     "en": "Initial regimen covering aerobes and anaerobes."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_ampi",
+    "class": "desnecessaria",
+    "ref": "p. 152",
+    "label": {
+     "pt": "Acrescentar ampicilina 1 g IV 6/6 h",
+     "en": "Add ampicillin 1 g IV every 6 h"
+    },
+    "why": {
+     "pt": "Indicada na sepse grave.",
+     "en": "Indicated in severe sepsis."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "medicamento",
+    "whenFlag": {
+     "sepse": {
+      "class": "essencial",
+      "why": {
+       "pt": "Sepse grave: acrescentar ampicilina e iniciar o protocolo de choque séptico.",
+       "en": "Severe sepsis: add ampicillin and start the septic shock protocol."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_sintom",
+    "class": "pertinente",
+    "ref": "p. 152",
+    "label": {
+     "pt": "Jejum, CSV, controle de diurese, metoclopramida e dipirona IV conforme necessidade",
+     "en": "NPO, vital signs, urine output, IV metoclopramide and dipyrone as needed"
+    },
+    "why": {
+     "pt": "Estabilização inicial.",
+     "en": "Initial stabilization."
+    },
+    "group": "medicamento"
+   },
+   {
+    "id": "c_ocito",
+    "class": "desnecessaria",
+    "ref": "p. 147",
+    "label": {
+     "pt": "Ocitocina IV para expulsão dos restos",
+     "en": "IV oxytocin to expel retained products"
+    },
+    "why": {
+     "pt": "No primeiro trimestre a ocitocina é ineficaz (poucos receptores).",
+     "en": "In the first trimester oxytocin is ineffective (few receptors)."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_progest",
+    "class": "contraindicada",
+    "ref": "p. 153",
+    "label": {
+     "pt": "Progesterona vaginal e repouso para ameaça de aborto",
+     "en": "Vaginal progesterone and rest for threatened miscarriage"
+    },
+    "why": {
+     "pt": "Sinais de infecção redirecionam para aborto infectado; tratar como ameaça atrasa o antibiótico.",
+     "en": "Signs of infection redirect to septic abortion; treating as threatened miscarriage delays antibiotics."
+    },
+    "levels": [
+     3
+    ],
+    "group": "medicamento",
+    "grave": true,
+    "outcome": {
+     "pt": "Atraso do tratamento de aborto infectado, com progressão para sepse (Caso 1, p. 153).",
+     "en": "Delayed treatment of septic abortion with progression to sepsis (Case 1, p. 153)."
+    }
+   },
+   {
+    "id": "c_amiu",
+    "class": "essencial",
+    "ref": "p. 143, 152",
+    "label": {
+     "pt": "Esvaziamento uterino (AMIU) assim que o antibiótico IV estiver instalado",
+     "en": "Uterine evacuation (MVA) as soon as IV antibiotics are running"
+    },
+    "why": {
+     "pt": "O controle da fonte elimina o foco infeccioso; AMIU indicada até 12 semanas.",
+     "en": "Source control removes the infectious focus; MVA up to 12 weeks."
+    },
+    "group": "procedimento",
+    "byLevel": {
+     "3": {
+      "label": {
+       "pt": "Esvaziamento uterino (curetagem) após estabilização mínima, mesmo com BCF presente",
+       "en": "Uterine evacuation (curettage) after minimal stabilization, even with fetal cardiac activity"
+      },
+      "why": {
+       "pt": "A curetagem deve ser realizada assim que houver estabilização mínima, mesmo com BCF.",
+       "en": "Curettage should be performed once minimally stable, even with fetal cardiac activity."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_espera",
+    "class": "contraindicada",
+    "ref": "p. 143, 156",
+    "label": {
+     "pt": "Adiar o esvaziamento para após 48 h de antibioticoterapia",
+     "en": "Delay evacuation until after 48 h of antibiotics"
+    },
+    "why": {
+     "pt": "O esvaziamento deve ser feito o mais rápido possível após a estabilização (Pérola 4).",
+     "en": "Evacuation should be done as soon as possible after stabilization (Pearl 4)."
+    },
+    "group": "procedimento"
+   },
+   {
+    "id": "c_cureta",
+    "class": "pertinente",
+    "ref": "p. 156",
+    "label": {
+     "pt": "Usar a maior cureta possível e guiar por ultrassonografia abdominal, se necessário",
+     "en": "Use the largest curette possible and abdominal ultrasound guidance if needed"
+    },
+    "why": {
+     "pt": "O útero infectado é amolecido e perfura com facilidade (Pérolas 6 e 7).",
+     "en": "The infected uterus is soft and perforates easily (Pearls 6 and 7)."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "procedimento"
+   },
+   {
+    "id": "c_histerec",
+    "class": "contraindicada",
+    "ref": "p. 153",
+    "label": {
+     "pt": "Histerectomia",
+     "en": "Hysterectomy"
+    },
+    "why": {
+     "pt": "Reservada para deterioração clínica, falha terapêutica ou necrose uterina.",
+     "en": "Reserved for clinical deterioration, treatment failure or uterine necrosis."
+    },
+    "group": "procedimento"
+   },
+   {
+    "id": "c_atbvo",
+    "class": "desnecessaria",
+    "ref": "p. 153",
+    "label": {
+     "pt": "Manter antibiótico oral por 10 dias após a suspensão do IV",
+     "en": "Continue oral antibiotics for 10 days after stopping IV"
+    },
+    "why": {
+     "pt": "Após 48 h de melhora sustentada, não há benefício em manter antibióticos orais.",
+     "en": "After 48 h of sustained improvement, oral antibiotics add no benefit."
+    },
+    "group": "orientacao"
+   },
+   {
+    "id": "c_comunic",
+    "class": "pertinente",
+    "ref": "p. 156",
+    "label": {
+     "pt": "Explicar a gravidade e o plano de tratamento à paciente",
+     "en": "Explain the severity and treatment plan to the patient"
+    },
+    "why": {
+     "pt": "Comunicação efetiva (Pérola 5).",
+     "en": "Effective communication (Pearl 5)."
+    },
+    "group": "orientacao"
+   },
+   {
+    "id": "c_intern",
+    "class": "essencial",
+    "ref": "p. 153",
+    "label": {
+     "pt": "Internação hospitalar",
+     "en": "Hospital admission"
+    },
+    "why": {
+     "pt": "Suporte clínico e monitorização em ambiente hospitalar.",
+     "en": "Clinical support and monitoring in hospital."
+    },
+    "group": "destino"
+   },
+   {
+    "id": "c_alta",
+    "class": "contraindicada",
+    "ref": "p. 153",
+    "label": {
+     "pt": "Alta com retorno se piora",
+     "en": "Discharge with return precautions"
+    },
+    "why": {
+     "pt": "Em caso de dúvida sobre aborto infectado, inicie antibiótico e interne.",
+     "en": "When septic abortion is suspected, start antibiotics and admit."
+    },
+    "group": "destino",
+    "grave": true,
+    "outcome": {
+     "pt": "Progressão para sepse fora do hospital; a alta morbimortalidade justifica baixo limiar para tratar (Caso 1, p. 153).",
+     "en": "Progression to sepsis outside hospital; high morbidity and mortality justify a low threshold to treat (Case 1, p. 153)."
+    }
+   }
+  ]
+ }
+}

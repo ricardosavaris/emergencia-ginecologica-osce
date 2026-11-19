@@ -1,0 +1,1059 @@
+{
+ "id": "c08",
+ "title": {
+  "pt": "Dor pélvica e corrimento",
+  "en": "Pelvic pain and discharge"
+ },
+ "chapter": {
+  "pt": "Doença inflamatória pélvica",
+  "en": "Pelvic inflammatory disease"
+ },
+ "pages": "p. 159–182",
+ "base": {
+  "triage": {
+   "pt": "Mulher de 22 anos procura a emergência por dor em baixo ventre há 4 dias e corrimento vaginal. Nega atraso menstrual.",
+   "en": "22-year-old woman presents with lower abdominal pain for 4 days and vaginal discharge. She denies a late period."
+  },
+  "vitals": {
+   "PA": "118/74 mmHg",
+   "FC": "88 bpm",
+   "FR": "16 mrpm",
+   "Tax": "37,6 °C",
+   "SpO2": "98%"
+  },
+  "correctDiagnosis": "dip",
+  "diagnosisExplanation": {
+   "pt": "Mulher sexualmente ativa com dor pélvica nos últimos 30 dias, dor à mobilização do colo e dor anexial, na ausência de outra doença que explique a dor (hCG negativo, urina normal, punho-percussão negativa, Carnett negativo, ultrassonografia sem outra causa): DIP (critério clínico, p. 164). Dor ≤ 5 na EVA em bom estado geral: tratamento ambulatorial com ceftriaxona 500 mg IM + azitromicina 1 g VO na consulta, reavaliação em 48 h e azitromicina 1 g após 1 semana (cura 90,3%; IC95%: 80 a 96; p. 169).",
+   "en": "Sexually active woman with pelvic pain within 30 days, cervical motion tenderness and adnexal tenderness, with no other condition explaining the pain (negative hCG, normal urinalysis, negative CVA tenderness, negative Carnett sign, ultrasound without another cause): PID (clinical criterion, p. 164). Pain ≤ 5 on VAS and well-appearing: outpatient ceftriaxone 500 mg IM + azithromycin 1 g PO at the visit, reassessment at 48 h and azithromycin 1 g after 1 week (cure 90.3%; 95% CI 80–96; p. 169)."
+  },
+  "learning": {
+   "pt": "Não utilize mais critérios maiores e menores; tenha um baixo limiar para tratar: se não houver outra causa provável, trate como DIP (p. 159, 163). O diagnóstico é clínico e de exclusão (Caso 4, p. 174).\nA intensidade da dor (EVA) define o esquema: ≤ 5 ambulatorial; > 5, febre, diagnóstico incerto ou incapacidade de adesão, hospital-dia ou internação (p. 168). O parceiro deve ser chamado para consulta; prescrever sem consulta não é amparado pelo Código de Ética Médica (p. 169).\nPergunte sobre atividade sexual com tempo amplificado e esclareça o uso de preservativo (Pérola 2, p. 176).",
+   "en": "Do not use major/minor criteria; keep a low threshold: if no other likely cause, treat as PID (p. 159, 163). Diagnosis is clinical and of exclusion (Case 4, p. 174).\nPain intensity (VAS) defines the regimen: ≤ 5 outpatient; > 5, fever, uncertain diagnosis or inability to adhere, day-hospital or admission (p. 168). The partner should be called for a visit; prescribing without seeing him is not supported by the Brazilian Code of Medical Ethics (p. 169).\nAsk about sexual activity with an amplified time frame and clarify condom use (Pearl 2, p. 176)."
+  }
+ },
+ "levels": {
+  "3": {
+   "triage": {
+    "pt": "Mulher de 48 anos, usuária de DIU de cobre há mais de 15 anos, com dor abdominal há 3 dias que evoluiu para dor difusa e intensa, febre e secreção vaginal amarelada.",
+    "en": "48-year-old woman with a copper IUD for over 15 years, with abdominal pain for 3 days progressing to severe diffuse pain, fever and yellow vaginal discharge."
+   },
+   "vitals": {
+    "PA": "104/62 mmHg",
+    "FC": "118 bpm",
+    "FR": "22 mrpm",
+    "Tax": "39,5 °C",
+    "SpO2": "98%"
+   },
+   "correctDiagnosis": "ato",
+   "diagnosisExplanation": {
+    "pt": "Dor intensa, febre, abaulamento doloroso em fundo de saco, PCR muito elevada mesmo sem leucocitose, culdocentese purulenta e estrutura tubular anexial de 6 cm: abscesso tubo-ovariano (piossalpinge). Sem atividade sexual há 3 anos, com extração de dente infectado 3 semanas antes: disseminação hematogênica por S. anginosus (Caso 7, p. 175). DIP não exige vida sexual ativa (Caso 1, p. 172–173).",
+    "en": "Severe pain, fever, a tender cul-de-sac bulge, very high CRP even without leukocytosis, purulent culdocentesis and a 6-cm tubular adnexal structure: tubo-ovarian abscess (pyosalpinx). No sexual activity for 3 years, with extraction of an infected tooth 3 weeks earlier: hematogenous spread of S. anginosus (Case 7, p. 175). PID does not require sexual activity (Case 1, p. 172–173)."
+   },
+   "learning": {
+    "pt": "Com ATO, interne e use ampicilina 2 g IV 6/6 h + gentamicina 240 mg + clindamicina 2.700 mg IV 1×/dia (p. 169); retire o DIU (p. 170). A melhora pode ser lenta: aguarde 48 a 72 h antes de intervir; cerca de 40% dos ATO > 9 cm curam só com antimicrobiano (p. 170; Caso 5, p. 174).\nSe houver ruptura (abdome agudo, líquido livre, choque séptico), a cirurgia com antimicrobianos de amplo espectro está indicada (p. 170). A drenagem transvaginal exige mais reintervenções que a laparoscópica (RR 3,98). Na disseminação hematogênica, avalie as valvas cardíacas com ultrassonografia Doppler (Caso 7, p. 175).",
+    "en": "With a TOA, admit and give ampicillin 2 g IV every 6 h + gentamicin 240 mg + clindamycin 2,700 mg IV once daily (p. 169); remove the IUD (p. 170). Improvement may be slow: wait 48–72 h before intervening; about 40% of TOAs > 9 cm resolve with antibiotics alone (p. 170; Case 5, p. 174).\nWith rupture (acute abdomen, free fluid, septic shock), surgery with broad-spectrum antibiotics is indicated (p. 170). Transvaginal drainage requires more reinterventions than laparoscopic drainage (RR 3.98). With hematogenous spread, evaluate the heart valves with Doppler echocardiography (Case 7, p. 175)."
+   },
+   "timerMinutes": 15,
+   "deterioration": [
+    {
+     "afterSeconds": 420,
+     "afterActions": 16,
+     "flag": "ruptura",
+     "vitals": {
+      "PA": "82/48 mmHg",
+      "FC": "134 bpm",
+      "FR": "28 mrpm"
+     },
+     "message": {
+      "pt": "Piora súbita da dor, agora difusa com rigidez abdominal e descompressão dolorosa; a ultrassonografia à beira do leito mostra líquido livre.",
+      "en": "Sudden worsening of pain, now diffuse with abdominal rigidity and rebound; bedside ultrasound shows free fluid."
+     }
+    }
+   ]
+  }
+ },
+ "diagnoses": [
+  {
+   "id": "dip",
+   "label": {
+    "pt": "Doença inflamatória pélvica",
+    "en": "Pelvic inflammatory disease"
+   }
+  },
+  {
+   "id": "ato",
+   "label": {
+    "pt": "Abscesso tubo-ovariano / piossalpinge",
+    "en": "Tubo-ovarian abscess / pyosalpinx"
+   }
+  },
+  {
+   "id": "apend",
+   "label": {
+    "pt": "Apendicite aguda",
+    "en": "Acute appendicitis"
+   }
+  },
+  {
+   "id": "pielo",
+   "label": {
+    "pt": "Pielonefrite",
+    "en": "Pyelonephritis"
+   }
+  },
+  {
+   "id": "ge",
+   "label": {
+    "pt": "Gravidez ectópica",
+    "en": "Ectopic pregnancy"
+   }
+  },
+  {
+   "id": "torcao",
+   "label": {
+    "pt": "Torção de anexo",
+    "en": "Adnexal torsion"
+   }
+  },
+  {
+   "id": "cl",
+   "label": {
+    "pt": "Corpo lúteo hemorrágico",
+    "en": "Hemorrhagic corpus luteum"
+   }
+  },
+  {
+   "id": "endomet",
+   "label": {
+    "pt": "Agudização de endometriose",
+    "en": "Endometriosis flare"
+   }
+  }
+ ],
+ "stages": {
+  "anamnese": [
+   {
+    "id": "a_sexual",
+    "class": "essencial",
+    "ref": "p. 164, 176",
+    "label": {
+     "pt": "Atividade sexual (com tempo amplificado e uso de preservativo)",
+     "en": "Sexual activity (amplified time frame and condom use)"
+    },
+    "result": {
+     "pt": "Disse que não tinha relação \"faz tempo\"; ao perguntar \"uns 2 anos?\", respondeu \"não, umas 2 semanas\"; preservativo irregular.",
+     "en": "She said no sex \"for a while\"; when asked \"about 2 years?\", she replied \"no, about 2 weeks\"; irregular condom use."
+    },
+    "why": {
+     "pt": "O diagnóstico é considerado em mulheres sexualmente ativas; a pergunta exige técnica (Pérola 2).",
+     "en": "Diagnosis is considered in sexually active women; the question requires technique (Pearl 2)."
+    },
+    "byLevel": {
+     "3": {
+      "class": "pertinente",
+      "result": {
+       "pt": "Sem atividade sexual há mais de 3 anos.",
+       "en": "No sexual activity for over 3 years."
+      },
+      "why": {
+       "pt": "A DIP pode ocorrer por via hematogênica ou linfática, sem vida sexual ativa (Caso 1).",
+       "en": "PID may occur by hematogenous or lymphatic spread without sexual activity (Case 1)."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_dor",
+    "class": "essencial",
+    "ref": "p. 165, 168",
+    "label": {
+     "pt": "Intensidade da dor na escala visual analógica (0 a 10)",
+     "en": "Pain intensity on the visual analog scale (0–10)"
+    },
+    "result": {
+     "pt": "EVA 4.",
+     "en": "VAS 4."
+    },
+    "why": {
+     "pt": "A EVA define o tipo de tratamento e permite acompanhar a evolução.",
+     "en": "VAS defines treatment type and allows follow-up."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "EVA 9.",
+       "en": "VAS 9."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_urin",
+    "class": "essencial",
+    "ref": "p. 165",
+    "label": {
+     "pt": "Sintomas urinários e dor lombar",
+     "en": "Urinary symptoms and flank pain"
+    },
+    "result": {
+     "pt": "Nega.",
+     "en": "Denies."
+    },
+    "why": {
+     "pt": "Afasta pielonefrite e litíase, diferenciais frequentes (Caso 4).",
+     "en": "Excludes pyelonephritis and stones, common differentials (Case 4)."
+    }
+   },
+   {
+    "id": "a_gi",
+    "class": "pertinente",
+    "ref": "p. 165, 167",
+    "label": {
+     "pt": "Sintomas gastrointestinais e migração da dor",
+     "en": "Gastrointestinal symptoms and pain migration"
+    },
+    "result": {
+     "pt": "Nega diarreia e vômitos; dor sempre em hipogástrio.",
+     "en": "Denies diarrhea and vomiting; pain always suprapubic."
+    },
+    "why": {
+     "pt": "Afasta apendicite e gastroenterite.",
+     "en": "Excludes appendicitis and gastroenteritis."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Náuseas; dor iniciou em hipogástrio e tornou-se difusa.",
+       "en": "Nausea; pain began suprapubic and became diffuse."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_diu",
+    "class": "pertinente",
+    "ref": "p. 170",
+    "label": {
+     "pt": "Método contraceptivo (DIU)",
+     "en": "Contraceptive method (IUD)"
+    },
+    "result": {
+     "pt": "Anticoncepcional oral.",
+     "en": "Oral contraceptive."
+    },
+    "why": {
+     "pt": "O DIU pode permanecer na DIP, mas é retirado no ATO, na internação ou sem melhora em 72 h.",
+     "en": "The IUD may stay in PID but is removed with TOA, admission or no improvement in 72 h."
+    },
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "result": {
+       "pt": "DIU de cobre há mais de 15 anos.",
+       "en": "Copper IUD for over 15 years."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_proced",
+    "class": "pertinente",
+    "ref": "p. 173, 175",
+    "label": {
+     "pt": "Procedimentos ou infecções recentes (ginecológicos, dentários)",
+     "en": "Recent procedures or infections (gynecologic, dental)"
+    },
+    "result": {
+     "pt": "Nega.",
+     "en": "Denies."
+    },
+    "why": {
+     "pt": "Procedimentos uterinos podem ativar DIP; infecções à distância sugerem disseminação hematogênica.",
+     "en": "Uterine procedures may trigger PID; distant infections suggest hematogenous spread."
+    },
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "result": {
+       "pt": "Extraiu um 3º molar infectado há 3 semanas, sem antibiótico.",
+       "en": "Infected third molar extracted 3 weeks ago, without antibiotics."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_alergia",
+    "class": "pertinente",
+    "ref": "p. 169",
+    "label": {
+     "pt": "Alergias medicamentosas",
+     "en": "Drug allergies"
+    },
+    "result": {
+     "pt": "Nega.",
+     "en": "Denies."
+    },
+    "why": {
+     "pt": "Necessária antes de prescrever antimicrobianos.",
+     "en": "Required before prescribing antimicrobials."
+    }
+   },
+   {
+    "id": "a_tosse",
+    "class": "desnecessaria",
+    "ref": "p. 167",
+    "label": {
+     "pt": "Tosse e dor pleurítica",
+     "en": "Cough and pleuritic pain"
+    },
+    "result": {
+     "pt": "Nega.",
+     "en": "Denies."
+    },
+    "why": {
+     "pt": "Diferencial pertinente apenas quando há sintomas respiratórios; a ausculta faz parte do exame.",
+     "en": "Relevant differential only with respiratory symptoms; auscultation is part of the exam."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   }
+  ],
+  "exame": [
+   {
+    "id": "e_abd",
+    "class": "essencial",
+    "ref": "p. 165",
+    "label": {
+     "pt": "Exame abdominal com manobra de Carnett, descompressão, punho-percussão lombar e ausculta pulmonar",
+     "en": "Abdominal exam with Carnett sign, rebound, CVA percussion and lung auscultation"
+    },
+    "result": {
+     "pt": "Dor à palpação profunda do hipogástrio; Carnett negativo; sem descompressão dolorosa; punho-percussão negativa; ausculta normal.",
+     "en": "Deep suprapubic tenderness; Carnett negative; no rebound; CVA percussion negative; normal auscultation."
+    },
+    "why": {
+     "pt": "Essas manobras orientam o diagnóstico diferencial.",
+     "en": "These maneuvers guide the differential diagnosis."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Dor difusa à palpação, sem rigidez; punho-percussão negativa.",
+       "en": "Diffuse tenderness, no rigidity; CVA percussion negative."
+      }
+     }
+    },
+    "whenFlag": {
+     "ruptura": {
+      "why": {
+       "pt": "Após a piora: rigidez e descompressão dolorosa indicam abdome agudo por ruptura do abscesso.",
+       "en": "After deterioration: rigidity and rebound indicate an acute abdomen from abscess rupture."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_espec",
+    "class": "essencial",
+    "ref": "p. 164–165",
+    "label": {
+     "pt": "Exame especular",
+     "en": "Speculum exam"
+    },
+    "result": {
+     "pt": "Secreção mucopurulenta no colo.",
+     "en": "Mucopurulent cervical discharge."
+    },
+    "why": {
+     "pt": "Revela secreções vaginais ou cervicais anormais.",
+     "en": "Shows abnormal vaginal or cervical discharge."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Secreção amarelada abundante; fio do DIU visível.",
+       "en": "Abundant yellow discharge; IUD string visible."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_toque",
+    "class": "essencial",
+    "ref": "p. 164, 166",
+    "label": {
+     "pt": "Toque bimanual com bexiga vazia",
+     "en": "Bimanual exam with empty bladder"
+    },
+    "result": {
+     "pt": "Dor à mobilização do colo e dor anexial bilateral; expressão facial de dor.",
+     "en": "Cervical motion tenderness and bilateral adnexal tenderness; facial grimace."
+    },
+    "why": {
+     "pt": "Critério diagnóstico; considere a dor expressa na face; bexiga cheia confunde o exame.",
+     "en": "Diagnostic criterion; consider pain shown on the face; a full bladder confounds the exam."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Abaulamento muito doloroso no fundo de saco posterior.",
+       "en": "Very tender bulge in the posterior cul-de-sac."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_hcd",
+    "class": "pertinente",
+    "ref": "p. 166",
+    "label": {
+     "pt": "Palpação do hipocôndrio direito",
+     "en": "Right upper quadrant palpation"
+    },
+    "result": {
+     "pt": "Indolor.",
+     "en": "Non-tender."
+    },
+    "why": {
+     "pt": "Dor no hipocôndrio direito sugere peri-hepatite (Fitz-Hugh-Curtis, 5% dos casos).",
+     "en": "RUQ pain suggests perihepatitis (Fitz-Hugh-Curtis, 5% of cases)."
+    }
+   }
+  ],
+  "lab": [
+   {
+    "id": "l_hcg",
+    "class": "essencial",
+    "ref": "p. 166, 176",
+    "label": {
+     "pt": "β-hCG urinário",
+     "en": "Urine β-hCG"
+    },
+    "result": {
+     "pt": "Negativo.",
+     "en": "Negative."
+    },
+    "why": {
+     "pt": "Obrigatório em idade reprodutiva com dor pélvica (Pérola 1).",
+     "en": "Mandatory in reproductive age with pelvic pain (Pearl 1)."
+    }
+   },
+   {
+    "id": "l_equ",
+    "class": "essencial",
+    "ref": "p. 165, 174",
+    "label": {
+     "pt": "Exame qualitativo de urina",
+     "en": "Urinalysis"
+    },
+    "result": {
+     "pt": "Sem leucocitúria; nitrito negativo.",
+     "en": "No pyuria; nitrite negative."
+    },
+    "why": {
+     "pt": "Diferencia de infecção urinária e pielonefrite (Caso 4).",
+     "en": "Differentiates from urinary infection and pyelonephritis (Case 4)."
+    }
+   },
+   {
+    "id": "l_hemo",
+    "class": "pertinente",
+    "ref": "p. 159, 167",
+    "label": {
+     "pt": "Hemograma",
+     "en": "Complete blood count"
+    },
+    "result": {
+     "pt": "Leucócitos 11.800/mm³.",
+     "en": "WBC 11,800/mm³."
+    },
+    "why": {
+     "pt": "Leucócitos < 10.000, VSG < 15, PCR < 5 e exame a fresco normal: LR− 0,005; ≥ 12.035 sugere ATO (LR+ 1,78).",
+     "en": "WBC < 10,000, ESR < 15, CRP < 5 and normal wet mount: LR− 0.005; ≥ 12,035 suggests TOA (LR+ 1.78)."
+    },
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "result": {
+       "pt": "Leucócitos 7.200/mm³, sem desvio.",
+       "en": "WBC 7,200/mm³, no left shift."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_pcr",
+    "class": "pertinente",
+    "ref": "p. 159, 165, 167",
+    "label": {
+     "pt": "Proteína C-reativa e VSG",
+     "en": "C-reactive protein and ESR"
+    },
+    "result": {
+     "pt": "PCR 38 mg/L; VSG 32 mm/h.",
+     "en": "CRP 38 mg/L; ESR 32 mm/h."
+    },
+    "why": {
+     "pt": "PCR > 1 mg/L: LR+ 4,98; PCR > 41,65 mg/L sugere ATO (LR+ 3,73).",
+     "en": "CRP > 1 mg/L: LR+ 4.98; CRP > 41.65 mg/L suggests TOA (LR+ 3.73)."
+    },
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "result": {
+       "pt": "PCR 4.210 mg/L.",
+       "en": "CRP 4,210 mg/L."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_fresco",
+    "class": "pertinente",
+    "ref": "p. 167, 169",
+    "label": {
+     "pt": "Exame a fresco da secreção vaginal",
+     "en": "Vaginal wet mount"
+    },
+    "result": {
+     "pt": "Mais de 10 leucócitos por campo; sem clue cells, tricomonas ou hifas.",
+     "en": "More than 10 WBC per field; no clue cells, trichomonads or hyphae."
+    },
+    "why": {
+     "pt": "Normal (< 3 leucócitos) compõe o conjunto que exclui DIP; vaginose ou tricomoníase indicam metronidazol.",
+     "en": "A normal result (< 3 WBC) is part of the set that excludes PID; BV or trichomoniasis indicates metronidazole."
+    },
+    "levels": [
+     1,
+     2
+    ]
+   },
+   {
+    "id": "l_naat",
+    "class": "pertinente",
+    "ref": "p. 166",
+    "label": {
+     "pt": "NAAT para clamídia e gonococo",
+     "en": "NAAT for chlamydia and gonorrhea"
+    },
+    "result": {
+     "pt": "Coletado; resultado em até 7 dias.",
+     "en": "Collected; result within 7 days."
+    },
+    "why": {
+     "pt": "Teste positivo: LR+ 4,3; o resultado pode demorar uma semana e não deve atrasar o tratamento.",
+     "en": "Positive test: LR+ 4.3; results may take a week and must not delay treatment."
+    },
+    "levels": [
+     1,
+     2
+    ]
+   },
+   {
+    "id": "l_soro",
+    "class": "essencial",
+    "ref": "p. 169",
+    "label": {
+     "pt": "Sorologias para sífilis, HIV, hepatites B e C",
+     "en": "Serologies for syphilis, HIV, hepatitis B and C"
+    },
+    "result": {
+     "pt": "Não reagentes.",
+     "en": "Non-reactive."
+    },
+    "why": {
+     "pt": "Solicitadas de rotina por ser, em geral, IST.",
+     "en": "Ordered routinely because PID is usually an STI."
+    },
+    "byLevel": {
+     "3": {
+      "class": "pertinente"
+     }
+    }
+   },
+   {
+    "id": "l_culdo",
+    "class": "pertinente",
+    "ref": "p. 175",
+    "label": {
+     "pt": "Culdocentese com cultura",
+     "en": "Culdocentesis with culture"
+    },
+    "result": {
+     "pt": "10 mL de secreção purulenta; cultura: Streptococcus anginosus.",
+     "en": "10 mL of purulent fluid; culture: Streptococcus anginosus."
+    },
+    "why": {
+     "pt": "No Caso 7, a culdocentese confirmou a coleção purulenta e identificou o agente.",
+     "en": "In Case 7, culdocentesis confirmed the purulent collection and identified the organism."
+    },
+    "levels": [
+     3
+    ]
+   },
+   {
+    "id": "l_hemocult",
+    "class": "desnecessaria",
+    "ref": "p. 166",
+    "label": {
+     "pt": "Hemoculturas",
+     "en": "Blood cultures"
+    },
+    "result": {
+     "pt": "Negativas.",
+     "en": "Negative."
+    },
+    "why": {
+     "pt": "Não há teste sanguíneo específico para DIP.",
+     "en": "There is no specific blood test for PID."
+    },
+    "levels": [
+     2
+    ]
+   }
+  ],
+  "imagem": [
+   {
+    "id": "i_us",
+    "class": "pertinente",
+    "ref": "p. 166–167",
+    "label": {
+     "pt": "Ultrassonografia transvaginal",
+     "en": "Transvaginal ultrasound"
+    },
+    "result": {
+     "pt": "Útero e ovários sem alterações; sem coleções; sem líquido livre.",
+     "en": "Normal uterus and ovaries; no collections; no free fluid."
+    },
+    "why": {
+     "pt": "Útil para detectar outras causas de dor ou ATO; não é necessária para confirmar DIP.",
+     "en": "Useful to detect other causes of pain or TOA; not needed to confirm PID."
+    },
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "result": {
+       "pt": "Estrutura tubular de paredes espessas com conteúdo ecogênico na região anexial direita (6 cm); coleção em fundo de saco.",
+       "en": "Thick-walled tubular structure with echogenic content in the right adnexa (6 cm); cul-de-sac collection."
+      }
+     }
+    }
+   },
+   {
+    "id": "i_tc",
+    "class": "desnecessaria",
+    "ref": "p. 167, 169",
+    "label": {
+     "pt": "Tomografia de abdome e pelve",
+     "en": "Abdominal and pelvic CT"
+    },
+    "result": {
+     "pt": "Sem alterações.",
+     "en": "No abnormalities."
+    },
+    "why": {
+     "pt": "Indicada se houver piora ou falha do tratamento, para diferenciais ou complicações.",
+     "en": "Indicated for worsening or treatment failure, to assess differentials or complications."
+    },
+    "byLevel": {
+     "3": {
+      "class": "pertinente",
+      "result": {
+       "pt": "Estrutura tubular anexial direita de 6 cm, sugestiva de piossalpinge; apêndice normal.",
+       "en": "6-cm right tubular adnexal structure suggesting pyosalpinx; normal appendix."
+      }
+     }
+    }
+   },
+   {
+    "id": "i_rm",
+    "class": "desnecessaria",
+    "ref": "p. 167",
+    "label": {
+     "pt": "Ressonância magnética da pelve",
+     "en": "Pelvic MRI"
+    },
+    "result": {
+     "pt": "Inflamação tubária bilateral.",
+     "en": "Bilateral tubal inflammation."
+    },
+    "why": {
+     "pt": "Com pré-teste de 9%, RM positiva (LR+ 8,6) leva o pós-teste a 46%; não é necessária para confirmar DIP.",
+     "en": "With 9% pretest probability, a positive MRI (LR+ 8.6) gives 46% post-test; not needed to confirm PID."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   }
+  ],
+  "conduta": [
+   {
+    "id": "c_amb_l1",
+    "class": "essencial",
+    "ref": "p. 169",
+    "label": {
+     "pt": "Ceftriaxona IM + azitromicina VO",
+     "en": "IM ceftriaxone + oral azithromycin"
+    },
+    "why": {
+     "pt": "Esquema ambulatorial mais custo-efetivo.",
+     "en": "Most cost-effective outpatient regimen."
+    },
+    "levels": [
+     1
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_amb",
+    "class": "essencial",
+    "ref": "p. 169",
+    "label": {
+     "pt": "Ceftriaxona 500 mg IM + azitromicina 1 g VO na consulta; azitromicina 1 g após 1 semana se houver melhora",
+     "en": "Ceftriaxone 500 mg IM + azithromycin 1 g PO at the visit; azithromycin 1 g after 1 week if improving"
+    },
+    "why": {
+     "pt": "Cura de 90,3% (IC95%: 80 a 96).",
+     "en": "Cure 90.3% (95% CI 80–96)."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "medicamento",
+    "byLevel": {
+     "3": {
+      "class": "contraindicada",
+      "why": {
+       "pt": "Paciente com ATO, febre e dor intensa exige internação e esquema IV.",
+       "en": "A patient with TOA, fever and severe pain requires admission and an IV regimen."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_doxi",
+    "class": "desnecessaria",
+    "ref": "p. 169",
+    "label": {
+     "pt": "Ceftriaxona 500 mg IM + doxiciclina 100 mg VO 12/12 h por 14 dias",
+     "en": "Ceftriaxone 500 mg IM + doxycycline 100 mg PO every 12 h for 14 days"
+    },
+    "why": {
+     "pt": "No serviço, azitromicina teve maior cura (87,15% vs 72,62%) e facilita a adesão.",
+     "en": "In the service, azithromycin had higher cure (87.15% vs 72.62%) and improves adherence."
+    },
+    "levels": [
+     2
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_metro",
+    "class": "desnecessaria",
+    "ref": "p. 168–169",
+    "label": {
+     "pt": "Metronidazol 500 mg VO 12/12 h por 14 dias",
+     "en": "Metronidazole 500 mg PO every 12 h for 14 days"
+    },
+    "why": {
+     "pt": "Prescrito em casos de vaginose ou tricomoníase; exame a fresco sem esses achados.",
+     "en": "Prescribed for BV or trichomoniasis; wet mount without these findings."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_aine",
+    "class": "pertinente",
+    "ref": "p. 176",
+    "label": {
+     "pt": "Anti-inflamatório enquanto aguarda exames",
+     "en": "NSAID while awaiting tests"
+    },
+    "why": {
+     "pt": "Pérola 3.",
+     "en": "Pearl 3."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_gc",
+    "class": "desnecessaria",
+    "ref": "p. 169",
+    "label": {
+     "pt": "Gentamicina 240 mg + clindamicina 2.700 mg IV em hospital-dia",
+     "en": "Gentamicin 240 mg + clindamycin 2,700 mg IV in day hospital"
+    },
+    "why": {
+     "pt": "Indicada para dor > 5 ou falha do tratamento ambulatorial.",
+     "en": "Indicated for pain > 5 or outpatient failure."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_ato",
+    "class": "essencial",
+    "ref": "p. 169",
+    "label": {
+     "pt": "Ampicilina 2 g IV 6/6 h + gentamicina 240 mg + clindamicina 2.700 mg IV 1×/dia",
+     "en": "Ampicillin 2 g IV every 6 h + gentamicin 240 mg + clindamycin 2,700 mg IV once daily"
+    },
+    "why": {
+     "pt": "Esquema da paciente internada com ATO (cura 66,1%; mais custo-efetivo no serviço).",
+     "en": "Regimen for admitted patients with TOA (cure 66.1%; most cost-effective in the service)."
+    },
+    "levels": [
+     3
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_asd",
+    "class": "pertinente",
+    "ref": "p. 169, 171",
+    "label": {
+     "pt": "Ampicilina + sulbactam 3 g IV 6/6 h + doxiciclina 100 mg VO 12/12 h",
+     "en": "Ampicillin-sulbactam 3 g IV every 6 h + doxycycline 100 mg PO every 12 h"
+    },
+    "why": {
+     "pt": "Esquema da internada sem ATO; usado no Caso 7.",
+     "en": "Regimen for admitted patients without TOA; used in Case 7."
+    },
+    "levels": [
+     3
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_diu",
+    "class": "essencial",
+    "ref": "p. 170",
+    "label": {
+     "pt": "Retirar o DIU",
+     "en": "Remove the IUD"
+    },
+    "why": {
+     "pt": "No ATO ou na internação, o DIU é retirado.",
+     "en": "With TOA or admission, the IUD is removed."
+    },
+    "levels": [
+     3
+    ],
+    "group": "procedimento"
+   },
+   {
+    "id": "c_espera",
+    "class": "essencial",
+    "ref": "p. 170, 174",
+    "label": {
+     "pt": "Manter antimicrobianos e aguardar 48 a 72 h antes de intervenção cirúrgica, com reavaliação seriada",
+     "en": "Continue antibiotics and wait 48–72 h before surgery, with serial reassessment"
+    },
+    "why": {
+     "pt": "A melhora pode ser lenta; a cirurgia raramente é a primeira linha no ATO não roto (Caso 5).",
+     "en": "Improvement may be slow; surgery is rarely first line for unruptured TOA (Case 5)."
+    },
+    "levels": [
+     3
+    ],
+    "group": "procedimento",
+    "whenFlag": {
+     "ruptura": {
+      "class": "contraindicada",
+      "why": {
+       "pt": "Com ruptura do abscesso e choque, aguardar é contraindicado.",
+       "en": "With abscess rupture and shock, waiting is contraindicated."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_cirurgia",
+    "class": "desnecessaria",
+    "ref": "p. 170",
+    "label": {
+     "pt": "Laparoscopia/laparotomia imediata com drenagem",
+     "en": "Immediate laparoscopy/laparotomy with drainage"
+    },
+    "why": {
+     "pt": "No ATO não roto, inicie antimicrobianos e aguarde 48 a 72 h.",
+     "en": "In unruptured TOA, start antibiotics and wait 48–72 h."
+    },
+    "levels": [
+     3
+    ],
+    "group": "procedimento",
+    "whenFlag": {
+     "ruptura": {
+      "class": "essencial",
+      "why": {
+       "pt": "Ruptura com abdome agudo, líquido livre e choque séptico: cirurgia com antimicrobianos de amplo espectro.",
+       "en": "Rupture with acute abdomen, free fluid and septic shock: surgery with broad-spectrum antibiotics."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_dtv",
+    "class": "desnecessaria",
+    "ref": "p. 175",
+    "label": {
+     "pt": "Drenagem por via transvaginal",
+     "en": "Transvaginal drainage"
+    },
+    "why": {
+     "pt": "Exige mais reintervenções que a via laparoscópica (RR 3,98).",
+     "en": "Requires more reinterventions than laparoscopy (RR 3.98)."
+    },
+    "levels": [
+     3
+    ],
+    "group": "procedimento"
+   },
+   {
+    "id": "c_eco",
+    "class": "pertinente",
+    "ref": "p. 175",
+    "label": {
+     "pt": "Ecocardiograma com Doppler para avaliar valvas",
+     "en": "Doppler echocardiography to evaluate valves"
+    },
+    "why": {
+     "pt": "Disseminação sistêmica pode implantar-se nas valvas (Caso 7).",
+     "en": "Systemic spread may seed the valves (Case 7)."
+    },
+    "levels": [
+     3
+    ],
+    "group": "procedimento"
+   },
+   {
+    "id": "c_lap",
+    "class": "desnecessaria",
+    "ref": "p. 166",
+    "label": {
+     "pt": "Laparoscopia diagnóstica",
+     "en": "Diagnostic laparoscopy"
+    },
+    "why": {
+     "pt": "Não é padrão-ouro: não identifica infecção precoce e tem alta variabilidade interobservador.",
+     "en": "Not a gold standard: misses early infection and has high interobserver variability."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "procedimento"
+   },
+   {
+    "id": "c_parceiro",
+    "class": "essencial",
+    "ref": "p. 169",
+    "label": {
+     "pt": "Convocar o parceiro para consulta, testagem e tratamento",
+     "en": "Call the partner for evaluation, testing and treatment"
+    },
+    "why": {
+     "pt": "Parceiros dos últimos 60 dias devem ser avaliados, testados e tratados.",
+     "en": "Partners from the last 60 days should be evaluated, tested and treated."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "orientacao"
+   },
+   {
+    "id": "c_presparc",
+    "class": "contraindicada",
+    "ref": "p. 169",
+    "label": {
+     "pt": "Prescrever tratamento para o parceiro sem consultá-lo",
+     "en": "Prescribe treatment for the partner without seeing him"
+    },
+    "why": {
+     "pt": "Não amparado pelo Código de Ética Médica (art. 37; Resolução CFM 2.217/2018).",
+     "en": "Not supported by the Brazilian Code of Medical Ethics (art. 37; CFM Resolution 2,217/2018)."
+    },
+    "levels": [
+     2
+    ],
+    "group": "orientacao"
+   },
+   {
+    "id": "c_abst",
+    "class": "pertinente",
+    "ref": "p. 169",
+    "label": {
+     "pt": "Abstinência sexual até a cura clínica",
+     "en": "Sexual abstinence until clinical cure"
+    },
+    "why": {
+     "pt": "Orientação do seguimento.",
+     "en": "Follow-up counseling."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "orientacao"
+   },
+   {
+    "id": "c_reav",
+    "class": "essencial",
+    "ref": "p. 159, 169",
+    "label": {
+     "pt": "Alta com reavaliação em 48 a 72 horas",
+     "en": "Discharge with reassessment in 48–72 hours"
+    },
+    "why": {
+     "pt": "O tratamento é empírico; reavalie e, se houver melhora, continue.",
+     "en": "Treatment is empirical; reassess and continue if improving."
+    },
+    "levels": [
+     1,
+     2
+    ],
+    "group": "destino"
+   },
+   {
+    "id": "c_intern",
+    "class": "desnecessaria",
+    "ref": "p. 168",
+    "label": {
+     "pt": "Internação hospitalar",
+     "en": "Hospital admission"
+    },
+    "why": {
+     "pt": "Dor ≤ 5 em bom estado geral: tratamento ambulatorial.",
+     "en": "Pain ≤ 5 and well-appearing: outpatient treatment."
+    },
+    "group": "destino",
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "why": {
+       "pt": "ATO, febre e dor intensa exigem internação.",
+       "en": "TOA, fever and severe pain require admission."
+      }
+     }
+    }
+   }
+  ]
+ }
+}

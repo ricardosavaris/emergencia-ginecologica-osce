@@ -1,0 +1,838 @@
+{
+ "id": "c06",
+ "title": {
+  "pt": "Sangramento vaginal abundante com lipotimia",
+  "en": "Heavy vaginal bleeding with presyncope"
+ },
+ "chapter": {
+  "pt": "Sangramento uterino por câncer de colo uterino",
+  "en": "Uterine bleeding from cervical cancer"
+ },
+ "pages": "p. 133–142",
+ "base": {
+  "triage": {
+   "pt": "Mulher de 47 anos chega à emergência com sangramento vaginal abundante há 6 horas, lipotimia e palpitações.",
+   "en": "47-year-old woman arrives with heavy vaginal bleeding for 6 hours, presyncope and palpitations."
+  },
+  "vitals": {
+   "PA": "80/50 mmHg",
+   "FC": "132 bpm",
+   "FR": "24 mrpm",
+   "Tax": "36,2 °C",
+   "SpO2": "95%"
+  },
+  "correctDiagnosis": "svca",
+  "diagnosisExplanation": {
+   "pt": "Massa friável e necrótica ocupando o colo, com sangramento ativo difuso, sem laceração vaginal, em paciente com biópsia prévia de carcinoma de cérvice estádio IIB: sangramento vaginal por câncer de colo uterino com instabilidade hemodinâmica (Caso 1, p. 138–139). O diagnóstico é clínico-especular (p. 135).",
+   "en": "A friable, necrotic mass occupying the cervix with diffuse active bleeding and no vaginal laceration, in a patient with a prior biopsy showing stage IIB cervical carcinoma: vaginal bleeding from cervical cancer with hemodynamic instability (Case 1, p. 138–139). Diagnosis is clinical, by speculum exam (p. 135)."
+  },
+  "learning": {
+   "pt": "O plantonista deve: reconhecer a emergência hemorrágica; fazer o diagnóstico clínico-especular; realizar hemostasia local com tamponamento e antifibrinolítico; encaminhar para embolização; e comunicar-se com a equipe assistente (Caso 1, p. 139).\nÁcido tranexâmico 1 g IV 8/8 h; esponja de gelatina absorvível (Gelfoam®) sob tampão de gaze; sondagem vesical para balanço hídrico (p. 133, 137–138). A embolização tem sucesso > 90% e a radioterapia hemostática controla > 90% dos sangramentos em até 72 h (p. 138).\nAntes de intervenções invasivas, defina com o médico assistente o plano de investimento (Pérola 1, p. 139).",
+   "en": "The on-call physician must: recognize the hemorrhagic emergency; make the clinical speculum diagnosis; achieve local hemostasis with packing and an antifibrinolytic; refer for embolization; and communicate with the primary team (Case 1, p. 139).\nTranexamic acid 1 g IV every 8 h; absorbable gelatin sponge (Gelfoam®) under gauze packing; bladder catheter for fluid balance (p. 133, 137–138). Embolization succeeds in > 90% and hemostatic radiotherapy controls > 90% of bleeding within 72 h (p. 138).\nBefore invasive interventions, agree the goals of care with the primary physician (Pearl 1, p. 139)."
+  }
+ },
+ "levels": {
+  "3": {
+   "triage": {
+    "pt": "Mulher de 52 anos trazida pelo SAMU com sangramento vaginal intenso iniciado há 3 horas e sonolência. Está em tratamento oncológico em outro hospital.",
+    "en": "52-year-old woman brought by ambulance with heavy vaginal bleeding for 3 hours and drowsiness. She is under cancer treatment at another hospital."
+   },
+   "vitals": {
+    "PA": "84/50 mmHg",
+    "FC": "126 bpm",
+    "FR": "24 mrpm",
+    "Tax": "36,0 °C",
+    "SpO2": "94%"
+   },
+   "correctDiagnosis": "svca",
+   "diagnosisExplanation": {
+    "pt": "Carcinoma de colo uterino estádio IIIB em radioterapia iniciada há 14 dias, com sangramento intenso. O especular não foi possível; o toque identificou área dura, erosada e comprometimento parametrial (Pérola 2, p. 140). Creatinina 2,8 mg/dL com hidronefrose bilateral. Embolização contraindicada (radioterapia há < 30 dias e insuficiência renal; p. 138): estabilização, hemostasia local, ácido tranexâmico e radioterapia hemostática, decididos com a equipe assistente.",
+    "en": "Stage IIIB cervical carcinoma on radiotherapy started 14 days ago, with heavy bleeding. Speculum exam was not possible; bimanual exam found a hard, eroded area with parametrial involvement (Pearl 2, p. 140). Creatinine 2.8 mg/dL with bilateral hydronephrosis. Embolization contraindicated (radiotherapy < 30 days and renal failure; p. 138): stabilization, local hemostasis, tranexamic acid and hemostatic radiotherapy, decided with the primary team."
+   },
+   "learning": {
+    "pt": "Se o especular não for possível, inicie pelo toque vaginal; com achado de área dura e erosada, estabilize e faça a hemostasia local (Pérola 2, p. 140).\nContraindicações da embolização: infecção ativa, insuficiência renal, coagulopatia não controlada, alergia a contraste, instabilidade grave não responsiva, ausência de acesso vascular e radioterapia há menos de 30 dias (p. 138).\nA obstrução ureteral pode causar insuficiência renal; avalie com creatinina e ultrassonografia de vias urinárias à beira do leito (p. 136).",
+    "en": "If a speculum exam is not possible, start with a bimanual exam; with a hard, eroded area, stabilize and achieve local hemostasis (Pearl 2, p. 140).\nContraindications to embolization: active infection, renal failure, uncontrolled coagulopathy, contrast allergy, severe instability unresponsive to resuscitation, no vascular access and radiotherapy within 30 days (p. 138).\nUreteral obstruction may cause renal failure; assess with creatinine and bedside renal ultrasound (p. 136)."
+   },
+   "timerMinutes": 12,
+   "deterioration": [
+    {
+     "afterSeconds": 360,
+     "afterActions": 14,
+     "flag": "instavel",
+     "vitals": {
+      "PA": "72/40 mmHg",
+      "FC": "138 bpm"
+     },
+     "message": {
+      "pt": "O sangramento persiste através do tampão; a paciente está mais sonolenta (Glasgow 13).",
+      "en": "Bleeding continues through the packing; the patient is drowsier (GCS 13)."
+     }
+    }
+   ]
+  }
+ },
+ "diagnoses": [
+  {
+   "id": "svca",
+   "label": {
+    "pt": "Sangramento vaginal por câncer de colo uterino",
+    "en": "Vaginal bleeding from cervical cancer"
+   }
+  },
+  {
+   "id": "anovul",
+   "label": {
+    "pt": "SUA por disfunção ovulatória",
+    "en": "AUB due to ovulatory dysfunction"
+   }
+  },
+  {
+   "id": "mioma",
+   "label": {
+    "pt": "Leiomioma submucoso em parturição",
+    "en": "Prolapsing submucosal leiomyoma"
+   }
+  },
+  {
+   "id": "polipo",
+   "label": {
+    "pt": "Pólipo endocervical",
+    "en": "Endocervical polyp"
+   }
+  },
+  {
+   "id": "lacer",
+   "label": {
+    "pt": "Laceração vaginal",
+    "en": "Vaginal laceration"
+   }
+  },
+  {
+   "id": "coag",
+   "label": {
+    "pt": "Coagulopatia",
+    "en": "Coagulopathy"
+   }
+  },
+  {
+   "id": "endom",
+   "label": {
+    "pt": "Câncer de endométrio",
+    "en": "Endometrial cancer"
+   }
+  },
+  {
+   "id": "aborto",
+   "label": {
+    "pt": "Abortamento",
+    "en": "Miscarriage"
+   }
+  }
+ ],
+ "stages": {
+  "anamnese": [
+   {
+    "id": "a_histo",
+    "class": "essencial",
+    "ref": "p. 135",
+    "label": {
+     "pt": "Diagnóstico oncológico prévio e confirmação histológica (revisão do prontuário)",
+     "en": "Prior cancer diagnosis and histologic confirmation (chart review)"
+    },
+    "result": {
+     "pt": "Biópsia de colo uterino há 3 semanas: carcinoma de cérvice, estádio IIB.",
+     "en": "Cervical biopsy 3 weeks ago: cervical carcinoma, stage IIB."
+    },
+    "why": {
+     "pt": "Revise o prontuário e verifique se já existe confirmação histológica.",
+     "en": "Review the chart and check for histologic confirmation."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Carcinoma de colo uterino estádio IIIB; radioterapia externa iniciada há 14 dias.",
+       "en": "Stage IIIB cervical carcinoma; external-beam radiotherapy started 14 days ago."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_plano",
+    "class": "essencial",
+    "ref": "p. 135, 139",
+    "label": {
+     "pt": "Plano terapêutico da equipe de oncologia",
+     "en": "Oncology team's treatment plan"
+    },
+    "result": {
+     "pt": "Aguarda início de radioterapia; tratamento com intenção curativa.",
+     "en": "Awaiting radiotherapy; curative intent."
+    },
+    "why": {
+     "pt": "Confira os planos da equipe de oncologia e o plano de investimento antes de intervenções invasivas (Pérola 1).",
+     "en": "Check the oncology plan and goals of care before invasive interventions (Pearl 1)."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Radioterapia com intenção curativa; equipe disponível por telefone.",
+       "en": "Curative-intent radiotherapy; team available by phone."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_med",
+    "class": "essencial",
+    "ref": "p. 135",
+    "label": {
+     "pt": "Medicamentos em uso",
+     "en": "Current medications"
+    },
+    "result": {
+     "pt": "Nenhum.",
+     "en": "None."
+    },
+    "why": {
+     "pt": "A história deve identificar o uso de medicamentos (p. ex., anticoagulantes).",
+     "en": "History must identify medication use (e.g., anticoagulants)."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Dipirona e ondansetrona; nega anticoagulantes.",
+       "en": "Dipyrone and ondansetron; denies anticoagulants."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_volume",
+    "class": "pertinente",
+    "ref": "p. 133",
+    "label": {
+     "pt": "Início e volume do sangramento",
+     "en": "Onset and amount of bleeding"
+    },
+    "result": {
+     "pt": "Sangramento contínuo, com coágulos, encharcando a roupa.",
+     "en": "Continuous bleeding with clots, soaking her clothes."
+    },
+    "why": {
+     "pt": "Reconheça a gravidade do sangramento.",
+     "en": "Recognize bleeding severity."
+    }
+   },
+   {
+    "id": "a_diurese",
+    "class": "pertinente",
+    "ref": "p. 136",
+    "label": {
+     "pt": "Diurese nas últimas horas",
+     "en": "Urine output in recent hours"
+    },
+    "result": {
+     "pt": "Urinou normalmente pela manhã.",
+     "en": "Voided normally this morning."
+    },
+    "why": {
+     "pt": "A obstrução ureteral pode causar insuficiência renal.",
+     "en": "Ureteral obstruction may cause renal failure."
+    },
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "result": {
+       "pt": "Urina pouco desde ontem.",
+       "en": "Little urine since yesterday."
+      }
+     }
+    }
+   },
+   {
+    "id": "a_parceiros",
+    "class": "desnecessaria",
+    "ref": "p. 135",
+    "label": {
+     "pt": "Número de parceiros sexuais e início da vida sexual",
+     "en": "Number of sexual partners and sexual debut"
+    },
+    "result": {
+     "pt": "Início aos 15 anos; 4 parceiros.",
+     "en": "Debut at 15; 4 partners."
+    },
+    "why": {
+     "pt": "Fatores de risco do câncer de colo não alteram o manejo do sangramento agudo.",
+     "en": "Cervical cancer risk factors do not change acute bleeding management."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   },
+   {
+    "id": "a_preventivo",
+    "class": "desnecessaria",
+    "ref": "p. 135",
+    "label": {
+     "pt": "Data do último exame citopatológico",
+     "en": "Date of last Pap smear"
+    },
+    "result": {
+     "pt": "Há 8 anos.",
+     "en": "8 years ago."
+    },
+    "why": {
+     "pt": "Não altera a conduta na emergência hemorrágica com diagnóstico histológico estabelecido.",
+     "en": "Does not change emergency management with an established histologic diagnosis."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   }
+  ],
+  "exame": [
+   {
+    "id": "e_hemod",
+    "class": "essencial",
+    "ref": "p. 133, 136",
+    "label": {
+     "pt": "PA, enchimento capilar, FC e FR",
+     "en": "BP, capillary refill, HR and RR"
+    },
+    "result": {
+     "pt": "Pálida, sudorética, enchimento capilar 4 s.",
+     "en": "Pale, diaphoretic, capillary refill 4 s."
+    },
+    "why": {
+     "pt": "A avaliação inicial prioriza sinais de hipovolemia e instabilidade.",
+     "en": "Initial assessment prioritizes signs of hypovolemia and instability."
+    }
+   },
+   {
+    "id": "e_glasgow",
+    "class": "essencial",
+    "ref": "p. 135",
+    "label": {
+     "pt": "Escala de coma de Glasgow",
+     "en": "Glasgow Coma Scale"
+    },
+    "result": {
+     "pt": "Glasgow 14 (resposta verbal confusa).",
+     "en": "GCS 14 (confused verbal response)."
+    },
+    "why": {
+     "pt": "Aplique a escala de Glasgow na avaliação inicial.",
+     "en": "Apply the Glasgow scale in the initial assessment."
+    }
+   },
+   {
+    "id": "e_espec",
+    "class": "essencial",
+    "ref": "p. 135",
+    "label": {
+     "pt": "Exame especular",
+     "en": "Speculum exam"
+    },
+    "result": {
+     "pt": "Massa friável ocupando o colo, superfície necrótica, sangramento ativo difuso; sem laceração vaginal.",
+     "en": "Friable mass occupying the cervix, necrotic surface, diffuse active bleeding; no vaginal laceration."
+    },
+    "why": {
+     "pt": "O diagnóstico é clínico, confirmado com exame especular.",
+     "en": "Diagnosis is clinical, confirmed by speculum exam."
+    },
+    "byLevel": {
+     "3": {
+      "class": "pertinente",
+      "result": {
+       "pt": "Não foi possível introduzir o espéculo: dor intensa e vagina estreitada.",
+       "en": "Speculum could not be inserted: severe pain and narrowed vagina."
+      },
+      "why": {
+       "pt": "Quando o especular não é possível, o toque vaginal é a alternativa (Pérola 2).",
+       "en": "When a speculum exam is not possible, a bimanual exam is the alternative (Pearl 2)."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_toque",
+    "class": "pertinente",
+    "ref": "p. 133, 140",
+    "label": {
+     "pt": "Toque vaginal",
+     "en": "Bimanual exam"
+    },
+    "result": {
+     "pt": "Colo aumentado, endurecido, friável; paramétrio direito endurecido.",
+     "en": "Enlarged, hard, friable cervix; right parametrium indurated."
+    },
+    "why": {
+     "pt": "Alternativa ao especular; identifica área dura, erosada e comprometimento parametrial.",
+     "en": "Alternative to the speculum; identifies a hard, eroded area and parametrial involvement."
+    },
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "result": {
+       "pt": "Área dura e erosada no colo, sangramento ao toque; paramétrios endurecidos até a parede pélvica.",
+       "en": "Hard, eroded cervical area, bleeding on contact; parametria indurated to the pelvic sidewall."
+      }
+     }
+    }
+   },
+   {
+    "id": "e_mamas",
+    "class": "desnecessaria",
+    "ref": "p. 135",
+    "label": {
+     "pt": "Exame das mamas",
+     "en": "Breast exam"
+    },
+    "result": {
+     "pt": "Sem alterações.",
+     "en": "Normal."
+    },
+    "why": {
+     "pt": "Não integra a avaliação do sangramento por câncer de colo.",
+     "en": "Not part of the assessment of cervical cancer bleeding."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   }
+  ],
+  "lab": [
+   {
+    "id": "l_hemo",
+    "class": "essencial",
+    "ref": "p. 136",
+    "label": {
+     "pt": "Hemograma completo",
+     "en": "Complete blood count"
+    },
+    "result": {
+     "pt": "Hb 5,6 g/dL; plaquetas 210.000/mm³.",
+     "en": "Hb 5.6 g/dL; platelets 210,000/mm³."
+    },
+    "why": {
+     "pt": "Avalia a anemia.",
+     "en": "Assesses anemia."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "Hb 6,2 g/dL; plaquetas 168.000/mm³.",
+       "en": "Hb 6.2 g/dL; platelets 168,000/mm³."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_tipagem",
+    "class": "essencial",
+    "ref": "p. 136",
+    "label": {
+     "pt": "Tipagem sanguínea",
+     "en": "Blood type"
+    },
+    "result": {
+     "pt": "A Rh positivo.",
+     "en": "A Rh positive."
+    },
+    "why": {
+     "pt": "Necessária para transfusão.",
+     "en": "Required for transfusion."
+    }
+   },
+   {
+    "id": "l_coag",
+    "class": "essencial",
+    "ref": "p. 136",
+    "label": {
+     "pt": "INR (TP), TTPA e fibrinogênio",
+     "en": "INR (PT), aPTT and fibrinogen"
+    },
+    "result": {
+     "pt": "INR 1,1; TTPA normal; fibrinogênio 310 mg/dL.",
+     "en": "INR 1.1; normal aPTT; fibrinogen 310 mg/dL."
+    },
+    "why": {
+     "pt": "Avaliam a coagulação; fibrinogênio baixo (< 1,5 a 2 g/L) sugere CIVD ou fibrinólise excessiva.",
+     "en": "Assess coagulation; low fibrinogen (< 1.5–2 g/L) suggests DIC or excessive fibrinolysis."
+    }
+   },
+   {
+    "id": "l_creat",
+    "class": "essencial",
+    "ref": "p. 136",
+    "label": {
+     "pt": "Creatinina",
+     "en": "Creatinine"
+    },
+    "result": {
+     "pt": "0,9 mg/dL.",
+     "en": "0.9 mg/dL."
+    },
+    "why": {
+     "pt": "Pode haver obstrução ureteral e insuficiência renal.",
+     "en": "Ureteral obstruction and renal failure may be present."
+    },
+    "byLevel": {
+     "3": {
+      "result": {
+       "pt": "2,8 mg/dL.",
+       "en": "2.8 mg/dL."
+      }
+     }
+    }
+   },
+   {
+    "id": "l_hcg",
+    "class": "desnecessaria",
+    "ref": "p. 135",
+    "label": {
+     "pt": "β-hCG",
+     "en": "β-hCG"
+    },
+    "result": {
+     "pt": "Negativo.",
+     "en": "Negative."
+    },
+    "why": {
+     "pt": "Com diagnóstico histológico de câncer de colo e massa cervical sangrante, não altera a conduta.",
+     "en": "With histologic cervical cancer and a bleeding cervical mass, it does not change management."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   },
+   {
+    "id": "l_hemocult",
+    "class": "desnecessaria",
+    "ref": "p. 137",
+    "label": {
+     "pt": "Hemoculturas",
+     "en": "Blood cultures"
+    },
+    "result": {
+     "pt": "Em andamento.",
+     "en": "Pending."
+    },
+    "why": {
+     "pt": "Não integram os exames iniciais do sangramento por câncer de colo.",
+     "en": "Not part of the initial tests for cervical cancer bleeding."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   }
+  ],
+  "imagem": [
+   {
+    "id": "i_usrenal",
+    "class": "pertinente",
+    "ref": "p. 136",
+    "label": {
+     "pt": "Ultrassonografia de vias urinárias à beira do leito",
+     "en": "Bedside renal ultrasound"
+    },
+    "result": {
+     "pt": "Sem hidronefrose.",
+     "en": "No hydronephrosis."
+    },
+    "why": {
+     "pt": "Avalia obstrução ureteral quando há suspeita de insuficiência renal.",
+     "en": "Assesses ureteral obstruction when renal failure is suspected."
+    },
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "result": {
+       "pt": "Hidronefrose bilateral moderada.",
+       "en": "Moderate bilateral hydronephrosis."
+      }
+     }
+    }
+   },
+   {
+    "id": "i_tc",
+    "class": "desnecessaria",
+    "ref": "p. 135",
+    "label": {
+     "pt": "Tomografia de abdome e pelve na admissão",
+     "en": "Abdominal and pelvic CT on admission"
+    },
+    "result": {
+     "pt": "Massa cervical com extensão parametrial.",
+     "en": "Cervical mass with parametrial extension."
+    },
+    "why": {
+     "pt": "O diagnóstico do sangramento é clínico; a prioridade é estabilizar e fazer hemostasia.",
+     "en": "Bleeding diagnosis is clinical; the priority is stabilization and hemostasis."
+    }
+   },
+   {
+    "id": "i_rm",
+    "class": "desnecessaria",
+    "ref": "p. 135",
+    "label": {
+     "pt": "Ressonância magnética da pelve",
+     "en": "Pelvic MRI"
+    },
+    "result": {
+     "pt": "Agendada.",
+     "en": "Scheduled."
+    },
+    "why": {
+     "pt": "Não integra o manejo do sangramento agudo.",
+     "en": "Not part of acute bleeding management."
+    },
+    "levels": [
+     2,
+     3
+    ]
+   }
+  ],
+  "conduta": [
+   {
+    "id": "c_acesso",
+    "class": "essencial",
+    "ref": "p. 133, 139",
+    "label": {
+     "pt": "Dois acessos venosos calibrosos e cristaloide (Ringer lactato)",
+     "en": "Two large-bore IV lines and crystalloid (lactated Ringer's)"
+    },
+    "why": {
+     "pt": "Primeira medida diante de instabilidade hemodinâmica.",
+     "en": "First step with hemodynamic instability."
+    },
+    "group": "procedimento"
+   },
+   {
+    "id": "c_chad",
+    "class": "essencial",
+    "ref": "p. 139",
+    "label": {
+     "pt": "Transfusão de 2 unidades de concentrado de hemácias",
+     "en": "Transfuse 2 units of packed red cells"
+    },
+    "why": {
+     "pt": "Hb 5,6 g/dL com instabilidade (Caso 1).",
+     "en": "Hb 5.6 g/dL with instability (Case 1)."
+    },
+    "group": "procedimento"
+   },
+   {
+    "id": "c_atx_l1",
+    "class": "essencial",
+    "ref": "p. 133, 137",
+    "label": {
+     "pt": "Ácido tranexâmico IV",
+     "en": "IV tranexamic acid"
+    },
+    "why": {
+     "pt": "Antifibrinolítico da hemostasia inicial.",
+     "en": "Antifibrinolytic for initial hemostasis."
+    },
+    "levels": [
+     1
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_atx",
+    "class": "essencial",
+    "ref": "p. 133, 137",
+    "label": {
+     "pt": "Ácido tranexâmico 1 g IV 8/8 h",
+     "en": "Tranexamic acid 1 g IV every 8 h"
+    },
+    "why": {
+     "pt": "Posologia do capítulo.",
+     "en": "Chapter dosing."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_atxvo",
+    "class": "desnecessaria",
+    "ref": "p. 117, 137",
+    "label": {
+     "pt": "Ácido tranexâmico 1 g VO 3×/dia",
+     "en": "Tranexamic acid 1 g PO 3×/day"
+    },
+    "why": {
+     "pt": "Esquema do SUA ambulatorial; no sangramento por câncer com instabilidade, a via é IV 1 g 8/8 h.",
+     "en": "Outpatient AUB regimen; in cancer bleeding with instability the route is IV 1 g every 8 h."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_metro",
+    "class": "pertinente",
+    "ref": "p. 137",
+    "label": {
+     "pt": "Metronidazol 500 mg IV 12/12 h",
+     "en": "Metronidazole 500 mg IV every 12 h"
+    },
+    "why": {
+     "pt": "Pode tratar infecção subjacente comum em tumores necróticos, sem evidência robusta.",
+     "en": "May treat infection common in necrotic tumors, without robust evidence."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "medicamento"
+   },
+   {
+    "id": "c_tampao",
+    "class": "essencial",
+    "ref": "p. 133, 138",
+    "label": {
+     "pt": "Tamponamento vaginal com gaze estéril e esponja de gelatina absorvível (Gelfoam®) sobre o tumor",
+     "en": "Vaginal packing with sterile gauze and absorbable gelatin sponge (Gelfoam®) over the tumor"
+    },
+    "why": {
+     "pt": "Hemostasia local; em geral estanca a hemorragia na primeira tentativa.",
+     "en": "Local hemostasis; usually stops bleeding on the first attempt."
+    },
+    "group": "procedimento"
+   },
+   {
+    "id": "c_perclo",
+    "class": "desnecessaria",
+    "ref": "p. 140",
+    "label": {
+     "pt": "Percloreto férrico tópico",
+     "en": "Topical ferric subsulfate"
+    },
+    "why": {
+     "pt": "Abandonado no serviço: conservação difícil, manchas e aplicação difícil; substituído pelo Gelfoam® (Pérola 3).",
+     "en": "Abandoned in the service: difficult storage, staining and application; replaced by Gelfoam® (Pearl 3)."
+    },
+    "levels": [
+     2,
+     3
+    ],
+    "group": "procedimento"
+   },
+   {
+    "id": "c_sonda",
+    "class": "essencial",
+    "ref": "p. 133",
+    "label": {
+     "pt": "Sondagem vesical de demora para balanço hídrico",
+     "en": "Indwelling bladder catheter for fluid balance"
+    },
+    "why": {
+     "pt": "Item do Dashboard.",
+     "en": "Dashboard item."
+    },
+    "group": "procedimento"
+   },
+   {
+    "id": "c_onco",
+    "class": "essencial",
+    "ref": "p. 133, 139",
+    "label": {
+     "pt": "Contatar a equipe de oncologia e registrar os objetivos de cuidado",
+     "en": "Contact the oncology team and document goals of care"
+    },
+    "why": {
+     "pt": "Comunicação precoce com a equipe assistente antes de tratamentos invasivos (Pérola 1).",
+     "en": "Early communication with the primary team before invasive treatment (Pearl 1)."
+    },
+    "group": "orientacao"
+   },
+   {
+    "id": "c_eau",
+    "class": "essencial",
+    "ref": "p. 138–139",
+    "label": {
+     "pt": "Embolização das artérias uterinas se o sangramento persistir",
+     "en": "Uterine artery embolization if bleeding persists"
+    },
+    "why": {
+     "pt": "Sucesso técnico e clínico > 90% nas primeiras 24 h; no Caso 1, parou o sangramento após falha do tampão.",
+     "en": "> 90% technical and clinical success within 24 h; in Case 1 it stopped the bleeding after packing failed."
+    },
+    "group": "procedimento",
+    "byLevel": {
+     "3": {
+      "class": "contraindicada",
+      "why": {
+       "pt": "Contraindicada: radioterapia há menos de 30 dias e insuficiência renal.",
+       "en": "Contraindicated: radiotherapy within 30 days and renal failure."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_rt",
+    "class": "pertinente",
+    "ref": "p. 138–139",
+    "label": {
+     "pt": "Radioterapia hemostática",
+     "en": "Hemostatic radiotherapy"
+    },
+    "why": {
+     "pt": "Controle > 90% em até 72 h; no Caso 1, a paciente foi encaminhada à radioterapia após a embolização.",
+     "en": "> 90% control within 72 h; in Case 1 the patient was referred to radiotherapy after embolization."
+    },
+    "group": "procedimento",
+    "byLevel": {
+     "3": {
+      "class": "essencial",
+      "why": {
+       "pt": "Com embolização contraindicada, a radioterapia hemostática é a opção de rápida ação, decidida com a equipe assistente.",
+       "en": "With embolization contraindicated, hemostatic radiotherapy is the fast-acting option, decided with the primary team."
+      }
+     }
+    }
+   },
+   {
+    "id": "c_intern",
+    "class": "essencial",
+    "ref": "p. 133",
+    "label": {
+     "pt": "Internação hospitalar (com avaliação de UTI conforme estabilidade)",
+     "en": "Hospital admission (ICU assessment according to stability)"
+    },
+    "why": {
+     "pt": "Considere estabilidade clínica e disponibilidade de hemodinâmica, radioterapia e UTI.",
+     "en": "Consider clinical stability and availability of interventional radiology, radiotherapy and ICU."
+    },
+    "group": "destino"
+   },
+   {
+    "id": "c_alta",
+    "class": "contraindicada",
+    "ref": "p. 133",
+    "label": {
+     "pt": "Alta após o tamponamento, com retorno ao serviço de oncologia",
+     "en": "Discharge after packing, with return to oncology"
+    },
+    "why": {
+     "pt": "Paciente instável, com Hb 5,6 g/dL e sangramento ativo, não tem critério de alta.",
+     "en": "An unstable patient with Hb 5.6 g/dL and active bleeding does not meet discharge criteria."
+    },
+    "group": "destino"
+   }
+  ]
+ }
+}
